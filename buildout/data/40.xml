@@ -1,0 +1,17 @@
+<sector xmlns="http://xml.simplon.biz/euphorie/survey/1.0">
+  <title>Stukadoors (Nederlandse Ondernemersvereniging voor Afbouwbedrijven)</title>
+  <account login="stukadoors" password="stukadoors"/>
+  <contact>
+    <name>stukadoors</name>
+    <email>A.Schaaf@arboduo.nl</email>
+  </contact>
+  <survey external-id="4541">
+    <title>RI&amp;E Stukadoors</title>
+    <language>nl</language>
+    <country>nl</country>
+    <classification-code>4541</classification-code>
+    <description>&lt;p class="MsoNormal"&gt;Deze digitale risico-inventarisatie is bedoeld voor afbouwbedrijven (stukadoors), met minder dan 25 werknemers. Dit is een eenvoudige en practische risico-inventarisatie, gericht op de branche. Dat wil zeggen dat een aantal risico's bekend is en er gekeken wordt of de juiste maatregelen zijn getroffen. Oftewel nagaan of uw bedrijf werkt volgens de actuele inzichten en stand der techniek. Het doel van de risico inventarisatie voor de afbouwbranche is dat het u en uw medewerkers bewust maakt van de arbeidsomstandigheden in uw bedrijf. &lt;/p&gt;&lt;p class="MsoNormal"&gt;Kort gezegd weet u na het invullen van de ri&amp;amp;e: &lt;/p&gt;&lt;p class="MsoNormal"&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Welke gevaren er zijn in uw bedrijf; &lt;/p&gt;&lt;p class="MsoNormal"&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Of u voldoende voorzorgsmaatregelen hebt getroffen, zodat de risico&#8217;s zo klein mogelijk zijn; &lt;/p&gt;&lt;p class="MsoNormal"&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Welke maatregelen u nog moet nemen om de overgebleven risico&#8217;s weg te nemen of te beperken. &lt;/p&gt;</description>
+    <evaluation-optional>yes</evaluation-optional>
+  </survey>
+</sector>
+

@@ -1,0 +1,24 @@
+<configure xmlns="http://namespaces.zope.org/zope"
+           xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
+           xmlns:grok="http://namespaces.zope.org/grok"
+           i18n_domain="tno.euphorie">
+
+           <include package="plone.browserlayer" />
+
+  <grok:grok package="." />
+           
+  <adapter
+      factory=".client.ClientPublishTraverser"
+      provides="zope.publisher.interfaces.IPublishTraverse"
+      />
+
+  <genericsetup:registerProfile
+       name="default"
+       title="TNO/Euphorie website"
+       directory="profiles/default"
+       description="Setup a TNO/Euphorie website"
+       for="Products.CMFPlone.interfaces.IPloneSiteRoot"
+       provides="Products.GenericSetup.interfaces.EXTENSION"
+       />
+
+</configure>

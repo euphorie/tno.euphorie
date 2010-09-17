@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<layers>
+  <layer
+      name="tno.euphorie"
+      interface="tno.euphorie.interfaces.IProductLayer"
+      />
+</layers>

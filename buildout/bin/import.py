@@ -99,7 +99,7 @@ for (name, login, sector, index, publish) in working_surveys:
     login=login.lower()
     logo="data/%s.png" % index
     input="data/%s.xml" % index
-    command=["bin/instance", "run", "src/Euphorie/importrie.py",
+    command=["bin/instance", "run", "src/Euphorie/euphorie/deployment/commands/xmlimport.py",
             "--country=nl", "--login=%s" % login, "--sector=%s" % sector,
             "--name=%s" % name, "--version-name=Standaard",
             ]

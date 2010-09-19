@@ -987,6 +987,7 @@ hoofdstuk.&lt;/p&gt;</description>
           <evaluation-method>direct</evaluation-method>
         </risk>
       </module>
+      <!-- Not published, and makes nesting too deep
       <module external-id="M-6317" optional="no">
         <title>Werk- en rusttijden</title>
         <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
@@ -1061,6 +1062,7 @@ hoofdstuk.&lt;/p&gt;</description>
           </risk>
         </module>
       </module>
+-->
     </module>
     <module external-id="M-6325" optional="no">
       <title>Organisatie van bedrijfshulpverlening, arbeidsomstandigheden en verzuim</title>

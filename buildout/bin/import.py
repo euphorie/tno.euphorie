@@ -91,6 +91,31 @@ pending_surveys = [
     ( "Universitair Medische Centra / Academische Ziekenhuizen", "NFU", "NFU, Arboconvenant Academische Ziekenhuizen", 35, True),
     ]
 
+colours = {
+        'ambachten': ('#e5efff', '#b86400'),
+        'banden-wielen': ('#ffffff', '#ffffff'),
+        'bloemen-planten': ('#ffffff', '#aac52b'),
+        'boekhandel': ('#c4c4c4', '#d25bb8'),
+        'bovag': ('#ffffff', '#ffc814'),
+        'checklist': ('#ffffff', '#ff5c5c'),
+        'dierenartsen': ('#ffffff', '#3a0094'),
+        'divebo': ('#ffcccc', '#ff0f43'),
+        'dranken': ('#ffffff', '#bababa'),
+        'drogisterij': ('#ffe8b8', '#2d8795'),
+        'fotovakhandel': ('#ffffff', '#ff6c24'),
+        'meubel-hout': ('#f5f5f5', '#a61717'),
+        'modint': ('#f5f6ff', '#ff813d'),
+        'optiekbedrijven': ('#ffffff', '#b4e4e2'),
+        'reisbranche': ('#e9edfb', '#ff1105'),
+        'slagerbedrijf': ('#f0f1ff', '#ff8733'),
+        'stigas': ('#f7ffd6', '#573400'),
+        'takel-berging': ('#ffffff', '#ffffff'),
+        'tuinbranche': ('#ffffff', '#14d600'),
+        'uitvaartondernemingen': ('#f5f5f5', '#286234'),
+        'vlakglas': ('#ebecff', '#ffe829'),
+        'vrijwilligers': ('#e2f4fd', '#902761'),
+        }
+
 surveys = working_surveys + pending_surveys
 
 devnull=open("/dev/null", "w")
@@ -107,6 +132,10 @@ for (name, login, sector, index, publish) in working_surveys:
     if os.path.isfile(logo):
         print "  with logo"
         command.append("--logo=%s" % logo)
+    if login in colours:
+        print "  with colours"
+        command.append("--main-colour=%s" % colours[login][0])
+        command.append("--support-colour=%s" % colours[login][1])
     if publish:
         print "  and publishing"
         command.append("--publish")

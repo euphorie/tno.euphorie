@@ -1154,999 +1154,988 @@ ZSwApoVp9PHt////////////////////////////////////////////////////////////////
         </risk>
       </module>
     </module>
+
     <profile-question external-id="KLV-320" type="optional">
-      <title>Heeft u een garage/werkplaats?</title>
+      <title>Werkplaats (incl. inbouw communicatieapparatuur)</title>
       <question>Heeft u een garage/werkplaats?</question>
       <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
-      <module external-id="M-13" optional="no">
-        <title>Werkplaats (incl. inbouw communicatieapparatuur)</title>
+      <module external-id="M-14" optional="no">
+        <title>Algemeen</title>
         <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
-        <module external-id="M-14" optional="no">
-          <title>Algemeen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
-          <risk external-id="R-65" type="risk">
-            <title>Er is een douchegelegenheid</title>
-            <description>&lt;p&gt;Douchen is nodig als er medewerkers zijn die eerst garagewerk doen om later in de dienst te gaan rijden op de taxi.&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-73">
-                <description>&lt;p&gt;Realiseer een&#160; doucheruimte&#160;&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Realiseer een&#160; doucheruimte&#160;&lt;/p&gt;</action-plan>
-              </solution>
-              <solution external-id="O-74">
-                <description>&lt;p&gt;Verschuif de&#160; taken / werkzaamheden zo dat het niet voorkomt dat medewerkers eerst garagewerk doen en daarna taxi gaan rijden.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Verschuif de&#160; taken / werkzaamheden zo dat het niet voorkomt dat medewerkers eerst garagewerk doen en daarna taxi gaan rijden.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-66" type="risk">
-            <title>De elektrisch bediende toegangsdeuren zijn voldoende veilig en worden regelmatig gecontroleerd</title>
-            <description>&lt;p&gt;Toegangsdeuren van het type hefdeur, kanteldeur, roldeur en/of overheaddeur moeten zijn voorzien van knelbescherming, een deugdelijke vanginrichting en afscherming tegen wegspringende delen. Elektrische of automatische deuren dienen regelmatig (minimaal jaarlijks) te worden gekeurd door een terzake deskundige.&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-75">
-                <description>&lt;p&gt;Laat de deuren controleren en onderhouden door een installateur en eventueel aanpassen.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Laat de deuren controleren en onderhouden door een installateur en eventueel aanpassen.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-67" type="risk">
-            <title>De vloer is stroef</title>
-            <description>&lt;p&gt;Een gecoate vloer kan, wanneer hij nat is, zeer glad zijn. Dit kan slippen of vallen ten gevolg hebben.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-76">
-                <description>&lt;p&gt;Indien om redenen van schoon houden de vloer gecoat moet zijn, zorg voor een ruwe coating. Zorg op plaatsen waar met water wordt gewerkt voor goede afwatering&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Indien om redenen van schoon houden de vloer gecoat moet zijn, zorg voor een ruwe coating. Zorg op plaatsen waar met water wordt gewerkt voor goede afwatering&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-68" type="risk">
-            <title>De vloer is schoon</title>
-            <description>&lt;p&gt;Gemorste olie kan leiden tot slippen of vallen&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-77">
-                <description>&lt;p&gt;Houdt de vloer schoon en vrij van olie, water, koelvloeistof en dergelijke&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Houdt de vloer schoon en vrij van olie, water, koelvloeistof en dergelijke&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-69" type="risk">
-            <title>De vloer is vrij van obstakels</title>
-            <description>&lt;p&gt;Onderdelen en gereedschappen op de vloer leiden tot struikelen. Men kan zich ernstig verwonden aan scherpe delen op de vloer&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-78">
-                <description>&lt;p&gt;Gereedschappen, onderdelen en afvalmateriaal dienen te zijn opgeborgen of weggegooid.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Gereedschappen, onderdelen en afvalmateriaal dienen te zijn opgeborgen of weggegooid.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-70" type="risk">
-            <title>Trappen zijn voldoende breed en veilig en zijn in goede conditie</title>
-            <description>&lt;p&gt;Trappen moeten voldoende breed zijn (minstens 60 cm), de hoek moet minstens 45 &#176; bedragen en de treden moeten gaaf, stroef en uniform in hoogte en diepte zijn.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-79">
-                <description>&lt;p&gt;Zorg dat trappen zijn aangebracht door een terzake deskundig bedrijf.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Zorg dat trappen zijn aangebracht door een terzake deskundig bedrijf.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-71" type="risk">
-            <title>Ladders voldoen aan de normen en zijn in goede conditie</title>
-            <description>&lt;p&gt;Ladders moeten voorzien zijn van een CE keur en ongeverfd zijn. Een ladder moet onder een hoek van 70 tot 75 &#176; geplaatst zijn en tenminste 1 meter uitsteken boven het bordes, waar hij toegang toe geeft.&lt;br/&gt;&#160;&lt;br/&gt;Via de website van het NEN is deze norm te bestellen.&lt;strong&gt;Meer informatie:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://www2.nen.nl/nen/servlet/dispatcher.Dispatcher?id=BIBLIOGRAFISCHEGEGEVENS&amp;amp;contentID=196829&amp;amp;searchType=kaderzoek_nen" rel="nofollow" target="_blank"&gt;NEN-EN-ISO 14122-4:2005 en&lt;/a&gt;&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-80">
-                <description>&lt;p&gt;Schaf alleen goedgekeurde ladders aan (met CE keur). Plaats ladders niet tegen een raam of deur.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Schaf alleen goedgekeurde ladders aan (met CE keur). Plaats ladders niet tegen een raam of deur.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-72" type="risk">
-            <title>Bordessen voldoen aan de normen, hebben voldoende valbeveiliging en zijn in goede conditie.</title>
-            <description>&lt;p&gt;Bordessen moeten zijn voorzien van valbeveiliging met schoprand. Een eventuele afzetplaats voor goederen moet zijn voorzien van een veilige afsluiting.&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-81">
-                <description>&lt;p&gt;Zorg dat bordessen zijn aangebracht door een terzake deskundig bedrijf. Laat bordessen conform bouwkundige voorschriften bouwen.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Zorg dat bordessen zijn aangebracht door een terzake deskundig bedrijf. Laat bordessen conform bouwkundige voorschriften bouwen.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-73" type="risk">
-            <title>De magazijnstellingen worden regelmatig gecontroleerd en voldoen aan de voorschiften om ongevallen te voorkomen.</title>
-            <description>&lt;p&gt;Magazijnstellingen dienen te zijn voorzien van aanduiding maximaal toelaatbare belasting per legbord of liggerpaar. Ze dienen op de juiste wijze volgens voorschriften van de leverancier te zijn opgebouwd. Defecte delen moeten vervangen worden. Magazijnstellingen moeten geborgd zijn aan de vloer, de muur of aan elkaar.&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-82">
-                <description>&lt;p&gt;Laat stellingen opbouwen door de leverancier en vervang direct defect geraakte delen.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Laat stellingen opbouwen door de leverancier en vervang direct defect geraakte delen.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-74" type="risk">
-            <title>Er is voldoende werkruimte, loopruimte en manoeuvreerruimte in de werkplaats</title>
-            <description>&lt;p&gt;Om veilig en verantwoord te kunnen werken dient voor de uitvoering van de werkzaamheden voldoende ruimte aanwezig te zijn. Een praktische vuistregel is dat er ongeveer 1,5 meter vrije ruimte achter een medewerker moet zijn.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-83">
-                <description>&lt;p&gt;Zorg voor een goede lay-out van de werkplaats en het magazijn, waarbij voldoende mogelijkheid is alle handelingen uit te voeren.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Zorg voor een goede lay-out van de werkplaats en het magazijn, waarbij voldoende mogelijkheid is alle handelingen uit te voeren.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-75" type="risk">
-            <title>Bij gevaarlijke apparatuur / installaties is er een bediening middels vasthoudknoppen</title>
-            <description>&lt;p&gt;Vasthoudknoppen zijn zo geplaatst dat om de machine in werking te zetten beide handen buiten het gevaarlijke werkgebied moeten zijn. Dit komt voor bij gevaarlijke arbeidsmiddelen zoals hefbruggen.&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-84">
-                <description>&lt;p&gt;Neem met leverancier contact op dat apparaat wordt aangepast aan voorschriften&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Neem met leverancier contact op dat apparaat wordt aangepast aan voorschriften&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-76" type="risk">
-            <title>De aan/uit-schakelaar kan vergrendeld worden in verband met onderhoud</title>
-            <description>&lt;p&gt;Een machine moet kunnen worden losgekoppeld van de stroomaanvoer wanneer werkzaamheden eraan moeten plaatsvinden. De monteur kan dan de vergrendeling aanbrengen.&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-85">
-                <description>&lt;p&gt;Neem met leverancier op dat apparaat wordt aangepast aan voorschriften&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Neem met leverancier op dat apparaat wordt aangepast aan voorschriften&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-77" type="risk">
-            <title>De uitlaatgas-afzuiginstallatie wordt volgens de instructie gebruikt</title>
-            <description>&lt;p&gt;De afzuiginstallatie dient conform de instructies zodanig te zijn aangesloten dat geen uitlaatgassen in de werkplaats kunnen komen.&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-86">
-                <description>&lt;p&gt;Conform instructies aansluiten, voorlichting aan medewerkers geven&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Conform instructies aansluiten, voorlichting aan medewerkers geven&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-78" type="risk">
-            <title>De uitlaatgas-afzuiginstallatie schakelt automatisch in (bijv. bij uitrollen van de slang of bij aankoppelen aan de uitlaat) of de knoppen voor de bediening van deze installatie zijn in de directe omgeving van de werkplek aangebracht (niet meer dan</title>
-            <description>&lt;p&gt;De afzuiginstallatie dient conform de instructies zodanig te zijn aangesloten dat geen uitlaatgassen in de werkplaats kunnen komen.&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-87">
-                <description>&lt;p&gt;Conform instructies aansluiten, voorlichting aan medewerkers geven&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Conform instructies aansluiten, voorlichting aan medewerkers geven&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-79" type="risk">
-            <title>Het werkstuk van de kolomboormachine kan worden vastgezet</title>
-            <description>&lt;p&gt;Dit voorkomt dat een werkstuk losschiet en de medewerker kan raken.&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-88">
-                <description>&lt;p&gt;Laat machine aanpassen door leverancier&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Laat machine aanpassen door leverancier&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-80" type="risk">
-            <title>De slijpmachine is op de voorgeschreven wijze afgeschermd</title>
-            <description>&lt;p&gt;De werkschakelaar moet goed bediend kunnen worden, er moet een verstelbare kap op zitten, een slijpruitje en/of vonkenscherm.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-89">
-                <description>&lt;p&gt;Laat machine aanpassen door leverancier&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Laat machine aanpassen door leverancier&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-81" type="risk">
-            <title>De elektrisch aangedreven balanceerinrichting van de bandenreparatie-inrichting kan alleen draaien als de kap erover zit</title>
-            <description>&lt;p&gt;Dit om knelgevaar of afknelling te voorkomen.&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-90">
-                <description>&lt;p&gt;Laat de balanceerinrichting aanpassen door leverancier&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Laat de balanceerinrichting aanpassen door leverancier&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-        </module>
-        <module external-id="M-15" optional="no">
-          <title>Fysieke belasting</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
-          <risk external-id="R-82" type="top5">
-            <title>Staan, bukken, zitten, lopen, tillen en duwen worden zoveel mogelijk afgewisseld</title>
-            <description>&lt;p&gt;Voorbeelden van lichamelijke belasting zijn:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;langdurig werken in ongunstige lichaamshoudingen zoals hurken, knielen, bukken, knijpen, armen boven het hoofd, asymmetrische houdingen;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;te grote kracht leveren, bijvoorbeeld een duwkracht van meer dan 20 kg;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ongunstige krachtrichting;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;het verplaatsen van grote lasten van meer dan 23 kg in zeer korte tijd;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;het frequent (enige tientallen keren per uur) uitvoeren van dezelfde bewegingen;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;een lange duur van (statisch) belastend werk, bijvoorbeeld weinig variatie in houding, langdurig een knop/pedaal ingedrukt houden of langdurig staan.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Het werk moet afgestemd zijn op de mogelijkheden van de werknemer, om te hoge of eenzijdige lichamelijke belasting te voorkomen. Lichamelijke overbelasting kan lichamelijke klachten en aandoeningen van gewrichten en spieren veroorzaken, bijvoorbeeld aan rug, nek en schouders. Het langdurig maken van dezelfde beweging kan leiden tot (chronische) RSI.&#160;.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-91">
-                <description>&lt;p&gt;Als er sprake is van genoemde lichamelijke belastingen, dan moet ter beoordeling een deskundige worden geraadpleegd.De werkgever moet de inrichting van de werkplek en de organisatie van de arbeid aan de werknemer aanpassen alvorens technische hulpmiddelen&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Als er sprake is van genoemde lichamelijke belastingen, dan moet ter beoordeling een deskundige worden geraadpleegd.De werkgever moet de inrichting van de werkplek en de organisatie van de arbeid aan de werknemer aanpassen alvorens technische hulpmiddelen of persoonlijke beschermingsmiddelen worden ingezet. Bijvoorbeeld door de hoogte van een werktafel aan te passen op de lengte van werknemers, materialen binnen het bereik te leggen of gereedschappen aan te passen zodat armen en polsen niet overbelast raken&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-83" type="top5">
-            <title>Werkzaamheden met veel herhaalde beweging worden maximaal 1 uur achter elkaar en maximaal 2 uur per dag uitgevoerd</title>
-            <description>&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Het langdurig maken van dezelfde beweging kan leiden tot (chronische) RSI.&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-92">
-                <description>&lt;p&gt;Zorg voor afwisseling met andere taken. Als er sprake is van genoemde lichamelijke belastingen, dan moet ter beoordeling een deskundige worden geraadpleegd.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Zorg voor afwisseling met andere taken. Als er sprake is van genoemde lichamelijke belastingen, dan moet ter beoordeling een deskundige worden geraadpleegd.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-84" type="top5">
-            <title>Er wordt regelmatig voorlichting gegeven over fysieke belasting.</title>
-            <description>&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Het is van belang dat werknemers op de hoogte zijn van de risico&#8217;s van fysieke belasting en dat zij in hun werk de situaties herkennen waarin zij deze risico&#8217;s lopen. Zo kunnen zij meer bewust met deze situaties omgaan.&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-93">
-                <description>&lt;p&gt;Zorg er voor dat werknemers kunnen beschikken over relevante hulpmiddelen. Biedt eventueel een cursus aan en voorzie werknemers van relevant voorlichtingsmateriaal.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Zorg er voor dat werknemers kunnen beschikken over relevante hulpmiddelen. Biedt eventueel een cursus aan en voorzie werknemers van relevant voorlichtingsmateriaal.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-85" type="top5">
-            <title>Bij tilwerkzaamheden met twee handen is het maximale gewicht van het te tillen voorwerp 23 kg en bij tilwerkzaamheden met &#233;&#233;n hand is het maximale gewicht ervan 6 kg</title>
-            <description>&lt;p&gt;Het is toegestaan om onder gunstige omstandigheden maximaal 23 kg met twee handen en 6 kg met &#233;&#233;n hand te tillen. Naarmate de houding, de afstand tot het lichaam of de hoogte van het te tillen voorwerp ongunstiger wordt, geldt een lager maximaal toelaatbare tilgewicht. De heuphoogte is een optimale hoogte om goederen te tillen, c.q. neer te zetten&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-94">
-                <description>&lt;p&gt;Indien regelmatig zwaarder dan 23 kg moet worden getild is het aan te raden een tilhulpmiddel aan te schaffen Daarnaast is&#160; een cursus tiltechnieken aan te raden.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Indien regelmatig zwaarder dan 23 kg moet worden getild is het aan te raden een tilhulpmiddel aan te schaffen Daarnaast is&#160; een cursus tiltechnieken aan te raden.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-86" type="top5">
-            <title>Er wordt gebruik gemaakt van tilhulpmiddelen</title>
-            <description>&lt;p&gt;Door gebruik te maken van tilhulpmiddelen kan de lichamelijke belasting bij het tillen en dragen van zware voorwerpen worden gereduceerd. De hier opgenomen lijst van hulpmiddelen is niet uitputtend. Gaat u ook na of andere hulpmiddelen in uw magazijn/werkplaats worden gebruikt door de werknemers. Tilhulpmiddelen dienen met name te worden toegepast bij voorwerpen die zwaar zijn (23 kg bij gunstige houdingen), voorwerpen die zo groot zijn dat ze ver van het lichaam gedragen zouden moeten worden, of bij voorwerpen die moeilijk vast te pakken zijn doordat ze glad zijn of scherpe randen hebben. Algemene voorbeelden van tilhulpmiddelen zijn:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(verrijdbare) krik, hefboom&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;hijskranen&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;garagebok, loopkat&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;gebalanceerd gereedschap (voor slagmoersleutel/moeraanzetter, puntlastang)&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;bandenheffer&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;hefbrug(gen)&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;verrijdbare ondersteuningsbokken&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;verrijdbare gasflessen/lasapparatuur&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;verrijdbare kruk met gereedschap-/onderdelenbord&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;steekwagen&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vorkheftruck&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;elektrische deuropener.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-95">
-                <description>&lt;p&gt;Zorg er voor dat werknemers kunnen beschikken over relevante hulpmiddelen.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Zorg er voor dat werknemers kunnen beschikken over relevante hulpmiddelen.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-87" type="top5">
-            <title>Het tillen, trekken en duwen wordt op een andere manier verminderd.</title>
-            <description>&lt;p&gt;Er is sprake van trekken of duwen indien een last met de hand in beweging wordt gebracht en over een (langere) afstand wordt verplaatst zonder dat de last wordt gedragen.Het met een ruk in beweging zetten van zwaardere voorwerpen levert grote problemen voor schouder en rug op.Door gebruik van (aangedreven) hulpmiddelen wordt het duwen en trekken zo veel mogelijk voorkomen.&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-96">
-                <description>&lt;p&gt;Gebruik een aangedreven hulpmiddel, zeker bij zwaardere voorwerpen (tot 23 kg).&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Gebruik een aangedreven hulpmiddel, zeker bij zwaardere voorwerpen (tot 23 kg).&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-89" type="top5">
-            <title>Het gereedschap is goed bereikbaar.</title>
-            <description>&lt;p&gt;Een goede bereikbaarheid van het gereedschap voorkomt dat men in ongunstige lichaamshoudingen moet staan (ver reiken, bukken). Een gereedschapswagen zorgt ervoor dat men niet steeds hoeft te lopen. Een overzichtelijke inrichting ervan voorkomt (langdurig) zoeken en ergernis.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-98">
-                <description>&lt;p&gt;Zorg er voor dat de gereedschappen goed bereikbaar zijn en overzichtelijk zijn opgeslagen.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Zorg er voor dat de gereedschappen goed bereikbaar zijn en overzichtelijk zijn opgeslagen.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-90" type="top5">
-            <title>Er is een stoel aanwezig als men langdurig moet staan</title>
-            <description>&lt;p&gt;Langdurig staan is vermoeiend. Een stoel is dan onontbeerlijk. Het is verplicht een stoel ter beschikking te stellen voor korte pauzes.&#160;Er kan ook worden gekozen voor een stasteun.&#160;&#160;&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-99">
-                <description>&lt;p&gt;Zorg dat er een stoel aanwezig is voor werkzaamheden waar langdurig moet worden gestaan.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Zorg dat er een stoel aanwezig is voor werkzaamheden waar langdurig moet worden gestaan.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-        </module>
-        <module external-id="M-16" optional="no">
-          <title>Geluid/trillingen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
-          <risk external-id="R-92" type="risk">
-            <title>Medewerkers werken niet langer dan 15 minuten per dag met een slagmoersleutel/moeraanzetter</title>
-            <description>&lt;p&gt;Om de maximale dagbelasting geluid niet te overschrijden is deze grens gesteld. Gehoorbescherming dient echter nog steeds te worden toegepast.&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-101">
-                <description>&lt;p&gt;Zorg voor voldoende afwisseling in het werk en laat gehoorbescherming dragen.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Zorg voor voldoende afwisseling in het werk en laat gehoorbescherming dragen.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-93" type="risk">
-            <title>Medewerkers zijn niet langer dan 1 uur per dag bezig met hameren, richten en losslaan.</title>
-            <description>&lt;p&gt;Om de maximale dagbelasting geluid niet te overschrijden is deze grens gesteld. Gehoorbescherming dient echter nog steeds te worden toegepast.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Daarnaast brengt het slaan op harde oppervlakken aanzienlijke slagen toe aan handen en polsen. Hierdoor kunnen spieren, gewrichten en zenuwen overbelast raken.&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-102">
-                <description>&lt;p&gt;Zorg voor voldoende afwisseling in het werk en laat gehoorbescherming dragen.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Zorg voor voldoende afwisseling in het werk en laat gehoorbescherming dragen.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-94" type="risk">
-            <title>Medewerkers slijpen niet langer dan 15 minuten per dag</title>
-            <description>&lt;p&gt;Om de maximale dagbelasting geluid niet te overschrijden is deze grens gesteld. Gehoorbescherming dient echter nog steeds te worden toegepast.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Daarnaast brengt genoemd gereedschap trillingen voort in handen en polsen&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-103">
-                <description>&lt;p&gt;Zorg voor voldoende afwisseling in het werk en laat gehoorbescherming dragen.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Zorg voor voldoende afwisseling in het werk en laat gehoorbescherming dragen.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-95" type="risk">
-            <title>Medewerkers lassen niet langer dan 30 minuten per dag autogeen</title>
-            <description>&lt;p&gt;Om de maximale dagbelasting geluid niet te overschrijden is deze grens gesteld. Gehoorbescherming dient echter nog steeds te worden toegepast.&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-104">
-                <description>&lt;p&gt;Zorg voor voldoende afwisseling in het werk en laat gehoorbescherming dragen.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Zorg voor voldoende afwisseling in het werk en laat gehoorbescherming dragen.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-96" type="risk">
-            <title>Medewerkers gebruiken schuurmachines niet langer dan een half uur per dag</title>
-            <description>&lt;p&gt;Genoemd gereedschap brengt trillingen voort in handen en polsen.&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-105">
-                <description>&lt;p&gt;Zorg dat het gebruik van deze apparatuur zo kort mogelijk plaatsvindt en het genoemde maximum niet overschrijdt.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Zorg dat het gebruik van deze apparatuur zo kort mogelijk plaatsvindt en het genoemde maximum niet overschrijdt.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-97" type="risk">
-            <title>Er zijn geen werkzaamheden waarbij het gemiddelde geluidsniveau meer dan 85 dB(A) bedraagt.</title>
-            <description>&lt;p&gt;Bij geluid van deze sterkte ontstaat gehoorschade.&lt;br/&gt;Indien je op 1 m afstand een andere persoon niet kan verstaan (zonder stemverheffing te gebruiken) dan is er sprake van &amp;gt; 85 dB(A). Zie link voor meer uitleg.&lt;strong&gt;Meer informatie:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://www.arbo.nl/vervoerentransport/taxibedrijven/personeel/werkplek/geluid?selchar=l" rel="nofollow" target="_blank"&gt;Arbo Platform Nederland&lt;/a&gt;&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-106">
-                <description>&lt;p&gt;Voorkom gehoorschade door een stillere werkwijze /andere apparatuur of deze zo te plaatsen dat medewerkers er geen last van hebben.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Voorkom gehoorschade door een stillere werkwijze /andere apparatuur of deze zo te plaatsen dat medewerkers er geen last van hebben.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-        </module>
-        <module external-id="M-17" optional="no">
-          <title>Gevaarlijke stoffen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
-          <risk external-id="R-98" type="policy">
-            <title>Een register van gevaarlijke stoffen is aanwezig</title>
-            <description>&lt;p&gt;Alle gevaarlijke stoffen moeten geregistreerd zijn. Op die manier is duidelijk welke gevaarlijke stoffen aanwezig zijn. Voorbeelden zijn benzine, ruitenwisservloeistof, koelvloeistof, reinigingsmiddelen en lijmen / plamuur.&lt;strong&gt;Meer informatie:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://www.arbo.nl/vervoerentransport/taxibedrijven/personeel/stoffen/stoffen?selchar=g" rel="nofollow" target="_blank"&gt;Arbo Platform Nederland&lt;/a&gt;&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-107">
-                <description>&lt;p&gt;Maak een register waarin alle gevaarlijke stoffen in het bedrijf staan vermeld.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Maak een register waarin alle gevaarlijke stoffen in het bedrijf staan vermeld.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-99" type="policy">
-            <title>Het register besteedt aandacht aan alle registratieverplichtingen</title>
-            <description>&lt;p&gt;Per gevaarlijke stof is geregistreerd:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;wat het risico is van de stof;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;hoe met het risico moet worden omgegaan;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;welke hulpmiddelen en werkmethoden moeten worden gebruikt;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;welke eisen worden gesteld aan de opslag van de stof;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;welke hygi&#235;nevoorschriften gebruikt moeten worden.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Voorbeelden van hygi&#235;nevoorschriften zijn: niet eten tijdens het werken met gevaarlijke stoffen; handen wassen of douchen na het werk.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-108">
-                <description>&lt;p&gt;Zorg dat het register van gevaarlijke stoffen volledig is.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Zorg dat het register van gevaarlijke stoffen volledig is.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-100" type="risk">
-            <title>De gevaarlijke stoffen worden conform de richtlijnen opgeslagen</title>
-            <description>&lt;p&gt;De richtlijnen houden onder andere in dat:&lt;br/&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;bekend is welke stoffen niet bij elkaar mogen worden opgeslagen en dat dit ook zo gebeurt;&lt;br/&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;stoffen zo zijn opgeborgen dat ze bij calamiteiten niet exploderen;&lt;br/&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;in sommige situaties ventilatie nodig is;&lt;br/&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;onbevoegden er geen toegang toe kunnen krijgen;&lt;/p&gt;&lt;p&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;lekbakken gebruikt worden;&lt;/p&gt;&lt;p&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;markeringen zijn aangebracht.&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-109">
-                <description>&lt;p&gt;Verbeter de opslag van gevaarlijke stoffen.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Verbeter de opslag van gevaarlijke stoffen.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-101" type="risk">
-            <title>De voorschriften over het gebruik en de afvoer van gevaarlijke stoffen zijn bekend en worden toegepast</title>
-            <description>&lt;p&gt;De voorschriften staan vermeld in de Veiligheids- en Informatie Bladen (VIB).&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-110">
-                <description>&lt;p&gt;Zorg dat de voorschriften over het gebruik van gevaarlijke stoffen bij de medewerkers bekend zijn en worden toegepast.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Zorg dat de voorschriften over het gebruik van gevaarlijke stoffen bij de medewerkers bekend zijn en worden toegepast.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-102" type="risk">
-            <title>De hulpmiddelen om gevaarlijke stoffen toe te passen zijn adequaat</title>
-            <description>&lt;p&gt;Hulpmiddelen zoals goede afzuiging, beschermende kleding, en (nood)douches.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Let wel per stof kunnen aparte voorschriften gelden.&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-111">
-                <description>&lt;p&gt;Zorg voor goede hulpmiddelen om veilig te werken met gevaarlijke stoffen.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Zorg voor goede hulpmiddelen om veilig te werken met gevaarlijke stoffen.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-103" type="risk">
-            <title>Er is een goed werkende, snel bereikbare oogdouche aanwezig</title>
-            <description>&lt;p&gt;Een oogdouche is noodzakelijk in de garage en of wasplaats wanneer er met bijtende of irriterende stoffen wordt gewerkt.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;In de productveiligheidsbladen van de gevaarlijke stoffen staat onder de EHBO maatregelen aangegeven of het spoelen van de ogen (een oogdouche) nodig is wanneer de vloeistof in de ogen terecht komt.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Bij voorkeur is de oogdouche als vaste installatie op een kraan gemonteerd.&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-112">
-                <description>&lt;p&gt;Laat een oogdouche aansluiten op de waterleiding of schaf een losse oogspoelfles aan en leg deze bij de EHBO-trommel. De BHV&#233;r zorgt er voor dat er altijd 1 volle fles aanwezig is. &#160;&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Laat een oogdouche aansluiten op de waterleiding of schaf een losse oogspoelfles aan en leg deze bij de EHBO-trommel. De BHV&#233;r zorgt er voor dat er altijd 1 volle fles aanwezig is. &#160;&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-104" type="risk">
-            <title>Er is toezicht op het handhaven van de maatregelen ten behoeve van veilig en gezond werken</title>
-            <description>&lt;p&gt;Ongewenst gedrag van medewerkers moet niet worden getolereerd, omdat de kans bestaat op letsel en gezondheidsklachten&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-113">
-                <description>&lt;p&gt;Zorg ervoor dat de medewerkers de gebruiksvoorschriften naleven&#160; en de hulpmiddelen voor het veilig werken met gevaarlijke stoffen gebruiken.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Zorg ervoor dat de medewerkers de gebruiksvoorschriften naleven&#160; en de hulpmiddelen voor het veilig werken met gevaarlijke stoffen gebruiken.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-105" type="policy">
-            <title>De arbodienst of arbodeskundige wordt geraadpleegd bij de introductie van nieuwe stoffen</title>
-            <description>&lt;p&gt;Nieuwe stoffen kunnen nog onbekende gezondheidseffecten hebben.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-114">
-                <description>&lt;p&gt;Raadpleeg de arbodienst of arbodeskundige bij introductie van nieuwe stoffen.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Raadpleeg de arbodienst of arbodeskundige bij introductie van nieuwe stoffen.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-106" type="policy">
-            <title>Er is vastgesteld welke personen in verschillende situaties niet mogen werken met gevaarlijke stoffen</title>
-            <description>&lt;p&gt;Hierbij valt bijvoorbeeld te denken aan zwangeren, jeugdigen en mensen met eczeem. Raadpleeg hiervoor de Veiligheids- en Informatie Bladen.&lt;strong&gt;Meer informatie:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://www.arbo.nl/vervoerentransport/taxibedrijven/personeel/stoffen/stoffen?selchar=g" rel="nofollow" target="_blank"&gt;Arbo Platform Nederland&lt;/a&gt;&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-115">
-                <description>&lt;p&gt;Maak afspraken over welke risicogroepen in welke situaties niet mogen werken.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Maak afspraken over welke risicogroepen in welke situaties niet mogen werken.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-        </module>
-        <module external-id="M-18" optional="true">
-          <title>Werkkuil</title>
-          <description>&lt;p&gt;Het gebruik van een werkkuil is aan voorschriften gebonden.&lt;/p&gt;</description>
-          <question>Er is een werkkuil in de werkplaats aanwezig</question>
-          <risk external-id="R-108" type="risk">
-            <title>Er is voldoende ventilatie in de werkkuil</title>
-            <description>&lt;p&gt;De ventilatie in de werkkuil moet zodanig zijn dat de afzuiginstallatie minstens 30 seconden in werking is voordat de verlichting kan worden ingeschakeld. Eventuele gasdampen moeten worden afgezogen, er moet minstens een kubieke meter lucht per minuut worden afgezogen.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-116">
-                <description>&lt;p&gt;Verbeter de ventilatie in de werkkuil. &#160;&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Verbeter de ventilatie in de werkkuil. &#160;&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-109" type="risk">
-            <title>Er bevinden zich geen obstakels in de werkkuil (bijv. olieafvoer)</title>
-            <description>&lt;p&gt;Obstakels kunnen verwondingen en hinder bij het werk veroorzaken.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-117">
-                <description>&lt;p&gt;Zorg dat de werkkuil altijd is opgeruimd&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Zorg dat de werkkuil altijd is opgeruimd&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-110" type="risk">
-            <title>Per werkkuil is een tweede (nooduitgang) aanwezig.</title>
-            <description>&lt;p&gt;In een werkkuil moeten twee uitgangen aanwezig zijn (bijv. vaste ladder of klimijzers).&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-118">
-                <description>&lt;p&gt;Monteer een vaste ladder of klimijzers als tweede (nood)uitgang in de werkkuil.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Monteer een vaste ladder of klimijzers als tweede (nood)uitgang in de werkkuil.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-111" type="risk">
-            <title>Er is voldoende en explosievrije&#160;verlichting in de werkkuil aanwezig.</title>
-            <description>&lt;p&gt;Als het donker is in de werkkuil kunnen er ongelukken gebeuren.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-119">
-                <description>&lt;p&gt;Breng extra verlichting aan in de werkkuil.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Breng extra verlichting aan in de werkkuil.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-        </module>
-        <module external-id="M-19" optional="true">
-          <title>Perslucht</title>
-          <description>&lt;p&gt;Het geluid van perslucht is behoorlijk belastend voor het gehoor, afhankelijk van de luchtdruk en het werkstuk kan het zelfs de pijngrens benaderen.&lt;/p&gt;</description>
-          <question>Er wordt gebruik gemaakt van perslucht.</question>
-          <risk external-id="R-113" type="risk">
-            <title>De compressor staat in een aparte ruimte</title>
-            <description>&lt;p&gt;De compressor is een grote geluidsbron. Als u zich afvraagt of het geluid te hard is kunt u het door een deskundige laten meten.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-120">
-                <description>&lt;p&gt;Compressor in een aparte geluiddichte ruimte plaatsen, die is voorzien van een pictogram aanduiding&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Compressor in een aparte geluiddichte ruimte plaatsen, die is voorzien van een pictogram aanduiding&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-114" type="risk">
-            <title>De perslucht heeft de juiste werkdruk</title>
-            <description>&lt;p&gt;Vaak is de druk te hoog, waardoor het geluidsniveau te hoog wordt. Als u zich afvraagt of het geluid te hard is kunt u het door een deskundige laten meten.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-121">
-                <description>&lt;p&gt;Juiste druk voor het werk instellen. &#160;&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Juiste druk voor het werk instellen. &#160;&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-115" type="risk">
-            <title>Geluidsarme afblaasdempers worden op de voorgeschreven wijze toegepast</title>
-            <description>&lt;p&gt;Het geluid bij het werken met perslucht wordt sterk be&#239;nvloed door het type spuitmond en afblaasdemper. Als u zich afvraagt of het geluid te hard is kunt u het door een deskundige laten meten.&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-122">
-                <description>&lt;p&gt;Geluidsarme spuitmondstukken en afblaasdempers toepassen. Gehoorbescherming dragen&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Geluidsarme spuitmondstukken en afblaasdempers toepassen. Gehoorbescherming dragen&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-116" type="risk">
-            <title>Medewerkers werken niet meer dan 30 minuten per dag met perslucht aangedreven handgereedschap</title>
-            <description>&lt;p&gt;Gereedschap kan door perslucht of elektrisch aangedreven zijn. Perslucht brengt een hogere geluidsbelasting met zich mee. Als u zich afvraagt of het geluid te hard is kunt u het door een deskundige laten meten.&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-123">
-                <description>&lt;p&gt;Afwisseling van werkzaamheden brengt vermindering van geluidsbelasting per werknemer met zich mee.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Afwisseling van werkzaamheden brengt vermindering van geluidsbelasting per werknemer met zich mee.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-        </module>
-        <module external-id="M-20" optional="true">
-          <title>Hefbrug</title>
-          <description>&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;</description>
-          <question>Er is een hefbrug (evt. boven de kuil) om een juiste werkhoogte te cre&#235;ren</question>
-          <risk external-id="R-118" type="risk">
-            <title>Het hefvermogen is duidelijk zichtbaar</title>
-            <description>&lt;p&gt;Op een opvallende plaats dient het maximum hefvermogen te zijn aangebracht.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-124">
-                <description>&lt;p&gt;Laat door leverancier aanduiding aanbrengen.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Laat door leverancier aanduiding aanbrengen.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-119" type="risk">
-            <title>De brug is voorzien van afrijbeveiliging</title>
-            <description>&lt;p&gt;Een groot risico is dat een voertuig van de hefbrug afrolt.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-125">
-                <description>&lt;p&gt;Voorzie de hefbrug van een afrijbeveiliging.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Voorzie de hefbrug van een afrijbeveiliging.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-120" type="risk">
-            <title>Er is minimaal 6 cm ruimte tussen de vloer en de laagste stand</title>
-            <description>&lt;p&gt;Dit om knelgevaar voor de voeten te voorkomen.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-126">
-                <description>&lt;p&gt;Zorg dat er bij de hefbrug minimaal 6 cm ruimte blijft tussen de laagste stand en de vloer.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Zorg dat er bij de hefbrug minimaal 6 cm ruimte blijft tussen de laagste stand en de vloer.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-        </module>
-        <module external-id="M-21" optional="true">
-          <title>Autogeen lassen</title>
-          <description>&lt;p&gt;Voor het gebruik van autogeen las- en snijdapparatuur gelden speciale voorschriften. Er worden eisen gesteld aan de apparatuur en aan het gebruik.&lt;/p&gt;</description>
-          <question>In het bedrijf wordt autogeen gelast</question>
-          <risk external-id="R-122" type="risk">
-            <title>Iedere werkplek waar wordt gelast is voorzien van lokale afzuiging</title>
-            <description>&lt;p&gt;Bij de meeste las- of snijdwerkzaamheden is lokale afzuiging verplicht, het moet voldoende capaciteit hebben, er moet voldoende ventilatie zijn.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-127">
-                <description>&lt;p&gt;Zorg voor voldoende afzuiging met vaste of mobiele apparatuur.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Zorg voor voldoende afzuiging met vaste of mobiele apparatuur.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-123" type="risk">
-            <title>De gasflessen voor autogeen lassen zijn geborgd tegen omvallen</title>
-            <description>&lt;p&gt;De flessen moeten rechtop staan, en geborgd zijn met een ketting of steun zodat onder andere lekkage wordt voorkomen&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-128">
-                <description>&lt;p&gt;Zorg dat gascilinders rechtop opgeslagen worden en vastgezet zijn tegen omvallen. Zorg voor een geschikte steun, vraag leverancier.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Zorg dat gascilinders rechtop opgeslagen worden en vastgezet zijn tegen omvallen. Zorg voor een geschikte steun, vraag leverancier.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-124" type="risk">
-            <title>Bij autogeen lassen zitten de afsluiters (sleutels) op de flessen</title>
-            <description>&lt;p&gt;In noodsituaties moeten de flessen direct afgesloten kunnen worden.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-129">
-                <description>&lt;p&gt;Breng de sleutels aan op de flessen voor autogeen lassen.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Breng de sleutels aan op de flessen voor autogeen lassen.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-125" type="risk">
-            <title>Bij autogeen lassen wordt gebruik gemaakt van een vlamdover.</title>
-            <description>&lt;p&gt;Een vlamdover zorgt er voor dat de vlam niet in de fles kan schieten.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-130">
-                <description>&lt;p&gt;Breng een vlamdover aan op de lasapparatuur.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Breng een vlamdover aan op de lasapparatuur.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-126" type="risk">
-            <title>Bij autogeen lassen is er een brandscherm aanwezig tussen de flessen</title>
-            <description>&lt;p&gt;Dit is voor een veilige scheiding van de twee gassen.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-131">
-                <description>&lt;p&gt;Maak een brandscherm tussen de gasflessen voor autogeen lassen.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Maak een brandscherm tussen de gasflessen voor autogeen lassen.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-127" type="risk">
-            <title>Bij autogeen lassen is er een lasbril aanwezig</title>
-            <description>&lt;p&gt;Ter bescherming van de ogen van de lasser.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-132">
-                <description>&lt;p&gt;Schaf &#233;&#233;n of meer lasbrillen aan.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Schaf &#233;&#233;n of meer lasbrillen aan.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-128" type="risk">
-            <title>Bij autogeen lassen is altijd aandacht voor de kwaliteit van leidingen en slangen (barstjes) en is er een periodieke controle op lekkage van de slangen</title>
-            <description>&lt;p&gt;De slangen kunnen gaan lekken, dat kan tot brand of explosies leiden.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-133">
-                <description>&lt;p&gt;Schaf indien nodig nieuwe slangen aan voor het autogeen lassen. Plan minimaal jaarlijkse controle van de slangen voor autogeen lassen op lekken.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Schaf indien nodig nieuwe slangen aan voor het autogeen lassen. Plan minimaal jaarlijkse controle van de slangen voor autogeen lassen op lekken.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-129" type="risk">
-            <title>Bij warmstoken hebben verwarmingstoestellen of werktuigen een lage oppervlaktetemperatuur</title>
-            <description>&lt;p&gt;Bij het autogeen lassen zijn verwarmingstoestellen met hoge oppervlaktetemperatuur verboden, tenzij speciale constructieve maatregelen zijn getroffen.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-134">
-                <description>&lt;p&gt;Zorg dat bij warmstoken de werktuigen niet te warm worden.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Zorg dat bij warmstoken de werktuigen niet te warm worden.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-130" type="risk">
-            <title>Bij het gebruik van propaan staat er een norm op de slang</title>
-            <description>&lt;p&gt;Bij het gebruik van propaan moeten slangen voldoen aan een specifieke norm: NEN-EN559:2003en.&lt;/p&gt;</description>
-            <show-not-applicable>yes</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-135">
-                <description>&lt;p&gt;Gebruik bij het werken met propaan slangen met de juiste norm&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Gebruik bij het werken met propaan slangen met de juiste norm&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-131" type="risk">
-            <title>Er is een nooddouche met voldoende capaciteit of er is een branddeken aanwezig</title>
-            <description>&lt;p&gt;In geval van nood moeten de ogen gespoeld kunnen worden en bij brand is een blusdeken noodzakelijk.&lt;/p&gt;&lt;p&gt;Een blusdeken moet zo zijn opgeslagen dat deze tegen verfnevels en stof beschut is.&lt;br/&gt;&#160;&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-136">
-                <description>&lt;p&gt;Zorg voor een nooddouche of branddeken. Een praktische mogelijkheid is het monteren van een handdouche aan een bestaande kraan.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Zorg voor een nooddouche of branddeken. Een praktische mogelijkheid is het monteren van een handdouche aan een bestaande kraan.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-        </module>
-        <module external-id="M-22" optional="true">
-          <title>Elektrisch lassen</title>
-          <description>&lt;p&gt;Voor elektrisch lassen&#160; gelden speciale voorschriften. Er worden eisen gesteld aan de apparatuur en aan het gebruik.&lt;/p&gt;</description>
-          <question>Er wordt elektrisch gelast in het bedrijf</question>
-          <risk external-id="R-133" type="risk">
-            <title>Iedere werkplek waar wordt gelast is voorzien van lokale afzuiging</title>
-            <description>&lt;p&gt;Bij de meeste las- of snijdwerkzaamheden is lokale afzuiging verplicht, het moet voldoende capaciteit hebben, er moet voldoende ventilatie zijn.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-137">
-                <description>&lt;p&gt;Zorg voor voldoende afzuiging met vaste of mobiele apparatuur.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Zorg voor voldoende afzuiging met vaste of mobiele apparatuur.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-134" type="risk">
-            <title>De voedingskabel van de transformator bij elektrisch lassen is onbeschadigd</title>
-            <description>&lt;p&gt;Beschadigde kabels hebben het risico van elektrocutie.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-138">
-                <description>&lt;p&gt;Schaf een nieuwe voedingskabel voor de transformator voor elektrisch lassen aan of repareer de huidige.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Schaf een nieuwe voedingskabel voor de transformator voor elektrisch lassen aan of repareer de huidige.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-135" type="risk">
-            <title>De veiligheidsbril bij elektrisch lassen is aanwezig</title>
-            <description>&lt;p&gt;Bij het elektrisch lassen ontstaat lasslak. Bij het wegbikken van lasslak kunnen delen wegspringen.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-139">
-                <description>&lt;p&gt;Schaf veiligheidsbrillen voor bij het elektrisch lassen aan.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Schaf veiligheidsbrillen voor bij het elektrisch lassen aan.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-136" type="risk">
-            <title>Bij elektrisch lassen is een laskap aanwezig</title>
-            <description>&lt;p&gt;Dit is ter bescherming van de ogen.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-140">
-                <description>&lt;p&gt;Schaf laskappen voor bij het elektrisch lassen aan.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Schaf laskappen voor bij het elektrisch lassen aan.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-          <risk external-id="R-137" type="risk">
-            <title>Er is een nooddouche met voldoende capaciteit of er is een branddeken, die tegen verfnevels en stof beschut is opgeslagen</title>
-            <description>&lt;p&gt;In geval van nood moeten de ogen gespoeld kunnen worden en bij brand is een blusdeken noodzakelijk.&lt;/p&gt;&lt;p&gt;Een blusdeken moet zo zijn opgeslagen dat deze tegen verfnevels en stof beschut is.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
-            <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-            <solutions>
-              <solution external-id="O-141">
-                <description>&lt;p&gt;Zorg voor een nooddouche of branddeken. Een praktische mogelijkheid is het monteren van een handdouche aan een bestaande kraan.&lt;/p&gt;</description>
-                <action-plan>&lt;p&gt;Zorg voor een nooddouche of branddeken. Een praktische mogelijkheid is het monteren van een handdouche aan een bestaande kraan.&lt;/p&gt;</action-plan>
-              </solution>
-            </solutions>
-          </risk>
-        </module>
+        <risk external-id="R-65" type="risk">
+          <title>Er is een douchegelegenheid</title>
+          <description>&lt;p&gt;Douchen is nodig als er medewerkers zijn die eerst garagewerk doen om later in de dienst te gaan rijden op de taxi.&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-73">
+              <description>&lt;p&gt;Realiseer een&#160; doucheruimte&#160;&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Realiseer een&#160; doucheruimte&#160;&lt;/p&gt;</action-plan>
+            </solution>
+            <solution external-id="O-74">
+              <description>&lt;p&gt;Verschuif de&#160; taken / werkzaamheden zo dat het niet voorkomt dat medewerkers eerst garagewerk doen en daarna taxi gaan rijden.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Verschuif de&#160; taken / werkzaamheden zo dat het niet voorkomt dat medewerkers eerst garagewerk doen en daarna taxi gaan rijden.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-66" type="risk">
+          <title>De elektrisch bediende toegangsdeuren zijn voldoende veilig en worden regelmatig gecontroleerd</title>
+          <description>&lt;p&gt;Toegangsdeuren van het type hefdeur, kanteldeur, roldeur en/of overheaddeur moeten zijn voorzien van knelbescherming, een deugdelijke vanginrichting en afscherming tegen wegspringende delen. Elektrische of automatische deuren dienen regelmatig (minimaal jaarlijks) te worden gekeurd door een terzake deskundige.&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-75">
+              <description>&lt;p&gt;Laat de deuren controleren en onderhouden door een installateur en eventueel aanpassen.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Laat de deuren controleren en onderhouden door een installateur en eventueel aanpassen.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-67" type="risk">
+          <title>De vloer is stroef</title>
+          <description>&lt;p&gt;Een gecoate vloer kan, wanneer hij nat is, zeer glad zijn. Dit kan slippen of vallen ten gevolg hebben.&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-76">
+              <description>&lt;p&gt;Indien om redenen van schoon houden de vloer gecoat moet zijn, zorg voor een ruwe coating. Zorg op plaatsen waar met water wordt gewerkt voor goede afwatering&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Indien om redenen van schoon houden de vloer gecoat moet zijn, zorg voor een ruwe coating. Zorg op plaatsen waar met water wordt gewerkt voor goede afwatering&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-68" type="risk">
+          <title>De vloer is schoon</title>
+          <description>&lt;p&gt;Gemorste olie kan leiden tot slippen of vallen&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-77">
+              <description>&lt;p&gt;Houdt de vloer schoon en vrij van olie, water, koelvloeistof en dergelijke&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Houdt de vloer schoon en vrij van olie, water, koelvloeistof en dergelijke&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-69" type="risk">
+          <title>De vloer is vrij van obstakels</title>
+          <description>&lt;p&gt;Onderdelen en gereedschappen op de vloer leiden tot struikelen. Men kan zich ernstig verwonden aan scherpe delen op de vloer&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-78">
+              <description>&lt;p&gt;Gereedschappen, onderdelen en afvalmateriaal dienen te zijn opgeborgen of weggegooid.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Gereedschappen, onderdelen en afvalmateriaal dienen te zijn opgeborgen of weggegooid.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-70" type="risk">
+          <title>Trappen zijn voldoende breed en veilig en zijn in goede conditie</title>
+          <description>&lt;p&gt;Trappen moeten voldoende breed zijn (minstens 60 cm), de hoek moet minstens 45 &#176; bedragen en de treden moeten gaaf, stroef en uniform in hoogte en diepte zijn.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-79">
+              <description>&lt;p&gt;Zorg dat trappen zijn aangebracht door een terzake deskundig bedrijf.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Zorg dat trappen zijn aangebracht door een terzake deskundig bedrijf.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-71" type="risk">
+          <title>Ladders voldoen aan de normen en zijn in goede conditie</title>
+          <description>&lt;p&gt;Ladders moeten voorzien zijn van een CE keur en ongeverfd zijn. Een ladder moet onder een hoek van 70 tot 75 &#176; geplaatst zijn en tenminste 1 meter uitsteken boven het bordes, waar hij toegang toe geeft.&lt;br/&gt;&#160;&lt;br/&gt;Via de website van het NEN is deze norm te bestellen.&lt;strong&gt;Meer informatie:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://www2.nen.nl/nen/servlet/dispatcher.Dispatcher?id=BIBLIOGRAFISCHEGEGEVENS&amp;amp;contentID=196829&amp;amp;searchType=kaderzoek_nen" rel="nofollow" target="_blank"&gt;NEN-EN-ISO 14122-4:2005 en&lt;/a&gt;&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-80">
+              <description>&lt;p&gt;Schaf alleen goedgekeurde ladders aan (met CE keur). Plaats ladders niet tegen een raam of deur.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Schaf alleen goedgekeurde ladders aan (met CE keur). Plaats ladders niet tegen een raam of deur.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-72" type="risk">
+          <title>Bordessen voldoen aan de normen, hebben voldoende valbeveiliging en zijn in goede conditie.</title>
+          <description>&lt;p&gt;Bordessen moeten zijn voorzien van valbeveiliging met schoprand. Een eventuele afzetplaats voor goederen moet zijn voorzien van een veilige afsluiting.&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-81">
+              <description>&lt;p&gt;Zorg dat bordessen zijn aangebracht door een terzake deskundig bedrijf. Laat bordessen conform bouwkundige voorschriften bouwen.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Zorg dat bordessen zijn aangebracht door een terzake deskundig bedrijf. Laat bordessen conform bouwkundige voorschriften bouwen.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-73" type="risk">
+          <title>De magazijnstellingen worden regelmatig gecontroleerd en voldoen aan de voorschiften om ongevallen te voorkomen.</title>
+          <description>&lt;p&gt;Magazijnstellingen dienen te zijn voorzien van aanduiding maximaal toelaatbare belasting per legbord of liggerpaar. Ze dienen op de juiste wijze volgens voorschriften van de leverancier te zijn opgebouwd. Defecte delen moeten vervangen worden. Magazijnstellingen moeten geborgd zijn aan de vloer, de muur of aan elkaar.&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-82">
+              <description>&lt;p&gt;Laat stellingen opbouwen door de leverancier en vervang direct defect geraakte delen.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Laat stellingen opbouwen door de leverancier en vervang direct defect geraakte delen.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-74" type="risk">
+          <title>Er is voldoende werkruimte, loopruimte en manoeuvreerruimte in de werkplaats</title>
+          <description>&lt;p&gt;Om veilig en verantwoord te kunnen werken dient voor de uitvoering van de werkzaamheden voldoende ruimte aanwezig te zijn. Een praktische vuistregel is dat er ongeveer 1,5 meter vrije ruimte achter een medewerker moet zijn.&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-83">
+              <description>&lt;p&gt;Zorg voor een goede lay-out van de werkplaats en het magazijn, waarbij voldoende mogelijkheid is alle handelingen uit te voeren.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Zorg voor een goede lay-out van de werkplaats en het magazijn, waarbij voldoende mogelijkheid is alle handelingen uit te voeren.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-75" type="risk">
+          <title>Bij gevaarlijke apparatuur / installaties is er een bediening middels vasthoudknoppen</title>
+          <description>&lt;p&gt;Vasthoudknoppen zijn zo geplaatst dat om de machine in werking te zetten beide handen buiten het gevaarlijke werkgebied moeten zijn. Dit komt voor bij gevaarlijke arbeidsmiddelen zoals hefbruggen.&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-84">
+              <description>&lt;p&gt;Neem met leverancier contact op dat apparaat wordt aangepast aan voorschriften&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Neem met leverancier contact op dat apparaat wordt aangepast aan voorschriften&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-76" type="risk">
+          <title>De aan/uit-schakelaar kan vergrendeld worden in verband met onderhoud</title>
+          <description>&lt;p&gt;Een machine moet kunnen worden losgekoppeld van de stroomaanvoer wanneer werkzaamheden eraan moeten plaatsvinden. De monteur kan dan de vergrendeling aanbrengen.&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-85">
+              <description>&lt;p&gt;Neem met leverancier op dat apparaat wordt aangepast aan voorschriften&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Neem met leverancier op dat apparaat wordt aangepast aan voorschriften&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-77" type="risk">
+          <title>De uitlaatgas-afzuiginstallatie wordt volgens de instructie gebruikt</title>
+          <description>&lt;p&gt;De afzuiginstallatie dient conform de instructies zodanig te zijn aangesloten dat geen uitlaatgassen in de werkplaats kunnen komen.&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-86">
+              <description>&lt;p&gt;Conform instructies aansluiten, voorlichting aan medewerkers geven&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Conform instructies aansluiten, voorlichting aan medewerkers geven&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-78" type="risk">
+          <title>De uitlaatgas-afzuiginstallatie schakelt automatisch in (bijv. bij uitrollen van de slang of bij aankoppelen aan de uitlaat) of de knoppen voor de bediening van deze installatie zijn in de directe omgeving van de werkplek aangebracht (niet meer dan</title>
+          <description>&lt;p&gt;De afzuiginstallatie dient conform de instructies zodanig te zijn aangesloten dat geen uitlaatgassen in de werkplaats kunnen komen.&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-87">
+              <description>&lt;p&gt;Conform instructies aansluiten, voorlichting aan medewerkers geven&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Conform instructies aansluiten, voorlichting aan medewerkers geven&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-79" type="risk">
+          <title>Het werkstuk van de kolomboormachine kan worden vastgezet</title>
+          <description>&lt;p&gt;Dit voorkomt dat een werkstuk losschiet en de medewerker kan raken.&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-88">
+              <description>&lt;p&gt;Laat machine aanpassen door leverancier&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Laat machine aanpassen door leverancier&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-80" type="risk">
+          <title>De slijpmachine is op de voorgeschreven wijze afgeschermd</title>
+          <description>&lt;p&gt;De werkschakelaar moet goed bediend kunnen worden, er moet een verstelbare kap op zitten, een slijpruitje en/of vonkenscherm.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-89">
+              <description>&lt;p&gt;Laat machine aanpassen door leverancier&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Laat machine aanpassen door leverancier&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-81" type="risk">
+          <title>De elektrisch aangedreven balanceerinrichting van de bandenreparatie-inrichting kan alleen draaien als de kap erover zit</title>
+          <description>&lt;p&gt;Dit om knelgevaar of afknelling te voorkomen.&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-90">
+              <description>&lt;p&gt;Laat de balanceerinrichting aanpassen door leverancier&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Laat de balanceerinrichting aanpassen door leverancier&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+      </module>
+      <module external-id="M-15" optional="no">
+        <title>Fysieke belasting</title>
+        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <risk external-id="R-82" type="top5">
+          <title>Staan, bukken, zitten, lopen, tillen en duwen worden zoveel mogelijk afgewisseld</title>
+          <description>&lt;p&gt;Voorbeelden van lichamelijke belasting zijn:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;langdurig werken in ongunstige lichaamshoudingen zoals hurken, knielen, bukken, knijpen, armen boven het hoofd, asymmetrische houdingen;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;te grote kracht leveren, bijvoorbeeld een duwkracht van meer dan 20 kg;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ongunstige krachtrichting;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;het verplaatsen van grote lasten van meer dan 23 kg in zeer korte tijd;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;het frequent (enige tientallen keren per uur) uitvoeren van dezelfde bewegingen;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;een lange duur van (statisch) belastend werk, bijvoorbeeld weinig variatie in houding, langdurig een knop/pedaal ingedrukt houden of langdurig staan.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Het werk moet afgestemd zijn op de mogelijkheden van de werknemer, om te hoge of eenzijdige lichamelijke belasting te voorkomen. Lichamelijke overbelasting kan lichamelijke klachten en aandoeningen van gewrichten en spieren veroorzaken, bijvoorbeeld aan rug, nek en schouders. Het langdurig maken van dezelfde beweging kan leiden tot (chronische) RSI.&#160;.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-91">
+              <description>&lt;p&gt;Als er sprake is van genoemde lichamelijke belastingen, dan moet ter beoordeling een deskundige worden geraadpleegd.De werkgever moet de inrichting van de werkplek en de organisatie van de arbeid aan de werknemer aanpassen alvorens technische hulpmiddelen&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Als er sprake is van genoemde lichamelijke belastingen, dan moet ter beoordeling een deskundige worden geraadpleegd.De werkgever moet de inrichting van de werkplek en de organisatie van de arbeid aan de werknemer aanpassen alvorens technische hulpmiddelen of persoonlijke beschermingsmiddelen worden ingezet. Bijvoorbeeld door de hoogte van een werktafel aan te passen op de lengte van werknemers, materialen binnen het bereik te leggen of gereedschappen aan te passen zodat armen en polsen niet overbelast raken&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-83" type="top5">
+          <title>Werkzaamheden met veel herhaalde beweging worden maximaal 1 uur achter elkaar en maximaal 2 uur per dag uitgevoerd</title>
+          <description>&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Het langdurig maken van dezelfde beweging kan leiden tot (chronische) RSI.&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-92">
+              <description>&lt;p&gt;Zorg voor afwisseling met andere taken. Als er sprake is van genoemde lichamelijke belastingen, dan moet ter beoordeling een deskundige worden geraadpleegd.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Zorg voor afwisseling met andere taken. Als er sprake is van genoemde lichamelijke belastingen, dan moet ter beoordeling een deskundige worden geraadpleegd.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-84" type="top5">
+          <title>Er wordt regelmatig voorlichting gegeven over fysieke belasting.</title>
+          <description>&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Het is van belang dat werknemers op de hoogte zijn van de risico&#8217;s van fysieke belasting en dat zij in hun werk de situaties herkennen waarin zij deze risico&#8217;s lopen. Zo kunnen zij meer bewust met deze situaties omgaan.&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-93">
+              <description>&lt;p&gt;Zorg er voor dat werknemers kunnen beschikken over relevante hulpmiddelen. Biedt eventueel een cursus aan en voorzie werknemers van relevant voorlichtingsmateriaal.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Zorg er voor dat werknemers kunnen beschikken over relevante hulpmiddelen. Biedt eventueel een cursus aan en voorzie werknemers van relevant voorlichtingsmateriaal.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-85" type="top5">
+          <title>Bij tilwerkzaamheden met twee handen is het maximale gewicht van het te tillen voorwerp 23 kg en bij tilwerkzaamheden met &#233;&#233;n hand is het maximale gewicht ervan 6 kg</title>
+          <description>&lt;p&gt;Het is toegestaan om onder gunstige omstandigheden maximaal 23 kg met twee handen en 6 kg met &#233;&#233;n hand te tillen. Naarmate de houding, de afstand tot het lichaam of de hoogte van het te tillen voorwerp ongunstiger wordt, geldt een lager maximaal toelaatbare tilgewicht. De heuphoogte is een optimale hoogte om goederen te tillen, c.q. neer te zetten&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-94">
+              <description>&lt;p&gt;Indien regelmatig zwaarder dan 23 kg moet worden getild is het aan te raden een tilhulpmiddel aan te schaffen Daarnaast is&#160; een cursus tiltechnieken aan te raden.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Indien regelmatig zwaarder dan 23 kg moet worden getild is het aan te raden een tilhulpmiddel aan te schaffen Daarnaast is&#160; een cursus tiltechnieken aan te raden.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-86" type="top5">
+          <title>Er wordt gebruik gemaakt van tilhulpmiddelen</title>
+          <description>&lt;p&gt;Door gebruik te maken van tilhulpmiddelen kan de lichamelijke belasting bij het tillen en dragen van zware voorwerpen worden gereduceerd. De hier opgenomen lijst van hulpmiddelen is niet uitputtend. Gaat u ook na of andere hulpmiddelen in uw magazijn/werkplaats worden gebruikt door de werknemers. Tilhulpmiddelen dienen met name te worden toegepast bij voorwerpen die zwaar zijn (23 kg bij gunstige houdingen), voorwerpen die zo groot zijn dat ze ver van het lichaam gedragen zouden moeten worden, of bij voorwerpen die moeilijk vast te pakken zijn doordat ze glad zijn of scherpe randen hebben. Algemene voorbeelden van tilhulpmiddelen zijn:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;(verrijdbare) krik, hefboom&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;hijskranen&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;garagebok, loopkat&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;gebalanceerd gereedschap (voor slagmoersleutel/moeraanzetter, puntlastang)&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;bandenheffer&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;hefbrug(gen)&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;verrijdbare ondersteuningsbokken&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;verrijdbare gasflessen/lasapparatuur&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;verrijdbare kruk met gereedschap-/onderdelenbord&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;steekwagen&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;vorkheftruck&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;elektrische deuropener.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-95">
+              <description>&lt;p&gt;Zorg er voor dat werknemers kunnen beschikken over relevante hulpmiddelen.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Zorg er voor dat werknemers kunnen beschikken over relevante hulpmiddelen.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-87" type="top5">
+          <title>Het tillen, trekken en duwen wordt op een andere manier verminderd.</title>
+          <description>&lt;p&gt;Er is sprake van trekken of duwen indien een last met de hand in beweging wordt gebracht en over een (langere) afstand wordt verplaatst zonder dat de last wordt gedragen.Het met een ruk in beweging zetten van zwaardere voorwerpen levert grote problemen voor schouder en rug op.Door gebruik van (aangedreven) hulpmiddelen wordt het duwen en trekken zo veel mogelijk voorkomen.&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-96">
+              <description>&lt;p&gt;Gebruik een aangedreven hulpmiddel, zeker bij zwaardere voorwerpen (tot 23 kg).&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Gebruik een aangedreven hulpmiddel, zeker bij zwaardere voorwerpen (tot 23 kg).&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-89" type="top5">
+          <title>Het gereedschap is goed bereikbaar.</title>
+          <description>&lt;p&gt;Een goede bereikbaarheid van het gereedschap voorkomt dat men in ongunstige lichaamshoudingen moet staan (ver reiken, bukken). Een gereedschapswagen zorgt ervoor dat men niet steeds hoeft te lopen. Een overzichtelijke inrichting ervan voorkomt (langdurig) zoeken en ergernis.&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-98">
+              <description>&lt;p&gt;Zorg er voor dat de gereedschappen goed bereikbaar zijn en overzichtelijk zijn opgeslagen.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Zorg er voor dat de gereedschappen goed bereikbaar zijn en overzichtelijk zijn opgeslagen.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-90" type="top5">
+          <title>Er is een stoel aanwezig als men langdurig moet staan</title>
+          <description>&lt;p&gt;Langdurig staan is vermoeiend. Een stoel is dan onontbeerlijk. Het is verplicht een stoel ter beschikking te stellen voor korte pauzes.&#160;Er kan ook worden gekozen voor een stasteun.&#160;&#160;&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-99">
+              <description>&lt;p&gt;Zorg dat er een stoel aanwezig is voor werkzaamheden waar langdurig moet worden gestaan.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Zorg dat er een stoel aanwezig is voor werkzaamheden waar langdurig moet worden gestaan.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+      </module>
+      <module external-id="M-16" optional="no">
+        <title>Geluid/trillingen</title>
+        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <risk external-id="R-92" type="risk">
+          <title>Medewerkers werken niet langer dan 15 minuten per dag met een slagmoersleutel/moeraanzetter</title>
+          <description>&lt;p&gt;Om de maximale dagbelasting geluid niet te overschrijden is deze grens gesteld. Gehoorbescherming dient echter nog steeds te worden toegepast.&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-101">
+              <description>&lt;p&gt;Zorg voor voldoende afwisseling in het werk en laat gehoorbescherming dragen.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Zorg voor voldoende afwisseling in het werk en laat gehoorbescherming dragen.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-93" type="risk">
+          <title>Medewerkers zijn niet langer dan 1 uur per dag bezig met hameren, richten en losslaan.</title>
+          <description>&lt;p&gt;Om de maximale dagbelasting geluid niet te overschrijden is deze grens gesteld. Gehoorbescherming dient echter nog steeds te worden toegepast.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Daarnaast brengt het slaan op harde oppervlakken aanzienlijke slagen toe aan handen en polsen. Hierdoor kunnen spieren, gewrichten en zenuwen overbelast raken.&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-102">
+              <description>&lt;p&gt;Zorg voor voldoende afwisseling in het werk en laat gehoorbescherming dragen.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Zorg voor voldoende afwisseling in het werk en laat gehoorbescherming dragen.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-94" type="risk">
+          <title>Medewerkers slijpen niet langer dan 15 minuten per dag</title>
+          <description>&lt;p&gt;Om de maximale dagbelasting geluid niet te overschrijden is deze grens gesteld. Gehoorbescherming dient echter nog steeds te worden toegepast.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Daarnaast brengt genoemd gereedschap trillingen voort in handen en polsen&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-103">
+              <description>&lt;p&gt;Zorg voor voldoende afwisseling in het werk en laat gehoorbescherming dragen.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Zorg voor voldoende afwisseling in het werk en laat gehoorbescherming dragen.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-95" type="risk">
+          <title>Medewerkers lassen niet langer dan 30 minuten per dag autogeen</title>
+          <description>&lt;p&gt;Om de maximale dagbelasting geluid niet te overschrijden is deze grens gesteld. Gehoorbescherming dient echter nog steeds te worden toegepast.&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-104">
+              <description>&lt;p&gt;Zorg voor voldoende afwisseling in het werk en laat gehoorbescherming dragen.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Zorg voor voldoende afwisseling in het werk en laat gehoorbescherming dragen.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-96" type="risk">
+          <title>Medewerkers gebruiken schuurmachines niet langer dan een half uur per dag</title>
+          <description>&lt;p&gt;Genoemd gereedschap brengt trillingen voort in handen en polsen.&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-105">
+              <description>&lt;p&gt;Zorg dat het gebruik van deze apparatuur zo kort mogelijk plaatsvindt en het genoemde maximum niet overschrijdt.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Zorg dat het gebruik van deze apparatuur zo kort mogelijk plaatsvindt en het genoemde maximum niet overschrijdt.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-97" type="risk">
+          <title>Er zijn geen werkzaamheden waarbij het gemiddelde geluidsniveau meer dan 85 dB(A) bedraagt.</title>
+          <description>&lt;p&gt;Bij geluid van deze sterkte ontstaat gehoorschade.&lt;br/&gt;Indien je op 1 m afstand een andere persoon niet kan verstaan (zonder stemverheffing te gebruiken) dan is er sprake van &amp;gt; 85 dB(A). Zie link voor meer uitleg.&lt;strong&gt;Meer informatie:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://www.arbo.nl/vervoerentransport/taxibedrijven/personeel/werkplek/geluid?selchar=l" rel="nofollow" target="_blank"&gt;Arbo Platform Nederland&lt;/a&gt;&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-106">
+              <description>&lt;p&gt;Voorkom gehoorschade door een stillere werkwijze /andere apparatuur of deze zo te plaatsen dat medewerkers er geen last van hebben.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Voorkom gehoorschade door een stillere werkwijze /andere apparatuur of deze zo te plaatsen dat medewerkers er geen last van hebben.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+      </module>
+      <module external-id="M-17" optional="no">
+        <title>Gevaarlijke stoffen</title>
+        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <risk external-id="R-98" type="policy">
+          <title>Een register van gevaarlijke stoffen is aanwezig</title>
+          <description>&lt;p&gt;Alle gevaarlijke stoffen moeten geregistreerd zijn. Op die manier is duidelijk welke gevaarlijke stoffen aanwezig zijn. Voorbeelden zijn benzine, ruitenwisservloeistof, koelvloeistof, reinigingsmiddelen en lijmen / plamuur.&lt;strong&gt;Meer informatie:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://www.arbo.nl/vervoerentransport/taxibedrijven/personeel/stoffen/stoffen?selchar=g" rel="nofollow" target="_blank"&gt;Arbo Platform Nederland&lt;/a&gt;&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-107">
+              <description>&lt;p&gt;Maak een register waarin alle gevaarlijke stoffen in het bedrijf staan vermeld.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Maak een register waarin alle gevaarlijke stoffen in het bedrijf staan vermeld.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-99" type="policy">
+          <title>Het register besteedt aandacht aan alle registratieverplichtingen</title>
+          <description>&lt;p&gt;Per gevaarlijke stof is geregistreerd:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;wat het risico is van de stof;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;hoe met het risico moet worden omgegaan;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;welke hulpmiddelen en werkmethoden moeten worden gebruikt;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;welke eisen worden gesteld aan de opslag van de stof;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;welke hygi&#235;nevoorschriften gebruikt moeten worden.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Voorbeelden van hygi&#235;nevoorschriften zijn: niet eten tijdens het werken met gevaarlijke stoffen; handen wassen of douchen na het werk.&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-108">
+              <description>&lt;p&gt;Zorg dat het register van gevaarlijke stoffen volledig is.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Zorg dat het register van gevaarlijke stoffen volledig is.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-100" type="risk">
+          <title>De gevaarlijke stoffen worden conform de richtlijnen opgeslagen</title>
+          <description>&lt;p&gt;De richtlijnen houden onder andere in dat:&lt;br/&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;bekend is welke stoffen niet bij elkaar mogen worden opgeslagen en dat dit ook zo gebeurt;&lt;br/&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;stoffen zo zijn opgeborgen dat ze bij calamiteiten niet exploderen;&lt;br/&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;in sommige situaties ventilatie nodig is;&lt;br/&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;onbevoegden er geen toegang toe kunnen krijgen;&lt;/p&gt;&lt;p&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;lekbakken gebruikt worden;&lt;/p&gt;&lt;p&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;markeringen zijn aangebracht.&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-109">
+              <description>&lt;p&gt;Verbeter de opslag van gevaarlijke stoffen.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Verbeter de opslag van gevaarlijke stoffen.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-101" type="risk">
+          <title>De voorschriften over het gebruik en de afvoer van gevaarlijke stoffen zijn bekend en worden toegepast</title>
+          <description>&lt;p&gt;De voorschriften staan vermeld in de Veiligheids- en Informatie Bladen (VIB).&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-110">
+              <description>&lt;p&gt;Zorg dat de voorschriften over het gebruik van gevaarlijke stoffen bij de medewerkers bekend zijn en worden toegepast.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Zorg dat de voorschriften over het gebruik van gevaarlijke stoffen bij de medewerkers bekend zijn en worden toegepast.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-102" type="risk">
+          <title>De hulpmiddelen om gevaarlijke stoffen toe te passen zijn adequaat</title>
+          <description>&lt;p&gt;Hulpmiddelen zoals goede afzuiging, beschermende kleding, en (nood)douches.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Let wel per stof kunnen aparte voorschriften gelden.&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-111">
+              <description>&lt;p&gt;Zorg voor goede hulpmiddelen om veilig te werken met gevaarlijke stoffen.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Zorg voor goede hulpmiddelen om veilig te werken met gevaarlijke stoffen.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-103" type="risk">
+          <title>Er is een goed werkende, snel bereikbare oogdouche aanwezig</title>
+          <description>&lt;p&gt;Een oogdouche is noodzakelijk in de garage en of wasplaats wanneer er met bijtende of irriterende stoffen wordt gewerkt.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;In de productveiligheidsbladen van de gevaarlijke stoffen staat onder de EHBO maatregelen aangegeven of het spoelen van de ogen (een oogdouche) nodig is wanneer de vloeistof in de ogen terecht komt.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Bij voorkeur is de oogdouche als vaste installatie op een kraan gemonteerd.&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-112">
+              <description>&lt;p&gt;Laat een oogdouche aansluiten op de waterleiding of schaf een losse oogspoelfles aan en leg deze bij de EHBO-trommel. De BHV&#233;r zorgt er voor dat er altijd 1 volle fles aanwezig is. &#160;&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Laat een oogdouche aansluiten op de waterleiding of schaf een losse oogspoelfles aan en leg deze bij de EHBO-trommel. De BHV&#233;r zorgt er voor dat er altijd 1 volle fles aanwezig is. &#160;&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-104" type="risk">
+          <title>Er is toezicht op het handhaven van de maatregelen ten behoeve van veilig en gezond werken</title>
+          <description>&lt;p&gt;Ongewenst gedrag van medewerkers moet niet worden getolereerd, omdat de kans bestaat op letsel en gezondheidsklachten&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-113">
+              <description>&lt;p&gt;Zorg ervoor dat de medewerkers de gebruiksvoorschriften naleven&#160; en de hulpmiddelen voor het veilig werken met gevaarlijke stoffen gebruiken.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Zorg ervoor dat de medewerkers de gebruiksvoorschriften naleven&#160; en de hulpmiddelen voor het veilig werken met gevaarlijke stoffen gebruiken.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-105" type="policy">
+          <title>De arbodienst of arbodeskundige wordt geraadpleegd bij de introductie van nieuwe stoffen</title>
+          <description>&lt;p&gt;Nieuwe stoffen kunnen nog onbekende gezondheidseffecten hebben.&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-114">
+              <description>&lt;p&gt;Raadpleeg de arbodienst of arbodeskundige bij introductie van nieuwe stoffen.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Raadpleeg de arbodienst of arbodeskundige bij introductie van nieuwe stoffen.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-106" type="policy">
+          <title>Er is vastgesteld welke personen in verschillende situaties niet mogen werken met gevaarlijke stoffen</title>
+          <description>&lt;p&gt;Hierbij valt bijvoorbeeld te denken aan zwangeren, jeugdigen en mensen met eczeem. Raadpleeg hiervoor de Veiligheids- en Informatie Bladen.&lt;strong&gt;Meer informatie:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://www.arbo.nl/vervoerentransport/taxibedrijven/personeel/stoffen/stoffen?selchar=g" rel="nofollow" target="_blank"&gt;Arbo Platform Nederland&lt;/a&gt;&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-115">
+              <description>&lt;p&gt;Maak afspraken over welke risicogroepen in welke situaties niet mogen werken.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Maak afspraken over welke risicogroepen in welke situaties niet mogen werken.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+      </module>
+      <module external-id="M-18" optional="true">
+        <title>Werkkuil</title>
+        <description>&lt;p&gt;Het gebruik van een werkkuil is aan voorschriften gebonden.&lt;/p&gt;</description>
+        <question>Er is een werkkuil in de werkplaats aanwezig</question>
+        <risk external-id="R-108" type="risk">
+          <title>Er is voldoende ventilatie in de werkkuil</title>
+          <description>&lt;p&gt;De ventilatie in de werkkuil moet zodanig zijn dat de afzuiginstallatie minstens 30 seconden in werking is voordat de verlichting kan worden ingeschakeld. Eventuele gasdampen moeten worden afgezogen, er moet minstens een kubieke meter lucht per minuut worden afgezogen.&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-116">
+              <description>&lt;p&gt;Verbeter de ventilatie in de werkkuil. &#160;&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Verbeter de ventilatie in de werkkuil. &#160;&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-109" type="risk">
+          <title>Er bevinden zich geen obstakels in de werkkuil (bijv. olieafvoer)</title>
+          <description>&lt;p&gt;Obstakels kunnen verwondingen en hinder bij het werk veroorzaken.&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-117">
+              <description>&lt;p&gt;Zorg dat de werkkuil altijd is opgeruimd&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Zorg dat de werkkuil altijd is opgeruimd&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-110" type="risk">
+          <title>Per werkkuil is een tweede (nooduitgang) aanwezig.</title>
+          <description>&lt;p&gt;In een werkkuil moeten twee uitgangen aanwezig zijn (bijv. vaste ladder of klimijzers).&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-118">
+              <description>&lt;p&gt;Monteer een vaste ladder of klimijzers als tweede (nood)uitgang in de werkkuil.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Monteer een vaste ladder of klimijzers als tweede (nood)uitgang in de werkkuil.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-111" type="risk">
+          <title>Er is voldoende en explosievrije&#160;verlichting in de werkkuil aanwezig.</title>
+          <description>&lt;p&gt;Als het donker is in de werkkuil kunnen er ongelukken gebeuren.&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-119">
+              <description>&lt;p&gt;Breng extra verlichting aan in de werkkuil.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Breng extra verlichting aan in de werkkuil.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+      </module>
+      <module external-id="M-19" optional="true">
+        <title>Perslucht</title>
+        <description>&lt;p&gt;Het geluid van perslucht is behoorlijk belastend voor het gehoor, afhankelijk van de luchtdruk en het werkstuk kan het zelfs de pijngrens benaderen.&lt;/p&gt;</description>
+        <question>Er wordt gebruik gemaakt van perslucht.</question>
+        <risk external-id="R-113" type="risk">
+          <title>De compressor staat in een aparte ruimte</title>
+          <description>&lt;p&gt;De compressor is een grote geluidsbron. Als u zich afvraagt of het geluid te hard is kunt u het door een deskundige laten meten.&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-120">
+              <description>&lt;p&gt;Compressor in een aparte geluiddichte ruimte plaatsen, die is voorzien van een pictogram aanduiding&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Compressor in een aparte geluiddichte ruimte plaatsen, die is voorzien van een pictogram aanduiding&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-114" type="risk">
+          <title>De perslucht heeft de juiste werkdruk</title>
+          <description>&lt;p&gt;Vaak is de druk te hoog, waardoor het geluidsniveau te hoog wordt. Als u zich afvraagt of het geluid te hard is kunt u het door een deskundige laten meten.&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-121">
+              <description>&lt;p&gt;Juiste druk voor het werk instellen. &#160;&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Juiste druk voor het werk instellen. &#160;&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-115" type="risk">
+          <title>Geluidsarme afblaasdempers worden op de voorgeschreven wijze toegepast</title>
+          <description>&lt;p&gt;Het geluid bij het werken met perslucht wordt sterk be&#239;nvloed door het type spuitmond en afblaasdemper. Als u zich afvraagt of het geluid te hard is kunt u het door een deskundige laten meten.&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-122">
+              <description>&lt;p&gt;Geluidsarme spuitmondstukken en afblaasdempers toepassen. Gehoorbescherming dragen&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Geluidsarme spuitmondstukken en afblaasdempers toepassen. Gehoorbescherming dragen&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-116" type="risk">
+          <title>Medewerkers werken niet meer dan 30 minuten per dag met perslucht aangedreven handgereedschap</title>
+          <description>&lt;p&gt;Gereedschap kan door perslucht of elektrisch aangedreven zijn. Perslucht brengt een hogere geluidsbelasting met zich mee. Als u zich afvraagt of het geluid te hard is kunt u het door een deskundige laten meten.&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-123">
+              <description>&lt;p&gt;Afwisseling van werkzaamheden brengt vermindering van geluidsbelasting per werknemer met zich mee.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Afwisseling van werkzaamheden brengt vermindering van geluidsbelasting per werknemer met zich mee.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+      </module>
+      <module external-id="M-20" optional="true">
+        <title>Hefbrug</title>
+        <description>&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;</description>
+        <question>Er is een hefbrug (evt. boven de kuil) om een juiste werkhoogte te cre&#235;ren</question>
+        <risk external-id="R-118" type="risk">
+          <title>Het hefvermogen is duidelijk zichtbaar</title>
+          <description>&lt;p&gt;Op een opvallende plaats dient het maximum hefvermogen te zijn aangebracht.&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-124">
+              <description>&lt;p&gt;Laat door leverancier aanduiding aanbrengen.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Laat door leverancier aanduiding aanbrengen.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-119" type="risk">
+          <title>De brug is voorzien van afrijbeveiliging</title>
+          <description>&lt;p&gt;Een groot risico is dat een voertuig van de hefbrug afrolt.&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-125">
+              <description>&lt;p&gt;Voorzie de hefbrug van een afrijbeveiliging.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Voorzie de hefbrug van een afrijbeveiliging.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-120" type="risk">
+          <title>Er is minimaal 6 cm ruimte tussen de vloer en de laagste stand</title>
+          <description>&lt;p&gt;Dit om knelgevaar voor de voeten te voorkomen.&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-126">
+              <description>&lt;p&gt;Zorg dat er bij de hefbrug minimaal 6 cm ruimte blijft tussen de laagste stand en de vloer.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Zorg dat er bij de hefbrug minimaal 6 cm ruimte blijft tussen de laagste stand en de vloer.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+      </module>
+      <module external-id="M-21" optional="true">
+        <title>Autogeen lassen</title>
+        <description>&lt;p&gt;Voor het gebruik van autogeen las- en snijdapparatuur gelden speciale voorschriften. Er worden eisen gesteld aan de apparatuur en aan het gebruik.&lt;/p&gt;</description>
+        <question>In het bedrijf wordt autogeen gelast</question>
+        <risk external-id="R-122" type="risk">
+          <title>Iedere werkplek waar wordt gelast is voorzien van lokale afzuiging</title>
+          <description>&lt;p&gt;Bij de meeste las- of snijdwerkzaamheden is lokale afzuiging verplicht, het moet voldoende capaciteit hebben, er moet voldoende ventilatie zijn.&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-127">
+              <description>&lt;p&gt;Zorg voor voldoende afzuiging met vaste of mobiele apparatuur.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Zorg voor voldoende afzuiging met vaste of mobiele apparatuur.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-123" type="risk">
+          <title>De gasflessen voor autogeen lassen zijn geborgd tegen omvallen</title>
+          <description>&lt;p&gt;De flessen moeten rechtop staan, en geborgd zijn met een ketting of steun zodat onder andere lekkage wordt voorkomen&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-128">
+              <description>&lt;p&gt;Zorg dat gascilinders rechtop opgeslagen worden en vastgezet zijn tegen omvallen. Zorg voor een geschikte steun, vraag leverancier.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Zorg dat gascilinders rechtop opgeslagen worden en vastgezet zijn tegen omvallen. Zorg voor een geschikte steun, vraag leverancier.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-124" type="risk">
+          <title>Bij autogeen lassen zitten de afsluiters (sleutels) op de flessen</title>
+          <description>&lt;p&gt;In noodsituaties moeten de flessen direct afgesloten kunnen worden.&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-129">
+              <description>&lt;p&gt;Breng de sleutels aan op de flessen voor autogeen lassen.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Breng de sleutels aan op de flessen voor autogeen lassen.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-125" type="risk">
+          <title>Bij autogeen lassen wordt gebruik gemaakt van een vlamdover.</title>
+          <description>&lt;p&gt;Een vlamdover zorgt er voor dat de vlam niet in de fles kan schieten.&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-130">
+              <description>&lt;p&gt;Breng een vlamdover aan op de lasapparatuur.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Breng een vlamdover aan op de lasapparatuur.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-126" type="risk">
+          <title>Bij autogeen lassen is er een brandscherm aanwezig tussen de flessen</title>
+          <description>&lt;p&gt;Dit is voor een veilige scheiding van de twee gassen.&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-131">
+              <description>&lt;p&gt;Maak een brandscherm tussen de gasflessen voor autogeen lassen.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Maak een brandscherm tussen de gasflessen voor autogeen lassen.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-127" type="risk">
+          <title>Bij autogeen lassen is er een lasbril aanwezig</title>
+          <description>&lt;p&gt;Ter bescherming van de ogen van de lasser.&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-132">
+              <description>&lt;p&gt;Schaf &#233;&#233;n of meer lasbrillen aan.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Schaf &#233;&#233;n of meer lasbrillen aan.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-128" type="risk">
+          <title>Bij autogeen lassen is altijd aandacht voor de kwaliteit van leidingen en slangen (barstjes) en is er een periodieke controle op lekkage van de slangen</title>
+          <description>&lt;p&gt;De slangen kunnen gaan lekken, dat kan tot brand of explosies leiden.&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-133">
+              <description>&lt;p&gt;Schaf indien nodig nieuwe slangen aan voor het autogeen lassen. Plan minimaal jaarlijkse controle van de slangen voor autogeen lassen op lekken.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Schaf indien nodig nieuwe slangen aan voor het autogeen lassen. Plan minimaal jaarlijkse controle van de slangen voor autogeen lassen op lekken.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-129" type="risk">
+          <title>Bij warmstoken hebben verwarmingstoestellen of werktuigen een lage oppervlaktetemperatuur</title>
+          <description>&lt;p&gt;Bij het autogeen lassen zijn verwarmingstoestellen met hoge oppervlaktetemperatuur verboden, tenzij speciale constructieve maatregelen zijn getroffen.&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-134">
+              <description>&lt;p&gt;Zorg dat bij warmstoken de werktuigen niet te warm worden.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Zorg dat bij warmstoken de werktuigen niet te warm worden.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-130" type="risk">
+          <title>Bij het gebruik van propaan staat er een norm op de slang</title>
+          <description>&lt;p&gt;Bij het gebruik van propaan moeten slangen voldoen aan een specifieke norm: NEN-EN559:2003en.&lt;/p&gt;</description>
+          <show-not-applicable>yes</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-135">
+              <description>&lt;p&gt;Gebruik bij het werken met propaan slangen met de juiste norm&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Gebruik bij het werken met propaan slangen met de juiste norm&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-131" type="risk">
+          <title>Er is een nooddouche met voldoende capaciteit of er is een branddeken aanwezig</title>
+          <description>&lt;p&gt;In geval van nood moeten de ogen gespoeld kunnen worden en bij brand is een blusdeken noodzakelijk.&lt;/p&gt;&lt;p&gt;Een blusdeken moet zo zijn opgeslagen dat deze tegen verfnevels en stof beschut is.&lt;br/&gt;&#160;&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-136">
+              <description>&lt;p&gt;Zorg voor een nooddouche of branddeken. Een praktische mogelijkheid is het monteren van een handdouche aan een bestaande kraan.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Zorg voor een nooddouche of branddeken. Een praktische mogelijkheid is het monteren van een handdouche aan een bestaande kraan.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+      </module>
+      <module external-id="M-22" optional="true">
+        <title>Elektrisch lassen</title>
+        <description>&lt;p&gt;Voor elektrisch lassen&#160; gelden speciale voorschriften. Er worden eisen gesteld aan de apparatuur en aan het gebruik.&lt;/p&gt;</description>
+        <question>Er wordt elektrisch gelast in het bedrijf</question>
+        <risk external-id="R-133" type="risk">
+          <title>Iedere werkplek waar wordt gelast is voorzien van lokale afzuiging</title>
+          <description>&lt;p&gt;Bij de meeste las- of snijdwerkzaamheden is lokale afzuiging verplicht, het moet voldoende capaciteit hebben, er moet voldoende ventilatie zijn.&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-137">
+              <description>&lt;p&gt;Zorg voor voldoende afzuiging met vaste of mobiele apparatuur.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Zorg voor voldoende afzuiging met vaste of mobiele apparatuur.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-134" type="risk">
+          <title>De voedingskabel van de transformator bij elektrisch lassen is onbeschadigd</title>
+          <description>&lt;p&gt;Beschadigde kabels hebben het risico van elektrocutie.&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-138">
+              <description>&lt;p&gt;Schaf een nieuwe voedingskabel voor de transformator voor elektrisch lassen aan of repareer de huidige.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Schaf een nieuwe voedingskabel voor de transformator voor elektrisch lassen aan of repareer de huidige.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-135" type="risk">
+          <title>De veiligheidsbril bij elektrisch lassen is aanwezig</title>
+          <description>&lt;p&gt;Bij het elektrisch lassen ontstaat lasslak. Bij het wegbikken van lasslak kunnen delen wegspringen.&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-139">
+              <description>&lt;p&gt;Schaf veiligheidsbrillen voor bij het elektrisch lassen aan.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Schaf veiligheidsbrillen voor bij het elektrisch lassen aan.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-136" type="risk">
+          <title>Bij elektrisch lassen is een laskap aanwezig</title>
+          <description>&lt;p&gt;Dit is ter bescherming van de ogen.&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-140">
+              <description>&lt;p&gt;Schaf laskappen voor bij het elektrisch lassen aan.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Schaf laskappen voor bij het elektrisch lassen aan.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
+        <risk external-id="R-137" type="risk">
+          <title>Er is een nooddouche met voldoende capaciteit of er is een branddeken, die tegen verfnevels en stof beschut is opgeslagen</title>
+          <description>&lt;p&gt;In geval van nood moeten de ogen gespoeld kunnen worden en bij brand is een blusdeken noodzakelijk.&lt;/p&gt;&lt;p&gt;Een blusdeken moet zo zijn opgeslagen dat deze tegen verfnevels en stof beschut is.&lt;/p&gt;</description>
+          <show-not-applicable>no</show-not-applicable>
+          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+          <solutions>
+            <solution external-id="O-141">
+              <description>&lt;p&gt;Zorg voor een nooddouche of branddeken. Een praktische mogelijkheid is het monteren van een handdouche aan een bestaande kraan.&lt;/p&gt;</description>
+              <action-plan>&lt;p&gt;Zorg voor een nooddouche of branddeken. Een praktische mogelijkheid is het monteren van een handdouche aan een bestaande kraan.&lt;/p&gt;</action-plan>
+            </solution>
+          </solutions>
+        </risk>
       </module>
     </profile-question>
+
     <profile-question external-id="KLV-321" type="optional">
-      <title>Heeft u een carwash/wasplaats?</title>
+      <title>Wasplaats</title>
       <question>Heeft u een carwash/wasplaats?</question>
       <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
-      <module external-id="M-23" optional="no">
-        <title>Wasplaats</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
-        <risk external-id="R-138" type="risk">
-          <title>De medewerkers zijn bekend met de werkinstructies van de carwash/hogedrukreiniger</title>
-          <description>&lt;p&gt;De aanwezigheid van duidelijke instructies voorkomt fouten en ongevallen. Zo moet bijvoorbeeld duidelijk zijn of de auto met of zonder chauffeur door de carwash gaat.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
-          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-          <solutions>
-            <solution external-id="O-142">
-              <description>&lt;p&gt;Plaats duidelijke werkinstructies bij de carwash/hogedrukreiniger.&lt;/p&gt;</description>
-              <action-plan>&lt;p&gt;Plaats duidelijke werkinstructies bij de carwash/hogedrukreiniger.&lt;/p&gt;</action-plan>
-            </solution>
-          </solutions>
-        </risk>
-        <risk external-id="R-139" type="risk">
-          <title>De carwash heeft een goed bereikbare noodstop</title>
-          <description>&lt;p&gt;Als er in het wasproces iets fout gaat moet de machine direct gestopt kunnen worden. Dit kan door een knop die voor iedereen zichtbaar, bereikbaar en toegangelijk is. &#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
-          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-          <solutions>
-            <solution external-id="O-143">
-              <description>&lt;p&gt;Plaats een goed bereikbare noodstop bij de carwash.&lt;/p&gt;</description>
-              <action-plan>&lt;p&gt;Plaats een goed bereikbare noodstop bij de carwash.&lt;/p&gt;</action-plan>
-            </solution>
-          </solutions>
-        </risk>
-        <risk external-id="R-140" type="risk">
-          <title>De carwash kan op afstand gestart worden of er is een beschutte bedieningsplaats</title>
-          <description>&lt;p&gt;Medewerkers mogen niet in aanraking komen met heet water en/of was.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
-          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-          <solutions>
-            <solution external-id="O-144">
-              <description>&lt;p&gt;Zorg dat de carwash op afstand bediend kan worden of maak een beschutte bedieningsplaats voor de carwash.&lt;/p&gt;</description>
-              <action-plan>&lt;p&gt;Zorg dat de carwash op afstand bediend kan worden of maak een beschutte bedieningsplaats voor de carwash.&lt;/p&gt;</action-plan>
-            </solution>
-          </solutions>
-        </risk>
-        <risk external-id="R-141" type="risk">
-          <title>Er zijn maatregelen genomen om besmetting met de legionella bacterie te voorkomen</title>
-          <description>&lt;p&gt;De kans op blootstelling aan de legionellabacterie is uiterst klein, maar wel aanwezig. Alertheid is geboden op plaatsen waar water, met een temperatuur tussen de 25&#176;C en 60&#176;C, gedurende lange tijd stilstaat, in combinatie met verneveling.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
-          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-          <solutions>
-            <solution external-id="O-145">
-              <description>&lt;p&gt;Laat een risicoanalyse uitvoeren naar de mogelijke blootstelling aan legionella. Als hieruit blijkt dat er kans is op vermeerdering van legionellabacteri&#235;n , dan dienen er maatregelen genomen te worden om risico&#8217;s te beheersen. Ook als er geen risico&#8217;s aa&lt;/p&gt;</description>
-              <action-plan>&lt;p&gt;Laat een risicoanalyse uitvoeren naar de mogelijke blootstelling aan legionella. Als hieruit blijkt dat er kans is op vermeerdering van legionellabacteri&#235;n , dan dienen er maatregelen genomen te worden om risico&#8217;s te beheersen. Ook als er geen risico&#8217;s aanwezig zijn moeten maatregelen als bijv. temperatuurscontrole worden genomen om de kwaliteit van het leidingwater te waarborgen.&lt;/p&gt;</action-plan>
-            </solution>
-          </solutions>
-        </risk>
-      </module>
+      <risk external-id="R-138" type="risk">
+        <title>De medewerkers zijn bekend met de werkinstructies van de carwash/hogedrukreiniger</title>
+        <description>&lt;p&gt;De aanwezigheid van duidelijke instructies voorkomt fouten en ongevallen. Zo moet bijvoorbeeld duidelijk zijn of de auto met of zonder chauffeur door de carwash gaat.&lt;/p&gt;</description>
+        <show-not-applicable>no</show-not-applicable>
+        <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+        <solutions>
+          <solution external-id="O-142">
+            <description>&lt;p&gt;Plaats duidelijke werkinstructies bij de carwash/hogedrukreiniger.&lt;/p&gt;</description>
+            <action-plan>&lt;p&gt;Plaats duidelijke werkinstructies bij de carwash/hogedrukreiniger.&lt;/p&gt;</action-plan>
+          </solution>
+        </solutions>
+      </risk>
+      <risk external-id="R-139" type="risk">
+        <title>De carwash heeft een goed bereikbare noodstop</title>
+        <description>&lt;p&gt;Als er in het wasproces iets fout gaat moet de machine direct gestopt kunnen worden. Dit kan door een knop die voor iedereen zichtbaar, bereikbaar en toegangelijk is. &#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;</description>
+        <show-not-applicable>no</show-not-applicable>
+        <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+        <solutions>
+          <solution external-id="O-143">
+            <description>&lt;p&gt;Plaats een goed bereikbare noodstop bij de carwash.&lt;/p&gt;</description>
+            <action-plan>&lt;p&gt;Plaats een goed bereikbare noodstop bij de carwash.&lt;/p&gt;</action-plan>
+          </solution>
+        </solutions>
+      </risk>
+      <risk external-id="R-140" type="risk">
+        <title>De carwash kan op afstand gestart worden of er is een beschutte bedieningsplaats</title>
+        <description>&lt;p&gt;Medewerkers mogen niet in aanraking komen met heet water en/of was.&lt;/p&gt;</description>
+        <show-not-applicable>no</show-not-applicable>
+        <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+        <solutions>
+          <solution external-id="O-144">
+            <description>&lt;p&gt;Zorg dat de carwash op afstand bediend kan worden of maak een beschutte bedieningsplaats voor de carwash.&lt;/p&gt;</description>
+            <action-plan>&lt;p&gt;Zorg dat de carwash op afstand bediend kan worden of maak een beschutte bedieningsplaats voor de carwash.&lt;/p&gt;</action-plan>
+          </solution>
+        </solutions>
+      </risk>
+      <risk external-id="R-141" type="risk">
+        <title>Er zijn maatregelen genomen om besmetting met de legionella bacterie te voorkomen</title>
+        <description>&lt;p&gt;De kans op blootstelling aan de legionellabacterie is uiterst klein, maar wel aanwezig. Alertheid is geboden op plaatsen waar water, met een temperatuur tussen de 25&#176;C en 60&#176;C, gedurende lange tijd stilstaat, in combinatie met verneveling.&lt;/p&gt;</description>
+        <show-not-applicable>no</show-not-applicable>
+        <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+        <solutions>
+          <solution external-id="O-145">
+            <description>&lt;p&gt;Laat een risicoanalyse uitvoeren naar de mogelijke blootstelling aan legionella. Als hieruit blijkt dat er kans is op vermeerdering van legionellabacteri&#235;n , dan dienen er maatregelen genomen te worden om risico&#8217;s te beheersen. Ook als er geen risico&#8217;s aa&lt;/p&gt;</description>
+            <action-plan>&lt;p&gt;Laat een risicoanalyse uitvoeren naar de mogelijke blootstelling aan legionella. Als hieruit blijkt dat er kans is op vermeerdering van legionellabacteri&#235;n , dan dienen er maatregelen genomen te worden om risico&#8217;s te beheersen. Ook als er geen risico&#8217;s aanwezig zijn moeten maatregelen als bijv. temperatuurscontrole worden genomen om de kwaliteit van het leidingwater te waarborgen.&lt;/p&gt;</action-plan>
+          </solution>
+        </solutions>
+      </risk>
     </profile-question>
+
     <profile-question external-id="KLV-322" type="optional">
-      <title>Heeft u een brandstofvoorziening?</title>
+      <title>Brandstofvoorziening</title>
       <question>Heeft u een brandstofvoorziening?</question>
       <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
-      <module external-id="M-24" optional="no">
-        <title>Brandstofvoorziening</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
-        <risk external-id="R-142" type="risk">
-          <title>Bij het tankstation is een brandblusser aanwezig</title>
-          <description>&lt;p&gt;Een tankstation brengt vanzelfsprekend brandgevaar met zich mee. Voor het blussen van vloeistoffen (zoals benzine) is een poederblusser nodig. Voor het blussen van een elektriciteitsbrand is koolzuursneeuw gewenst. Laat u altijd adviseren door brandweer of door een erkende instantie.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
-          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-          <solutions>
-            <solution external-id="O-146">
-              <description>&lt;p&gt;Breng brandblusmiddelen aan bij het tankstation. Laat u door brandweer of erkende instantie adviseren over de aanschaf van het meest geschikte blusmiddel.&lt;/p&gt;</description>
-              <action-plan>&lt;p&gt;Breng brandblusmiddelen aan bij het tankstation. Laat u door brandweer of erkende instantie adviseren over de aanschaf van het meest geschikte blusmiddel.&lt;/p&gt;</action-plan>
-            </solution>
-          </solutions>
-        </risk>
-        <risk external-id="R-143" type="policy">
-          <title>Bij het tankstation geldt een rookverbod en dat is met een verbodsbord aangegeven</title>
-          <description>&lt;p&gt;Een tankstation brengt vanzelfsprekend brandgevaar en daarom een rookverbod met zich mee.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
-          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-          <solutions>
-            <solution external-id="O-147">
-              <description>&lt;p&gt;Breng een bord &#8216;rookverbod&#8217; aan bij het tankstation. &#160;&lt;/p&gt;</description>
-              <action-plan>&lt;p&gt;Breng een bord &#8216;rookverbod&#8217; aan bij het tankstation. &#160;&lt;/p&gt;</action-plan>
-            </solution>
-          </solutions>
-        </risk>
-        <risk external-id="R-144" type="risk">
-          <title>Bij het tankstation is in de vloer een afvoer voor gemorste benzine of diesel aanwezig</title>
-          <description>&lt;p&gt;Gemorste benzine of diesel maakt de vloer glad, met gevaar voor uitglijden.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
-          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-          <solutions>
-            <solution external-id="O-148">
-              <description>&lt;p&gt;Zorg bij de tankplaats voor een vloeistofdichte vloer met afvoergoot. Zorg voor regelmatige schoonmaak van deze vloer.&lt;/p&gt;</description>
-              <action-plan>&lt;p&gt;Zorg bij de tankplaats voor een vloeistofdichte vloer met afvoergoot. Zorg voor regelmatige schoonmaak van deze vloer.&lt;/p&gt;</action-plan>
-            </solution>
-          </solutions>
-        </risk>
-        <risk external-id="R-145" type="risk">
-          <title>Bij het tankstation zijn handschoenen voor de chauffeurs beschikbaar of kan een chauffeur de handen wassen na het tanken</title>
-          <description>&lt;p&gt;Na het tanken moet de chauffeur de lucht van benzine / diesel van de handen kunnen wassen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
-          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-          <solutions>
-            <solution external-id="O-149">
-              <description>&lt;p&gt;Zorg voor (wegwerp) handschoenen bij het tankstation of voor een kraan met wasbakje met zeep.&lt;/p&gt;</description>
-              <action-plan>&lt;p&gt;Zorg voor (wegwerp) handschoenen bij het tankstation of voor een kraan met wasbakje met zeep.&lt;/p&gt;</action-plan>
-            </solution>
-          </solutions>
-        </risk>
-      </module>
+      <risk external-id="R-142" type="risk">
+        <title>Bij het tankstation is een brandblusser aanwezig</title>
+        <description>&lt;p&gt;Een tankstation brengt vanzelfsprekend brandgevaar met zich mee. Voor het blussen van vloeistoffen (zoals benzine) is een poederblusser nodig. Voor het blussen van een elektriciteitsbrand is koolzuursneeuw gewenst. Laat u altijd adviseren door brandweer of door een erkende instantie.&lt;/p&gt;</description>
+        <show-not-applicable>no</show-not-applicable>
+        <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+        <solutions>
+          <solution external-id="O-146">
+            <description>&lt;p&gt;Breng brandblusmiddelen aan bij het tankstation. Laat u door brandweer of erkende instantie adviseren over de aanschaf van het meest geschikte blusmiddel.&lt;/p&gt;</description>
+            <action-plan>&lt;p&gt;Breng brandblusmiddelen aan bij het tankstation. Laat u door brandweer of erkende instantie adviseren over de aanschaf van het meest geschikte blusmiddel.&lt;/p&gt;</action-plan>
+          </solution>
+        </solutions>
+      </risk>
+      <risk external-id="R-143" type="policy">
+        <title>Bij het tankstation geldt een rookverbod en dat is met een verbodsbord aangegeven</title>
+        <description>&lt;p&gt;Een tankstation brengt vanzelfsprekend brandgevaar en daarom een rookverbod met zich mee.&lt;/p&gt;</description>
+        <show-not-applicable>no</show-not-applicable>
+        <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+        <solutions>
+          <solution external-id="O-147">
+            <description>&lt;p&gt;Breng een bord &#8216;rookverbod&#8217; aan bij het tankstation. &#160;&lt;/p&gt;</description>
+            <action-plan>&lt;p&gt;Breng een bord &#8216;rookverbod&#8217; aan bij het tankstation. &#160;&lt;/p&gt;</action-plan>
+          </solution>
+        </solutions>
+      </risk>
+      <risk external-id="R-144" type="risk">
+        <title>Bij het tankstation is in de vloer een afvoer voor gemorste benzine of diesel aanwezig</title>
+        <description>&lt;p&gt;Gemorste benzine of diesel maakt de vloer glad, met gevaar voor uitglijden.&lt;/p&gt;</description>
+        <show-not-applicable>no</show-not-applicable>
+        <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+        <solutions>
+          <solution external-id="O-148">
+            <description>&lt;p&gt;Zorg bij de tankplaats voor een vloeistofdichte vloer met afvoergoot. Zorg voor regelmatige schoonmaak van deze vloer.&lt;/p&gt;</description>
+            <action-plan>&lt;p&gt;Zorg bij de tankplaats voor een vloeistofdichte vloer met afvoergoot. Zorg voor regelmatige schoonmaak van deze vloer.&lt;/p&gt;</action-plan>
+          </solution>
+        </solutions>
+      </risk>
+      <risk external-id="R-145" type="risk">
+        <title>Bij het tankstation zijn handschoenen voor de chauffeurs beschikbaar of kan een chauffeur de handen wassen na het tanken</title>
+        <description>&lt;p&gt;Na het tanken moet de chauffeur de lucht van benzine / diesel van de handen kunnen wassen.&lt;/p&gt;</description>
+        <show-not-applicable>no</show-not-applicable>
+        <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+        <solutions>
+          <solution external-id="O-149">
+            <description>&lt;p&gt;Zorg voor (wegwerp) handschoenen bij het tankstation of voor een kraan met wasbakje met zeep.&lt;/p&gt;</description>
+            <action-plan>&lt;p&gt;Zorg voor (wegwerp) handschoenen bij het tankstation of voor een kraan met wasbakje met zeep.&lt;/p&gt;</action-plan>
+          </solution>
+        </solutions>
+      </risk>
     </profile-question>
+
     <profile-question external-id="KLV-323" type="optional">
-      <title>Heeft u een stalling?</title>
+      <title>Stalling</title>
       <question>Heeft u een stalling?</question>
       <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
-      <module external-id="M-25" optional="no">
-        <title>Stalling</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
-        <risk external-id="R-146" type="risk">
-          <title>De stalling heeft voldoende vaste ventilatieopeningen om concentratie van uitlaatgassen te voorkomen</title>
-          <description>&lt;p&gt;Uitlaatgassen zijn giftig, snelle afvoer is noodzakelijk.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
-          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-          <solutions>
-            <solution external-id="O-150">
-              <description>&lt;p&gt;Breng vaste ventilatieopeningen aan in de voertuigen stalling om uitlaatgassen af te voeren.&lt;/p&gt;</description>
-              <action-plan>&lt;p&gt;Breng vaste ventilatieopeningen aan in de voertuigen stalling om uitlaatgassen af te voeren.&lt;/p&gt;</action-plan>
-            </solution>
-          </solutions>
-        </risk>
-        <risk external-id="R-147" type="risk">
-          <title>Loop- en rijroutes zijn goed aangegeven, zo mogelijk van elkaar gescheiden</title>
-          <description>&lt;p&gt;Als de stalling onoverzichtelijk&#160; is, is een aanrijding snel gebeurd.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
-          <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
-          <solutions>
-            <solution external-id="O-151">
-              <description>&lt;p&gt;Geef loop- en rijroutes in de stalling duidelijk aan.&lt;/p&gt;</description>
-              <action-plan>&lt;p&gt;Geef loop- en rijroutes in de stalling duidelijk aan.&lt;/p&gt;</action-plan>
-            </solution>
-          </solutions>
-        </risk>
-      </module>
+      <risk external-id="R-146" type="risk">
+        <title>De stalling heeft voldoende vaste ventilatieopeningen om concentratie van uitlaatgassen te voorkomen</title>
+        <description>&lt;p&gt;Uitlaatgassen zijn giftig, snelle afvoer is noodzakelijk.&lt;/p&gt;</description>
+        <show-not-applicable>no</show-not-applicable>
+        <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+        <solutions>
+          <solution external-id="O-150">
+            <description>&lt;p&gt;Breng vaste ventilatieopeningen aan in de voertuigen stalling om uitlaatgassen af te voeren.&lt;/p&gt;</description>
+            <action-plan>&lt;p&gt;Breng vaste ventilatieopeningen aan in de voertuigen stalling om uitlaatgassen af te voeren.&lt;/p&gt;</action-plan>
+          </solution>
+        </solutions>
+      </risk>
+      <risk external-id="R-147" type="risk">
+        <title>Loop- en rijroutes zijn goed aangegeven, zo mogelijk van elkaar gescheiden</title>
+        <description>&lt;p&gt;Als de stalling onoverzichtelijk&#160; is, is een aanrijding snel gebeurd.&lt;/p&gt;</description>
+        <show-not-applicable>no</show-not-applicable>
+        <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
+        <solutions>
+          <solution external-id="O-151">
+            <description>&lt;p&gt;Geef loop- en rijroutes in de stalling duidelijk aan.&lt;/p&gt;</description>
+            <action-plan>&lt;p&gt;Geef loop- en rijroutes in de stalling duidelijk aan.&lt;/p&gt;</action-plan>
+          </solution>
+        </solutions>
+      </risk>
     </profile-question>
+
     <module external-id="M-26" optional="no">
       <title>Apparatuur/installaties</title>
       <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>

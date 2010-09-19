@@ -72,23 +72,23 @@ working_surveys = [
     ( "Drogisterij en Parfumeriedetailhandel", "Drogisterij", "KNDB & CBD", 12, True),
     ( "Ambulante Handel", "Detailhandel", "CVAH/ Hoofdbedrijfschap Detailhandel (HBD)", 70, True),
     ( "Bakkerijen", "Akkerbouw", "Hoofd Productschap Akkerbouw", 92, True),
+    ( "Elektrotechnische detailhandel", "Elektrotechnisch", "Uneto VNI", 111, True),
+    ( "Houthandel VVNH", "Houthandel", "Vereniging Van Nederlandse Houtondernemingen (VVNH)", 90, True),
+    ( "Taxibedrijven", "Taxi", "Sociaal Fonds Taxi", 42, True),
+    ( "Voertuigdemontagebedrijven", "Voertuigdemontage", "Stiba", 105, True),
+    ( "Timmerindustrie", "Timmerindustrie", "Sociaal fonds voor de timmerindustrie", 95, True),
+    ( "Paddenstoelenteelt", "Stigas", "Stigas", 63, True),
+    ( "Dierenspeciaalzaken", "Divebo", "Divebo", 110, True),
+    ( "Gewasbeschermingsmiddelen", "Gewasbescherming", "Vereniging AGRODIS", 52, True),
     ]
 
 pending_surveys = [
     ( "Contractcatering", "Contractcatering", "Stichtingen ContractCatering", 71, True),
-    ( "Elektrotechnische detailhandel", "Elektrotechnisch", "Uneto VNI", 111, True),
     ( "Home Entertainment Retailers", "Entertainment", "Nederlandse Vereniging van Entertainment Retailers (NVER)", 86, True),
-    ( "Houthandel VVNH", "Houthandel", "Vereniging Van Nederlandse Houtondernemingen (VVNH)", 90, True),
     ( "Levensmiddelendetailhandel", "Levensmiddelen", "Vakcentrum Levensmiddelen", 72, True),
-    ( "Taxibedrijven", "Taxi", "Sociaal Fonds Taxi", 42, True),
     ( "Kottervisserij", "Vis", "Productschap Vis", 34, True),
-    ( "Voertuigdemontagebedrijven", "Voertuigdemontage", "Stiba", 105, True),
     ( "Visdetailhandel", "Vis", "Productschap Vis", 2, True),
-    ( "Timmerindustrie", "Timmerindustrie", "Sociaal fonds voor de timmerindustrie", 95, True),
-    ( "Paddenstoelenteelt", "Stigas", "Stigas", 63, True),
-    ( "Dierenspeciaalzaken", "Divebo", "Divebo", 110, True),
     ( "Universitair Medische Centra / Academische Ziekenhuizen", "NFU", "NFU, Arboconvenant Academische Ziekenhuizen", 35, True),
-    ( "Gewasbeschermingsmiddelen", "Gewasbescherming", "Vereniging AGRODIS", 52, True),
     ]
 
 surveys = working_surveys + pending_surveys

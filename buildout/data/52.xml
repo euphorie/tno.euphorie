@@ -1527,6 +1527,7 @@ N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duideli
         <title>Toepassen van gewasbeschermingsmiddelen</title>
         <description>&lt;p&gt;Denk hierbij aan:&lt;/p&gt;&lt;p&gt;Zaaizaadontsmettingsinstallatie,&#160; &#160;Aardappel gasinstallaties / aardappeldouches,&#160; Bolontsmettingsinstallatie etc.&lt;/p&gt;</description>
         <question>Er worden Gewasbeschermingsmiddelen toegepast of er worden machines beschikbaar gestelt / verhuurt om gewasbeschermingsmiddelen toe te passen.</question>
+<!--
         <module external-id="M-3561" optional="true">
           <title>Zaaizaadontsmetting</title>
           <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
@@ -1691,6 +1692,7 @@ N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duideli
             </solutions>
           </risk>
         </module>
+-->
       </module>
     </module>
     <module external-id="M-1355" optional="true">

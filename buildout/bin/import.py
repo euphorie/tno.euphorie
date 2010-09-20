@@ -121,7 +121,7 @@ surveys = working_surveys + pending_surveys
 
 devnull=open("/dev/null", "w")
 
-for (name, login, sector, index, publish) in working_surveys[:-1]:
+for (name, login, sector, index, publish) in working_surveys:
     login=login.lower()
     logo="data/%s.png" % index
     input="data/%s.xml" % index

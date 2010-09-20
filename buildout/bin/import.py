@@ -80,6 +80,7 @@ working_surveys = [
     ( "Paddenstoelenteelt", "Stigas", "Stigas", 63, True),
     ( "Dierenspeciaalzaken", "Divebo", "Divebo", 110, True),
     ( "Gewasbeschermingsmiddelen", "Gewasbescherming", "Vereniging AGRODIS", 52, True),
+    ( "Verloskundigen", "knov", "KNOV",  113, False ),
     ]
 
 pending_surveys = [
@@ -120,7 +121,7 @@ surveys = working_surveys + pending_surveys
 
 devnull=open("/dev/null", "w")
 
-for (name, login, sector, index, publish) in working_surveys:
+for (name, login, sector, index, publish) in working_surveys[:-1]:
     login=login.lower()
     logo="data/%s.png" % index
     input="data/%s.xml" % index

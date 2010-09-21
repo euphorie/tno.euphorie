@@ -80,6 +80,7 @@ working_surveys = [
     ( "Paddenstoelenteelt", "Stigas", "Stigas", 63, True),
     ( "Dierenspeciaalzaken", "Divebo", "Divebo", 110, True),
     ( "Gewasbeschermingsmiddelen", "Gewasbescherming", "Vereniging AGRODIS", 52, True),
+    ( "Universitair Medische Centra / Academische Ziekenhuizen", "NFU", "NFU, Arboconvenant Academische Ziekenhuizen", 35, True),
     ( "Verloskundigen", "knov", "KNOV",  113, False ),
     ]
 
@@ -89,7 +90,6 @@ pending_surveys = [
     ( "Levensmiddelendetailhandel", "Levensmiddelen", "Vakcentrum Levensmiddelen", 72, True),
     ( "Kottervisserij", "Vis", "Productschap Vis", 34, True),
     ( "Visdetailhandel", "Vis", "Productschap Vis", 2, True),
-    ( "Universitair Medische Centra / Academische Ziekenhuizen", "NFU", "NFU, Arboconvenant Academische Ziekenhuizen", 35, True),
     ]
 
 colours = {

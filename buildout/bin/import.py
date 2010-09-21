@@ -82,14 +82,14 @@ working_surveys = [
     ( "Gewasbeschermingsmiddelen", "Gewasbescherming", "Vereniging AGRODIS", 52, True),
     ( "Universitair Medische Centra / Academische Ziekenhuizen", "NFU", "NFU, Arboconvenant Academische Ziekenhuizen", 35, True),
     ( "Verloskundigen", "knov", "KNOV",  113, False ),
-    ]
-
-pending_surveys = [
-    ( "Contractcatering", "Contractcatering", "Stichtingen ContractCatering", 71, True),
     ( "Home Entertainment Retailers", "Entertainment", "Nederlandse Vereniging van Entertainment Retailers (NVER)", 86, True),
+    ( "Contractcatering", "Contractcatering", "Stichtingen ContractCatering", 71, True),
     ( "Levensmiddelendetailhandel", "Levensmiddelen", "Vakcentrum Levensmiddelen", 72, True),
     ( "Kottervisserij", "Vis", "Productschap Vis", 34, True),
     ( "Visdetailhandel", "Vis", "Productschap Vis", 2, True),
+    ]
+
+pending_surveys = [
     ]
 
 colours = {

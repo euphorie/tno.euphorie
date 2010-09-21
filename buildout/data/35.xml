@@ -248,7 +248,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
     <epilogue>&lt;p&gt;Rapporteren &amp;gt; Rapport naar arbodienst &lt;/p&gt;&lt;p&gt;Rapport naar arbodienst &lt;/p&gt;&lt;p&gt;U bent bij de laatste stap. Hierbij kunt u een XML-bestand maken. &lt;br/&gt;Als u dit doet, kunt u geen wijzigingen meer in het bestand aan brengen. Er wordt automatisch een kopie aangemaakt, waarin u wel kunt werken.&lt;/p&gt;&lt;p&gt;Dit XML-bestand stuurt u per e-mail (als attachment/bijlage) naar de Arbodienst en/of de divisiemanager. Het wordt gebruikt om RI&amp;amp;E's over-afdelingen-heen te aggregeren.&lt;/p&gt;&lt;p&gt;Bovendien (!) stuurt u de twee Word-documenten (rtf bestanden) die u gemaakt heeft in de stappen "Resultaten afdrukken" en "Plan van aanpak afdrukken" per e-mail (als attachment/bijlage) naar de Arbodienst.&lt;/p&gt;&lt;p&gt;NB: Zorg eerst dat u alle vragen heeft beantwoord en dat het Plan van aanpak compleet is (inclusief maatregelen bij alle knelpunten).&lt;/p&gt;&lt;p&gt;Op deze manier voldoet u aan de plicht de RI&amp;amp;E door de Arbodienst te laten toetsen. Op basis van die toetsing kunt u aanpassingen aanbrengen in het rapport en/of Plan van aanpak. Bovendien legt u het definitieve Plan van aanpak ter instemming voor aan de ondernemingsraad. Zodra de instemming van de OR is verkregen, stuurt u het definitieve RI&amp;amp;E-rapport en Plan van aanpak aan de Arbodienst, het management, de divisiemanager en de ondernemingsraad.&lt;br/&gt;Daarna gaat u aan het werk met het uitvoeren van het Plan van aanpak. De werknemers moeten overigens indien zij dit wensen de RI&amp;amp;E kunnen inzien.&lt;/p&gt;&lt;p&gt;Elk jaar maakt u een voortgangsrapportage over de uitvoering van het Plan van aanpak, en bespreekt u deze met de ondernemingsraad, de personeelsvertegenwoordiging en/of de werknemers. Dit overleg kan eventueel leiden tot aanpassingen in het bestaande Plan van aanpak. Indien u het Plan van aanpak tussentijds aanpast, moet daarvoor de instemming van de ondernemingsraad verkregen worden.&lt;/p&gt;&lt;p&gt;Klik op de Help-knop rechtsboven voor meer informatie. &lt;/p&gt;</epilogue>
     <evaluation-optional>yes</evaluation-optional>
     <profile-question external-id="KLV-1" type="optional">
-      <title>1 Algemeen en beleid? Dit onderdeel is van toepassing op alle werkprocessen en betreft algemene zaken zoals het gebouw, maar ook arbeidsomstandigheden- en verzuimbeleid, alsmede de decentrale bedrijfshulpverlening.</title>
+      <title>Algemeen en beleid? Dit onderdeel is van toepassing op alle werkprocessen en betreft algemene zaken zoals het gebouw, maar ook arbeidsomstandigheden- en verzuimbeleid, alsmede de decentrale bedrijfshulpverlening.</title>
       <question>1 Algemeen en beleid? Dit onderdeel is van toepassing op alle werkprocessen en betreft algemene zaken zoals het gebouw, maar ook arbeidsomstandigheden- en verzuimbeleid, alsmede de decentrale bedrijfshulpverlening.</question>
       <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
       <module external-id="M-2" optional="no">
@@ -1474,7 +1474,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
     </profile-question>
     <profile-question external-id="KLV-2" type="optional">
-      <title>2 Onderzoek en behandeling? Dit omvat (para)medisch onderzoek of behandeling, inclusief beeldvormende en nucleaire technieken, operatieve ingrepen en functieonderzoek.</title>
+      <title>Onderzoek en behandeling? Dit omvat (para)medisch onderzoek of behandeling, inclusief beeldvormende en nucleaire technieken, operatieve ingrepen en functieonderzoek.</title>
       <question>2 Onderzoek en behandeling? Dit omvat (para)medisch onderzoek of behandeling, inclusief beeldvormende en nucleaire technieken, operatieve ingrepen en functieonderzoek.</question>
       <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
       <module external-id="M-17" optional="no">
@@ -4090,7 +4090,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
     </profile-question>
     <profile-question external-id="KLV-3" type="optional">
-      <title>3 Verpleging &amp; Verzorging? Het gaat hierom verpleegkundige en verzorgende activiteiten op verpleegafdelingen, intensive care, poliklinieken, spoedeisende hulp,  dagcentra en psychiatrie.</title>
+      <title>Verpleging &amp; Verzorging? Het gaat hierom verpleegkundige en verzorgende activiteiten op verpleegafdelingen, intensive care, poliklinieken, spoedeisende hulp,  dagcentra en psychiatrie.</title>
       <question>3 Verpleging &amp; Verzorging? Het gaat hierom verpleegkundige en verzorgende activiteiten op verpleegafdelingen, intensive care, poliklinieken, spoedeisende hulp,  dagcentra en psychiatrie.</question>
       <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
       <module external-id="M-73" optional="no">
@@ -5947,7 +5947,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
     </profile-question>
     <profile-question external-id="KLV-4" type="optional">
-      <title>4 Onderwijs? Dit proces omvat centraal en decentraal te volgen onderwijs, op medisch en verpleegkundig vakgebied, vaardigheidstrainingen en studiefaciliteiten. Het betreft zowel studenten als medewerkers in het onderwijs.</title>
+      <title>Onderwijs? Dit proces omvat centraal en decentraal te volgen onderwijs, op medisch en verpleegkundig vakgebied, vaardigheidstrainingen en studiefaciliteiten. Het betreft zowel studenten als medewerkers in het onderwijs.</title>
       <question>4 Onderwijs? Dit proces omvat centraal en decentraal te volgen onderwijs, op medisch en verpleegkundig vakgebied, vaardigheidstrainingen en studiefaciliteiten. Het betreft zowel studenten als medewerkers in het onderwijs.</question>
       <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
       <module external-id="M-121" optional="no">
@@ -7275,7 +7275,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
     </profile-question>
     <profile-question external-id="KLV-5" type="optional">
-      <title>5 Laboratoriumwerk? Denk hierbij aan zowel routine- als researchwerkzaamheden, maar ook aan het werken met proefdieren en pathologie.</title>
+      <title>Laboratoriumwerk? Denk hierbij aan zowel routine- als researchwerkzaamheden, maar ook aan het werken met proefdieren en pathologie.</title>
       <question>5 Laboratoriumwerk? Denk hierbij aan zowel routine- als researchwerkzaamheden, maar ook aan het werken met proefdieren en pathologie.</question>
       <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
       <module external-id="M-154" optional="no">
@@ -9247,7 +9247,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
     </profile-question>
     <profile-question external-id="KLV-6" type="optional">
-      <title>6 Medicamentenbereiding? Het betreft het zelf samenstellen van medicamenten, maar ook het werken met gerede of halffabrikaten.</title>
+      <title>Medicamentenbereiding? Het betreft het zelf samenstellen van medicamenten, maar ook het werken met gerede of halffabrikaten.</title>
       <question>6 Medicamentenbereiding? Het betreft het zelf samenstellen van medicamenten, maar ook het werken met gerede of halffabrikaten.</question>
       <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
       <module external-id="M-197" optional="no">
@@ -10248,7 +10248,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
     </profile-question>
     <profile-question external-id="KLV-7" type="optional">
-      <title>7 Sterilisatie? Dit betreft het reinigen van medische apparatuur en toebehoren zoals het reinigen van scopen en het werken met autoclaven.</title>
+      <title>Sterilisatie? Dit betreft het reinigen van medische apparatuur en toebehoren zoals het reinigen van scopen en het werken met autoclaven.</title>
       <question>7 Sterilisatie? Dit betreft het reinigen van medische apparatuur en toebehoren zoals het reinigen van scopen en het werken met autoclaven.</question>
       <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
       <module external-id="M-227" optional="no">
@@ -11260,7 +11260,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
     </profile-question>
     <profile-question external-id="KLV-8" type="optional">
-      <title>8 Schoonmaak? Hier onder wordt verstaan het reinigen van gebouwen en bouwdelen; zowel de inventaris als de vloeren, wanden, ramen en deuren, alsmede het sanitair.</title>
+      <title>Schoonmaak? Hier onder wordt verstaan het reinigen van gebouwen en bouwdelen; zowel de inventaris als de vloeren, wanden, ramen en deuren, alsmede het sanitair.</title>
       <question>8 Schoonmaak? Hier onder wordt verstaan het reinigen van gebouwen en bouwdelen; zowel de inventaris als de vloeren, wanden, ramen en deuren, alsmede het sanitair.</question>
       <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
       <module external-id="M-259" optional="no">
@@ -12049,7 +12049,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
     </profile-question>
     <profile-question external-id="KLV-9" type="optional">
-      <title>9 Voedingsbereiding? Dit omvat het werk in de (centrale) keukens en bijbehorende afdelingen, maar ook distributie van voeding op afdelingen en de afwas.</title>
+      <title>Voedingsbereiding? Dit omvat het werk in de (centrale) keukens en bijbehorende afdelingen, maar ook distributie van voeding op afdelingen en de afwas.</title>
       <question>9 Voedingsbereiding? Dit omvat het werk in de (centrale) keukens en bijbehorende afdelingen, maar ook distributie van voeding op afdelingen en de afwas.</question>
       <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
       <module external-id="M-290" optional="no">
@@ -12835,7 +12835,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
     </profile-question>
     <profile-question external-id="KLV-10" type="optional">
-      <title>10 Administratieve werkprocessen? Deze maken deel uit van andere werkprocessen. Daarnaast is dit proces van toepassing voor organisatieonderdelen waar vnl. administratief werk wordt verricht, zoals zorgadministraties, secretariaten en stafafdelingen.</title>
+      <title>Administratieve werkprocessen? Deze maken deel uit van andere werkprocessen. Daarnaast is dit proces van toepassing voor organisatieonderdelen waar vnl. administratief werk wordt verricht, zoals zorgadministraties, secretariaten en stafafdelingen.</title>
       <question>10 Administratieve werkprocessen? Deze maken deel uit van andere werkprocessen. Daarnaast is dit proces van toepassing voor organisatieonderdelen waar vnl. administratief werk wordt verricht, zoals zorgadministraties, secretariaten en stafafdelingen.</question>
       <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
       <module external-id="M-319" optional="no">
@@ -13537,7 +13537,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
     </profile-question>
     <profile-question external-id="KLV-11" type="optional">
-      <title>11 Bedrijfshulpverlening? Het betreft hier werkzaamheden van de medewerkers van de centrale bedrijfshulpverleningsorganisatie.</title>
+      <title>Bedrijfshulpverlening? Het betreft hier werkzaamheden van de medewerkers van de centrale bedrijfshulpverleningsorganisatie.</title>
       <question>11 Bedrijfshulpverlening? Het betreft hier werkzaamheden van de medewerkers van de centrale bedrijfshulpverleningsorganisatie.</question>
       <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
       <module external-id="M-341" optional="true">
@@ -14215,7 +14215,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
     </profile-question>
     <profile-question external-id="KLV-12" type="optional">
-      <title>12 Transport en logistiek? Het omvat vervoeren, opslaan en distribueren van materialen. Denk ook aan beddengoed, voedingsmiddelen, kantoorbenodigdheden en (ziekenhuis)afval.</title>
+      <title>Transport en logistiek? Het omvat vervoeren, opslaan en distribueren van materialen. Denk ook aan beddengoed, voedingsmiddelen, kantoorbenodigdheden en (ziekenhuis)afval.</title>
       <question>12 Transport en logistiek? Het omvat vervoeren, opslaan en distribueren van materialen. Denk ook aan beddengoed, voedingsmiddelen, kantoorbenodigdheden en (ziekenhuis)afval.</question>
       <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
       <module external-id="M-364" optional="no">
@@ -15262,7 +15262,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
     </profile-question>
     <profile-question external-id="KLV-13" type="optional">
-      <title>13 Techniek en onderhoud? Het betreft het repareren en preventief onderhouden van machines, installaties, gebouwen, leidingen, liften, bedden, medische apparatuur, transport- en overige arbeidsmiddelen.</title>
+      <title>Techniek en onderhoud? Het betreft het repareren en preventief onderhouden van machines, installaties, gebouwen, leidingen, liften, bedden, medische apparatuur, transport- en overige arbeidsmiddelen.</title>
       <question>13 Techniek en onderhoud? Het betreft het repareren en preventief onderhouden van machines, installaties, gebouwen, leidingen, liften, bedden, medische apparatuur, transport- en overige arbeidsmiddelen.</question>
       <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
       <module external-id="M-393" optional="true">
@@ -16011,7 +16011,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
     </profile-question>
     <profile-question external-id="KLV-14" type="optional">
-      <title>14 Bouw, verbouw en sloop? Dit proces omvat alle ontwerp- en uitvoeringsactiviteiten bij bouw en verbouw, alsmede de organisatie van deze activiteiten door derden.</title>
+      <title>Bouw, verbouw en sloop? Dit proces omvat alle ontwerp- en uitvoeringsactiviteiten bij bouw en verbouw, alsmede de organisatie van deze activiteiten door derden.</title>
       <question>14 Bouw, verbouw en sloop? Dit proces omvat alle ontwerp- en uitvoeringsactiviteiten bij bouw en verbouw, alsmede de organisatie van deze activiteiten door derden.</question>
       <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
       <module external-id="M-421" optional="no">

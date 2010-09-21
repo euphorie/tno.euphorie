@@ -463,7 +463,7 @@ var mapal = {
                 title = $panel.attr("title");
 
             if ($panel.data("mapal.tooltip")) {
-                continue;
+                return;
             }
 
             if (title) {

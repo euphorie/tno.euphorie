@@ -87,6 +87,8 @@ working_surveys = [
     ( "Levensmiddelendetailhandel", "Levensmiddelen", "Vakcentrum Levensmiddelen", 72, True),
     ( "Kottervisserij", "Vis", "Productschap Vis", 34, True),
     ( "Visdetailhandel", "Vis", "Productschap Vis", 2, True),
+    ( "Goud- en Zilversmeden", "fgz", "Federatie Goud en Zilver", 49, True),
+    ( "Kunststofindustrie", "nrk", "NRK", 21, False),
     ]
 
 pending_surveys = [

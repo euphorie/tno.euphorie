@@ -206,10 +206,10 @@ HljVHljVHljVHljVHljVHljVHljVHljV
     <evaluation-optional>yes</evaluation-optional>
     <module external-id="M-524" optional="no">
       <title>Oprichting/verandering bedrijf</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-525" optional="no">
         <title>Verzekeringen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3229" type="risk">
           <title>Er is een verzekering tegen arbeidsongeschiktheid afgesloten</title>
           <description>&lt;p&gt;(10)&lt;/p&gt;</description>
@@ -232,7 +232,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-526" optional="no">
         <title>Diploma&#8217;s/Bewijsstukken</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3232" type="risk">
           <title>U beschikt over een (door de branche goedgekeurd) vakbekwaamheidsdiploma</title>
           <description>&lt;p&gt;(14)&lt;/p&gt;</description>
@@ -260,7 +260,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-527" optional="no">
         <title>Personeelsbeleid</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3235" type="risk">
           <title>De medezeggenschap over de arbeidsomstandigheden in uw bedrijf is geregeld</title>
           <description>&lt;ul&gt;&lt;li&gt;(&amp;lt;10 werknemers) De ondernemer die een onderneming in stand houdt waarin in de regel minder dan 10 personen werkzaam zijn en waarvoor geen ondernemingsraad is ingesteld, kan vrijwillig een personeelsvertegenwoordiging instellen.&lt;/li&gt;&lt;li&gt;(&amp;gt;10 &amp;lt;50 werknemers) De ondernemer die een onderneming in stand houdt waarin in de regel ten minste 10 personen maar minder dan 50 personen werkzaam zijn en waarvoor geen ondernemingsraad of een personeelsvertegenwoordiging is ingesteld, is verplicht de in deze onderneming werkzame personen ten minste tweemaal per kalenderjaar in de gelegenheid te stellen gezamenlijk met hem bijeen te komen. Hij is voorts verplicht met de in de onderneming werkzame personen bijeen te komen, wanneer ten minste een vierde van hen daartoe een met redenen omkleed verzoek doet. Voorts kan de ondernemer een personeelsvertegenwoordiging instellen, bestaande uit ten minste 3 personen die rechtstreeks gekozen zijn door en uit de in de onderneming werkzame personen. Indien de meerderheid van de werkzame personen daarom verzoekt, is de ondernemer verplicht tot instelling van een personeelsvertegenwoordiging.&lt;/li&gt;&lt;li&gt;(&amp;gt;50 werknemers) dan is de ondernemer verplicht een ondernemingsraad in te stellen. (33)&lt;/li&gt;&lt;/ul&gt;</description>
@@ -283,10 +283,10 @@ HljVHljVHljVHljVHljVHljVHljVHljV
     </module>
     <module external-id="M-528" optional="no">
       <title>Inkoop</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-529" optional="no">
         <title>Inkoop arbeidsmiddelen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3238" type="risk">
           <title>Arbeidsmiddelen (apparaten en instrumenten) zijn voorzien van CE-markering en verklaring</title>
           <description>&lt;p&gt;Arbeidsmiddelen zijn voorzien van een CE-markering vergezeld van een EG-verklaring van overeenstemming. (Vanaf 1 januari 1995 moeten nieuw aangeschafte arbeidsmiddelen een CE-markering hebben. Indien dit ontbreekt bestaat het gevaar dat het arbeidsmiddel niet voldoet aan de elementaire veiligheidsvoorzieningen. Van arbeidsmiddelen voor die datum moeten de risico's extra ge&#239;nventariseerd en beperkt worden). Arbeidsmiddelen zijn alle op de arbeidsplaats gebruikte machines, installaties, apparaten, transportmiddelen en instrumenten.(40)&lt;/p&gt;</description>
@@ -368,7 +368,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-530" optional="no">
         <title>Inkoop mesjes en naalden/naaldencontainer</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3250" type="risk">
           <title>Mesjes en naalden voldoen aan de gestelde eisen</title>
           <description>&lt;p&gt;Eisen mesjes en naalden:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;sterie&lt;/li&gt;&lt;li&gt;voor eenmalig gebruik (wegwerp)&lt;/li&gt;&lt;li&gt;apart verpakt&lt;/li&gt;&lt;li&gt;voorzien van expiratiedatum (per naald-/mesjesverpakking)&lt;/li&gt;&lt;li&gt;geschikt voor naald-/meshouder&lt;/li&gt;&lt;li&gt;van goud (bij nikkelallergie)&lt;/li&gt;&lt;li&gt;voorzien van hoogwaardig isolatiemateriaal, bij voorkeur teflon (ge&#239;soleerde naalden) (258)&lt;/li&gt;&lt;/ul&gt;</description>
@@ -384,7 +384,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-531" optional="no">
         <title>Inkoop persoonlijke beschermingsmiddelen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3252" type="risk">
           <title>Er zijn voldoende op de risico's en gebruiksdoel afgestemde persoonlijke beschermingsmiddelen</title>
           <description>&lt;p&gt;Indien gevaar voor de veiligheid of de gezondheid van een werknemer op de arbeidsplaats (= in het bedrijf of op locatie) aanwezig is of kan ontstaan, zijn voor de werknemers die aan dat gevaar blootstaan of kunnen blootstaan persoonlijke beschermingsmiddelen in voldoende aantal beschikbaar en wordt ervoor gezorgd dat die werknemers die middelen gebruiken. (50)&lt;/p&gt;</description>
@@ -408,7 +408,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-532" optional="no">
         <title>Inkoop bedrijfskleding</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3255" type="risk">
           <title>Bedrijfskleding voldoet aan de gestelde eisen</title>
           <description>&lt;p&gt;Bedrijfskleding:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;heeft korte mouwen (in verband met een goede handhygi&#235;ne)&lt;/li&gt;&lt;li&gt;is goed wasbaar op ten minste 60 &#176;C&lt;/li&gt;&lt;li&gt;is in voldoende mate aanwezig (in verband met dagelijks reinigen)&lt;/li&gt;&lt;li&gt;Bedrijfskleding heeft bij voorkeur een lichte kleur zodat verontreiniging gemakkelijk te constateren is(267 + 1890).&lt;/li&gt;&lt;/ul&gt;</description>
@@ -424,7 +424,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-533" optional="no">
         <title>Inkoop handschoenen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3257" type="risk">
           <title>Handschoenen voldoen aan (NEN-EN) eisen</title>
           <description>&lt;p&gt;Eisen handschoenen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;voldoen aan NEN-EN 455-1, 2 en 3&lt;/li&gt;&lt;li&gt;zijn voor eenmalig gebruik (= wegwerp)&lt;/li&gt;&lt;li&gt;zijn goed passend (aan de vingertoppen strak en bij de knokkels niet te strak)&lt;/li&gt;&lt;li&gt;zijn hypo-allergeen(596)&lt;/li&gt;&lt;/ul&gt;</description>
@@ -440,7 +440,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-534" optional="no">
         <title>Inkoop adembeschermingsmiddelen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3259" type="risk">
           <title>Mondneusmaskers voldoen aan de gestelde eisen</title>
           <description>&lt;p&gt;Een mondneusmasker wordt gedragen bij iedere behandeling waarbij kans bestaat op spatten of spuiten van bloed of andere lichaamsvochten. Voor de bescherming komt een normaal chirurgisch mondneusmasker in aanmerking. Voor bescherming tegen stof moet een ander masker gebruikt worden. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Eisen mondneusmasker:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;voor eenmalig gebruik&lt;/li&gt;&lt;li&gt;een goed passend mondneusmasker&lt;/li&gt;&lt;li&gt;filteraanduiding P2 voor gevaarlijke stofdeeltjes&lt;/li&gt;&lt;li&gt;filteraanduiding S voor droge, L voor vochtige deeltjes of D voor damp(1025)&lt;/li&gt;&lt;/ul&gt;</description>
@@ -450,7 +450,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-535" optional="no">
         <title>Inkoop oogbeschermingsmiddelen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3260" type="risk">
           <title>Oogbeschermingsmiddelen beschermen de ogen aan de</title>
           <description>&lt;p&gt;Oogbeschermingsmiddelen beschermen de ogen aan de voorkant gezien volledig. Dit kan met een gewone bril. (875)&lt;/p&gt;</description>
@@ -466,7 +466,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-536" optional="no">
         <title>Inkoop bedrijfsinventaris/-inrichting</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3262" type="risk">
           <title>Bedrijfsinventaris is stabiel en stevig</title>
           <description>&lt;p&gt;Voorwerpen in de arbeidsplaats zijn stabiel en stevig.(92)&lt;/p&gt;</description>
@@ -488,7 +488,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-537" optional="no">
         <title>Inkoop tafels</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3265" type="risk">
           <title>Een tafel voor kantoorwerk voldoet aan de gestelde eisen</title>
           <description>&lt;p&gt;Een tafel voor kantoorwerk voldoet aan NEN 2441 of aan NEN 2449:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;bovenblad is glad&lt;/li&gt;&lt;li&gt;minimaal 120 cm breed&lt;/li&gt;&lt;li&gt;hoogte 74-76 cm&lt;/li&gt;&lt;li&gt;dikte werkblad maximaal 5 cm inclusief draagconstructiee. &lt;/li&gt;&lt;li&gt;been- en voetruimte minimaal 60 cm breed en diep(118)&lt;/li&gt;&lt;/ul&gt;</description>
@@ -516,7 +516,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-538" optional="no">
         <title>Inkoop stoelen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3269" type="risk">
           <title>De behandelstoel voldoet aan de gestelde eisen</title>
           <description>&lt;p&gt;Eisen behandelstoel:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;stabiel en stevig&lt;/li&gt;&lt;li&gt;hoogte instelbaar (elektrisch of hydraulisch)&lt;/li&gt;&lt;li&gt;glad oppervlak (reinig- en desinfecteerbaar)&lt;/li&gt;&lt;li&gt;neemt geen vocht op&lt;/li&gt;&lt;li&gt;voldoende lengte (ook voor mannen)&lt;/li&gt;&lt;li&gt;verrijdbaar (indien gewenst)&lt;/li&gt;&lt;li&gt;te gebruiken als massagetafel (indien gewenst)(304)&lt;/li&gt;&lt;/ul&gt;</description>
@@ -538,7 +538,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-539" optional="no">
         <title>Inkoop gevaarlijke stoffen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3272" type="risk">
           <title>U raadpleegt de uitgave Veiligheidsinformatie Nagelproducten van de Nederlandse Cosmetica Vereniging</title>
           <description>&lt;p&gt;(2856)&lt;/p&gt;</description>
@@ -566,7 +566,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-540" optional="no">
         <title>Inkoop desinfectiemiddelen algemeen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3276" type="risk">
           <title>Het aantal desinfectiemiddelen is beperkt</title>
           <description>&lt;p&gt;Beperk het aantal desinfectiemiddelen en let bij de inkoop vooral op:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;gebruiksdoel&lt;/li&gt;&lt;li&gt;samenstelling&lt;/li&gt;&lt;li&gt;breed werkingsgebied (tegen bacteri&#235;n, schimmels en virussen)&lt;/li&gt;&lt;li&gt;gebruiksvoorschrift (=toepassingsmogelijkheden)&lt;/li&gt;&lt;li&gt;gebruiksaanwijzing (=waarschuwingen, o.a. voor allergie)&lt;/li&gt;&lt;li&gt;expiratiedatum(72)&lt;/li&gt;&lt;/ul&gt;</description>
@@ -582,7 +582,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-541" optional="no">
         <title>Inkoop desinfectiemiddelen voor de huid</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3278" type="risk">
           <title>Voor desinfectie van een intacte huid is een geschikt middel aanwezig</title>
           <description>&lt;p&gt;Beschik voor desinfectie van een intacte huid (=huiddesinfectie) over &#233;&#233;n van de volgende middelen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;alcohol 70%&lt;/li&gt;&lt;li&gt;chloorhexidine 0,5% in alcohol 70%&lt;/li&gt;&lt;li&gt;overige huiddesinfectiemiddelen(74)&lt;/li&gt;&lt;/ul&gt;</description>
@@ -604,7 +604,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-542" optional="no">
         <title>Inkoop desinfectiemiddelen voor instrumenten</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3281" type="risk">
           <title>Desinfectiemiddelen zijn voorzien van een N-nummer (behalve voor gedenatureerde alcohol)</title>
           <description>&lt;p&gt;Desinfectiemiddelen zijn voorzien van een N-nummer (4 of 5 cijfers + letter N; voor gedenatureerde alcohol 70-80% zonder toevoegingen van andere desinfectiemiddelen is geen N-nummer nodig).(78)&lt;/p&gt;</description>
@@ -632,7 +632,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-543" optional="no">
         <title>Inkoop sterilisatiemiddelen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3285" type="risk">
           <title>Bij huiddoorborende behandelingen wordt uitsluitend met een stoomsterilisator gesteriliseerd of steriele wegwerpmaterialen gebruikt</title>
           <description>&lt;p&gt;Steriliseer bij huiddoorborende behandelingen uitsluitend met een stoomsterilisator (overweeg uitbesteding), of gebruik steriele wegwerpmaterialen.&#160;Verboden is het gebruik van:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;kogel- of glaskorrelapparatuur&lt;/li&gt;&lt;li&gt;ultra-violet lichtapparatuur&lt;/li&gt;&lt;li&gt;heteluchtovens&lt;/li&gt;&lt;li&gt;snelkook- of hogedrukpannen(351)&lt;/li&gt;&lt;/ul&gt;</description>
@@ -642,7 +642,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-544" optional="no">
         <title>Inkoop cosmetica en verzorgingsproducten</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3286" type="risk">
           <title>Kleurstoffen en pigmenten die gebruikt worden voor het aanbrengen van permanente kleur in de huid voldoen aan de gestelde eisen</title>
           <description>&lt;p&gt;Eisen aan kleurstoffen en pigmenten te gebruiken voor het aanbrengen van permanente kleur in de huid:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;teriel&lt;/li&gt;&lt;li&gt;bevatten geen conserveermiddelen&lt;/li&gt;&lt;li&gt;bevatten geen verboden stoffen&lt;/li&gt;&lt;li&gt;kunnen geen verboden stoffen vormen(2850)&lt;/li&gt;&lt;/ul&gt;</description>
@@ -665,10 +665,10 @@ HljVHljVHljVHljVHljVHljVHljVHljV
     </module>
     <module external-id="M-545" optional="no">
       <title>Inrichting</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-546" optional="no">
         <title>Inrichting algemeen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3289" type="risk">
           <title>Werkplek, werkmethoden en hulpmiddelen zijn zoveel mogelijk aan de werknemer aangepast</title>
           <description>&lt;p&gt;De inrichting van het bedrijf, de werkmethoden en de hulpmiddelen zijn zoveel mogelijk op ergonomisch verantwoorde wijze aan de werknemer aangepast.(126)&lt;/p&gt;</description>
@@ -744,7 +744,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-547" optional="no">
         <title>Deuren</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3301" type="risk">
           <title>De plaats, het aantal en de afmeting van deuren zi</title>
           <description>&lt;p&gt;De plaats, het aantal en de afmeting van deuren, beweegbare hekken en andere doorgangen en ook de materialen waarvan zij zijn vervaardigd, zijn afgestemd op de aard en het gebruik van de arbeidsplaats.(143)&lt;/p&gt;</description>
@@ -772,7 +772,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-548" optional="no">
         <title>Drempels</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3305" type="risk">
           <title>Vloeren zijn zoveel mogelijk vrij van oneffenheden</title>
           <description>&lt;p&gt;Vloeren van arbeidsplaatsen zijn zoveel mogelijk vrij van oneffenheden (mogen geen struikelgevaar opleveren).(148)&lt;/p&gt;</description>
@@ -794,7 +794,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-549" optional="no">
         <title>Ramen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3308" type="risk">
           <title>Ramen, bovenlicht- en ventilatievoorzieningen zijn veilig te openen</title>
           <description>&lt;p&gt;Indien ramen, bovenlichtvoorzieningen en ventilatievoorzieningen geopend en gesloten kunnen worden, kan dit op veilige wijze gebeuren. Zij kunnen tevens op veilige wijze geregeld en vastgezet worden. In geopende stand leveren zij geen gevaar op.(150)&lt;/p&gt;</description>
@@ -839,7 +839,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-551" optional="no">
         <title>Vloeren</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3315" type="risk">
           <title>Vloeren zijn zoveel mogelijk vast, stabiel en stroef</title>
           <description>&lt;p&gt;Vloeren van arbeidsplaatsen zijn zoveel mogelijk vrij van oneffenheden en gevaarlijke hellingen en zijn zo vast, stabiel en stroef mogelijk.(160)&lt;/p&gt;</description>
@@ -855,7 +855,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-552" optional="no">
         <title>Wanden</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3317" type="risk">
           <title>Wanden zijn eenvoudig te reinigen en te onderhouden</title>
           <description>&lt;p&gt;Wanden zijn eenvoudig te reinigen en te onderhouden (zijn zo vlak en glad mogelijk).(166)&lt;/p&gt;</description>
@@ -894,7 +894,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-554" optional="no">
         <title>Opslag(ruimte)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3323" type="risk">
           <title>Voorraad wordt veilig gestapeld</title>
           <description>&lt;p&gt;Opslagruimte is zo ingericht, dat de daar aanwezige voorwerpen of stoffen geen gevaar voor de veiligheid of de gezondheid opleveren door instorten, verschuiven, omvallen of kantelen. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Voorraden zijn veilig opgeslagen.(105)&lt;/p&gt;</description>
@@ -922,7 +922,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-555" optional="no">
         <title>Opslag(ruimte) gevaarlijke (afval)stoffen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3327" type="risk">
           <title>Een rookverbod is duidelijk aangegeven</title>
           <description>&lt;p&gt;In ruimtes waar stofontploffingsgevaar bestaat, of zeer licht ontvlambare, licht ontvlambare of ontvlambare stoffen worden opgeslagen of gebruikt, is roken en open vuur verboden. Het verbod is duidelijk zichtbaar aangegeven door middel van tekst of een symbool.(110)&lt;/p&gt;</description>
@@ -1046,7 +1046,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-556" optional="no">
         <title>Opslag- en voorraadbeheer</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3347" type="risk">
           <title>Bij het aanvullen van de voorraad worden de criteria gecontroleerd</title>
           <description>&lt;p&gt;Bij het aanvullen van de voorraad wordt gecontroleerd:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;verpakking&lt;/li&gt;&lt;li&gt;houdbaarheidsdata (indien van toepassing)&lt;/li&gt;&lt;li&gt;etiket&lt;/li&gt;&lt;li&gt;aanwezigheid van veiligheidsinformatiebladen (indien van toepassing).(193)&lt;/li&gt;&lt;/ul&gt;</description>
@@ -1092,7 +1092,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-557" optional="no">
         <title>Pauzeruimte</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3354" type="risk">
           <title>Er is een pauzeruimte beschikbaar</title>
           <description>&lt;p&gt;In het bedrijf of in de directe nabijheid daarvan is een gemakkelijk toegankelijke ruimte beschikbaar waar de werknemers de pauzes kunnen doorbrengen. De ruimte is daarvoor geschikt en afhankelijk van het aantal werknemers voldoende ruim en uitgerust met voldoende tafels en stoelen. Overigens hoeft dit in een klein bedrijf geen aparte ruimte te zijn, mits geen behandeling wordt uitgevoerd of gevaarlijke stoffen aanwezig zijn.(2859)&lt;/p&gt;</description>
@@ -1102,7 +1102,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-558" optional="no">
         <title>Toilet</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3355" type="risk">
           <title>Er is ten minste 1 toilet aanwezig</title>
           <description>&lt;p&gt;&#160;(213)&lt;/p&gt;</description>
@@ -1130,7 +1130,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-559" optional="no">
         <title>Wasgelegenheid</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3359" type="risk">
           <title>Er is wasgelegenheid (met warm en koud water) bij blootstelling aan vuil</title>
           <description>&lt;p&gt;Er is wasgelegenheid (wasbakken) aanwezig als medewerkers blootstaan aan vuil. In een wasruimte zijn voldoende wasbakken aanwezig die functioneel geplaatst zijn en naar seksen gescheiden; ze beschikken over koud en - zo nodig - warm stromend water.(788)&lt;/p&gt;</description>
@@ -1158,7 +1158,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-560" optional="no">
         <title>Oogspoelvoorzieningen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3363" type="risk">
           <title>Er is een oogspoelvoorziening aanwezig</title>
           <description>&lt;p&gt;Als met gevaarlijke (afval)stoffen wordt gewerkt, is een oogspoelvoorziening (zoals een oogdouche) aanwezig.(765)&lt;/p&gt;</description>
@@ -1186,7 +1186,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-561" optional="no">
         <title>Behandelruimte</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3367" type="risk">
           <title>De behandelruimte voldoet aan de minimaal gestelde eisen</title>
           <description>&lt;p&gt;In de behandelruimte zijn minimaal aanwezig:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;behandelstoel&lt;/li&gt;&lt;li&gt;werkstoel&lt;/li&gt;&lt;li&gt;werktafel&lt;/li&gt;&lt;li&gt;omkleedruimte/scherm&lt;/li&gt;&lt;li&gt;wastafel&lt;/li&gt;&lt;li&gt;zeephouder&lt;/li&gt;&lt;li&gt;houder voor wegwerphanddoekjes&lt;/li&gt;&lt;li&gt;houder voor wegwerphandschoenen&lt;/li&gt;&lt;li&gt;handalcohol&lt;/li&gt;&lt;li&gt;werkvoorraad&lt;/li&gt;&lt;li&gt;afvalemmer voorzien van deksel&lt;/li&gt;&lt;li&gt;naaldencontainer.(354)&lt;/li&gt;&lt;/ul&gt;</description>
@@ -1196,7 +1196,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-562" optional="no">
         <title>Reinigings- en desinfectieruimte</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3368" type="risk">
           <title>In de ruimte waarin gereinigd en gedesinfecteerd voldoet aan de minimale vereisten</title>
           <description>&lt;p&gt;In de ruimte waarin gereinigd en gedesinfecteerd wordt zijn minimaal aanwezig:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;a. aanrechtje met spoelbak(ken)&lt;/p&gt;&lt;br/&gt;&lt;p&gt;b. afvalemmer met pedaalbediening, deksel en uitneembare wegwerpzakken&lt;/p&gt;&lt;br/&gt;&lt;p&gt;c. container voor scherp afval&lt;/p&gt;&lt;br/&gt;&lt;p&gt;d. zeep in houder&lt;/p&gt;&lt;br/&gt;&lt;p&gt;e. wegwerphanddoekjes in houder&lt;/p&gt;&lt;br/&gt;&lt;p&gt;f. wegwerphandschoenen in houder&lt;/p&gt;&lt;br/&gt;&lt;p&gt;g. reinigings- en desinfectiemiddelen&lt;/p&gt;&lt;br/&gt;&lt;p&gt;h. attributen om te reinigen en te desinfecteren&lt;/p&gt;&lt;br/&gt;&lt;p&gt;i. goede ventilatie.(209)&lt;/p&gt;</description>
@@ -1213,10 +1213,10 @@ HljVHljVHljVHljVHljVHljVHljVHljV
     </module>
     <module external-id="M-563" optional="no">
       <title>Arbeidsomstandigheden</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-564" optional="no">
         <title>Arbeidsomstandighedenbeleid</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3370" type="risk">
           <title>Risico&#8217;s van blootstelling aan schadelijke stoffen worden voorkomen</title>
           <description>&lt;p&gt;Doeltreffende maatregelen zijn genomen om te voorkomen dat werknemers bij hun arbeid kunnen worden blootgesteld aan stoffen in zodanige mate, dat schade kan worden toegebracht aan hun gezondheid of hinder kan worden veroorzaakt. Pas bij voorkeur in de hierna genoemde volgorde de volgende maatregelen toe (= arbeidshygi&#235;nische strategie):&lt;/p&gt;&lt;ul&gt;&lt;li&gt;bronbestrijding (voorkom dat er risico is)&lt;/li&gt;&lt;li&gt;maatregelen gericht op collectieve bescherming&lt;/li&gt;&lt;li&gt;maatregelen gericht op individuele bescherming&lt;/li&gt;&lt;li&gt;gebruik persoonlijke beschermingsmiddelen (het gebruik ervan is tijdelijk en tot het strikt noodzakelijke beperkt).(364)&lt;/li&gt;&lt;/ul&gt;</description>
@@ -1250,7 +1250,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-565" optional="no">
         <title>Risico-inventarisatie en &#8211;evaluatie</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3375" type="risk">
           <title>Een risico-inventarisatie is opgesteld</title>
           <description>&lt;p&gt;Er wordt een risico-inventarisatie opgesteld van alle gevaren op het gebied van veiligheid, gezondheid en welzijn van het eigen personeel, personeel van derden, stagiaires, uitzendkrachten, klanten en bezoekers. Bij de risico-inventarisatie worden systematisch alle ruimtes, arbeidsmiddelen, werkzaamheden en activiteiten die binnen het bedrijf plaatsvinden doorgenomen op mogelijke arbeidsrisico's.(230)&lt;/p&gt;</description>
@@ -1477,7 +1477,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-571" optional="no">
         <title>Eerste hulp</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3413" type="risk">
           <title>De verbandtrommel is goed bereikbaar in het bedrij</title>
           <description>&lt;p&gt;Verbandtrommel is duidelijk zichtbaar op ooghoogte in een wandklem aan de muur bevestigd zijn of middels signalering snel te vinden zijn.(280)&lt;/p&gt;</description>
@@ -1535,7 +1535,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-572" optional="no">
         <title>Brandpreventie en &#8211;bestrijding</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3422" type="risk">
           <title>Er is een draagbaar brandblusmiddel aanwezig.</title>
           <description>&lt;p&gt;Om doeltreffend een begin van een brand te kunnen bestrijden, zijn in het bedrijf voldoende mobiele brandblusapparaten aanwezig.(297)&lt;/p&gt;</description>
@@ -1605,7 +1605,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-573" optional="no">
         <title>Evacuatie (nooduitgang en &#8211;verlichting)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3433" type="risk">
           <title>Elke werkplek is veilig en via de kortst mogelijke</title>
           <description>&lt;p&gt;Elke werkplek is veilig en via de kortst mogelijke weg te verlaten (niet noodzakelijkerwijs via de nooduitgang).(996)&lt;/p&gt;</description>
@@ -1681,7 +1681,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-574" optional="no">
         <title>Werken met arbeidsmiddelen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3445" type="risk">
           <title>De fysieke belasting van het werk levert geen geva</title>
           <description>&lt;p&gt;De arbeid wordt zodanig georganiseerd, de arbeidsplaats wordt zodanig ingericht, een zodanige werkmethode wordt toegepast of zodanige hulpmiddelen en persoonlijke beschermingsmiddelen worden gebruikt, dat de fysieke belasting geen gevaren met zich kan brengen voor de veiligheid en de gezondheid van de werknemers.(325)&lt;/p&gt;</description>
@@ -1786,7 +1786,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-576" optional="no">
         <title>Werken met elektriciteit</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3462" type="risk">
           <title>Elektrische installaties zijn veilig ontworpen, in</title>
           <description>&lt;p&gt;Elektrische installaties zijn zodanig ontworpen, ingericht, aangelegd, onderhouden en gekenmerkt, dat een veilig gebruik van elektriciteit zo goed mogelijk is gewaarborgd. Hiertoe zijn onder meer begrepen beveiligings-, meet-, controle-, signaleringstoestellen, aarders, schakelaars, scheiders en contactdozen. In een elektrische installatie zijn doeltreffende maatregelen genomen tegen het gevaar van brand, ontploffing, directe en indirecte aanraking en te dichte nadering. Van iedere elektrische installatie, niet bestemd voor laagspanning van beperkte omvang, zijn duidelijke, steeds bijgewerkte schema's beschikbaar en alle overige gegevens die nodig zijn voor een veilig gebruik van de elektrische installatie.(263)&lt;/p&gt;</description>
@@ -1856,7 +1856,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-577" optional="no">
         <title>Werken met water (legionella)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3473" type="risk">
           <title>De watertemperatuur in de leidingen is boven de 60</title>
           <description>&lt;p&gt;Ter voorkoming van de ontwikkeling van de legionella-bacterie is het noodzakelijk de watertemperatuur in de leidingen en waterreservoirs zo veel mogelijk boven de 60 &#176;C of beneden de 20 &#176;C te houden.(445)&lt;/p&gt;</description>
@@ -1872,7 +1872,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-578" optional="no">
         <title>Werken met gevaarlijke (afval)stoffen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3475" type="risk">
           <title>Met gevaarlijke (afval)stoffen wordt zorgvuldig ge</title>
           <description>&lt;p&gt;Werk zorgvuldig met gevaarlijke (afval)stoffen en preparaten (herkenbaar aan het gevaarssymbool).(59)&lt;/p&gt;</description>
@@ -2061,7 +2061,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-580" optional="no">
         <title>Werken met persoonlijke beschermingsmiddelen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3506" type="risk">
           <title>Er zijn voldoende op de risico's en gebruiksdoel a</title>
           <description>&lt;p&gt;Indien gevaar voor de veiligheid of de gezondheid van een werknemer op de arbeidsplaats (= in het bedrijf of op locatie) aanwezig is of kan ontstaan, zijn voor de werknemers die aan dat gevaar blootstaan of kunnen blootstaan persoonlijke beschermingsmiddelen in voldoende aantal beschikbaar en wordt ervoor gezorgd dat die werknemers die middelen gebruiken.(50)&lt;/p&gt;</description>
@@ -2107,7 +2107,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-581" optional="no">
         <title>Licht</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3513" type="risk">
           <title>Werkruimte en de directe toegangen zijn tijdens aa</title>
           <description>&lt;p&gt;Arbeidsplaatsen en de directe toegangen daartoe zijn gedurende aanwezigheid van de werknemers door daglicht, door kunstlicht of door beide voldoende en doelmatig verlicht.(393)&lt;/p&gt;</description>
@@ -2183,7 +2183,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-582" optional="no">
         <title>Ventilatie</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3525" type="risk">
           <title>Het klimaat op de werkplek is behaaglijk en gelijk</title>
           <description>&lt;p&gt;Het klimaat op de arbeidsplaats veroorzaakt geen schade aan de gezondheid van de werknemers. Het klimaat op de arbeidsplaats is behaaglijk en gelijkmatig, rekening houden met de fysieke belasting en de temperatuur. Hinderlijke tocht wordt vermeden (het klimaat in de bedrijfsruimte is afhankelijk van de luchttemperatuur, de luchtvochtigheid, de luchtsnelheid en de stralingstemperatuur).(406)&lt;/p&gt;</description>
@@ -2211,7 +2211,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-583" optional="no">
         <title>Verwarming</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3529" type="risk">
           <title>Verwarmings- en stookinstallaties zijn zo afgestel</title>
           <description>&lt;p&gt;Verwarmings- en stookinstallaties zijn zo afgesteld dat een optimale verbranding plaatsvindt.(412)&lt;/p&gt;</description>
@@ -2233,7 +2233,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-584" optional="no">
         <title>Fysieke belasting</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3532" type="risk">
           <title>De arbeid wordt zodanig georganiseerd dat fysieke</title>
           <description>&lt;p&gt;De arbeid wordt zodanig georganiseerd (werkplek, -methode, persoonlijke beschermingsmiddelen) dat fysieke belasting geen gevaren met zich mee brengt voor werkzame personen.(290)&lt;/p&gt;</description>
@@ -2303,7 +2303,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-585" optional="no">
         <title>Zittend of staand werken</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3543" type="risk">
           <title>Bij staand werk is indien wenselijk een functionel</title>
           <description>&lt;p&gt;Aan werknemers die arbeid verrichten, welke staande moet worden uitgevoerd en waarbij het werk hun toelaat van tijd tot tijd te gaan zitten, stelt de werkgever functionele zitgelegenheid (stasteunen) ter beschikking.(424)&lt;/p&gt;</description>
@@ -2331,7 +2331,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-586" optional="no">
         <title>Welzijn en werkdruk</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3547" type="risk">
           <title>De werkplek, de werkmethoden en de hulpmiddelen zi</title>
           <description>&lt;p&gt;De inrichting van het bedrijf, de werkmethoden en de hulpmiddelen zijn zoveel mogelijk op ergonomisch verantwoorde wijze aan de werknemer aangepast.(126)&lt;/p&gt;</description>
@@ -2371,7 +2371,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-587" optional="no">
         <title>Criminaliteitspreventie</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3553" type="risk">
           <title>De kassaopbrengst wordt meerdere keren per dag ver</title>
           <description>&lt;p&gt;Verwerk meerdere keren per dag de kassa-opbrengst (niet alleen aan het eind van de dag) om de buit voor overvallers te verkleinen.(2779)&lt;/p&gt;</description>
@@ -2394,10 +2394,10 @@ HljVHljVHljVHljVHljVHljVHljVHljV
     </module>
     <module external-id="M-588" optional="no">
       <title>Hygi&#235;ne</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-589" optional="no">
         <title>Hygiene algemeen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3556" type="risk">
           <title>De ruimte is ordelijk en wordt regelmatig schoonge</title>
           <description>&lt;p&gt;&#160;(479)&lt;/p&gt;</description>
@@ -2461,7 +2461,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-590" optional="no">
         <title>Persoonlijke hygi&#235;ne beroepsbeoefenaar</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3566" type="risk">
           <title>Er wordt altijd gezorgd voor schone handen om besm</title>
           <description>&lt;p&gt;Zorg altijd voor schone handen om besmetting te voorkomen.Wanneer de handen niet zichtbaar verontreinigd zijn, mag naar eigen inzicht gekozen worden voor handen reinigen met zeep of voor inwrijven met handalcohol. Voordeel van de handalcohol is, dat er minder klachten over huiduitdroging ontstaan. Let erop, dat bepaalde delen van de handen niet worden vergeten, zoals de vingertoppen, tussen de vingers en de duim.(542)&lt;/p&gt;</description>
@@ -2525,7 +2525,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-591" optional="no">
         <title>Persoonlijke hygi&#235;ne klant</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3576" type="risk">
           <title>Voor elke klant worden gereinigde en gedesinfectee</title>
           <description>&lt;p&gt;Gebruik voor elke klant gereinigde en gedesinfecteerde instrumenten en materialen en bij kans op huiddoorboring steriele wegwerpmaterialen.(599)&lt;/p&gt;</description>
@@ -2553,7 +2553,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-592" optional="no">
         <title>Huidbeschadiging bij beroepsbeoefenaar</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3580" type="risk">
           <title>Iedere medewerker die  risico loopt op blootstelli</title>
           <description>&lt;p&gt;Iedere medewerker die risico loopt op blootstelling aan bloed behoort gevaccineerd te zijn tegen hepatitis B.&#160;Voorkom en beperk de gevolgen van huidbeschadiging door:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;zorgvuldig te werken&lt;/li&gt;&lt;li&gt;preventief een actieve vaccinatie toe te passen(2077)&lt;/li&gt;&lt;/ul&gt;</description>
@@ -2569,7 +2569,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-593" optional="no">
         <title>Huidbeschadiging bij klant</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3582" type="risk">
           <title>Huidbeschadiging wordt volgens hygi&#235;nische voorsch</title>
           <description>&lt;p&gt;Behandel huidbeschadiging als volgt:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;voor zover nog niet gedaan, trek wegwerphandschoenen aan&lt;/li&gt;&lt;li&gt;laat zo mogelijk het vuil uit de wond bloeden&lt;/li&gt;&lt;li&gt;spoel de wond grondig met water of fysiologisch zout&lt;/li&gt;&lt;li&gt;dep de wond droog&lt;/li&gt;&lt;li&gt;desinfecteer de wond met een wonddesinfectiemiddel&lt;/li&gt;&lt;li&gt;dek de wond af met wondpleister of steriel verpakt gaasje met hechtpleister&lt;/li&gt;&lt;li&gt;ruim gemorst bloed direct op met een vochtig wegwerpdoekje&lt;/li&gt;&lt;li&gt;desinfecteer de plek met alcohol 70-80%&lt;/li&gt;&lt;li&gt;doe wegwerphandschoenen uit en desinfecteer de handen met handalcohol als nieuwe aangedaan worden&lt;/li&gt;&lt;li&gt;vervang het instrument waarmee de huid beschadigd is(1848)&lt;/li&gt;&lt;/ul&gt;</description>
@@ -2579,7 +2579,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-594" optional="no">
         <title>Infecties bij beroepsbeoefenaars</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3583" type="risk">
           <title>Bij infecties wordt contact opgenomen met de huisa</title>
           <description>&lt;p&gt;Bij infecties wordt contact opgenomen met de huisarts en nagegaan of behandelen is toegestaan. (o.a. bij ontsteking aan de handen, steenpuist, braken, diarree, besmettelijke kinderziektes e.d.).(692)&lt;/p&gt;</description>
@@ -2589,7 +2589,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-595" optional="no">
         <title>Infecties bij klant</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3584" type="risk">
           <title>Infecties worden in een vaste volgorde en volgens</title>
           <description>&lt;p&gt;Behandeling, infecties:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;behandel niet in ge&#239;nfecteerd gebied&lt;/li&gt;&lt;li&gt;ge&#239;nfecteerd gebied afdekken met een steriel verpakt gaasje&lt;/li&gt;&lt;li&gt;klant adviseren tot bezoek aan arts&lt;/li&gt;&lt;li&gt;vervang wegwerphandschoenen (1849)&lt;/li&gt;&lt;/ul&gt;</description>
@@ -2599,7 +2599,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-596" optional="no">
         <title>Reinigen en desinfecteren van instrumenten</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3585" type="risk">
           <title>Gebruikte instrumenten worden altijd gereinigd en</title>
           <description>&lt;p&gt;Gebruikte instrumenten:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;moeten altijd als besmet worden beschouwd en dus strikt gescheiden worden gehouden van gereinigde en gedesinfecteerde instrumenten&lt;/li&gt;&lt;li&gt;worden, indien zij niet direct gereinigd en gedesinfecteerd kunnen worden, ondergedompeld in een inactiveringsvloeistof in een goed afsluitbare bak in afwachting van het reinigen en desinfecteren(470)&lt;/li&gt;&lt;/ul&gt;</description>
@@ -2633,7 +2633,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-597" optional="no">
         <title>Reinigen en desinfecteren instrumenten met instrum</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3590" type="risk">
           <title>Instrumenten worden met de instrumentenwasmachine</title>
           <description>&lt;p&gt;Reinig en desinfecteer instrumenten met de instrumentenwasmachine op de volgende wijze:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;plaats de instrumenten in de&#160; instrumentenwasmachine voor reiniging en thermische desinfectie volgens vooraf ingesteld afleesbaar programma met als onderdeel ten minste 5 minuten op 90 &#176;C&lt;/li&gt;&lt;li&gt;neem na volledig doorlopen wasprogramma instrumenten uit instrumentenwasmachine(117)&lt;/li&gt;&lt;/ul&gt;</description>
@@ -2643,7 +2643,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-598" optional="no">
         <title>Reinigen instrumenten met utrasoonreiniger en desi</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3591" type="risk">
           <title>Instrumenten worden met ultrasoonreiniger gereinig</title>
           <description>&lt;p&gt;Reinig instrumenten met ultrasoonreiniger en desinfecteer op de volgende wijze:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;zet het apparaat met verse vloeistof tien minuten aan voordat de te reinigen instrumenten worden ingebracht&lt;/li&gt;&lt;li&gt;plaats draadmandje met de te reinigen instrumenten in ultrasoonreiniger&lt;/li&gt;&lt;li&gt;zorg voor een vulniveau waarbij instrumenten volledig zijn ondergedompeld in een voor ultrasoonreiniging geschikt middel&lt;/li&gt;&lt;li&gt;stel temperatuur en tijdsduur in volgens verpakkingsvoorschrift&lt;/li&gt;&lt;li&gt;wanneer de ultrasoonreiniger in werking is, dient deze afgesloten te zijn&lt;/li&gt;&lt;li&gt;neem na volledig doorlopen reinigingsprogramma instrumenten uit ultrasoonreiniger&lt;/li&gt;&lt;li&gt;spoel instrumenten af met voldoende koud leidingwater&lt;/li&gt;&lt;li&gt;laat draadmandje met instrumenten goed uitdruipen&lt;/li&gt;&lt;li&gt;desinfecteer na ultrasoonreiniging door instrumenten minimaal 5 minuten volledig onder te dompelen in een bakje met alcohol 70-80%&lt;/li&gt;&lt;li&gt;reinig de binnenkant van de ultrasoonreiniger en vervang dagelijks vloeistof in de ultrasoonreiniger of vaker bij intensief gebruik(559)&lt;/li&gt;&lt;/ul&gt;</description>
@@ -2659,7 +2659,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-599" optional="no">
         <title>Reinigen en desinfecteren borstels, kwasten en ond</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3593" type="risk">
           <title>Borstels, kwasten, penselen en onderdelen van appa</title>
           <description>&lt;p&gt;Reinig en desinfecteer&lt;/p&gt;&lt;ul&gt;&lt;li&gt;borstels, kwasten, penselen&lt;/li&gt;&lt;li&gt;glazen aanzetstuk vacu&#252;mapparatuur en schroefdopje voor de naaldhouder&lt;/li&gt;&lt;li&gt;pads, banden en kunststof omslagen (indien niet wasmachinebestendig) gebruikt bij de afslankbehandeling na gebruik op een intacte huid als volgt:&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;10 minuten laten inweken in een biologisch voorwasmiddel&lt;/li&gt;&lt;li&gt;afspoelen met koud leidingwater&lt;/li&gt;&lt;li&gt;afdrogen met schone wegwerpdoek&lt;/li&gt;&lt;li&gt;desinfecteren door 5 minuten onderdompelen in alcohol 70-80% en aan de lucht drogen.&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;&lt;p&gt;Gebruik bij een niet-intacte huid persoonsgebonden of wegwerpmaterialen.(1618)&lt;/p&gt;</description>
@@ -2669,7 +2669,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-600" optional="no">
         <title>Reinigen en desinfecteren oppervlakken</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3594" type="risk">
           <title>V&#243;&#243;r reiniging zijn (opslag)ruimtes zo veel mogeli</title>
           <description>&lt;p&gt;V&#243;&#243;r reiniging (opslag)ruimtes zo veel mogelijk leeg maken en pas weer inruimen als alle oppervlakken helemaal droog zijn.(483)&lt;/p&gt;</description>
@@ -2704,10 +2704,10 @@ HljVHljVHljVHljVHljVHljVHljVHljV
     </module>
     <module external-id="M-601" optional="no">
       <title>Milieu en energie</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-602" optional="no">
         <title>Gevaarlijk afval</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3599" type="risk">
           <title>Gevaarlijke afvalstoffen zijn van elkaar en van an</title>
           <description>&lt;p&gt;Gevaarlijke afvalstoffen die behoren tot verschillende categorie&#235;n worden van elkaar en van andere afvalstoffen gescheiden, gescheiden gehouden en gescheiden afgegeven.(495)&lt;/p&gt;</description>
@@ -2747,7 +2747,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-603" optional="no">
         <title>Energiebesparing verlichting</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3605" type="risk">
           <title>Bij een vernieuwing van de (totale) verlichting wo</title>
           <description>&lt;p&gt;Extra aandachtspunten bij een vernieuwing van de (totale) verlichting:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;het ge&#239;nstalleerd vermogen kan voor een goede verlichting 30 W per m2 bedragen&lt;/li&gt;&lt;li&gt;ga in het opgestelde verlichtingsplan uit van een basisverlichting van hoog frequentie-tld met spiegeloptiek of compacte fluorescentielampen met spiegeloptiek&lt;/li&gt;&lt;li&gt;kies voor de vitrineverlichting voor hoog frequentie-tld en asymmetrische armaturen&lt;/li&gt;&lt;li&gt;kies voor kleine accenten voor halogeenspotjes met een hoog rendement of voor pl-lampen in spiegeloptiek&lt;/li&gt;&lt;li&gt;kies voor grote accenten voor downlights met compacte fluorescentielampen of daar waar meer nodig is metalarc of metaalhalogeen&lt;/li&gt;&lt;li&gt;voorzie de ruimte van licht gekleurde wanden&lt;/li&gt;&lt;li&gt;stem de schakelmogelijkheid en de plaatsing van de verlichting af op de diverse werkzaamheden&lt;/li&gt;&lt;li&gt;informeer bij het energiebedrijf of de energiezuinige verlichting in aanmerking komt voor subsidie (1619)&lt;/li&gt;&lt;/ul&gt;</description>
@@ -2757,7 +2757,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-604" optional="no">
         <title>Waterbesparing</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3606" type="risk">
           <title>De temperatuur van het warme boilerwater is zo laa</title>
           <description>&lt;p&gt;Stel de temperatuur van het warme boilerwater zo laag mogelijk in, maar niet lager dan 60 &#176;C in verband met mogelijke bacteriegroei zoals Legionella.(520)&lt;/p&gt;</description>
@@ -2774,10 +2774,10 @@ HljVHljVHljVHljVHljVHljVHljVHljV
     </module>
     <module external-id="M-605" optional="no">
       <title>Activiteiten</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-606" optional="no">
         <title>Klantengegevens</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3608" type="risk">
           <title>Met betrekking tot een beroepsgeheim en zwijgplich</title>
           <description>&lt;p&gt;Neem met betrekking tot een beroepsgeheim en zwijgplicht de volgende richtlijnen in acht:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;praat niet met anderen over klanten&lt;/li&gt;&lt;li&gt;noem geen kenmerken van klanten waardoor de persoon herkenbaar is&lt;/li&gt;&lt;li&gt;misbruik de vertrouwenspositie niet ten eigen bate&lt;/li&gt;&lt;li&gt;vraag de klanten toestemming om informatie uit te wisselen met andere hulpverleners, zoals een collega, een paramedicus of een huisarts&lt;/li&gt;&lt;li&gt;praat niet over klanten met andere hulpverleners in openbare ruimtes&lt;/li&gt;&lt;li&gt;hanteer de zwijgplicht ook in de thuissituatie(330)&lt;/li&gt;&lt;/ul&gt;</description>
@@ -2787,7 +2787,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-607" optional="no">
         <title>Intake nieuwe klant</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3609" type="risk">
           <title>Bij de intake van een nieuwe klant worden de daarv</title>
           <description>&lt;p&gt;Neem bij de intake van een nieuwe klant de volgende stappen (voorzover nodig):&lt;/p&gt;&lt;ul&gt;&lt;li&gt;gebruik klantenkaart of vragenlijst&lt;/li&gt;&lt;li&gt;stel een diagnose omtrent de uit te voeren behandelingen&lt;/li&gt;&lt;li&gt;stel vast wat er is gebeurd bij eventuele eerdere behandelingen&lt;/li&gt;&lt;li&gt;inventariseer risico's inzake de door de klant gewenste of aan de klant geadviseerde behandeling&lt;/li&gt;&lt;li&gt;vraag door middel van een Informed Consent (zie bijlage) naar gegevens die van belang zijn in verband met mogelijke contra-indicaties en allergische reacties (zoals latexallergie)&lt;/li&gt;&lt;li&gt;bespreek met de klant onderwerpen als: voordelen, risico&#8217;s, aantal behandelingen, te verwachten resultaat, nazorg en kosten&lt;/li&gt;&lt;li&gt;g. geef de klant schriftelijke informatie mee over de toepassing van middelen en apparatuur, het opgestelde behandelplan, de kostenbegroting, alsmede de algemene leveringsvoorwaarden (van de brancheorganisatie)(496)&lt;/li&gt;&lt;/ul&gt;</description>
@@ -2797,7 +2797,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-608" optional="no">
         <title>Algemene voorbereidende werkzaamheden</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3610" type="risk">
           <title>Bij ontvangst, wanneer het eigen aanmaak of het om</title>
           <description>&lt;p&gt;Controleer bij ontvangst, wanneer het eigen aanmaak of het ompakken van producten betreft(indien van toepassing)de volgende aspecten:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;houdbaarheid&lt;/li&gt;&lt;li&gt;breuk/beschadiging&lt;/li&gt;&lt;li&gt;etikettering&lt;/li&gt;&lt;li&gt;gebruiksaanwijzing of veiligheidsinformatiebladen&lt;/li&gt;&lt;li&gt;factuur&lt;/li&gt;&lt;li&gt;of levering overeenkomt met bestelling(2810)&lt;/li&gt;&lt;/ul&gt;</description>
@@ -2837,7 +2837,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-609" optional="no">
         <title>Algemene afrondende werkzaamheden</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3616" type="risk">
           <title>Na de behandeling worden de benodigde stappen geze</title>
           <description>&lt;p&gt;Na de behandeling worden de volgende stappen gezet (voor zover nodig):&lt;/p&gt;&lt;ul&gt;&lt;li&gt;ga na of de behandeling goed is verlopen&lt;/li&gt;&lt;li&gt;toon het resultaat aan de klant&lt;/li&gt;&lt;li&gt;vraag de klant of deze tevreden is&lt;/li&gt;&lt;li&gt;reinig de handen volgens voorschrift&lt;/li&gt;&lt;li&gt;werk de klantenkaart bij&lt;/li&gt;&lt;li&gt;verschoon het linnengoed van de werkstoel en reinig gebruikte hulpmiddelen, instrumenten en de werkplek(2819)&lt;/li&gt;&lt;/ul&gt;</description>
@@ -3022,7 +3022,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-621" optional="no">
         <title>Controle/onderhoud ruimtes</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3648" type="risk">
           <title>Geconstateerde gebreken die de veiligheid of gezon</title>
           <description>&lt;p&gt;Regelmatig wordt gecontroleerd of de op de arbeidsplaats voor de bescherming van de werknemers aanwezige voorzieningen en genomen maatregelen nog adequaat functioneren. Geconstateerde gebreken die de veiligheid of de gezondheid kunnen be&#239;nvloeden, worden zo snel mogelijk hersteld.(522)&lt;/p&gt;</description>
@@ -3038,7 +3038,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-622" optional="no">
         <title>Controle/onderhoud verwarming en ventilatie</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3650" type="risk">
           <title>Ventilatievoorzieningen worden vaak genoeg onderho</title>
           <description>&lt;p&gt;Ventilatievoorzieningen worden vaak genoeg onderhouden en schoongemaakt om vervuiling en gezondheidsklachten te voorkomen.(2820)&lt;/p&gt;</description>
@@ -3048,7 +3048,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-623" optional="no">
         <title>Controle/onderhoud blusmiddel</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3651" type="risk">
           <title>Het brandblusmiddel wordt 1 x per jaar gecontrolee</title>
           <description>&lt;p&gt;Brandblusmiddelen worden ten minste 1x per jaar (en na ieder gebruik) gecontroleerd door een instantie die is erkend op basis van de Regeling voor de erkenning van onderhoudsbedrijven kleine blusmiddelen (REOB), of een ten minste gelijkwaardige instelling.(298)&lt;/p&gt;</description>
@@ -3058,7 +3058,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-624" optional="no">
         <title>Controle/onderhoud arbeidsmiddelen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3652" type="risk">
           <title>Arbeidsmiddelen worden regelmatig onderhouden om g</title>
           <description>&lt;p&gt;De nodige maatregelen worden genomen om ervoor te zorgen dat de arbeidsmiddelen tijdens de gehele gebruiksduur door toereikend onderhoud in een zodanige staat worden gehouden, dat gevaar voor de veiligheid en gezondheid van werknemers zoveel mogelijk is voorkomen.(523)&lt;/p&gt;</description>
@@ -3104,7 +3104,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-625" optional="no">
         <title>Controle/onderhoud persoonlijke beschermingsmiddel</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3659" type="risk">
           <title>Persoonlijke beschermingsmiddelen worden voor een</title>
           <description>&lt;p&gt;Persoonlijke beschermingsmiddelen worden onderhouden, gerepareerd en schoon gehouden. Voorts worden de noodzakelijke vervangingen voor het goed functioneren gedaan.(532)&lt;/p&gt;</description>
@@ -3114,7 +3114,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-626" optional="no">
         <title>Controle/onderhoud gevaarlijke stoffen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3660" type="risk">
           <title>Verpakkingen voor gevaarlijke (afval)stoffen worde</title>
           <description>&lt;p&gt;Opslagruimte en emballage voor gevaarlijke stoffen regelmatig controleren op lekkage.(529)&lt;/p&gt;</description>
@@ -3124,7 +3124,7 @@ HljVHljVHljVHljVHljVHljVHljVHljV
       </module>
       <module external-id="M-627" optional="no">
         <title>Bewaren van documenten</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-3661" type="risk">
           <title>Verschillende administratieve documenten worden te</title>
           <description>&lt;p&gt;Bewaar in het bedrijf ten minste 5 jaar de volgende documenten (of een kopie):&lt;/p&gt;&lt;ul&gt;&lt;li&gt;onderhoudscontracten&lt;/li&gt;&lt;li&gt;certificaten van tanks, filters, enz&lt;/li&gt;&lt;li&gt;certificaten van periodiek onderhoud&lt;/li&gt;&lt;li&gt;certificaten keuringen&lt;/li&gt;&lt;li&gt;overzichten energiebedrijf&lt;/li&gt;&lt;li&gt;veiligheidsinformatiebladen&lt;/li&gt;&lt;li&gt;afgiftebewijzen afvalstoffen(535)&lt;/li&gt;&lt;/ul&gt;</description>

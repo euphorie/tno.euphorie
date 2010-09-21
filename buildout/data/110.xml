@@ -46,7 +46,7 @@ qUxnStOa2vQR/1PpSiMAADs=
     <evaluation-optional>yes</evaluation-optional>
     <module external-id="M-2" optional="no">
       <title>Kassawerkplek</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-1" type="risk">
         <title>Het kassablok staat voor de medewerkers op de juiste hoogte.</title>
         <description>&lt;p&gt;Voor het werkblad is een minimale hoogte voorgeschreven van 100 cm.&lt;/p&gt;</description>
@@ -133,7 +133,7 @@ qUxnStOa2vQR/1PpSiMAADs=
     </module>
     <module external-id="M-4" optional="no">
       <title>Werken met klanten</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-15" type="top5">
         <title>Er zijn afspraken gemaakt over wat te doen als een klant agressief reageert.</title>
         <description>&lt;p&gt;Het gaat hier om agressie en geweld van klanten naar het eigen personeel. Hieronder wordt ook verstaan seksuele intimidatie, vandalisme en discriminatie. Zie bijlage 4 van de CAO dierenspeciaalzaken, aquariumspeciaalzaken en hengelsportspeciaalzaken (Protocol veiligheid).&lt;/p&gt;</description>
@@ -215,7 +215,7 @@ qUxnStOa2vQR/1PpSiMAADs=
     </module>
     <module external-id="M-5" optional="no">
       <title>Gevaarlijke stoffen en biologische agentia</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-6" optional="true">
         <title>Algemeen</title>
         <description>&lt;p&gt;Op de verpakking van gevaarlijke stoffen staat een etiket met een gevarensymbool. Denk hierbij aan bepaalde schoonmaakmiddelen, ontsmettingsmiddelen en bestrijdingsmiddelen. Sommige diergeneesmiddelen vallen hier ook onder. Bij twijfel kan de leverancier om productinformatie worden gevraagd. Arbodiensten kunnen u ook op weg helpen.&lt;/p&gt;</description>
@@ -331,7 +331,7 @@ qUxnStOa2vQR/1PpSiMAADs=
     </module>
     <module external-id="M-8" optional="no">
       <title>Klimaat: warmte, koude</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-47" type="risk">
         <title>Het klimaat op de arbeidsplaats is behaaglijk en gelijkmatig.</title>
         <description>&lt;p&gt;Onder klimaat valt onder meer de temperatuur en de luchtvochtigheid.&lt;/p&gt;</description>
@@ -365,10 +365,10 @@ qUxnStOa2vQR/1PpSiMAADs=
     </module>
     <module external-id="M-9" optional="no">
       <title>Het gebouw</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-10" optional="no">
         <title>Winkel</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-52" type="risk">
           <title>De elektrische, gas- en watervoorzieningen worden periodiek (1x per jaar) gecontroleerd door een erkende installateur of controleur.</title>
           <description>&lt;p&gt;Een aantal machines en installaties moet voldoen aan wettelijke eisen die u als werkgever niet kunt checken. Wel moet u nagaan of aan deze installaties constant aandacht wordt besteed doordat een erkende installateur of controleur deze periodiek (1x per jaar) controleert. De uitslag van deze controles moet u vastleggen.&lt;/p&gt;</description>
@@ -635,10 +635,10 @@ qUxnStOa2vQR/1PpSiMAADs=
     </module>
     <module external-id="M-13" optional="no">
       <title>In geval van nood</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-14" optional="no">
         <title>Bedrijfshulpverlening</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-96" type="policy">
           <title>Er is altijd minimaal 1 bedrijfshulpverlener beschikbaar.</title>
           <description>&lt;p&gt;De bedrijfshulpverlening moet in elk bedrijf zodanig georganiseerd worden dat binnen enkele minuten na het plaatsvinden van een ongeval of brand, de bedrijfshulpverleningstaken op een adequate wijze kunnen worden vervuld.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Ook &#226;&#8364;&#8482;s avonds en in vakanties moeten er regelingen zijn voor de bedrijfshulpverlening.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Onder adequate bedrijfshulpverlening wordt verstaan dat de bedrijfshulpverleners:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Eerste hulp moeten kunnen bieden, ook aan gasten/klanten;&lt;/li&gt;&lt;li&gt;Moeten kunnen omgaan met blusmiddelen;&lt;/li&gt;&lt;li&gt;De werknemers instructie geven hoe te handelen in geval van nood;&lt;/li&gt;&lt;li&gt;Zorgen voor de organisatie tijdens een calamiteit (o.a. contact leggen met hulpverlenende instanties);&lt;/li&gt;&lt;li&gt;Preventieve taken, zoals het inspecteren van nooduitgangen&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Nb. Het is wettelijk toegestaan dat bedrijven de taken op het gebied van bedrijfshulpverlening gezamenlijk organiseren. Bijvoorbeeld is samenwerking met de opdrachtgevers op de locaties. Deze samenwerking moet wel schriftelijk worden vastgelegd. De samenwerkende bedrijven worden in dergelijke situaties als een geheel beschouwd. Ook in deze situaties geldt dat de bedrijfshulpverleners binnen enkele minuten ter plaatse moeten zijn van het ongeval of brand.&lt;/p&gt;</description>
@@ -717,7 +717,7 @@ qUxnStOa2vQR/1PpSiMAADs=
       </module>
       <module external-id="M-15" optional="no">
         <title>Ongevallen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-108" type="policy">
           <title>Ongevallen met ernstige gevolgen worden meteen gemeld bij de arbeidsinspectie.</title>
           <description>&lt;p&gt;Dodelijke ongevallen, ongevallen met blijvend letsel of een ongeval dat leidt tot ziekenhuisopname moeten direct telefonisch worden gemeld bij de arbeidsinspectie. Behandeling in een polikliniek zonder ziekenhuisopname hoeft dus niet aan de Arbeidsinspectie te worden gemeld.&lt;/p&gt;</description>
@@ -811,7 +811,7 @@ qUxnStOa2vQR/1PpSiMAADs=
     </module>
     <module external-id="M-18" optional="no">
       <title>Ongewenst gedrag (Psycho Sociale Arbeidsbelasting)</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-123" type="policy">
         <title>Er zijn afspraken gemaakt over ongewenste gedragingen van medewerkers onderling.</title>
         <description>&lt;p&gt;Ongewenst gedrag gaat over (seksuele) intimidatie, pesten, agressie en geweld, discriminatie, en gebruik van alcohol en drugs.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Elke organisatie is verplicht richtlijnen te hanteren m.b.t. omgangsvormen en gedrag. Van belang is dat duidelijk wordt aangegeven wat wel en niet wordt getolereerd, wie toezicht houdt, de klachtenprocedure en de mogelijke sancties die getroffen kunnen worden. Dit beleid dient schriftelijk te zijn vastgelegd en periodiek onder de aandacht te worden gebracht.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;De Arbowet heeft het overigens over psychosociale arbeidsbelasting (PSA). Ongewenste gedragingen is daar een onderdeel van. Werkdruk valt overigens ook onder PSA (zie module 10, laatste stelling).&lt;/p&gt;</description>
@@ -911,7 +911,7 @@ qUxnStOa2vQR/1PpSiMAADs=
     <module external-id="M-20" optional="no">
       <module optional="no">
         <title>Algemeen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-139" type="risk">
           <title>U heeft medewerkers in dienst.</title>
           <description></description>
@@ -920,10 +920,10 @@ qUxnStOa2vQR/1PpSiMAADs=
         </risk>
       </module>
       <title>Afspraken over arbo</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-21" optional="no">
         <title>Organisatie van preventie</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-140" type="policy">
           <title>Er is een preventiemedewerker in uw bedrijf en deze is voldoende toegerust om de preventietaken te vervullen.</title>
           <description>&lt;p&gt;Een preventiemedewerker is een eigen werknemer die u helpt bij de dagelijkse veiligheid, gezondheid en arbeidsomstandigheden in uw praktijk. De preventiemedewerker heeft de benodigde kennis, ervaring, middelen en tijd om u goed te kunnen bijstaan bij de preventietaken. De taken van een preventiemedewerker zijn:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;het kunnen verstrekken van informatie en het geven van voorlichting;&lt;/li&gt;&lt;li&gt;de belangrijkste arbeidsrisico's in de praktijk kunnen herkennen en maatregelen tegen deze risico&#226;&#8364;&#8482;s treffen;&lt;/li&gt;&lt;li&gt;het kunnen voorstellen van verbetermogelijkheden;&lt;/li&gt;&lt;li&gt;uitvoeren van het Plan van aanpak van de RI&amp;amp;E;&lt;/li&gt;&lt;li&gt;arbo-maatregelen kunnen (laten) uitvoeren.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Bij het invullen of bestuderen van deze RI&amp;amp;E kan blijken of voor de preventiemedewerker in uw praktijk aanvullende deskundigheid nodig is. Aanvullende deskundigheid kan worden verkregen door opleiding van de preventiemedewerker of door inschakeling van een (externe) deskundige.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#194;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Een preventiemedewerker heeft voor genoemde taken een onafhankelijke en zelfstandige positie ten opzichte van de werkgever en zijn collega's.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#194;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Een ondernemer met niet meer dan 25 werknemers mag zelf de taken van een preventiemedewerker op zich nemen en hoeft hiervoor dan geen werknemer aan te wijzen. Wel moet hij/zij ook voldoende deskundigheid hebben.&lt;/p&gt;</description>
@@ -953,7 +953,7 @@ qUxnStOa2vQR/1PpSiMAADs=
       </module>
       <module external-id="M-22" optional="no">
         <title>Voorlichting</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-144" type="policy">
           <title>Medewerkers en stagiairs ontvangen regelmatig voorlichting en instructie over het (veilig) uitvoeren van hun werk en er wordt vastgelegd wie, wanneer, waarover voorlichting heeft ontvangen.</title>
           <description>&lt;p&gt;Zonder goede en herhaaldelijke voorlichting van de risico&#8217;s op het werk, bestaat er een grotere kans op ongevallen. In het kader van de aansprakelijkheid is het voor de werkgever erg belangrijk om aan te kunnen tonen wie, wanneer, welke voorlichting of instructie heeft bijgewoond. De werkgever zorgt voor een doeltreffende inlichting over:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;de door de werknemer te verrichten werkzaamheden en de daaraan verbonden risico&#8217;s;&lt;/li&gt;&lt;li&gt;de maatregelen die erop gericht zijn deze risico&#8217;s te voorkomen of te beperken;&lt;/li&gt;&lt;li&gt;de wijze waarop de deskundige bijstand op het gebied van preventie en bescherming is georganiseerd (arbodienst, BHV, preventiemedewerker).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Soms is voorlichting niet genoeg en moet er instructie worden gegeven (oefenen van de instructies in de praktijk). Herhaling van voorlichting is nodig om alert te blijven op risico&#8217;s tijdens het werk.&lt;/p&gt;</description>
@@ -983,7 +983,7 @@ qUxnStOa2vQR/1PpSiMAADs=
     </module>
     <module external-id="M-23" optional="no">
       <title>Voortgang RIE</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-148" type="policy">
         <title>Iedere werknemer kan het RI&amp;E rapport inzien.</title>
         <description>&lt;p&gt;Door het RI&amp;amp;E rapport in te zien, kunnen werknemers leren met welke risico&#8217;s zij te maken hebben en daardoor veiliger gaan werken.&lt;/p&gt;</description>

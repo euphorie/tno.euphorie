@@ -273,7 +273,7 @@ zPXv3fj8/N3+/f7d/f393f39/d39/f3d/f393f39/d39/f3d/f393f39/d39/f3d/f393f39/d39
     <evaluation-optional>yes</evaluation-optional>
     <module external-id="M-4980" optional="no">
       <title>Werkzaamheden</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-5032" optional="true">
         <title>Werken met trekkers bij grondbewerking, planten, rooien, koppen en spuiten.</title>
         <description/>
@@ -771,7 +771,7 @@ Je &lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&#160;&#160;&#160; weet dan waar je op mo
       </module>
       <module external-id="M-5788" optional="true">
         <title>Sorteren en verwerken van bollen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Sorteren en verwerken wordt op het bedrijf uitgevoerd.</question>
         <risk external-id="R-28077" type="risk">
           <title>Lopendebandwerk wordt maximaal 6 uur per dag verricht.</title>
@@ -1271,7 +1271,7 @@ Je &lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&#160;&#160;&#160; weet dan waar je op mo
       </module>
       <module external-id="M-5792" optional="no">
         <title>Oogsten van bloemen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-28156" type="risk">
           <title>Oogsten van bloemen wordt afgewisseld met andere werkzaamheden.</title>
           <description>&lt;p&gt;Bij het oogsten/plukken is er sprake van repeterende handelingen, wat klachten aan met name pols, elleboog en schouder met zich mee kan brengen.&lt;/p&gt;</description>
@@ -1345,7 +1345,7 @@ Je &lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&#160;&#160;&#160; weet dan waar je op mo
       </module>
       <module external-id="M-5038" optional="true">
         <title>Kantoorwerk</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Er zijn medewerkers die meer dan twee uur per dag kantoorwerk verrichten.</question>
         <risk external-id="R-24958" type="risk">
           <title>Na twee uur computerwerk kan er minimaal 15 minuten gepauzeerd worden of kan er tijdelijk ander werk worden gedaan.</title>
@@ -2163,7 +2163,7 @@ Je &lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&#160;&#160;&#160; weet dan waar je op mo
     </module>
     <module external-id="M-5241" optional="no">
       <title>Organisatie van bedrijfshulpverlening, arbeidsomstandigheden en verzuim</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-5253" optional="no">
         <title>Bedrijfshulpverlening</title>
         <description>&lt;p&gt;Bedrijfshulpverlening (BHV) is er op gericht om direct na een ongeval of incident de juiste handelingen uit te voeren tot het moment dat professionele hulp ter plaatse is.&lt;br/&gt;Goede bedrijfshulpverlening kan levens redden en (onnodige) schade voorkomen. Omdat elk bedrijf verschillend is, is het belangrijke dat de bedrijfshulpverlening is afgestemd op het bedrijf, zodat op elk moment adequate hulp geleverd kan worden.&lt;/p&gt;</description>
@@ -2306,7 +2306,7 @@ Je &lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&#160;&#160;&#160; weet dan waar je op mo
       </module>
       <module external-id="M-5257" optional="no">
         <title>Arbeidsomstandigheden en verzuim</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-25199" type="policy">
           <title>Arbeidsomstandigheden worden in het bedrijf op een structurele manier aangepakt.</title>
           <description>&lt;p&gt;Een structurele aanpak zorgt ervoor dat alle knelpunten uiteindelijk worden aangepakt en niet alleen de knelpunten die op korte termijn risico's opleveren of de knelpunten die door `vaste klagers`worden aangekaart.&lt;/p&gt;&lt;p&gt;Een structurele aanpak begint met een inventarisatie van de knelpunten en de ernst van de knelpunten (risico-inventarisatie en -evaluatie), waarna je een plan opstelt hoe en wanneer de knelpunten opgelost moeten worden opgelost, controle of het plan wordt uitgevoerd en uiteindelijk weer inventariseren of de aanpak het gewenste effect heeft gehad en welke risico`s nog over zijn en of nieuwe risico`s zijn ge&#239;ntroduceerd.&lt;/p&gt;&lt;p&gt;Bij het zoeken naar oplossingen moet de zogenaamde bronaanpak of arbeidshygi&#235;nische strategie worden toegepast, dat wil zeggen:&lt;/p&gt;&lt;ol start="1"&gt;&lt;li&gt;maatregelen aan de bron, waardoor de bron wordt weggenomen;&lt;/li&gt;&lt;li&gt;afscherming, afzuiging etc. waardoor mens en bron gescheiden worden;&lt;/li&gt;&lt;li&gt;verkorting van de blootstellingsduur, waardoor de schadelijke werking minder wordt;&lt;/li&gt;&lt;li&gt;Gebruik van persoonlijke beschermingsmiddelen.&lt;/li&gt;&lt;/ol&gt;</description>

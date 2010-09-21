@@ -274,7 +274,7 @@ zPXv3fj8/N3+/f7d/f393f39/d39/f3d/f393f39/d39/f3d/f393f39/d39/f3d/f393f39/d39
     <profile-question external-id="KLV-263" type="optional">
       <title>Teelt u snijbloemen?</title>
       <question>Teelt u snijbloemen?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1240" optional="true">
         <title>Oogstwerkzaamheden snijbloemen</title>
         <description/>
@@ -871,7 +871,7 @@ zPXv3fj8/N3+/f7d/f393f39/d39/f3d/f393f39/d39/f3d/f393f39/d39/f3d/f393f39/d39
     <profile-question external-id="KLV-264" type="optional">
       <title>Teelt u potplanten?</title>
       <question>Teelt u potplanten?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1243" optional="true">
         <title>Vermeerdering en opkweek van potplanten</title>
         <description/>
@@ -1453,7 +1453,7 @@ zPXv3fj8/N3+/f7d/f393f39/d39/f3d/f393f39/d39/f3d/f393f39/d39/f3d/f393f39/d39
     <profile-question external-id="KLV-265" type="optional">
       <title>Teelt u groenten?</title>
       <question>Teelt u groenten?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1246" optional="true">
         <title>Gewasverzorging en oogsten van glasgroente</title>
         <description/>
@@ -2202,10 +2202,10 @@ zPXv3fj8/N3+/f7d/f393f39/d39/f3d/f393f39/d39/f3d/f393f39/d39/f3d/f393f39/d39
     </module>
     <module external-id="M-1251" optional="no">
       <title>Bijzondere werkzaamheden en omstandigheden</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-6289" optional="no">
         <title>Werken onder extreme temperaturen.</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-30532" type="risk">
           <title>Bij extreme warmte zijn er regels afgesproken hoe er gewerkt kan worden.</title>
           <description>&lt;p&gt;Af te spreken regels gaan bijv. over andere werktijden (tropenrooster), planning van de werkzaamheden (fysiek inspannende klussen op de koelste momenten), extra pauzetijden en voldoende drinken.&lt;/p&gt;</description>
@@ -2599,7 +2599,7 @@ zPXv3fj8/N3+/f7d/f393f39/d39/f3d/f393f39/d39/f3d/f393f39/d39/f3d/f393f39/d39
       </module>
       <module external-id="M-6274" optional="no">
         <title>Veilig werken op het kasdek.</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-30541" type="top5">
           <title>Bij werkzaamheden op of aan het kasdek worden maatregelen genomen om vallen en snijden te voorkomen.</title>
           <description>&lt;p&gt;Werkzaamheden op of aan het kasdek worden steeds meer uitbesteed. De risico's en het aantal ongevallen bij deze werkzaamheden zijn dan ook groot. Vallen van grote hoogte (soms meer dan 5 meter) met het bijkomende risico van het ontstaan van gevaarlijke snijwonden door glasscherven.&lt;/p&gt;&lt;p&gt;Gaat u toch zelf aan de slag denk dan minimaal aan de volgende punten:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Werk met een ladder of rolsteiger die stabiel staat, denk hierbij ook aan een stevige ondergrond, zorg voor goede ladderschoenen of antisliprubbers en zet de ladder vast of haak deze aan.&lt;/li&gt;&lt;li&gt;Werken vanaf een heftruck is alleen toegestaan met een offici&#235;le werkbak.&lt;/li&gt;&lt;li&gt;Loop alleen door de goot als de constructie dit toelaat en gebruik een hulpmiddel dat voldoende houvast biedt en het gewicht spreidt.&lt;/li&gt;&lt;li&gt;Werk bij het vervangen van ruiten altijd met minimaal twee personen.&lt;/li&gt;&lt;li&gt;Laat tijdens het vervangen van ruiten geen personen in de kas werken.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Nadere informatie en nog meer tips op &lt;a href="http://www.stigas.nl/download.php?file_id=505" rel="nofollow" target="_blank"&gt;Veiligheid bij het onderhoud van kassen&lt;/a&gt;&lt;/p&gt;</description>
@@ -2619,7 +2619,7 @@ zPXv3fj8/N3+/f7d/f393f39/d39/f3d/f393f39/d39/f3d/f393f39/d39/f3d/f393f39/d39
       </module>
       <module external-id="M-6356" optional="true">
         <title>Heftrucks</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>In het bedrijf wordt met &amp;eacute;&amp;eacute;n of meerdere heftrucks gewerkt.</question>
         <risk external-id="R-31318" type="risk">
           <title>De heftruck wordt jaarlijks gekeurd.</title>
@@ -3097,7 +3097,7 @@ zonder de juiste afschermingen.&lt;/p&gt;</action-plan>
     </module>
     <module external-id="M-1260" optional="no">
       <title>Functie-,werkinhoud, bedrijfsvoering</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-7754" type="policy">
         <title>Het personeel wordt periodiek op de hoogte gehoude</title>
         <description>&lt;p&gt;Het ontbreken van (de juiste) informatie vormt vaak een bron van onzekerheid en stress bij werknemers.&lt;/p&gt;</description>
@@ -3391,7 +3391,7 @@ zonder de juiste afschermingen.&lt;/p&gt;</action-plan>
     </module>
     <module external-id="M-1263" optional="no">
       <title>Organisatie van bedrijfshulpverlening, arbeidsomstandigheden en verzuim.</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-6308" optional="no">
         <title>Bedrijfshulpverlening</title>
         <description>&lt;p&gt;Bedrijfshulpverlening (BHV) is er op gericht om direct na een ongeval of incident de juiste handelingen uit te voeren tot het moment dat professionele hulp ter plaatse is.&lt;br/&gt;Goede bedrijfshulpverlening kan levens redden en (onnodige) schade voorkomen. Omdat elk bedrijf verschillend is, is het belangrijke dat de bedrijfshulpverlening is afgestemd op het bedrijf, zodat op elk moment adequate hulp geleverd kan worden.&lt;/p&gt;</description>
@@ -3530,7 +3530,7 @@ zonder de juiste afschermingen.&lt;/p&gt;</action-plan>
       </module>
       <module external-id="M-6309" optional="no">
         <title>Arbeidsomstandigheden en verzuim.</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-30688" type="policy">
           <title>Arbeidomstandigheden worden in het bedrijf op een structurele manier aangepakt.</title>
           <description></description>

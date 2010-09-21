@@ -14,10 +14,10 @@
     <evaluation-optional>yes</evaluation-optional>
     <module external-id="M-5241" optional="no">
       <title>Organisatie van arbeidsomstandigheden, verzuim en bedrijfshulpverlening</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-5257" optional="no">
         <title>Arbeidsomstandigheden en verzuim</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-25199" type="policy">
           <title>Arbeidsomstandigheden worden in de organisatie op een structurele manier aangepakt.</title>
           <description>&lt;p&gt;Een structurele (beleidsmatige)&#160;aanpak zorgt ervoor dat alle knelpunten uiteindelijk worden aangepakt en niet alleen de knelpunten die op korte termijn risico's opleveren of&#160;de knelpunten die door `vaste klagers`worden aangekaart.&lt;/p&gt;&lt;p&gt;Een structurele aanpak begint met een inventarisatie van de knelpunten en de ernst van de knelpunten&#160;(risico-inventarisatie en -evaluatie), waarna je een plan opstelt hoe en wanneer de knelpunten opgelost moeten worden opgelost, controle of het plan wordt uitgevoerd en uiteindelijk weer inventariseren of de aanpak het gewenste effect heeft gehad en welke risico`s nog over zijn en of nieuwe risico`s zijn ge&#239;ntroduceerd.&lt;/p&gt;&lt;p&gt;Bij het zoeken naar oplossingen moet de zogenaamde bronaanpak of arbeidshygi&#235;nische aanpak wordne gevolgd. Dat wil zeggen in eerste instantie door het nemen van maatregelen aan de bron waardoor de bron wordt weggenomen. Als de bron niet kan worden voorkomen of beperkt, moeten doeltreffende maatregelen worden genomen waarbij collectieve (voor alle medewerkers) maatregelen de voorkeur verdienen boven individuele maatregelen. Denk aan maatregelen zoals afscherming, afzuiging ed. (waardoor mens en bron worden gescheiden) en verkorting van de blootstellingsduur (zodat minder blootstelling aan de schadelijke werking). Wanneer voornoemde maatregelen redelijkerwijs niet mogelijk blijken kan worden overgegaan tot het gebruik van persoonlijke beschermingsmiddelen.&lt;/p&gt;</description>
@@ -550,7 +550,7 @@
     </module>
     <module external-id="M-4980" optional="no">
       <title>Werkzaamheden</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-4981" optional="true">
         <title>Werken met handgedragen machines</title>
         <description>&lt;p&gt;Onder handgedragen machines worden machines verstaan die (grotendeels) in de handen worden gedragen en met de handen worden bediend zoals&#194;&#160;motorkettingzagen, heggenscharen, bladblazers en bosmaaiers, maar &#226;&#8364;&#732;zelfstandig&#226;&#8364;&#8482; door een motor worden aangedreven. Dat betekent dat electrisch handgereedschap zoals een electrische boor of zaag hier niet onder vallen. Dat geldt ook voor gereedschap als schoffels, scheppen en harken.&lt;/p&gt;</description>
@@ -1735,7 +1735,7 @@
       </module>
       <module external-id="M-5038" optional="true">
         <title>Kantoorwerk</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Er zijn medewerkers die meer dan twee uur per dag kantoorwerk verrichten.</question>
         <risk external-id="R-24958" type="risk">
           <title>Na twee uur computerwerk kan er minimaal 15 minuten gepauzeerd worden of kan er tijdelijk ander werk worden gedaan.</title>
@@ -2011,7 +2011,7 @@
       </module>
       <module external-id="M-5633" optional="true">
         <title>Werken met electrisch gereedschap, machines en transportmiddelen (o.a. golfkar)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Er worden machines, gereedschappen en transportmiddelen gebruikt.</question>
         <risk external-id="R-27087" type="risk">
           <title>Alle machines en gereedschappen zijn voorzien van CE-markering.</title>
@@ -2094,7 +2094,7 @@
       </module>
       <module external-id="M-5632" optional="true">
         <title>Werken in besloten ruimtes en kruipruimtes</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Er wordt in kruipruimtes of besloten ruimtes gewerkt.</question>
         <risk external-id="R-27084" type="risk">
           <title>Bij het werken in kruipruimtes is vastgesteld met welke hulpmiddelen moet worden gewerkt.</title>
@@ -2133,7 +2133,7 @@
       </module>
       <module external-id="M-5676" optional="true">
         <title>Schilderwerk</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Medewerkers verrichten schilderwerk</question>
         <risk external-id="R-27526" type="risk">
           <title>Bij binnenschilderwerk wordt gewerkt met verf op waterbasis (zonder oplosmiddelen)</title>
@@ -3451,7 +3451,7 @@
       </module>
       <module external-id="M-5677" optional="true">
         <title>Chauffeurswerk</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Medewerkers verrichten chauffeurswerk</question>
         <risk external-id="R-27531" type="risk">
           <title>Voldoen de bedrijfsauto&#8217;s aan de eisen?</title>

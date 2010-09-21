@@ -89,10 +89,10 @@ RkZGRkZGRkZGRkZGRkZGRkY=
     <evaluation-optional>yes</evaluation-optional>
     <module external-id="M-865" optional="no">
       <title>Het gebouw</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-866" optional="no">
         <title>Elk gebouw</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-5022" type="risk">
           <title>Alle werkruimtes in het gebouw worden goed onderho</title>
           <description>&lt;p&gt;Er zijn geen duidelijk aantoonbare gebreken aan de werkruimtes in het gebouw en er is voldoende aandacht voor periodiek onderhoud (kapotte lampen, lekkageplekken losse plafondplaten of kapotte sloten) en schoonmaak.&#160;&lt;/p&gt;</description>
@@ -388,7 +388,7 @@ of in een inwerklijst.&lt;/p&gt;</action-plan>
       </module>
       <module external-id="M-867" optional="no">
         <title>De winkelruimte, refractieruimte en het magazijn</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-5040" type="risk">
           <title>Er is een duidelijk onderscheid tussen publieksrui</title>
           <description>&lt;p&gt;Dit is van belang voor de veiligheid. Denk hierbij vooral aan situaties waar kinderen gemakkelijk bij&#160;spullen zoals gereedschappen en gevaarlijke stoffen in de werkplaats&#160;kunnen komen.&lt;/p&gt;</description>
@@ -1742,10 +1742,10 @@ aXpRUjNjUVI3c1FhUUpDQUFBCk93PT0K
     </module>
     <module external-id="M-870" optional="no">
       <title>Werksoorten</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-871" optional="no">
         <title>Werken met klanten</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-5061" type="risk">
           <title>Er zijn concrete afspraken gemaakt rondom agressie</title>
           <description>&lt;p&gt;Het gaat hier om agressie en geweld van klanten naar het eigen personeel. Hieronder wordt naast fysiek geweld, diefstal en een overval ook verstaan seksuele intimidatie, vandalisme en discriminatie. Vooral diefstal en agressie zijn belangrijke risico's binnen de branche. Het is daarom essentieel dat in samenwerking met de medewerkers enerzijds afspraken gemaakt worden over wat men kan doen om de kans te verkleinen en anderzijds over hoe te handelen in voorkomende situaties.&lt;/p&gt;</description>
@@ -3111,7 +3111,7 @@ hoeverre extra maatregelen genomen moeten worden.&lt;/p&gt;</action-plan>
     </module>
     <module external-id="M-873" optional="no">
       <title>Bijzondere omstandigheden</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-874" optional="true">
         <title>Gevaarlijke stoffen tijdens het werk</title>
         <description>&lt;p&gt;Binnen de optiekbranche is het gebruik van gevaarlijke stoffen veelal beperkt tot reguliere schoonmaakmiddelen en af en toe wat aceton. Wanneer binnen uw bedrijf echter ook met andere gevaarlijke stoffen gewerkt wordt, denk bijvoorbeeld aan het kleuren van glazen, is het belangrijk dat u kritisch nagaat of en in hoeverre de juiste maatregelen ter voorkoming van calamiteiten of schadelijke blootstelling aan deze stoffen genomen zijn.&lt;/p&gt;</description>
@@ -3156,7 +3156,7 @@ hoeverre extra maatregelen genomen moeten worden.&lt;/p&gt;</action-plan>
     </module>
     <module external-id="M-875" optional="no">
       <title>In geval van nood</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-5083" type="risk">
         <title>Nooduitgangen zijn in voldoende mate aanwezig.</title>
         <description>&lt;p&gt;Wanneer de afstand tot de uitgang groter is dan 30 m, is een extra nooduitgang noodzakelijk. Schuif- en draaideuren mogen niet als nooduitgang worden gebruikt. De nooduitgang moet goed bereikbaar zijn, duidelijk worden aangegeven en verlicht en naar buiten toe opendraaien.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Nb. Ook gemeenten of verzekeringsmaatschappijen kunnen specifieke eisen stellen aan het aantal nooduitgangen.&lt;/p&gt;</description>
@@ -3316,7 +3316,7 @@ hoeverre extra maatregelen genomen moeten worden.&lt;/p&gt;</action-plan>
     </module>
     <module external-id="M-876" optional="no">
       <title>Ongevallen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-5095" type="risk">
         <title>Er zijn afspraken gemaakt over hoe men moet handel</title>
         <description>&lt;p&gt;Denk hierbij aan alarmeren van familieleden; Inschakelen deskundige hulp. U kunt dergelijke afspraken opnemen in uw calamiteitenplan of opnemen in uw huishoudelijk- of bedrijfsreglement.&lt;/p&gt;</description>
@@ -3338,7 +3338,7 @@ hoeverre extra maatregelen genomen moeten worden.&lt;/p&gt;</action-plan>
     </module>
     <module external-id="M-877" optional="no">
       <title>Ongewenst gedrag.</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-5098" type="risk">
         <title>Er zijn afspraken gemaakt over interne ongewenste</title>
         <description>&lt;p&gt;Ongewenst gedrag gaat over (seksuele) intimidatie, pesten, agressie en geweld, discriminatie, diefstal en gebruik van alcohol en drugs. Het is belangrijk hierover met elkaar goede afspraken te maken.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Zie website:&lt;/p&gt;&lt;a href="http://home.szw.nl/navigatie/rubriek/dsp_rubriek.cfm?link_id=5500&amp;amp;doctype_id=15" rel="nofollow" target="_blank"&gt; www.home.szw.nl&lt;/a&gt;</description>
@@ -3382,7 +3382,7 @@ hoeverre extra maatregelen genomen moeten worden.&lt;/p&gt;</action-plan>
     </module>
     <module external-id="M-878" optional="no">
       <title>Werk- en rusttijden</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-5101" type="risk">
         <title>De werktijden zijn conform de Arbeidstijdenwet</title>
         <description>&lt;p&gt;In bepaalde situaties zijn afwijkingen mogelijk. Zie hiervoor uw CAO. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Zie website: &lt;/p&gt;&lt;a href="http://www.arbeidstijdenwet.nl" rel="nofollow" target="_blank"&gt;www.arbeidstijdenwet.nl&lt;/a&gt;</description>
@@ -3410,7 +3410,7 @@ hoeverre extra maatregelen genomen moeten worden.&lt;/p&gt;</action-plan>
     </module>
     <module external-id="M-879" optional="no">
       <title>Werkinhoud en werkbeleving</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-5105" type="risk">
         <title>Er is een gestructureerde vorm van werkoverleg.</title>
         <description>&lt;p&gt;Gestructureerd werkoverleg is iets anders dan &#8220;tussen de bedrijven door overleg hebben&#8221;. Door periodiek met elkaar om de tafel te zitten komt vaak meer los dan het tussen de bedrijven door overleggen. In dit werkoverleg kan gesproken worden over bijvoorbeeld bedrijfsresultaten, nieuwe werkzaamheden, acties of nieuwe producten, hoe gaat de onderlinge samenwerking, planning van werk etc. Een werkoverleg kan ook uitstekend gebruikt worden voor het geven van voorlichting en instructies.Het is raadzaam om notulen van dit overleg te maken inclusief een aanwezigheidsregistratie.&lt;/p&gt;</description>
@@ -3510,7 +3510,7 @@ hoeverre extra maatregelen genomen moeten worden.&lt;/p&gt;</action-plan>
     </module>
     <module external-id="M-880" optional="no">
       <title>Afspraken over arbo en verzuim</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-5114" type="risk">
         <title>De regels ten aanzien van verzuim zijn schriftelij</title>
         <description>&lt;p&gt;Het is belangrijk dat medewerkers goed ge&#239;nformeerd zijn over wat er van hen verwacht wordt bij een ziekmelding en wat zij mogen verwachten van het bedrijf. U kunt deze afspraken het beste vastleggen in een verzuimreglement of uw bedrijfsreglement. In uw CAO is een voorbeeld opgenomen.&lt;/p&gt;</description>
@@ -3604,7 +3604,7 @@ hoeverre extra maatregelen genomen moeten worden.&lt;/p&gt;</action-plan>
     </module>
     <module external-id="M-881" optional="no">
       <title>Uitkomsten RI&amp;E en voortgang van het plan van aanp</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-5122" type="risk">
         <title>De medewerkers zijn betrokken bij de uitvoering va</title>
         <description></description>
@@ -3654,7 +3654,7 @@ hoeverre extra maatregelen genomen moeten worden.&lt;/p&gt;</action-plan>
     </module>
     <module external-id="M-882" optional="no">
       <title>Voorlichting</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-5126" type="risk">
         <title>Medewerkers zijn ge&#239;nstrueerdover de aard van de w</title>
         <description>&lt;p&gt;Voorlichting en instructies zijn &#233;&#233;n van de belangrijkste preventieve maatregelen om verzuim en ongevallen te voorkomen. Ook in het kader van aansprakelijkheid is het noodzakelijk dat medewerkers aantoonbaar ge&#239;nformeerd en ge&#239;nstrueerd zijn over de aard van de werkzaamheden en de hieraan verbonden (mogelijke) risico&#8217;s. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;ADVIES&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Tijdens het invullen van deze RI&amp;amp;E zijn al verschillende voorlichtingsonderwerpen aan bod gekomen. Wij hebben deze en enkele nieuwe voorlichtingsonderwerpen hieronder onder elkaar gezet. Wanneer u deze voorlichtingsonderwerpen nog niet als een aandachtspunt genoteerd heeft, kunt u deze in de rubriek &#8220;Opmerkingen&#8221; alsnog aangeven: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hoe te handelen in geval van diefstal, agressie of overval;&lt;/li&gt;&lt;li&gt;Hoe te handelen in geval van een brand of EHBO calamiteit;&lt;/li&gt;&lt;li&gt;Hoe gaan we om met ziekmeldingen (wat doet het bedrijf en wat wordt er van de medewerker verwacht.);&lt;/li&gt;&lt;li&gt;Bij wie kan ik terecht met vragen of klachten rondom de arbeidsomstandigheden of ongewenste omgangsvormen;&lt;/li&gt;&lt;li&gt;Hoe kunnen we de kans op klachten aan het houdings- en bewegingsapparaat zo goed mogelijk beheersen (inrichting werkplekken, gebruik hulpmiddelen en werkmethoden);&lt;/li&gt;&lt;li&gt;Veilig werken op ladders en/of trappen;&lt;/li&gt;&lt;li&gt;Veilig werken met gevaarlijke stoffen;&lt;/li&gt;&lt;li&gt;Gebruik persoonlijke beschermingsmiddelen;&lt;/li&gt;&lt;li&gt;Veilig werken met de beschikbare arbeidsmiddelen;&lt;/li&gt;&lt;li&gt;Werken met beeldschermen;&lt;/li&gt;&lt;li&gt;Hoe gaan we om met medewerkers die zich niet aan de gemaakte afspraken houden (sanctiebeleid). &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Een groot deel van deze onderwerpen kunt u in bijvoorbeeld een huishoudelijk- of bedrijfsreglement vastleggen. Daarnaast lenen deze ontwerpen zich ook om periodiek in een werkoverleg te bespreken. Nodig ook eens een arbodeskundige uit om hier iets meer over te vertellen.&lt;/p&gt;</description>

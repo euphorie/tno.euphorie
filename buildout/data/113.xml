@@ -249,7 +249,7 @@ fOH22vf85Pf8g+L28/v9mub3////////////////////////////////////////////////////
     <evaluation-optional>yes</evaluation-optional>
     <module external-id="M-6364" optional="no">
       <title>Fysieke belasting</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-31373" type="top5">
         <title>De onderzoekstafel heeft de juiste hoogte</title>
         <description>&lt;p&gt;Voorkomen dient te worden dat met geheven armen of in een gebogen houding wordt gewerkt. Een instelbare tafel heeft de voorkeur.&lt;/p&gt;</description>
@@ -349,7 +349,7 @@ fOH22vf85Pf8g+L28/v9mub3////////////////////////////////////////////////////
     </module>
     <module external-id="M-6365" optional="no">
       <title>Werktijden</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-31381" type="top5">
         <title>Er zijn afspraken gemaakt over de continuiteit van de zorg (achterwachtregeling).</title>
         <description>&lt;p&gt;Indien geen afspraken zijn gemaakt kunnen problemen voorkomen met te lange bereikbaarheidsdiensten en teveel werkuren.&lt;/p&gt;</description>
@@ -425,7 +425,7 @@ fOH22vf85Pf8g+L28/v9mub3////////////////////////////////////////////////////
     </module>
     <module external-id="M-6366" optional="no">
       <title>Werkstress</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-31387" type="top5">
         <title>Er is over het algemeen voldoende personele bezetting.</title>
         <description>&lt;p&gt;In de arbowet wordt niet gesproken over werkdruk en welzijn, maar over psychosociale arbeidsbelasting (PSA). &lt;/p&gt;</description>
@@ -555,7 +555,7 @@ fOH22vf85Pf8g+L28/v9mub3////////////////////////////////////////////////////
     </module>
     <module external-id="M-6367" optional="no">
       <title>Gevaarlijke stoffen en infectiepreventie</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-31396" type="top5">
         <title>Het hygieneprotocol is bekend en wordt uitgevoerd.</title>
         <description>&lt;p&gt;De KNOV heeft een standaard opgesteld voor hygi&#235;ne en infectiepreventie in de eerstelijns verloskundige praktijk.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="http://leden.knov.nl/leden/30Werken_aan_kwaliteit/20Werken_met_Richtlijnen_gedragscodes_en_werkafspraken/12Hygiene_en_Infectiepreventie-KNOV-standaard/"&gt;Link hygieneprotocol KNOV&lt;/a&gt;&lt;/li&gt;
@@ -683,10 +683,10 @@ fOH22vf85Pf8g+L28/v9mub3////////////////////////////////////////////////////
     </module>
     <module external-id="M-6368" optional="no">
       <title>Het pand</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-6369" optional="no">
         <title>Bedrijfshulpverlening</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-31407" type="policy">
           <title>Er is een bedrijfshulpverleningsplan gemaakt voor de organisatie of het pand.</title>
           <description>&lt;p class="MsoNormal"&gt;Bedrijfshulpverlening gaat over wat te doen bij een brand of andere calamiteit. &lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="http://www.mkbservicedesk.nl/1985/wat-bhv-plan.htm"&gt;Voorbeeld BHV-plan&lt;/a&gt;&lt;/li&gt;
@@ -972,7 +972,7 @@ fOH22vf85Pf8g+L28/v9mub3////////////////////////////////////////////////////
       </module>
       <module external-id="M-6371" optional="true">
         <title>Baliewerk</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Is er personeel dat achter een balie werkt?</question>
         <risk external-id="R-31433" type="risk">
           <title>De balie is zodanig ingericht dat medewerkers en bezoekers elkaar op gelijke ooghoogte aan kunnen kijken.</title>
@@ -1001,7 +1001,7 @@ fOH22vf85Pf8g+L28/v9mub3////////////////////////////////////////////////////
       </module>
       <module external-id="M-6372" optional="no">
         <title>Voorzieningen in het pand</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-31502" type="risk">
           <title>De ruimten zijn groot genoeg om op een plezierige manier te werken.</title>
           <description>&lt;p&gt;De ruimten moeten zo groot zijn dat de werkzaamheden met voldoende bewegingsruimte uitgevoerd kunnen worden. Er mag dus geen sprake zijn van regelmatig stoten aan bijv. meubilair of het aannemen van gedwongen houdingen vanwege een te beperkte bewegingsvrijheid.&lt;/p&gt;</description>
@@ -1183,7 +1183,7 @@ fOH22vf85Pf8g+L28/v9mub3////////////////////////////////////////////////////
       </module>
       <module external-id="M-6373" optional="no">
         <title>Klimaat geluid en licht</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-31449" type="risk">
           <title>Op plaatsen waar gewerkt wordt is voldoende verlichting aanwezig.</title>
           <description>&lt;p&gt;Iedereen moet goed kunnen zien, zonder extra inspanning. Ouderen hebben vaak extra verlichting nodig.&lt;/p&gt;</description>
@@ -1272,7 +1272,7 @@ fOH22vf85Pf8g+L28/v9mub3////////////////////////////////////////////////////
     </module>
     <module external-id="M-6374" optional="no">
       <title>Basisafspraken over arbo en verzuim</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-31456" type="policy">
         <title>Bij nieuwbouw, verbouwing en inkoop van apparatuur/meubilair wordt rekening gehouden met arbo-eisen.</title>
         <description>&lt;p&gt;Om dure aanpassingen achteraf te voorkomen, is het belangrijk om vooraf al rekening te houden met de arbeidsomstandigheden.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="http://www.kwesto.nl/images/stories/adviezenverbouwing.doc"&gt;Aandachtspunten verbouwing en nieuwbouw&lt;/a&gt;&lt;/li&gt;
@@ -1454,7 +1454,7 @@ fOH22vf85Pf8g+L28/v9mub3////////////////////////////////////////////////////
     </module>
     <module external-id="M-6375" optional="no">
       <title>Ongewenst gedrag</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-31470" type="policy">
         <title>Er zijn afspraken gemaakt over wat te doen als een client of bezoeker agressief reageert.</title>
         <description>&lt;p class="MsoNormal"&gt;Door het maken van afspraken (op papier) kunnen medewerkers grenzen stellen en weten cli&#235;nten wat niet wordt toegestaan.&lt;/p&gt;</description>
@@ -1554,10 +1554,10 @@ fOH22vf85Pf8g+L28/v9mub3////////////////////////////////////////////////////
     </module>
     <module external-id="M-6377" optional="no">
       <title>Overige werkplekken en specifieke werkzaamheden</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-6378" optional="true">
         <title>Spreekuurlocaties</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Houdt personeel spreekuur op andere locaties dan de hoofdlocatie?</question>
         <risk external-id="R-31479" type="risk">
           <title>De behandelkamers van de spreekuurlocaties zijn groot genoeg om op een plezierige manier te werken.</title>
@@ -1638,7 +1638,7 @@ fOH22vf85Pf8g+L28/v9mub3////////////////////////////////////////////////////
       </module>
       <module external-id="M-6379" optional="true">
         <title>Geboortecentra</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Werkt personeel regelmatig in een geboortecentrum?</question>
         <risk external-id="R-31486" type="risk">
           <title>De ruimten zijn groot genoeg om op een plezierige manier te werken.</title>
@@ -1689,7 +1689,7 @@ fOH22vf85Pf8g+L28/v9mub3////////////////////////////////////////////////////
       </module>
       <module external-id="M-6380" optional="true">
         <title>Ziekenhuizen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Werkt personeel regelmatig in een ziekenhuis (poliklinische bevalling)?</question>
         <risk external-id="R-31491" type="policy">
           <title>De verloskundige heeft een toelatingsovereenkomst met het ziekenhuis.</title>
@@ -1752,7 +1752,7 @@ fOH22vf85Pf8g+L28/v9mub3////////////////////////////////////////////////////
       </module>
       <module external-id="M-6381" optional="true">
         <title>Maken van echo's</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Maakt het personeel regelmatig echo's?</question>
         <risk external-id="R-31497" type="risk">
           <title>Er wordt een goede stoel gebruikt bij het maken van echo's.</title>

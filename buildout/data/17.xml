@@ -248,7 +248,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
     <evaluation-optional>yes</evaluation-optional>
     <module external-id="M-927" optional="no">
       <title>Het gebouw</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-5408" type="risk">
         <title>Het gebouw waarin de afdeling is gehuisvest wordt</title>
         <description>&lt;p&gt;Enkele voorbeelden: er zijn geen kierende kozijnen en ramen, er is geen bladderende verf aan de muren en plafonds, en er is goed hang- en sluitwerk aanwezig.&lt;/p&gt;</description>
@@ -402,7 +402,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
     </module>
     <module external-id="M-928" optional="no">
       <title>De afdeling</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-929" optional="true">
         <title>Opslag / magazijn</title>
         <description/>
@@ -570,7 +570,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-932" optional="no">
         <title>Spoelkeuken / medicijnkamer / behandelkamer</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-5460" type="risk">
           <title>De spoelkeuken is adequaat ingericht voor het gebr</title>
           <description>&lt;p&gt;De apparatuur is goed bereikbaar en kan bediend worden in goede werkhoudingen (niet gebogen of met ver of hoog reiken).&lt;/p&gt;</description>
@@ -622,7 +622,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-933" optional="no">
         <title>Sanitaire voorzieningen voor pati&#235;nten</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-5469" type="risk">
           <title>Het invalidentoilet is adequaat ingericht voor het</title>
           <description>&lt;p&gt;Er zijn geen drempels aanwezig. Het toilet is voorzien van steunbeugels en is van 2 zijden benaderbaar. Uitglijden op een natte vloer wordt voorkomen door een stroeve vloer.&#160;&lt;/p&gt;</description>
@@ -638,7 +638,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-934" optional="no">
         <title>Pati&#235;ntenkamers</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-5472" type="risk">
           <title>Pati&#235;ntenkamers zijn adequaat ingericht voor het g</title>
           <description>&lt;p&gt;Knelpunten kunnen zijn de bedbalken, te weinig ruimte rond het bed, bijvoorbeeld voor de tillift.&lt;/p&gt;</description>
@@ -1700,7 +1700,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
     <module external-id="M-951" optional="true">
       <module optional="no">
         <title>Algemeen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-5604" type="risk">
           <title>Alle gevaarlijke stoffen en risicogeneesmiddelen z</title>
           <description>&lt;p&gt;In het registratiesysteem en/of een rapportage van een (verdiepende) RI&amp;amp;E moet zijn opgenomen aan welke gevaarlijke stoffen werknemers kunnen worden blootgesteld, wat de gevaren zijn die aan die stoffen zijn verbonden, in welke situaties en op welke wijze blootstelling kan plaatsvinden.&#160;&lt;/p&gt;</description>
@@ -2199,7 +2199,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
     <module external-id="M-960" optional="true">
       <module optional="no">
         <title>Algemeen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-5654" type="risk">
           <title>De centrale stralingbeschermings-organisatie is be</title>
           <description>&lt;p&gt;Er is een complexvergunning, een intern zorgsysteem, een kernenergiewetdossier wordt bijgehouden, keuringen en onderhoud vindt plaats.Er zijn stralingsdeskundigen, lokale deskundigen, klinische fysici etc.&lt;/p&gt;</description>
@@ -2387,7 +2387,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
     </module>
     <module external-id="M-966" optional="no">
       <title>Bijzondere omstandigheden</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-967" optional="true">
         <title>Geluid</title>
         <description>&lt;p&gt;Als dat het geval is, dan kunt u er van uitgaan dat het geluid schadelijk is.&lt;/p&gt;</description>
@@ -2420,7 +2420,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
     </module>
     <module external-id="M-968" optional="no">
       <title>Algemene afspraken over arbo en voorlichting</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-5670" type="risk">
         <title>Bij nieuwbouw en verbouw en bij de (her)inrichting</title>
         <description>&lt;p&gt;Bijvoorbeeld bij die plekken in het bedrijf waar het aantal ongevallen hoog is, worden de oorzaken meteen meegenomen in de verbouwingsplannen zodat die situaties niet meer kunnen ontstaan.&lt;/p&gt;</description>
@@ -2510,7 +2510,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
     </module>
     <module external-id="M-969" optional="no">
       <title>Afspraken over verzuim</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-5685" type="risk">
         <title>Er zijn afspraken gemaakt over hoe, wanneer en bij</title>
         <description></description>
@@ -2557,7 +2557,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
     </module>
     <module external-id="M-970" optional="no">
       <title>Ongevallen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-5692" type="risk">
         <title>Ongevallen worden geregistreerd en de oorzaken ond</title>
         <description>&lt;p&gt;Het registreren van ongevallen en het bekijken van de oorzaken vormen de&#160; basis voor het nemen van gerichte maatregelen om deze ongevallen in de toekomst te voorkomen.&lt;/p&gt;</description>
@@ -2581,7 +2581,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
     </module>
     <module external-id="M-971" optional="no">
       <title>In geval van nood</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-5695" type="risk">
         <title>Nooduitgangen zijn duidelijk aangegeven en zijn vr</title>
         <description>&lt;p&gt;Zonder dat er iets verschoven hoeft te worden of zonder dat er een sleutel gehaald hoeft te worden, kan de nooduitgang meteen geopend worden.&lt;/p&gt;</description>
@@ -2633,7 +2633,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
     </module>
     <module external-id="M-972" optional="no">
       <title>Werk- en rusttijden</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-5703" type="risk">
         <title>Een werkdag is maximaal 9 uur.</title>
         <description>&lt;p&gt;In de Arbeidstijdenwet staan regels over de lengte van een werkdag, een werkweek en pauzes. Dit zijn de standaardregels. In een CAO of door overleg met de ondernemingsraad of de personeelsvertegenwoordiging kunnen andere regels zijn afgesproken. Deze afwijkingen op de standaardregeling worden schriftelijk vastgelegd.&lt;/p&gt;</description>
@@ -2685,7 +2685,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
     </module>
     <module external-id="M-973" optional="no">
       <title>Machines, transportmiddelen, arbeidsmiddelen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-5711" type="risk">
         <title>Bij de inkoop van medische apparatuur wordt een pr</title>
         <description>&lt;p&gt;Vooraf rekening houden met de arbo-eisen voorkomt in een later stadium kosten.&lt;/p&gt;</description>
@@ -2751,7 +2751,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
     </module>
     <module external-id="M-974" optional="no">
       <title>Voortgang van het plan van aanpak</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-5721" type="risk">
         <title>Elk jaar wordt over de uitvoering van het plan van</title>
         <description>&lt;p&gt;Jaarlijks moet de voortgang van het plan van aanpak op schrift worden gezet. Die voortgang wordt besproken met de ondernemingsraad, de personeelsvertegenwoordiging of het personeel.&#160;&lt;/p&gt;</description>

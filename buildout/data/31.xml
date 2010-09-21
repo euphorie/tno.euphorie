@@ -395,10 +395,10 @@ uL6c/93n2f//////////////////////////////////////////////////////////////////
     <profile-question external-id="KLV-199" type="optional">
       <title>1 op 1 behandelingen?</title>
       <question>1 op 1 behandelingen?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1385" optional="true">
         <title>Behandelingen met apparatuur</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>In de praktijk worden behandelingen met apparatuur toegepast.</question>
         <risk external-id="R-8038" type="risk">
           <title>Tijdens behandeling met apparatuur zijn er voldoende mogelijkheden om regelmatig van houding te wisselen.</title>
@@ -508,7 +508,7 @@ een behaaglijke temperatuur een paar graden lager liggen.&lt;/p&gt;</description
       </module>
       <module external-id="M-1386" optional="true">
         <title>Oefeningen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>In de praktijk worden oefeningen met pati&#235;nten uitgevoerd.</question>
         <risk external-id="R-8051" type="top5">
           <title>Tijdens oefeningen zijn er voldoende mogelijkheden om van houding te wisselen.</title>
@@ -584,7 +584,7 @@ kunnen zien.&lt;/p&gt;</description>
       </module>
       <module external-id="M-1387" optional="true">
         <title>Manuele handelingen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>In de praktijk worden manuele handelingen/massages uitgevoerd.</question>
         <risk external-id="R-8057" type="top5">
           <title>Manuele handelingen kunnen worden afgewisseld met andere werkzaamheden.</title>
@@ -683,7 +683,7 @@ kunnen zien.&lt;/p&gt;</description>
     <profile-question external-id="KLV-200" type="optional">
       <title>Werken met groepen?</title>
       <question>Werken met groepen?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1389" optional="true">
         <title>Groepsoefeningen</title>
         <description/>
@@ -768,7 +768,7 @@ kunnen zien.&lt;/p&gt;</description>
       </module>
       <module external-id="M-1390" optional="true">
         <title>Groepsinstructies</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>In de praktijk worden groepsinstructies gegeven.</question>
         <risk external-id="R-8091" type="risk">
           <title>Het geven van groepsinstructies wordt afgewisseld met andere werkzaamheden.</title>
@@ -825,10 +825,10 @@ kunnen zien.&lt;/p&gt;</description>
     <profile-question external-id="KLV-201" type="optional">
       <title>Behandeling aan huis?</title>
       <question>Behandeling aan huis?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1391" optional="true">
         <title>Oefeningen aan huis</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Er worden oefeningen aan huis gedaan.</question>
         <risk external-id="R-8096" type="top5">
           <title>Tijdens de oefeningen aan huis zijn er voldoende mogelijkheden om van houding te wisselen.</title>
@@ -848,7 +848,7 @@ eenzijdige belasting te voorkomen.&lt;/p&gt;</description>
       </module>
       <module external-id="M-1392" optional="true">
         <title>Manuele handelingen aan huis</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Er worden manuele handelingen bij pati&#235;nten thuis uitgevoerd.</question>
         <risk external-id="R-8099" type="policy">
           <title>Manuele handelingen aan huis worden afgewisseld met andere werkzaamheden.</title>
@@ -876,10 +876,10 @@ dit tot gezondheidsklachten leiden.&lt;/p&gt;</description>
     <profile-question external-id="KLV-202" type="optional">
       <title>1 op 1 instructies?</title>
       <question>1 op 1 instructies?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1393" optional="no">
         <title>1 op 1 instructies</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-8102" type="top5">
           <title>E&#233;n op &#233;&#233;n instructies worden afgewisseld met andere werkzaamheden.</title>
           <description>&lt;p class="MsoNormal"&gt;Zorg vol voldoende afwisseling in de werkzaamheden om&amp;#13;
@@ -927,7 +927,7 @@ kunnen zien.&lt;/p&gt;</description>
     </profile-question>
     <module external-id="M-1394" optional="true">
       <title>Administratieve werkzaamheden</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <question>Er zijn medewerkers die meer dan 2 uur per dag beeldschermwerk verrichten.</question>
       <risk external-id="R-7999" type="risk">
         <title>Na 2 uur computerwerk kan er minimaal 10 minuten gepauzeerd worden of kan er tijdelijk ander werk worden gedaan.</title>
@@ -1175,7 +1175,7 @@ doorbloeding van het lichaam.&lt;/p&gt;</description>
     </module>
     <module external-id="M-1383" optional="no">
       <title>Huisvesting en algemene voorzieningen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-8009" type="policy">
         <title>De elektrische installatie voldoet aan de eisen.</title>
         <description>&lt;p&gt;Elektrische installaties in medische ruimten moeten voldoen aan NEN 3134. Deze norm kent een klasse-indeling. Afhankelijk van de werkzaamheden die worden gedaan zal de praktijk ruimte in een klasse ingedeeld worden. Voor fysiotherapiepraktijken zal dit meestal klasse S1 zijn.&lt;/p&gt;</description>
@@ -1364,7 +1364,7 @@ bestrijden en een ontruiming kunnen begeleiden. &lt;/p&gt;</description>
     </module>
     <module external-id="M-1384" optional="no">
       <title>Welzijn en arbobeleid</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-8021" type="policy">
         <title>Het professioneel statuut wordt in de praktijk nageleefd.</title>
         <description>&lt;p&gt;Door het naleven van professioneel statuut wordt ook automatisch een aantal zaken op het&#160; terrein van de arbeidsomstandigheden goed geregeld.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Hierbij kan bijv. gedacht worden aan de taken en verantwoordelijkheden van de fysiotherapeut en de werkgever.&lt;/p&gt;</description>

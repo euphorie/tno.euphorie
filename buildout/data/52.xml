@@ -322,7 +322,7 @@ sJrX3////////NHo8QaTuAWTtAWSsbTd6P///////sHl6weVtwKVsAaUtAeXtACRrn/I2P//////
     <evaluation-optional>yes</evaluation-optional>
     <module external-id="M-2852" optional="no">
       <title>Inleidende vragen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-15302" type="policy">
         <title>Omschrijving van de bedrijfsactiviteiten</title>
         <description>&lt;p&gt;Geef ook aan of er een van de volgende werkzaamheden plaats vinden:&lt;br/&gt;- afvul werkzaamheden of het ompakken van vloeistoffen uit bulk in gebruikersverpakkingen.&lt;/p&gt;&lt;p&gt;- Spuitwerkzaamheden of loonspuiten&lt;br/&gt;- Verhuur&#160;van machines (andere dan hierboven vermeldt) in relatie tot GBM&lt;/p&gt;&lt;p&gt;Als u dit gedaan hebt, klikt u dan "ja" aan.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;N.B. Indien een van bovenstaanden activiteiten binnen uw bedrijf plaats vinden, dient u voor deze activiteiten zelf de arbo risico's te inventariseren.&lt;/strong&gt;&lt;/p&gt;</description>
@@ -356,7 +356,7 @@ N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duideli
       <question>Er vindt goederenvervoer of intern transport plaats.</question>
       <module external-id="M-1341" optional="no">
         <title>Inrichting cabine.</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-7847" type="policy">
           <title>De stoel in de cabine is comfortabel, instelbaar en goed onderhouden.</title>
           <description>&lt;p&gt;Criteria hiervoor staan in "ARBO&#160;transport, op- en overslag, editie 2003, pagina 196 en verder. Een vrachtwagenstoel die voldoet aan het TNO Stoel Certificaat garandeert een goede standaardstoel. &lt;/p&gt;&lt;p&gt;Jaarlijks preventief stoelonderhoud bespaart kosten en zorgt voor minder rugproblemen. Controleer de stoelen tweemaal per jaar. EVO organiseert regelmatig opleidingen op dit gebied, zie &lt;a href="http://www.evo.nl" rel="nofollow" target="_blank"&gt;www.evo.nl&lt;/a&gt; onder opleidingen&lt;/p&gt;</description>
@@ -432,7 +432,7 @@ N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duideli
       </module>
       <module external-id="M-1342" optional="no">
         <title>Veiligheid vrachtauto / transportbus (verkeers) veiligheid</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-7856" type="top5">
           <title>Onderhoud aan het materieel wordt periodiek uitgevoerd</title>
           <description>&lt;p&gt;Belangrijk bij vrachtwagens zijn: APK (verplicht), laadklepkeuring (verplicht), cabine, bed, stoel, etc. &lt;/p&gt;&lt;p&gt;Door periodiek preventief onderhoud te (laten) plegen gaat het materieel langer mee en vertoont minder storingen tijdens het gebruik.&lt;/p&gt;</description>
@@ -508,7 +508,7 @@ N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duideli
       </module>
       <module external-id="M-1343" optional="no">
         <title>Werktijden chauffeurs.</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-7871" type="policy">
           <title>De werktijden voor chauffeurs voldoen aan het Arbeidstijdenbesluit Vervoer en de planning is hierop afgestemd.</title>
           <description>&lt;p&gt;Zie voor meer informatie over het Arbeidstijdenbesluit Vervoer de publicaties van de Inspectie Verkeer en Waterstaat.&lt;/p&gt;</description>
@@ -607,7 +607,7 @@ N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duideli
       <question>Laden / lossen is een deel van het werk.</question>
       <module external-id="M-1345" optional="no">
         <title>Hulpmiddelen bij laden en lossen.</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-7873" type="policy">
           <title>Lichamelijke belasting wordt beperkt.</title>
           <description>&lt;p&gt;Belangrijke aandachtspunten zijn: het niet te zwaar of ongelijk beladen, zware spullen onderop laden en duwen in plaats van trekken.&#160;&#160;Meer informatie / checklists, kunt u opvragen bij EVO.&lt;/p&gt;</description>
@@ -671,7 +671,7 @@ N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duideli
       </module>
       <module external-id="M-1346" optional="no">
         <title>Veiligheid laden/lossen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-7878" type="top5">
           <title>De medewerkers beschikken over veiligheidsschoenen</title>
           <description>&lt;p&gt;Alle medewerkers beschikken over goede en comfortabele schoenen waarmee&#160;letsel aan voeten en enkels wordt voorkomen. Stel eisen op, waaraan de schoenen moeten voldoen. Een stalen neus voorkomt letsels bij aanrijdingen, knellen. Stroeve zolen voorkomen dat men uitglijdt.&#160; Werkhandschoenen voorkomen letsel aan handen. De werkgever stelt de veiligheidsschoenen en handschoenen kosteloos ter beschikking.&#160;&lt;/p&gt;</description>
@@ -1216,7 +1216,7 @@ N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duideli
       </module>
       <module external-id="M-1351" optional="true">
         <title>Opslag, overslag en gebruik gevaarlijke stoffen.</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>In uw bedrijf worden gevaarlijke stoffen opgeslagen, overgeslagen of gebruikt.</question>
         <risk external-id="R-7914" type="risk">
           <title>EHBO-middelen zijn aanwezig</title>
@@ -1295,7 +1295,7 @@ N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duideli
       </module>
       <module external-id="M-1352" optional="true">
         <title>Informatie en registratie van gevaarlijke stof</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>In uw bedrijf worden gevaarlijke stoffen opgeslagen, overgeslagen of gebruikt.</question>
         <risk external-id="R-7918" type="policy">
           <title>Er is een overzicht van de aanwezige gevaarl</title>
@@ -1446,7 +1446,7 @@ N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duideli
       </module>
       <module external-id="M-1354" optional="true">
         <title>Intern transport</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Er wordt gewerkt met heftrucks of reachtrucks.</question>
         <risk external-id="R-7928" type="top5">
           <title>Alle heftruckchauffeurs zijn voldoende gekw</title>
@@ -1530,7 +1530,7 @@ N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duideli
 <!--
         <module external-id="M-3561" optional="true">
           <title>Zaaizaadontsmetting</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <question>Er worden zaaizaden ontsmet.</question>
           <risk external-id="R-18407" type="risk">
             <title>Er is een schriftelijke instructie m.b.t. het ontsmetten</title>
@@ -1612,7 +1612,7 @@ N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duideli
         </module>
         <module external-id="M-3563" optional="true">
           <title>Bolontsmettingsinsallatie</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <question>Er worden bollen ontsmet, of er worden bollenonsmettingsinstallaties beschikbaar gesteld</question>
           <risk external-id="R-19747" type="risk">
             <title>Er is een schriftelijke instructie m.b.t. het bol ontsmetten / schuimen</title>
@@ -1980,10 +1980,10 @@ N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duideli
     </module>
     <module external-id="M-1358" optional="no">
       <title>Algemeen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1359" optional="no">
         <title>In geval van nood (bedrijfshulpverlening)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-7955" type="risk">
           <title>Alle vluchtroutes zijn vrij van obstakels en nooddeuren zijn van binnenuit zonder sleutel te openen.</title>
           <description>&lt;p&gt;Vluchtwegen moeten te allen tijde vrij van obstakels zijn. De nooddeuren moeten op een eenvoudige wijze te openen zijn en altijd naar buiten toe opengaan. Controleer regelmatig de noodvoorzieningen op bruikbaarheid en houdt de vluchtwegen altijd vrij. Geef voorlichting aan de werknemers over de noodzaak van het vrijhouden van de vluchtwegen.&lt;/p&gt;</description>
@@ -2172,7 +2172,7 @@ N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duideli
       </module>
       <module external-id="M-1361" optional="no">
         <title>Intern overleg en inspraak</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-7965" type="policy">
           <title>Medewerkers hebben de gelegenheid om met elk</title>
           <description>&lt;p&gt;Door regelmatig gestructureerd overleg te voeren raakt u bekend met de wensen en goede idee&#235;n van uw werknemers. Houdt regelmatig werkoverleg. Stel zaken op het werk in verband met veiligheid, gezondheid en welzijn aan de orde. Vraag medewerkers naar hun idee&#235;n voor verbeteringen.&lt;/p&gt;&lt;p&gt;Neem het agendapunt arbeidsomstandigeheden op in uw werkoverleg en leg dit vast in uw RCS-handboek&lt;/p&gt;</description>
@@ -2212,7 +2212,7 @@ N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duideli
       </module>
       <module external-id="M-1362" optional="no">
         <title>Ongewenst gedrag</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-7968" type="policy">
           <title>Medewerkers hebben voorlichting gehad over o</title>
           <description>&lt;p&gt;Voorlichting aan de werknemers is een verantwoordelijkheid van de werkgever. Organiseer&#160;voorlichting over genoemde onderwerpen en vraag hierbij eventueel ondersteuning een&#160;arbodienstverlener.&lt;/p&gt;</description>
@@ -2241,7 +2241,7 @@ N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duideli
       </module>
       <module external-id="M-1363" optional="no">
         <title>Voorlichting en instructie</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-7970" type="policy">
           <title>Alle medewerkers, ook nieuwe medewerkers, he</title>
           <description>&lt;p&gt;De risico&#8217;s worden onder meer met behulp van deze&#160;RI&amp;amp;E in kaart gebracht.&lt;/p&gt;</description>
@@ -2270,7 +2270,7 @@ N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duideli
       </module>
       <module external-id="M-1364" optional="no">
         <title>Persoonlijke beschermingsmiddelen en toezicht</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-7971" type="policy">
           <title>Waar nodig heeft iedereen persoonlijke besch</title>
           <description>&lt;p&gt;Denk aan: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Handschoenen,&lt;/li&gt;&lt;li&gt;Beschermende werkkleding,&lt;/li&gt;&lt;li&gt;Veiligheidsschoeisel,&lt;/li&gt;&lt;li&gt;Gelaatsmasker,&#160;&lt;/li&gt;&lt;li&gt;Gehoorbescherming&lt;/li&gt;&lt;/ul&gt;</description>
@@ -2311,7 +2311,7 @@ N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duideli
       </module>
       <module external-id="M-1365" optional="no">
         <title>Ziekteverzuim</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-7975" type="policy">
           <title>Het ziekteverzuim wordt geregistreerd en er</title>
           <description></description>
@@ -2380,7 +2380,7 @@ N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duideli
       </module>
       <module external-id="M-1367" optional="no">
         <title>Ongevallen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-7981" type="policy">
           <title>U beschikt over een instructie (wie doet wat</title>
           <description>&lt;p&gt;Van ongevallen, hoe naar ook, kunnen lessen worden geleerd en daarom is onderzoek naar de oorzaak een noodzakelijk kwaad. Meld alle ongevallen die leiden tot:&#160;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;ziekenhuisopname binnen 24 uur; &lt;/li&gt;&lt;li&gt;met blijvend letsel; &lt;/li&gt;&lt;li&gt;met een dodelijke afloop; &lt;br/&gt;direct telefonisch en binnen 14 dagen schriftelijk aan de Arbeidsinspectie. Onderzoek zelf de toedracht van de gebeurtenissen die tot het ongeval hebben geleid. Laat het onderzoek eventueel uitvoeren door&#160;een deskundige.&lt;/li&gt;&lt;/ul&gt;</description>
@@ -2458,7 +2458,7 @@ Arbowet art. 5 ongevallen die leiden tot meer dan 3 werkdagen verzuim moeten als
       </module>
       <module external-id="M-1368" optional="no">
         <title>Voortgang RI&amp;E en het plan van aanpak.</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-7983" type="policy">
           <title>Elk jaar wordt de voortgang van de uitvoering van het plan van aanpak intern besproken en schriftelijk vastgelegd</title>
           <description>&lt;p&gt;Jaarlijks moet de voortgang van het plan van aanpak op schrift worden gezet en het plan van aanpak worden geactualiseerd. Die voortgang wordt besproken met de ondernemingsraad, de personeelsvertegenwoordiging of het personeel.&#160;&lt;/p&gt;&lt;p&gt;Dit is een vast onderdeel van de directiebeorodeling in het kader van RCS&lt;/p&gt;</description>
@@ -2511,7 +2511,7 @@ Arbowet art. 5 ongevallen die leiden tot meer dan 3 werkdagen verzuim moeten als
       </module>
       <module external-id="M-2669" optional="no">
         <title>Opleiding en ervaring</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-13932" type="risk">
           <title>Nieuwe medewerkers worden goed ingewerkt en doen geen risicovol werk.</title>
           <description>&lt;p&gt;Nieuwe en onervaren medewerkers lopen meer risico bij het werk door onvoldoende kennis of ervaring. Goede coaching en begeleiding is van groot belang om ook hen te leren het werk veilig en gezond uit te voeren.&lt;/p&gt;</description>
@@ -2604,7 +2604,7 @@ Arbowet art. 5 ongevallen die leiden tot meer dan 3 werkdagen verzuim moeten als
     </module>
     <module external-id="M-2591" optional="no">
       <title>Bijstand</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-2592" optional="no">
         <title>Organisatie verplichte deskundigheid arbeidsomstandigheden en ziekteverzuim</title>
         <description>&lt;p&gt;9.1 Organisatie verplichte deskundigheid arbeidsomstandigheden en ziekteverzuim.&lt;/p&gt;</description>
@@ -2766,7 +2766,7 @@ Arbowet art. 5 ongevallen die leiden tot meer dan 3 werkdagen verzuim moeten als
     </module>
     <module external-id="M-2731" optional="no">
       <title>Risico's en beleidsaspecten die nog niet aan de orde zijn gekomen.</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-14482" type="policy">
         <title>Alle risico's en aandachtspunten die in ons bedrijf van belang zijn, zijn aan de orde gekomen.</title>
         <description>&lt;p&gt;De RI&amp;amp;E is niet volledig als er binnen uw bedrijf risico's bestaan die niet in de RI&amp;amp;E aan de orde gekomen. Ook als u deze branche RI&amp;amp;E gebruikt dient u na te gaan hoe volledig de inventarisatie is. De RI&amp;amp;E kan bijvoorbeeld onvolledig zijn omdat u activiteiten ontplooit die minder gebruikelijk zijn in de branche. Als dat het geval is kunt u deze risico's&#160;in een afzonderlijk document beschrijven waarbij u tevens aangeeft wat u hebt ondernomen of zal ondernemen om de risico's te beperken.&lt;/p&gt;</description>

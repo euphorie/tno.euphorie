@@ -15,7 +15,7 @@
     <evaluation-optional>yes</evaluation-optional>
     <module external-id="M-1324" optional="no">
       <title>Kantoor/showroom (de gebouwen)</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-7841" type="risk">
         <title>Het gebouw wordt goed onderhouden.</title>
         <description>&lt;p&gt;Enkele voorbeelden. Er zijn geen kierende kozijnen en ramen, er is geen bladderende verf aan de muren en plafonds, en er is goed hang- en sluitwerk aanwezig.&lt;/p&gt;</description>
@@ -121,7 +121,7 @@
     </module>
     <module external-id="M-175" optional="no">
       <title>Kantoorwerk</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-1161" type="risk">
         <title>De beeldschermwerkplekken zijn in orde.</title>
         <description>&lt;p&gt;Let hierbij op de grootte van het beeldscherm, de werkopstelling (beeldscherm recht voor de medewerker) en het toetsenbord en de muis.&lt;/p&gt;</description>
@@ -338,7 +338,7 @@
     </module>
     <module external-id="M-3998" optional="no">
       <title>De werf (opslag buiten)</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-20343" type="risk">
         <title>De werf wordt goed onderhouden.</title>
         <description></description>
@@ -402,7 +402,7 @@
     </module>
     <module external-id="M-3999" optional="no">
       <title>Transport</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-20354" type="risk">
         <title>Transport in het bedrijf</title>
         <description></description>
@@ -500,7 +500,7 @@
     </module>
     <module external-id="M-1487" optional="true">
       <title>Fysieke belasting</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <question>De werknemers moeten regelmatig lasten verplaatsen en tillen.</question>
       <risk external-id="R-8773" type="top5">
         <title>Er zijn goede hulpmiddelen aanwezig</title>
@@ -541,7 +541,7 @@
     </module>
     <module external-id="M-1485" optional="no">
       <title>Werken met klanten / cli&#235;nten / opdrachtgevers</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-8803" type="risk">
         <title>Er zijn afspraken gemaakt over wat te doen als een klant/opdrachtgever agressief of onredelijk reageert.</title>
         <description>&lt;p&gt;Het gaat hier om agressie en geweld van klanten/cli&#235;nten/opdrachtgevers naar het eigen personeel. Hieronder wordt ook verstaan intimidatie, vandalisme en discriminatie. Neem contact op met directie of leidinggevende.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Aandachtspunten&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Er dient beleid gevoerd te worden gericht op het voorkomen van agressie en geweld. Wettelijk hoeft dit niet schriftelijk vastgelegd te worden. Wil het toetsbaar zijn, dan ontkomt men niet aan een schriftelijke vastlegging.&lt;/li&gt;&lt;li&gt;Maak het beleid bekend bij de medewerkers&lt;/li&gt;&lt;/ul&gt;</description>
@@ -557,7 +557,7 @@
     </module>
     <module external-id="M-1484" optional="no">
       <title>Geluid</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-8807" type="top5">
         <title>Op de bouwlocaties zijn plekken waar men elkaar op 1 meter afstand niet kan verstaan zonder luid te praten</title>
         <problem-description>Lawaaidoofheid is een belangrijk probleem in de bouw. U bevindt zich in een lawaaiige omgeving wanneer u op 1 meter afstand niet met uw collega kunt praten zonder uw stem te verheffen. &#13;
@@ -730,7 +730,7 @@ Het gemiddelde geluidsniveau over een 8-urige werkdag op de werkplek niet hoger 
     </module>
     <module external-id="M-1490" optional="no">
       <title>In geval van nood</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-20377" type="risk">
         <title>Er is een BHV-plan aanwezig.</title>
         <description>&lt;p&gt;Elke werkgever moet schriftelijk vastleggen hoe de bedrijfshulpverlening is georganiseerd in zijn bedrijf en welke maatregelen in dit verband zijn genomen. Deze gegevens vormen samen het bedrijfshulpverleningsplan, kortweg het BHV-plan. Leg de organisatie van bedrijfshulpverlening vast. Onderwerpen waarover afspraken gemaakt moeten worden zijn onder andere:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;een overzicht van personen die als BHV-er zijn aangewezen;&lt;/li&gt;&lt;li&gt;Een rooster waaruit blijkt dat zolang er meer dan 1 persoon in het bedrijf aanwezig is, er voldoende bedrijfshulpverleners aanwezig zijn;&lt;/li&gt;&lt;li&gt;een lijst met scenario's van voorstelbare calamiteiten binnen het bedrijf; &lt;/li&gt;&lt;li&gt;het vastleggen van taken, verantwoordelijkheden en bevoegdheden van personen die taken hebben bij de bedrijfshulpverlening;&lt;/li&gt;&lt;li&gt;overzicht van externe hulpverleningsinstanties die bij de hulpverlening kunnen worden betrokken (brandweer, milieudienst, waterschap, ambulancedienst, nutsbedrijven en dergelijke); &lt;/li&gt;&lt;li&gt;intern- en extern alarmeringsschema (waarschuwings- en alarmeringsprocedures);&lt;/li&gt;&lt;li&gt;een vluchtplan / evacuatieplan (ontruiming naar een verzamelplaats) met daarop de BHV-middelen en de vluchtwegen en nooduitgangen aangegeven. &lt;/li&gt;&lt;/ul&gt;</description>
@@ -794,7 +794,7 @@ Het gemiddelde geluidsniveau over een 8-urige werkdag op de werkplek niet hoger 
     </module>
     <module external-id="M-195" optional="no">
       <title>Ongevallen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-1313" type="risk">
         <title>Alle (bedrijfs)ongevallen worden geregistreerd en de oorzaken onderzocht</title>
         <description>&lt;p&gt;Het registreren van ongevallen en het bekijken van de oorzaken vormen de&#160; basis voor het nemen van gerichte maatregelen om deze ongevallen in de toekomst te voorkomen.&lt;/p&gt;</description>
@@ -816,7 +816,7 @@ Het gemiddelde geluidsniveau over een 8-urige werkdag op de werkplek niet hoger 
     </module>
     <module external-id="M-188" optional="no">
       <title>Werk- en rusttijden</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-1269" type="risk">
         <title>Overeengekomen werktijden en pauzes worden nageleefd</title>
         <description>&lt;p&gt;Door overleg met de ondernemingsraad of de personeelsvertegenwoordiging of via individuele afspraken met werknemers gelden afspraken over werktijden en pauzes. De Arbeidstijdenwet en de CAO gelden als wettelijk kader voor deze afspraken.&#160;&lt;/p&gt;</description>
@@ -832,7 +832,7 @@ Het gemiddelde geluidsniveau over een 8-urige werkdag op de werkplek niet hoger 
     </module>
     <module external-id="M-189" optional="no">
       <title>Taken / functies van medewerkers</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-1276" type="risk">
         <title>Taken van medewerkers zijn afgestemd op datgene wat zij kunnen</title>
         <description>&lt;p&gt;Dit betekent dat medewerkers passend werk hebben: niet te moeilijk en niet te makkelijk. Hierdoor raken medewerkers niet over- of onderbelast.&lt;/p&gt;</description>
@@ -872,7 +872,7 @@ Het gemiddelde geluidsniveau over een 8-urige werkdag op de werkplek niet hoger 
     </module>
     <module external-id="M-192" optional="no">
       <title>Preventiemedewerker/voorlichting/medezeggenschap</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-24287" type="risk">
         <title>Er is een werknemersvertegenwoordiging</title>
         <description>&lt;p&gt;Een ondernemingsraad (OR) is verplicht bij meer dan 50 werknemers. Bij 10 tot 50 werknemers kan de werkgever een personeelsvertegenwoording (PVT) instellen. Als de meerderheid van de medewerkers daar om verzoekt is de werkgever verplicht een PVT in te stellen.&#160; &lt;/p&gt;&lt;p&gt;Bij minder dan 10 medewerkers kan de werkgever een PVT instellen, maar kan daartoe niet verplicht worden.&lt;/p&gt;&lt;p&gt;De OR/PVT wordt in de gelegenheid gesteld advies uit te brengen over elk door de ondernemer voorgenomen besluit dat kan leiden tot verlies van de arbeidsplaats of tot een belangrijke verandering van de arbeid, de arbeidsvoorwaarden of de arbeidsonmstandigheden van ten minste 25% van de in de onderneming werkzame personen. Het advies wordt op een zodanig tijdstip gevraagd dat het van wezenlijke invloed kan zijn op het te nemen besluit.&lt;/p&gt;</description>
@@ -948,7 +948,7 @@ Het gemiddelde geluidsniveau over een 8-urige werkdag op de werkplek niet hoger 
     </module>
     <module external-id="M-191" optional="no">
       <title>Basisafspraken over arbo</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-1286" type="risk">
         <title>Bij de inkoop van materialen wordt gelet op arbo-eisen</title>
         <description>&lt;p&gt;Vooraf rekening houden met de arbo-eisen voorkomt in een later stadium kosten. Voorbeelden zijn:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;geluidsarme machines zodat geen gehoorbescherming gekocht en gedragen hoeft te worden;&lt;/li&gt;&lt;li&gt;makkelijk in hoogte verstelbaar bureaus zodat kortere en langere mensen er aan kunnen werken;&lt;/li&gt;&lt;li&gt;stoffen in het productieproces die afzuiging nodig hebben en hoge milieu-eisen stellen, vervangen door stoffen met hetzelfde productie-effect en met minder gebruikseisen;&lt;/li&gt;&lt;li&gt;vervangen dieselaangedreven heftrucks door elektrisch aangedreven heftrucks.&lt;/li&gt;&lt;/ul&gt;</description>
@@ -994,7 +994,7 @@ Het gemiddelde geluidsniveau over een 8-urige werkdag op de werkplek niet hoger 
     </module>
     <module external-id="M-193" optional="no">
       <title>Afspraken over verzuim</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-170" type="risk">
         <title>Er zijn afspraken gemaakt over hoe, wanneer en bij wie medewerkers zich ziek moeten melden</title>
         <description>&lt;p&gt;Bijv. een medewerker moet zich telefonisch voor&#160;7 uur bij de leidinggevende ziek melden.&#160;&lt;/p&gt;&lt;p&gt;Aanbevolen wordt&#160;afspraken over verzuim en wat er van werkgever en werknemer verwacht wordt, vast te leggen in een verzuimreglement.&#160;&#160;&#160;&lt;/p&gt;</description>
@@ -1062,7 +1062,7 @@ Het gemiddelde geluidsniveau over een 8-urige werkdag op de werkplek niet hoger 
     </module>
     <module external-id="M-196" optional="no">
       <title>Voortgang van het plan van aanpak</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-185" type="risk">
         <title>De RI&amp;E wordt regelmatig ge&#235;valueerd</title>
         <description>&lt;p&gt;Het is belangrijk dat u de RI&amp;amp;E regelmatig evalueert. Uw werknemers kunnen een belangrijke bijdrage leveren aan de evaluatie. Zij ondervinden immers in de praktijk of er daadwerkelijk iets ten goede is veranderd.&lt;/p&gt;&lt;p&gt;Een goede evaluatie geeft onder meer antwoord op de volgende vragen: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Is er een goede RI&amp;amp;E opgesteld? &lt;/li&gt;&lt;li&gt;Bestaat er aanleiding om een nieuwe RI&amp;amp;E op te stellen? Dit kan zijn door nieuwe productieprocessen, nieuwe regelgeving of nieuwe inzichten. &lt;/li&gt;&lt;li&gt;Zijn de voornemens uit het plan van aanpak volgens de afspraken uitgevoerd? &lt;/li&gt;&lt;li&gt;Is de deskundige bijstand afgestemd op de aanwezige risico's? &lt;/li&gt;&lt;li&gt;Hebben de maatregelen tot het gewenste effect geleid? &lt;br/&gt;Zo nee, wat is hiervan de oorzaak? &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;U moet de RI&amp;amp;E bijstellen als de werkmethoden, werkomstandigheden of de stand van de dienstverlening wijzigen. Voorbeelden hiervan zijn:&lt;/p&gt;&lt;p&gt;inrichting van een nieuwe productielijn;&#160; &lt;br/&gt;een ingrijpende verbouwing; &lt;br/&gt;ingrijpende wijziging van taken van werknemers. &lt;/p&gt;&lt;p&gt;Let op: per 1 januari 2007 bent u niet meer verplicht jaarlijks te rapporteren over de uitvoering van het plan van aanpak. Ook het voorafgaande overleg met de ondernemingsraad of belanghebbende werknemers is vervallen.&lt;/p&gt;</description>

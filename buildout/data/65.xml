@@ -273,7 +273,7 @@ zPXv3fj8/N3+/f7d/f393f39/d39/f3d/f393f39/d39/f3d/f393f39/d39/f3d/f393f39/d39
     <evaluation-optional>yes</evaluation-optional>
     <module external-id="M-4980" optional="no">
       <title>Werksoorten</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-4981" optional="true">
         <title>Handmatig planten / rooien</title>
         <description/>
@@ -1367,7 +1367,7 @@ en de voorzieningen niet te overbruggen of vast te zetten.&lt;/p&gt;</action-pla
       </module>
       <module external-id="M-5038" optional="true">
         <title>Kantoorwerk</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Er zijn medewerkers die meer dan twee uur per dag kantoorwerk verrichten.</question>
         <risk external-id="R-24958" type="risk">
           <title>Na twee uur computerwerk kan er minimaal 15 minuten gepauzeerd worden of kan er tijdelijk ander werk worden gedaan.</title>
@@ -2621,7 +2621,7 @@ rekening te houden met planning werkzaamheden (droog /nat weer).&lt;/p&gt;&lt;br
     </module>
     <module external-id="M-5241" optional="no">
       <title>Organisatie van bedrijfshulpverlening, arbeidsomstandigheden en verzuim</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-5253" optional="no">
         <title>Bedrijfshulpverlening</title>
         <description>&lt;p&gt;Bedrijfshulpverlening (BHV) is er op gericht om direct na een ongeval of incident de juiste handelingen uit te voeren tot het moment dat professionele hulp ter plaatse is.&lt;br/&gt;Goede bedrijfshulpverlening kan levens redden en (onnodige) schade voorkomen. Omdat elk bedrijf verschillend is, is het belangrijke dat de bedrijfshulpverlening is afgestemd op het bedrijf, zodat op elk moment adequate hulp geleverd kan worden.&lt;/p&gt;</description>

@@ -14,10 +14,10 @@
     <evaluation-optional>yes</evaluation-optional>
     <module external-id="M-3622" optional="no">
       <title>Arbobeleid in de onderneming</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-3625" optional="no">
         <title>Taken/functies van medewerkers</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-18601" type="risk">
           <title>Voor elke functie is vastgelegd welke opleiding en ervaring noodzakelijk is om deze functie goed en veilig te kunnen uitvoeren.</title>
           <description>&lt;p&gt;Dit betekent dat medewerkers passend werk hebben: niet te moeilijk en niet te makkelijk. Hierdoor raken medewerkers niet over- of onderbelast.&#160; Duidelijk moet zijn welke opleidings- en ervaringseisen gelden bij het uitvoeren van werkzaamheden binnen een functie. &lt;/p&gt;</description>
@@ -105,7 +105,7 @@
       </module>
       <module external-id="M-3626" optional="no">
         <title>Werkzaamheden door derden</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-18609" type="risk">
           <title>Uitzendkrachten of ingeleende krachten worden voorafgaand aan de werkzaamheden voorgelicht over risico's en maatregelen.</title>
           <description>&lt;p class="MsoBodyTextIndent2"&gt;Als er arbeid wordt verricht door een werknemer die ingehuurd word of geleend , wordt voor de aanvang van de werkzaamheden aan degene, die de werknemer ter beschikking stelt, de informatie over de risico's en de maatregelen ter beperking daarvan, verstrekt. Uiteraard wordt de betrokken werknemer ook op de hoogte gesteld. Het is belangrijk dat er duidelijke afspraken zijn gemaakt over wat uitzendkrachten wel- en niet mogen doen&lt;/p&gt;</description>
@@ -121,7 +121,7 @@
       </module>
       <module external-id="M-3627" optional="no">
         <title>Voorlichting en instructie</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-18610" type="risk">
           <title>Er wordt  aan alle nieuwe werknemers  bij de indiensttreding voorlichting en instructie gegeven met betrekking tot risico&#8217;s en maatregelen om op de werkplek en veilig en gezond werken.</title>
           <description>&lt;p class="MsoBodyTextIndent2"&gt;Veilig gedrag. Van elke werknemer wordt verwacht dat deze zich verantwoord gedraagt. Van de werkgever wordt verwacht om op effectieve wijze voorlichting en onderricht te geven over arbeidsomstandigheden. Alleen als werknemers beschikken over de nodige kennis, inzicht en vaardigheden zijn ze in staat de voorzichtigheid en zorgvuldigheid in acht te nemen die de wet hen voorschrijft.&lt;/p&gt;&lt;p class="MsoBodyTextIndent2"&gt;Nieuwe werknemers Voorlichting en onderricht over arbeidsomstandigheden wordt in elk geval gegeven bij indiensttreding van nieuwe werknemers en bij werknemers die tijdelijk werkzaamheden verrichten, zoals uitzendkrachten, stagiairs en ingeleende werknemers.&lt;/p&gt;&lt;p class="MsoBodyTextIndent2"&gt;Jeugdigen. Bijzondere aandacht moet worden besteed aan jeugdigen [&amp;lt; 18 jaar]. Het criterium daarbij is dat de jeugdige werknemers met de ontvangen voorlichting en instructie zo goed mogelijk kunnen functioneren, daarbij hun gebrek aan werkervaring in aanmerking genomen.&lt;/p&gt;</description>
@@ -173,7 +173,7 @@
       </module>
       <module external-id="M-3643" optional="no">
         <title>Ongewenst gedrag van medewerkers</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-18614" type="risk">
           <title>Er zijn afspraken gemaakt over het tegengaan van ongewenste gedragingen van medewerkers onderling. Alle medewerkers kennen deze afspraken.</title>
           <description>&lt;p class="MsoNormal"&gt;Ongewenst gedrag gaat over (seksuele) intimidatie, pesten, agressie en geweld, discriminatie, en gebruik van alcohol en drugs.&#160; &lt;/p&gt;</description>
@@ -213,7 +213,7 @@
       </module>
       <module external-id="M-3645" optional="no">
         <title>Werk- en rusttijden</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-18617" type="risk">
           <title>Een werkdag is maximaal 12 uur.</title>
           <description>&lt;p&gt;In de Arbeidstijdenwet staan regels over de lengte van een werkdag, een werkweek en pauzes&lt;/p&gt;</description>
@@ -289,7 +289,7 @@
       </module>
       <module external-id="M-3646" optional="no">
         <title>Bedrijfshulpverlening (BHV)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-18623" type="risk">
           <title>Er is een bedrijfshulpverleningsplan.</title>
           <description>&lt;p class="MsoNormal"&gt;Op basis van dit plan en het goed functioneren ervan is de werkgever of de BHV-er degene die bij bijv. brand zeker weet of de brandweer nog naar mogelijke slachtoffers moet zoeken en welke wegen de brandweer kan volgen aan de hand van de plattegrond. Het plan bevat onder meer wie de leiding geeft aan de BHV, wie de BHV-ers zijn, dienstroosters van de BHV-ers, plattegronden van het bedrijf met daarop aangegeven vluchtwegen, de plaats van de blusmiddelen, verzamelplaatsen van de mensen die het pand verlaten, eventuele plattegronden voor de brandweer met daarop aangegeven de risicovolle (opslag)plaatsen, opslag van brandbare stoffen of drukvaten (b.v. gasflessen) en de hoofdafsluiter van de gasleiding.&lt;/p&gt;&lt;p class="MsoNormal"&gt;Als kleine incidenten kunnen leiden tot calamiteiten voor het gehele bedrijf en de omgeving, dan is het nodig een bedrijfsnoodplan te maken. &lt;/p&gt;</description>
@@ -425,7 +425,7 @@
       </module>
       <module external-id="M-3647" optional="no">
         <title>Preventiemedewerker</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-18634" type="risk">
           <title>De organisatie heeft de preventietaken toegewezen aan &#233;&#233;n of meer preventie medewerker(s).</title>
           <description>&lt;p class="MsoBodyText"&gt;Een werkgever met m&#233;&#233;r dan 25 medewerkers moet preventietaken toewijzen aan &#233;&#233;n of meer werknemers. Een werkgever met ten hoogste 25 medewerkers mag de preventietaken zelf uitvoeren. De werkgever hoeft geen speciale medewerker aan te trekken met preventietaken. Preventie kan een onderdeel zijn van de taak van de werkgever zelf of van de taak van &#233;&#233;n of meer werknemers. Voor het gemak wordt echter steeds gesproken over preventiemedewerker. Preventietaken zijn:&#160;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;het meewerken aan of het opstellen van een RI&amp;amp;E, &lt;/li&gt;&lt;li&gt;uitvoeren van de maatregelen uit het plan van aanpak, &lt;ul&gt;&lt;li&gt;het geven van voorlichting, &lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;het signaleren van risico's en het treffen van maatregelen tegen die risico&#8217;s. &lt;/li&gt;&lt;/ul&gt;&lt;p class="MsoNormal"&gt;De preventiemedewerkers (het aantal hangt af van preventietaken en de gewenste organisatie) hebben de kennis en ervaring, de middelen en de tijd, zodat zij de werkgever goed kunnen bijstaan bij de preventietaken. De preventiemedewerker werkt hierbij samen met de OR, de personeelsvertegenwoordiging of de medewerkers die het betreft. Werkgevers die hun preventietaken goed uitvoeren besparen doorgaans aanzienlijk op de kosten van ongevallen, verzuim en stressproblemen. Investeringen in arbeidsomstandigheden en in het personeel renderen meestal goed als het gaat om de sfeer en productiviteit van het bedrijf. &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description>
@@ -477,7 +477,7 @@
       </module>
       <module external-id="M-3649" optional="no">
         <title>Afspraken over verzuim</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-18638" type="risk">
           <title>Alle afspraken m.b.t. verzuim zijn vastgelegd, geaccordeerd en met betrokkenen doorgesproken, zodat iedereen weet wat hij wanneer moet doen.</title>
           <description>&lt;p&gt;Het vastleggen van afspraken voorkomt onduidelijkheden bij verzuim en verzuim begeleiding. Het maken van afspraken tussen werkgever en werknemer&#160;is verplicht bij bijv. re&#239;ntegratie&lt;/p&gt;</description>
@@ -505,7 +505,7 @@
       </module>
       <module external-id="M-3650" optional="no">
         <title>Afspraken met gecertificeerde deskundigen of met de arbodienst</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-18640" type="risk">
           <title>U heeft een contract met een verzuimsteunpunt, arbodienst of gecertificeerde deskundigen.</title>
           <description>&lt;p&gt;Om het bedrijf te kunnen bijstaan in o.a. het verzuimbeleid is een contract met een verzuimsteunpunt, arbodienst&#160;of gecertificeerde&#160;deskundigen (bedrijfsarts)&#160;noodzakelijk&lt;/p&gt;</description>
@@ -569,7 +569,7 @@
       </module>
       <module external-id="M-3651" optional="no">
         <title>Ongevallen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-18645" type="risk">
           <title>Ongevallen worden geregistreerd, de oorzaken worden onderzocht en maatregelen worden genomen.</title>
           <description>&lt;p class="MsoNormal"&gt;Het registreren en analyseren van ongevallen en het beoordelen van de risico&#8217;s in de betrokken arbeidssituatie vormen de&#160; basis voor het nemen van gerichte maatregelen om de risico&#8217;s te elimineren of te verminderen en daarmee ook de ernst of of de kans&#160; op ongevallen in de toekomst te verkleinen&lt;/p&gt;</description>
@@ -599,10 +599,10 @@
     <profile-question external-id="KLV-375" type="optional">
       <title>Heeft u een machinale afdeling?</title>
       <question>Heeft u een machinale afdeling?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-3628" optional="no">
         <title>Machinale afdeling</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-18594" type="risk">
           <title>Er is voldoende ruimte op de werkplekken om goed en veilig te kunnen werken.</title>
           <description>&lt;p&gt;Het is belangrijk dat er rondom de houtbewerkingsmachines voldoende manoeuvreerruimte is en er geen extra risico's op struikelen en&#160;stoten aanwezig is. Belangrijk aspect hierbij is zorgvuldigheid van de werknemer bij de werkzaamheden.&lt;/p&gt;</description>
@@ -692,10 +692,10 @@
     <profile-question external-id="KLV-376" type="optional">
       <title>Heeft u een montageafdeling?</title>
       <question>Heeft u een montageafdeling?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-3629" optional="no">
         <title>Montage afdeling</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-18659" type="risk">
           <title>Er is voldoende ruimte op de werkplekken om goed en veilig te kunnen werken.</title>
           <description>&lt;p&gt;Het is belangrijk dat er rondom de montagewerkplek voldoende manoeuvreerruimte is en er geen extra risico's op struikelen en&#160; stoten aanwezig is. Belangrijke aspect hierbij is juiste werkhoogtes en zorgvuldigheid van de werknemer bij de werkzaamheden&lt;/p&gt;</description>
@@ -725,10 +725,10 @@
     <profile-question external-id="KLV-377" type="optional">
       <title>Heeft u een spuit/dompel afdeling?</title>
       <question>Heeft u een spuit/dompel afdeling?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-3630" optional="no">
         <title>Spuit / dompel afdeling</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-18662" type="risk">
           <title>Er is voldoende ruimte om bij de verfapplicatie goed en veilig te kunnen werken.</title>
           <description>&lt;p&gt;Het is belangrijk dat er rondom, in de spuitcabine en voor de afzuigwand voldoende ruimte is voor de werknemer. Hij of zij moet de werkzaamheden op zodanige wijze kunnen uitvoeren dat de met oplosmiddelendamp en verfdeeltjes verontreingde lucht niet via zijn&#160; ademzone wordt afgevoerd. Belangrijk&#160; aspect hierbij is dat de gespoten of gedompelde producten uitdampen en drogen in een daarvoor geschikte ruimte niet zijnde een werkruimte&lt;/p&gt;</description>
@@ -794,10 +794,10 @@
     <profile-question external-id="KLV-378" type="optional">
       <title>Heeft u een stoffeer afdeling?</title>
       <question>Heeft u een stoffeer afdeling?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-3631" optional="no">
         <title>Stoffeer afdeling</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-18671" type="risk">
           <title>Er is voldoende ruimte op de werkplekken om goed en veilig te kunnen werken.</title>
           <description>&lt;p&gt;Het is belangrijk dat er op de stoffeerwerkplekken voldoende manouvreerruimte is en er geen extra risico op struikelen en stoten aanwezig is. Belangrijke aspect hierbij is juiste werkhoogte en zorgvuldigheid van de werknemer bij de werkzaamheden. In voorkomende gevallen wordt gebruik gemaakt van een kantel-, hoogte instelbare en in iedere positie in te stellen robot die draaibaar is opgesteld&lt;/p&gt;</description>
@@ -827,10 +827,10 @@
     <profile-question external-id="KLV-379" type="optional">
       <title>Heeft u een kantoor(afdeling)?</title>
       <question>Heeft u een kantoor(afdeling)?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-3632" optional="no">
         <title>Kantoor</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-18676" type="risk">
           <title>Per medewerker is voldoende vloeroppervlak aanwezig.</title>
           <description>&lt;p&gt;Voor voldoende ruimte rond het bureau (eventueel met ladenkastje) en&#160; bureaustoel is een minimale ruimte noodzakelijk van 8 m2 &lt;/p&gt;</description>
@@ -1004,10 +1004,10 @@
     <profile-question external-id="KLV-380" type="optional">
       <title>Heeft u sanitaire ruimten?</title>
       <question>Heeft u sanitaire ruimten?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-3633" optional="no">
         <title>Sanitaire ruimten</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-18700" type="risk">
           <title>Er zijn voldoende sanitaire voorzieningen aanwezig.</title>
           <description>&lt;p&gt;Als richtlijn kan het volgende gehanteerd worden: In elk bedrijf waar mensen werken moet ten minste 1 [schoon en goed geventileerd] toilet aanwezig zijn. Als in een bedrijf doorgaans &amp;gt; 10 werknemers gelijktijdig werken, is voor iedere 15 werknemers van hetzelfde geslacht ten minste 1 toilet aanwezig. Voor mannen mag voor een deel met urinoirs worden volstaan mits er ten minste 1 toilet voor iedere 25 of minder mannen aanwezig is. In of in de onmiddellijke nabijheid van de ruimten waarin de toiletten en urinoirs zich bevinden, zijn voldoende wasbakken aanwezig. De wasbakken zijn doelmatig geplaatst en beschikken over stromend water. Afhankelijk van het soort werk zijn er ook douches aanwezig&lt;/p&gt;</description>
@@ -1037,10 +1037,10 @@
     <profile-question external-id="KLV-381" type="optional">
       <title>Heeft u een kantine/pauzeruimte?</title>
       <question>Heeft u een kantine/pauzeruimte?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-3634" optional="no">
         <title>Kantine/pauze ruimte</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-18702" type="risk">
           <title>Er is pauzeruimte aanwezig, met voldoende zitgelegenheid.</title>
           <description>&lt;p&gt;Als werknemers volgens het Arbeidstijdenbesluit recht hebben op een pauze, moeten zij deze buiten de werkruimte kunnen houden. Het schaftlokaal of de kantine moet schoon zijn&#160;voldoende groot en voorzien zijn van voldoende zitplaatsen en tafels voor het te verwachte aantal personen dat tegelijkertijd pauzeert.&#160;&#160;&lt;/p&gt;</description>
@@ -1070,10 +1070,10 @@
     <profile-question external-id="KLV-382" type="optional">
       <title>Heeft u opslag een magazijn of transport?</title>
       <question>Heeft u opslag een magazijn of transport?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-3635" optional="no">
         <title>Opslag / magazijn / transport</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-18704" type="risk">
           <title>Magazijn of opslagruimte voldoen aan wet- en regelgeving.</title>
           <description>&lt;p class="MsoBodyTextIndent" align="left"&gt;Bij deze vraag is bedoeld opslag van grondstoffen, textielproducten, hout of kunstofdelen, halffabrikaten en gereed product. Opslag en magazijnen moeten aan bepaalde regels voldoen m.b.t. brand- en explosie alsmede veiligheid rond o.a. vallende voorwerpen, sterktes van stellingen en verkeersroutes. Het Arbo Informatieblad AI-14 geeft uitgebreide informatie over bedrijfsruimten, inrichting, transport en opslag&lt;/p&gt;</description>
@@ -1223,10 +1223,10 @@
     <profile-question external-id="KLV-383" type="optional">
       <title>Heeft u een showroom of winkel?</title>
       <question>Heeft u een showroom of winkel?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-3636" optional="no">
         <title>Showroom / winkel</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-18722" type="risk">
           <title>Er is een duidelijk onderscheid tussen publiek toegankelijke ruimten en werkruimte.</title>
           <description>&lt;p&gt;Dit is van belang voor de veiligheid. Denk hierbij ook aan het onderscheid tussen verkeersroutes voor voertuigen en wandelroutes voor voetgangers&lt;/p&gt;</description>
@@ -1279,7 +1279,7 @@
     </profile-question>
     <module external-id="M-3653" optional="no">
       <title>Bedrijfsruimten algemeen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-18648" type="risk">
         <title>Het gebouw  en de bedrijfsruimten worden goed onderhouden.</title>
         <description>&lt;p&gt;Goed onderhouden gebouwen en ruimten vormen een basis voor&#160;gemotiveerde arbeid in een goede werkomgeving. Dit komt de kwaliteit van het werk en het product ten goede&lt;/p&gt;</description>
@@ -1404,10 +1404,10 @@
     <profile-question external-id="KLV-384" type="optional">
       <title>Werkt u wel eens op andere locatie(s)?</title>
       <question>Werkt u wel eens op andere locatie(s)?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-3637" optional="no">
         <title>Werken op locatie</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-18727" type="risk">
           <title>Wanneer werknemers op een andere locatie moeten werken worden ze voorafgaand aan de werkzaamheden voorgelicht over risico&#8217;s en maatregelen.</title>
           <description>&lt;p&gt;Als er arbeid wordt verricht door&#160; werknemers op andere plaatsen buiten het eigen bedrijf, ontvangen&#160; ze&#160; voor aanvang van de werkzaamheden alle noodzakelijke informatie over de risico&#8217;s en de maatregelen ter beperking daarvan. Het is belangrijk dat er duidelijke afspraken zijn gemaakt met de opdrachtgever over wat wel- en niet op de betrokken locatie mag worden gedaan&lt;/p&gt;</description>
@@ -1812,7 +1812,7 @@
     </module>
     <module external-id="M-3641" optional="no">
       <title>Fysieke belasting / lichamelijke arbeid</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-18789" type="risk">
         <title>Er is een inventarisatie gemaakt van de fysieke belasting bij alle werkzaamheden.</title>
         <description>&lt;p&gt;Voor de fysieke belasting van medewerkers tijdens het werk bestaat een nadere inventarisatieverplichting. De werkhouding in samenhang met tillen, duwen en trekken kunnen risico's voor de werknemer inhouden. Een nadere inventarisatie en beoordeling moet daarover uitsluitsel geven. Oplossingen of oplossingsrichtingen worden aangereikt als deze van toepassing zijn&lt;/p&gt;</description>
@@ -1936,7 +1936,7 @@
     </module>
     <module external-id="M-3642" optional="no">
       <title>Hoogtes / kruipruimtes / besloten ruimtes</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-18808" type="risk">
         <title>Bij het op hoogte werken weten de werknemers welke voorzorgen moeten zijn genomen.</title>
         <description>&lt;p&gt;Werknemers moeten bij de uitvoering van hun werkzaamheden in het bedrijf of bij klanten soms op hoogte (zolders, bordessen of steigers) werken van meer dan 2.5 m. Er bestaan daardoor risico's op vallen&lt;/p&gt;</description>

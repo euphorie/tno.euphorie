@@ -307,10 +307,10 @@ ZSwApoVp9PHt////////////////////////////////////////////////////////////////
     <evaluation-optional>yes</evaluation-optional>
     <module external-id="M-2" optional="no">
       <title>Chauffeur</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-3" optional="no">
         <title>Fysieke belasting</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-1" type="top5">
           <title>Alle chauffeurs hebben voorlichting gehad over het juist instellen van de stoel</title>
           <description></description>
@@ -370,7 +370,7 @@ ZSwApoVp9PHt////////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-4" optional="true">
         <title>Rolstoelvervoer</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Het bedrijf beschikt over voertuigen ingericht voor het vervoer van rolstoelen</question>
         <risk external-id="R-6" type="top5">
           <title>Elke rolstoelbus heeft een rolstoellift</title>
@@ -439,7 +439,7 @@ ZSwApoVp9PHt////////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5" optional="no">
         <title>Voertuig</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-10" type="risk">
           <title>De chauffeur heeft altijd voldoende zicht op de instrumenten in alle situaties zowel overdag als &#8217;s nachts.</title>
           <description></description>
@@ -563,7 +563,7 @@ ZSwApoVp9PHt////////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-6" optional="no">
         <title>Agressie/geweld</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-19" type="top5">
           <title>Het bedrijf heeft duidelijke regels over wat een chauffeur kan doen met misdragende passagiers</title>
           <description>&lt;p&gt;Dit kan bijvoorbeeld zijn als onderdeel van een calamiteitenplan.&lt;/p&gt;</description>
@@ -687,7 +687,7 @@ ZSwApoVp9PHt////////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-7" optional="no">
         <title>Werkdruk</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-29" type="top5">
           <title>Chauffeurs ervaren geen constante hoge tijdsdruk.</title>
           <description>&lt;p&gt;Alle chauffeurs werken incidenteel onder tijdsdruk. Als de tijdsdruk echter te lang aanhoudt kan dit tot uitputting en (langdurig) ziekteverzuim leiden. Ook maken chauffeurs onder hoge tijdsdruk meer fouten dan normaal.&lt;/p&gt;</description>
@@ -812,10 +812,10 @@ ZSwApoVp9PHt////////////////////////////////////////////////////////////////
     </module>
     <module external-id="M-8" optional="no">
       <title>Centrale/Kantoor</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-9" optional="no">
         <title>Beeldschermwerk</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-39" type="top5">
           <title>De werkoppervlakte voor een basiswerkplek is minimaal 8 m&#178;.</title>
           <description>&lt;p&gt;De minimaal benodigde ruimte wordt bepaald door het voor de functie benodigde meubilair, de bedieningsruimte en de verkeersruimte op de werkplek. De toegangen van een werkvertrek (de deuren) nemen een bepaalde ruimte in die niet bruikaar is. Per vertrek moet 1m&#178; voor de toegang bijgeteld worden. Voor plaatsing van extra meubilair zoals kasten en een overlegmogelijkheid moet extra ruimte worden gerekend.&lt;br/&gt;Zie link&lt;strong&gt;Meer informatie:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://www2.nen.nl/nen/servlet/dispatcher.Dispatcher?id=BIBLIOGRAFISCHEGEGEVENS&amp;amp;contentID=138358" rel="nofollow" target="_blank"&gt;NEN 1824:2001 nl&lt;/a&gt;&lt;br/&gt;&#160;&lt;/p&gt;</description>
@@ -939,7 +939,7 @@ ZSwApoVp9PHt////////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-10" optional="no">
         <title>2.2.Werkdruk</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-48" type="top5">
           <title>Er is voor de taxicentralisten tussen twee werkperioden tenminste 11 uur en na een nachtdienst ten minste 24 uur rust.</title>
           <description>&lt;p&gt;Een taxicentralist moet alert kunnen reageren. Daarvoor is voldoende rust noodzakelijk.&lt;strong&gt;Meer informatie:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://home.szw.nl/navigatie/rubriek/dsp_rubriek.cfm?rubriek_id=1&amp;amp;subrubriek_id=1011&amp;amp;link_id=1973" rel="nofollow" target="_blank"&gt;Ministerie SZW&lt;/a&gt;&lt;/p&gt;</description>
@@ -967,7 +967,7 @@ ZSwApoVp9PHt////////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-11" optional="no">
         <title>Agressie</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-50" type="top5">
           <title>Het bedrijf heeft duidelijke regels over situaties waarin de centralist passagiers mag weigeren</title>
           <description>&lt;p&gt;De centralist hoeft niet al het gedrag van klanten goed te vinden. Passagiers die tegenover de centralist bedreigend, agressief of intimiderend zijn moeten geweigerd kunnen worden.&lt;/p&gt;</description>
@@ -1007,7 +1007,7 @@ ZSwApoVp9PHt////////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-12" optional="no">
         <title>Inrichting en algemene voorzieningen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-53" type="risk">
           <title>Er zijn voldoende sanitaire voorzieningen (toiletten, urinoirs, wasbakken met zeep) aanwezig, indien nodig apart voor mannen en vrouwen (zie toelichting)</title>
           <description>&lt;p&gt;Tot 10 personen kan volstaan worden met &#233;&#233;n toilet met voor de mannen bovendien nog een urinoir. Bij 10 of meer personen moeten voor mannen en vrouwen afzonderlijke toiletten met gescheiden toegangen aanwezig zijn.&lt;/p&gt;</description>
@@ -1158,10 +1158,10 @@ ZSwApoVp9PHt////////////////////////////////////////////////////////////////
     <profile-question external-id="KLV-320" type="optional">
       <title>Werkplaats (incl. inbouw communicatieapparatuur)</title>
       <question>Heeft u een garage/werkplaats?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-14" optional="no">
         <title>Algemeen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-65" type="risk">
           <title>Er is een douchegelegenheid</title>
           <description>&lt;p&gt;Douchen is nodig als er medewerkers zijn die eerst garagewerk doen om later in de dienst te gaan rijden op de taxi.&lt;/p&gt;</description>
@@ -1373,7 +1373,7 @@ ZSwApoVp9PHt////////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-15" optional="no">
         <title>Fysieke belasting</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-82" type="top5">
           <title>Staan, bukken, zitten, lopen, tillen en duwen worden zoveel mogelijk afgewisseld</title>
           <description>&lt;p&gt;Voorbeelden van lichamelijke belasting zijn:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;langdurig werken in ongunstige lichaamshoudingen zoals hurken, knielen, bukken, knijpen, armen boven het hoofd, asymmetrische houdingen;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;te grote kracht leveren, bijvoorbeeld een duwkracht van meer dan 20 kg;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ongunstige krachtrichting;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;het verplaatsen van grote lasten van meer dan 23 kg in zeer korte tijd;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;het frequent (enige tientallen keren per uur) uitvoeren van dezelfde bewegingen;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;een lange duur van (statisch) belastend werk, bijvoorbeeld weinig variatie in houding, langdurig een knop/pedaal ingedrukt houden of langdurig staan.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Het werk moet afgestemd zijn op de mogelijkheden van de werknemer, om te hoge of eenzijdige lichamelijke belasting te voorkomen. Lichamelijke overbelasting kan lichamelijke klachten en aandoeningen van gewrichten en spieren veroorzaken, bijvoorbeeld aan rug, nek en schouders. Het langdurig maken van dezelfde beweging kan leiden tot (chronische) RSI.&#160;.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;</description>
@@ -1473,7 +1473,7 @@ ZSwApoVp9PHt////////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-16" optional="no">
         <title>Geluid/trillingen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-92" type="risk">
           <title>Medewerkers werken niet langer dan 15 minuten per dag met een slagmoersleutel/moeraanzetter</title>
           <description>&lt;p&gt;Om de maximale dagbelasting geluid niet te overschrijden is deze grens gesteld. Gehoorbescherming dient echter nog steeds te worden toegepast.&lt;/p&gt;</description>
@@ -1549,7 +1549,7 @@ ZSwApoVp9PHt////////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-17" optional="no">
         <title>Gevaarlijke stoffen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-98" type="policy">
           <title>Een register van gevaarlijke stoffen is aanwezig</title>
           <description>&lt;p&gt;Alle gevaarlijke stoffen moeten geregistreerd zijn. Op die manier is duidelijk welke gevaarlijke stoffen aanwezig zijn. Voorbeelden zijn benzine, ruitenwisservloeistof, koelvloeistof, reinigingsmiddelen en lijmen / plamuur.&lt;strong&gt;Meer informatie:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://www.arbo.nl/vervoerentransport/taxibedrijven/personeel/stoffen/stoffen?selchar=g" rel="nofollow" target="_blank"&gt;Arbo Platform Nederland&lt;/a&gt;&lt;/p&gt;</description>
@@ -2001,7 +2001,7 @@ ZSwApoVp9PHt////////////////////////////////////////////////////////////////
     <profile-question external-id="KLV-321" type="optional">
       <title>Wasplaats</title>
       <question>Heeft u een carwash/wasplaats?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-138" type="risk">
         <title>De medewerkers zijn bekend met de werkinstructies van de carwash/hogedrukreiniger</title>
         <description>&lt;p&gt;De aanwezigheid van duidelijke instructies voorkomt fouten en ongevallen. Zo moet bijvoorbeeld duidelijk zijn of de auto met of zonder chauffeur door de carwash gaat.&lt;/p&gt;</description>
@@ -2055,7 +2055,7 @@ ZSwApoVp9PHt////////////////////////////////////////////////////////////////
     <profile-question external-id="KLV-322" type="optional">
       <title>Brandstofvoorziening</title>
       <question>Heeft u een brandstofvoorziening?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-142" type="risk">
         <title>Bij het tankstation is een brandblusser aanwezig</title>
         <description>&lt;p&gt;Een tankstation brengt vanzelfsprekend brandgevaar met zich mee. Voor het blussen van vloeistoffen (zoals benzine) is een poederblusser nodig. Voor het blussen van een elektriciteitsbrand is koolzuursneeuw gewenst. Laat u altijd adviseren door brandweer of door een erkende instantie.&lt;/p&gt;</description>
@@ -2109,7 +2109,7 @@ ZSwApoVp9PHt////////////////////////////////////////////////////////////////
     <profile-question external-id="KLV-323" type="optional">
       <title>Stalling</title>
       <question>Heeft u een stalling?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-146" type="risk">
         <title>De stalling heeft voldoende vaste ventilatieopeningen om concentratie van uitlaatgassen te voorkomen</title>
         <description>&lt;p&gt;Uitlaatgassen zijn giftig, snelle afvoer is noodzakelijk.&lt;/p&gt;</description>
@@ -2138,7 +2138,7 @@ ZSwApoVp9PHt////////////////////////////////////////////////////////////////
 
     <module external-id="M-26" optional="no">
       <title>Apparatuur/installaties</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-148" type="risk">
         <title>Alle gereedschappen zijn goed onderhouden (incl. lucht-, elektrisch, hydraulisch handgereedschap)</title>
         <description>&lt;p&gt;Er zijn vele gereedschappen in het bedrijf. Allen moeten goed onderhouden zijn en blijven. Hoe vaak het onderhoud nodig is, kan de leverancier u vertellen.&lt;/p&gt;</description>
@@ -2250,7 +2250,7 @@ ZSwApoVp9PHt////////////////////////////////////////////////////////////////
     </module>
     <module external-id="M-27" optional="true">
       <title>Persoonlijke beschermingsmiddelen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <question>Heeft u monteurs in dienst?</question>
       <risk external-id="R-157" type="risk">
         <title>Voor de monteurs is werkkleding beschikbaar</title>
@@ -2399,7 +2399,7 @@ ZSwApoVp9PHt////////////////////////////////////////////////////////////////
     </module>
     <module external-id="M-28" optional="no">
       <title>In geval van nood</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-169" type="risk">
         <title>De vereiste nooduitgangen zijn aanwezig en aangegeven met pictogrammen en daadwerkelijk toegankelijk.</title>
         <description>&lt;p&gt;In noodsituaties moeten werknemers en andere personen zich via de kortst mogelijke weg in veiligheid kunnen brengen. De vluchtweg naar een nooduitgang moet worden aangegeven met bordjes (pictogrammen).&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Een standaard deur, breder dan 75 cm met boven de deur een pictogram &#8216; Vluchtweg&#8217; voldoet aan de eisen.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Voor niet-brandgevaarlijke ruimten moet de afstand tot de (nood)uitgang niet groter zijn dan 30 meter. Voor brandgevaarlijke ruimten moet de afstand tot de (nood)uitgang niet groter zijn dan 15 meter en mogen in de ruimte normaal gesproken niet meer dan 5 personen gelijktijdig aanwezig zijn.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Voor alle andere werkplekken geldt dat er twee (nood)uitgangen aanwezig moeten zijn, die zoveel mogelijk in de tegenovergestelde wanden zijn geplaatst.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;De nooduitgang en vluchtweg moeten voorzien zijn van noodverlichting en bewegwijzering en moeten vrij van obstakels zijn.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;De uitgangen dienen bij voorkeur direct toegang te geven tot de buitenlucht en de deur in de nooduitgang moet naar buiten open gaan.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;De deur moet makkelijk opengaan (dus niet op slot zijn) wat bijvoorbeeld met een panieksluiting of dranger goed mogelijk is.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Plaatselijke omstandigheden kunnen beoordeling door een deskundige noodzakelijk maken.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;</description>
@@ -2523,7 +2523,7 @@ ZSwApoVp9PHt////////////////////////////////////////////////////////////////
     </module>
     <module external-id="M-29" optional="no">
       <title>Werkdruk en werktijden</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-179" type="top5">
         <title>Bij incidentele afwijkingen is het rooster uiterlijk vier dagen tevoren bekend</title>
         <description>&lt;p&gt;Door een afwijkend rooster minimaal 4 dagen van te voren bekend te maken heeft de werknemer de tijd om rekening te houden met de wijzigingen.&lt;/p&gt;</description>
@@ -2671,7 +2671,7 @@ ZSwApoVp9PHt////////////////////////////////////////////////////////////////
     </module>
     <module external-id="M-30" optional="no">
       <title>Ongewenst gedrag</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-191" type="risk">
         <title>Het bedrijf heeft regels opgesteld over wat men doet met medewerkers die zich misdragen en niet reageren op correctie</title>
         <description>&lt;p&gt;Denk aan onderlinge agressie, geweld of seksuele intimidatie. Ook dreigen en pesten valt hieronder.&lt;/p&gt;</description>
@@ -2759,7 +2759,7 @@ ZSwApoVp9PHt////////////////////////////////////////////////////////////////
     </module>
     <module external-id="M-31" optional="no">
       <title>Voorlichting</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-198" type="risk">
         <title>Er wordt aan alle werknemers voorlichting/ onderricht gegeven over arbeidsomstandigheden</title>
         <description>&lt;p&gt;Een van de meest zware verplichtingen voor de werkgever is voorlichting te geven aan de werknemers over risico&#8217;s in het bedrijf en hoe daar mee om te gaan. Voorbeelden zijn:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Wat te doen bij calamiteiten?&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Wat te doen met lastige / agressieve passagiers?&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;EHBO/LRH &amp;amp; reanimatie (niet verplicht, wel aanbevolen)&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Voorkomen nek-, arm- en rugklachten: instellen autostoel, juist rolstoelvervoer, gezond werken in de werkplaats, beeldschermwerk.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Dit geldt voor nieuwe medewerkers en in geval van wijzigingen ook voor het &#8216;zittende&#8217; personeel.&lt;/p&gt;</description>
@@ -2787,7 +2787,7 @@ ZSwApoVp9PHt////////////////////////////////////////////////////////////////
     </module>
     <module external-id="M-32" optional="no">
       <title>Bijzondere groepen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-200" type="risk">
         <title>Voor werknemers jonger dan 18 jaar worden de wettelijke regels gehanteerd</title>
         <description>&lt;p&gt;Bijvoorbeeld het werken met gevaarlijke stoffen of machines is voor jeugdigen verboden, het mag alleen onder toezicht. Jeugdige werknemers (onder de 18 jaar) worden op bijzondere wijze beschermd door de Arbowet. Zij moeten extra voorlichting krijgen en het werk moet passen bij hun mogelijkheden. Zie link voor de specifieke eisen.&lt;strong&gt;Meer informatie:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://home.szw.nl/navigatie/rubriek/dsp_rubriek.cfm?rubriek_id=1&amp;amp;subrubriek_id=1011&amp;amp;link_id=1976" rel="nofollow" target="_blank"&gt;Ministerie van SZW&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://www.arbo.nl/vervoerentransport/taxibedrijven/wettenenregels/arbowetenregelgeving/jeugdigen?selchar=j" rel="nofollow" target="_blank"&gt;Arbo Platform Nederland&lt;/a&gt;&lt;/p&gt;</description>
@@ -2815,7 +2815,7 @@ ZSwApoVp9PHt////////////////////////////////////////////////////////////////
     </module>
     <module external-id="M-33" optional="no">
       <title>Arbo en verzuim</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-203" type="policy">
         <title>Er is een verzuimreglement opgesteld en verspreid onder de medewerkers.</title>
         <description>&lt;p&gt;In een verzuimreglement staat o.a. vermeld op welke wijze&#160; de werknemer zich ziek kan melden (o.a. hoe laat, bij wie etc).&#160; Ook staat de wijze van begeleiding van de zieke medewerker vermeld. Dit om misverstanden tussen werkgever en werknemer te&#160; voorkomen.&lt;/p&gt;</description>
@@ -2915,7 +2915,7 @@ ZSwApoVp9PHt////////////////////////////////////////////////////////////////
     </module>
     <module external-id="M-34" optional="no">
       <title>Ongevallen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-211" type="policy">
         <title>Bedrijfsongevallen worden geregistreerd</title>
         <description>&lt;p&gt;De werkgever heeft de plicht om bedrijfsongevallen en beroepsziekten te melden bij de Arbeidsinspectie.&lt;br/&gt;&#160;&lt;br/&gt;Naast deze meldingsplicht dient ook een registratie van ongevallen en beroepsziekten te worden bijgehouden. Dit register dient in het bedrijf aanwezig te zijn en kan als onderdeel van de RI&amp;amp;E worden gezien.&lt;br/&gt;&#160;&lt;br/&gt;Stimuleer medewerkers om zoveel mogelijk (kleine) incidenten en &#8220;near misses&#8221; te melden. Indien ongevallen of gevaarlijke situaties hebben plaatsgevonden is het zinvol om te onderzoeken hoe dit in de toekomst voorkomen kan worden.&lt;strong&gt;Meer informatie:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://www.arbo.nl/vervoerentransport/taxibedrijven/personeel/ongevallenbhv/ongevallenonderzoek" rel="nofollow" target="_blank"&gt;Arbo Platform Nederland&lt;/a&gt;&lt;/p&gt;</description>
@@ -2943,7 +2943,7 @@ ZSwApoVp9PHt////////////////////////////////////////////////////////////////
     </module>
     <module external-id="M-35" optional="no">
       <title>Plan van Aanpak</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-213" type="policy">
         <title>Elk jaar wordt over de uitvoering van het plan van aanpak gerapporteerd</title>
         <description>&lt;p&gt;Jaarlijks moet de voortgang van het plan van aanpak op schrift worden gezet. Die voortgang wordt besproken met de ondernemingsraad, de personeelsvertegenwoordiging of het personeel.&lt;/p&gt;</description>
@@ -2983,10 +2983,10 @@ ZSwApoVp9PHt////////////////////////////////////////////////////////////////
     </module>
     <module external-id="M-2671" optional="no">
       <title>Organisatie van de preventie</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-2672" optional="no">
         <title>Preventietaken</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-13939" type="policy">
           <title>De organisatie heeft de preventietaken toegewezen</title>
           <description>&lt;p&gt;Een werkgever met m&#233;&#233;r dan 15 medewerkers moet preventietaken toewijzen aan &#233;&#233;n of meer werknemers. Een werkgever met ten hoogste 15 medewerkers mag de preventietaken zelf uitvoeren. De werkgever hoeft geen speciale medewerker aan te trekken met preventietaken. Preventie kan een onderdeel zijn van de taak van de werkgever zelf of van de taak van &#233;&#233;n of meer werknemers. &lt;em&gt;Voor het gemak wordt echter in dit instrument steeds gesproken over preventiemedewerker.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Preventietaken zijn: het meewerken aan of het opstellen van een RI&amp;amp;E, uitvoeren van de maatregelen uit het plan van aanpak, het geven van voorlichting, het signaleren van risico's en het treffen van maatregelen tegen die risico&#8217;s. &lt;/p&gt;&lt;p&gt;De preventiemedewerkers (het aantal hangt af van preventietaken en de gewenste organisatie) hebben de kennis en ervaring, de middelen en de tijd, zodat zij de werkgever goed kunnen bijstaan bij de preventietaken. De preventiemedewerker werkt hierbij samen met de OR, de personeelsvertegenwoordiging of de medewerkers die het betreft. &lt;/p&gt;&lt;p&gt;Werkgevers die hun preventietaken goed uitvoeren besparen doorgaans aanzienlijk op de kosten van ongevallen, verzuim en stressproblemen. Investeringen in arbeidsomstandigheden en in het personeel renderen meestal goed als het gaat om de sfeer en productiviteit van het bedrijf.&lt;/p&gt;</description>
@@ -3020,7 +3020,7 @@ ZSwApoVp9PHt////////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-2673" optional="no">
         <title>Maatwerk- / Vangnetregeling</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-13945" type="policy">
           <title>U laat zich bij uw preventietaken bijstaan door &#233;&#233;n of meer gecertificeerde deskundigen (maatwerkregeling) of door een gecertificeerde arbodienst (vangnetregeling)</title>
           <description>&lt;p&gt;Op grond van de Arbowet moet de werkgever zich bij de uitvoering van de volgende taken laten bijstaan door &#233;&#233;n of meer gecertificeerde deskundigen:&lt;/p&gt;&lt;p&gt;&lt;br/&gt;- toetsing en advisering in het kader van de risico-inventarisatie en -evaluatie;&lt;br/&gt;- arbeidsgezondheidskundig onderzoek;&lt;br/&gt;- houden van arbeidsomstandighedenspreekuur (arbeidsomstandigheden spreekuur);&lt;br/&gt;- aanstellingskeuring;&lt;br/&gt;- verzuimbegeleiding.&lt;/p&gt;&lt;p&gt;De &#8216;maatwerkregeling&#8217; houdt in, dat de werkgever zelf bepaalt, op welke wijze gecertificeerde deskundigen bijstand verlenen.&lt;br/&gt;Concreet betekent dit dat er minimaal een contract met een gecertificeerde bedrijfsarts dient te zijn afgesloten en dat een gecertificeerde arbodeskundige de RI&amp;amp;E dient te toetsen, als toetsing van de RI&amp;amp;E noodzakelijk is. Als alternatief kan gebruik worden gemaakt van de &#8216;vangnetregeling&#8217;, de arbodienst verzorgt dan de bijstand.&lt;br/&gt;Zie ook het stroomschema op &lt;a href="http://www.arbo.nl/schema" rel="nofollow" target="_blank"&gt;http://www.arbo.nl/schema&lt;/a&gt; voor de keuze tussen beide regelingen.&lt;/p&gt;</description>

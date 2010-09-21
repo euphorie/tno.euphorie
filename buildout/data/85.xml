@@ -1184,7 +1184,7 @@ Arbobesluit,afdeling 2, artikel 5.10.&lt;/h3&gt;&lt;p&gt;&#160;&lt;/p&gt;</legal
       </module>
       <module external-id="M-4913" optional="true">
         <title>Stallen complex</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Er is op uw accommodatie een stallencomplex aanwezig</question>
         <risk external-id="R-24142" type="risk">
           <title>Kleine mest/afvoerputten zijn met een deksel afgedekt</title>
@@ -1426,7 +1426,7 @@ Arbobesluit,afdeling 2, artikel 5.10.&lt;/h3&gt;&lt;p&gt;&#160;&lt;/p&gt;</legal
     </module>
     <module external-id="M-1610" optional="no">
       <title>In geval van nood</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-8685" type="policy">
         <title>Er zijn voldoende opgeleide bedrijfshulpverleners aanwezig.</title>
         <description>&lt;p&gt;Bedrijfshulpverlening &lt;/p&gt;&lt;p&gt;Bedrijfshulpverlening is er op gericht om direct na een ongeval de juiste handelingen uit te voeren tot het moment dat professionele hulpverleners ter plaatse zijn. Goede bedrijfshulpverlening kan levens redden en grote schade voorkomen.&lt;/p&gt;&lt;p&gt;Vanaf 1 januari 2007 is de Arbowet gewijzigd. Voor wat betreft de BHV, is de indicatie dat er&#160;tot 50 werknemers/aanwezigen&#160;minimaal &#233;&#233;n bedrijfshulpverlener aanwezig moet &#160;zijn, komen te vervallen.&lt;/p&gt;&lt;p&gt;Het vaststellen van het aantal BHV-ers is maatwerk geworden. Het aantal benodigde BHV-ers is afhankelijk van de risico's die er binnen een bedrijf zijn. Voor de hippische bedrijven is het noodzakelijk dat er altijd minimaal 1 opgeleide bedrijfshulpverlener op het bedrijf aanwezig is. &lt;/p&gt;&lt;p&gt;Bij het vaststellen van het aantal bedrijfshulpverleners moet ook rekening gehouden worden met vakanties, ziekte, het werken op locatie, bezoekers en de specifieke risico's van een bedrijf. De opleiding dient afgestemd te zijn op de risico-inventarisatie. &lt;/p&gt;&lt;p&gt;Via de FNRS kunt u een specifieke BHV cursus toegespitst op de paardenhouderijen volgen.&#160;&lt;/p&gt;&lt;p&gt;Voor toernooien/evenementen en wedstrijden is het wellicht nodig specifieke zaken te regelen i.v.m. publiek, tribunes etc.&lt;/p&gt;</description>
@@ -1589,7 +1589,7 @@ Arbobesluit,afdeling 2, artikel 5.10.&lt;/h3&gt;&lt;p&gt;&#160;&lt;/p&gt;</legal
     </module>
     <module external-id="M-1615" optional="true">
       <title>Werk- en rusttijden</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <question>Er zijn werknemers in dienst</question>
       <risk external-id="R-8703" type="policy">
         <title>Een werkdag voor werknemers boven de 18 jaar is maximaal 12 uur en een werkweek is maximaal 60 uur per week. De gemiddelde werktijd binnen elke aaneengesloten periode van 16 weken bedraagt maximaal 48 uur</title>
@@ -1633,7 +1633,7 @@ Arbobesluit,afdeling 2, artikel 5.10.&lt;/h3&gt;&lt;p&gt;&#160;&lt;/p&gt;</legal
     <module external-id="M-1617" optional="no">
       <module optional="no">
         <title>Algemeen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-8710" type="policy">
           <title>Bij het samenstellen van functies wordt eenzijdige belasting voorkomenperiodiek op de hoogte gehouden van de resultaten van hun werken nieuwe ontwikkelingen</title>
           <description>&lt;p&gt;Eenzijdige belasting kan zowel lichamelijk of geestelijk zijn.&lt;/p&gt;&lt;p&gt;Voorkomen van geestelijke belasting kan door: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;niet alleen routinematig werk uit te voeren; &lt;/li&gt;&lt;li&gt;afwisseling met moeilijkere taken zoals planning van het werk; &lt;/li&gt;&lt;li&gt;zelf of in samenwerking met anderen problemen kunnen oplossen.&#160;&lt;/li&gt;&lt;/ul&gt;</description>
@@ -1782,15 +1782,15 @@ Arbobesluit,afdeling 2, artikel 5.10.&lt;/h3&gt;&lt;p&gt;&#160;&lt;/p&gt;</legal
         </risk>
       </module>
       <title>Werkinhoud en werkbeleving</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-4911" optional="no">
         <title>Taken en functies van medewerkers</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       </module>
     </module>
     <module external-id="M-1619" optional="no">
       <title>(Ongewenst) gedrag van medewerkers</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-8726" type="policy">
         <title>Er zijn afspraken gemaakt over ongewenste gedragingen.</title>
         <description>&lt;p&gt;Onder ongewenst gedrag moet worden verstaan : pesten, (seksuele) intimidatie, agressie en geweld. &lt;/p&gt;&lt;p&gt;Het bedrijf moet een beleid voeren met betrekking tot het beschermen van werknemers tegen seksuele intimidatie en tegen agressie en geweld. Onder seksuele intimidatie wordt verstaan: ongewenste seksuele toenadering, verzoeken om seksuele gunsten of ander verbaal, non-verbaal of fysiek gedrag waarbij er impliciet of expliciet consequenties zijn voor de werknemer aan het al dan niet ingaan op deze intimidatie. &lt;/p&gt;&lt;p&gt;Onder agressie en geweld worden verstaan: voorvallen waarbij een werknemer psychisch of fysiek wordt lastig gevallen, bedreigd of aangevallen onder omstandigheden die rechtstreeks verband houden met het verrichten van arbeid. &lt;/p&gt;</description>
@@ -1831,7 +1831,7 @@ Arbobesluit,afdeling 2, artikel 5.10.&lt;/h3&gt;&lt;p&gt;&#160;&lt;/p&gt;</legal
     </module>
     <module external-id="M-1621" optional="no">
       <title>Preventietaken, Voorlichting en toezicht, aandacht voor bijzondere groepen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-8731" type="policy">
         <title>Er zijn preventietaken ten aanzien van arbo toegewezen aan medewerker(s). Niet van toepassing als er minder dan 25 werknemers werken. Dan mag de ondernemer zelf deze taken uitoefenen</title>
         <description>&lt;p class="MsoNormal"&gt;&lt;strong&gt;Preventiemedewerker &lt;/strong&gt;Een werkgever met m&#233;&#233;r dan 25 medewerkers moet preventietaken toewijzen aan &#233;&#233;n of meer werknemers. Een werkgever met ten hoogste 25 medewerkers mag de preventietaken zelf uitvoeren als hij daarvoor de deskundigheid heeft. De hippische ondernemer hoeft geen speciale medewerker aan te trekken met preventietaken. Preventie kan een onderdeel zijn van de taak van de ondernemer zelf of van de taak van &#233;&#233;n of meer werknemers. Voor het gemak wordt echter in dit instrument steeds gesproken over de preventiemedewerker. &lt;/p&gt;&lt;p class="MsoNormal"&gt;&lt;br/&gt;Preventietaken zijn o.a : het meewerken aan of het opstellen van een RI&amp;amp;E, uitvoeren van de maatregelen uit het Plan van Aanpak, het geven van voorlichting, het signaleren van risico's en het treffen van maatregelen ter beperking van die risico&#8217;s.&#160;&lt;br/&gt;De preventiemedewerkers (het aantal hangt af van de preventietaken en de gewenste organisatie) hebben de kennis en ervaring, de middelen en de tijd, zodat zij de ondernemer goed kunnen bijstaan bij de preventietaken. &lt;br/&gt;De preventiemedewerker werkt hierbij samen met&#160;de personeelsvertegenwoordiging of de medewerkers die het betreft en(indien aanwezig) de OR. &lt;br/&gt;Werkgevers die hun preventietaken goed uitvoeren besparen doorgaans aanzienlijk op de kosten van ongevallen, verzuim en stressproblemen. Investeringen in arbeidsomstandigheden en in het personeel renderen meestal goed als het gaat om de sfeer en productiviteit van het bedrijf. &lt;br/&gt;De preventiemedewerker kan op verschillende plaatsen informatie of hulp krijgen. Daarvoor zijn in deze RI&amp;amp;E op diverse plaatsen links aangebracht.&lt;/p&gt;</description>
@@ -1964,7 +1964,7 @@ Arbobesluit,afdeling 2, artikel 5.10.&lt;/h3&gt;&lt;p&gt;&#160;&lt;/p&gt;</legal
     </module>
     <module external-id="M-1623" optional="true">
       <title>Afspraken over verzuim en met de arbodienst</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <question>De hippische ondernem&#236;ng heeft werknemers in dienst.</question>
       <risk external-id="R-8743" type="policy">
         <title>Er zijn afspraken gemaakt over hoe, wanneer en bij wie medewerkers zich ziek moeten melden.</title>
@@ -2102,7 +2102,7 @@ Arbobesluit,afdeling 2, artikel 5.10.&lt;/h3&gt;&lt;p&gt;&#160;&lt;/p&gt;</legal
     </module>
     <module external-id="M-1625" optional="no">
       <title>Voortgang van het plan van aanpak</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-8761" type="policy">
         <title>Het plan van aanpak wordt jaarlijks geactualiseerd en besproken met de medewerkers</title>
         <description>&lt;p&gt;Na het uitvoeren van de RI&amp;amp;E moet een plan van aanpak worden opgesteld. &lt;/p&gt;&lt;p&gt;Het verdient aanbeveling om het plan van aanpak jaarlijks met uw medewerkers te bespreken.&lt;/p&gt;&lt;p&gt;Vanaf 1 januari 2007 is verplichting om van deze bespreking een schriftelijke vastlegging te maken, komen te vervallen.&lt;/p&gt;</description>

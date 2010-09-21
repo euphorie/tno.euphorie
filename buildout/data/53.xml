@@ -88,10 +88,10 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
     <evaluation-optional>yes</evaluation-optional>
     <module external-id="M-2" optional="no">
       <title>Management</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-3" optional="no">
         <title>arbobeleidsvoering</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-1" type="risk">
           <title>Uw organisatie heeft het beleid en de doelstellingen ten aanzien van de zorg voorarbeidsomstandigheden schriftelijk vastgelegd.</title>
           <description>&lt;p&gt;Een organisatie dient een zo goed mogelijk arbeidsomstandighedenbeleid te voeren. Een organisatie dient dit te kunnen aantonen. Aantoonbaar betekent in de praktijk: schriftelijk.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Bij de voorbereiding van het beleid is het goed de Arbocatalogus Openbare Bibliotheken te betrekken.&lt;/p&gt;</description>
@@ -132,7 +132,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-4" optional="no">
         <title>Verzuimbeleid</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-4" type="risk">
           <title>Uw organisatie heeft een op schrift gesteld verzuimbeleid dat gericht is op het zoveelmogelijk voorkomen of beperken van ziekte van medewerkers.</title>
           <description>&lt;p&gt;Het voeren van een verzuimbeleid is binnen het algemene arbeidsomstandig-hedenbeleid wettelijk verplicht.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Dit beleid moet gericht zijn op:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- het zoveel mogelijk voorkomen of beperken van ziekte van werknemers;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- het begeleiden van medewerkers die door ziekte niet in staat zijn hun werk te verrichten.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Een organisatie dient te kunnen aantonen een verzuimbeleid te voeren. Aantoonbaar betekent in de praktijk: schriftelijk. Een op schrift gesteld verzuimbeleid is meer dan de op schrift gestelde "spelregels" rond verzuim.&lt;/p&gt;</description>
@@ -196,7 +196,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-5" optional="no">
         <title>Taken, verantwoordelijkheden en bevoegdheden</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-9" type="risk">
           <title>De taken, bevoegdheden en verantwoordelijkheden van alle medewerkers ten aanzien van arbeidsomstandigheden zijn schriftelijk vastgelegd.</title>
           <description>&lt;p&gt;De Arbowet stelt dat de werkgever zorg draagt voor een goede verdeling van&lt;/p&gt;&lt;br/&gt;&lt;p&gt;bevoegdheden en verantwoordelijkheden tussen de medewerkers, waarbij hij rekening houdt met de bekwaamheden van de medewerkers. In de praktijk kunnen de bevoegdheden en verantwoordelijkheden zijn opgenomen in functieomschrijvingen of apart zijn omschreven.&lt;/p&gt;</description>
@@ -262,7 +262,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-6" optional="no">
         <title>Samenwerking en overleg</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-14" type="risk">
           <title>In uw organisatie wordt regelmatig overleg gevoerd, waarbij systematisch aandacht wordt besteed aan de arbeidsomstandigheden.</title>
           <description>&lt;p&gt;De Arbowet verstaat onder overleg het overleg tussen de leiding en (een gekozen&lt;/p&gt;&lt;br/&gt;&lt;p&gt;afvaardiging van) de medewerkers. In het overleg dienen de arbeidsomstandigheden als vast onderwerp aan de orde te komen voor zover de arbeidsomstandigheden dat vereisen.&lt;/p&gt;</description>
@@ -339,7 +339,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-7" optional="no">
         <title>Plan van aanpak</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-20" type="risk">
           <title>Uw organisatie stelt een plan van aanpak op volgens bijgaande voorschriften.</title>
           <description>&lt;p&gt;Iedere organisatie is verplicht een plan van aanpak ten aanzien van de arbeidsomstandigheden op te stellen waarin is aangegeven:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- welke maatregelen zullen worden genomen in verband met de in de RI&amp;amp;E omschreven&#160; risico's;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- binnen welke termijn deze maatregelen zullen worden genomen.&lt;/p&gt;</description>
@@ -391,7 +391,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-8" optional="no">
         <title>Voorlichting en onderricht</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-24" type="risk">
           <title>Aan de medewerkers wordt voorlichting en onderricht gegeven over hun arbeidsomstandigheden.</title>
           <description>&lt;p&gt;De werkgever moet er voor zorgen dat aan zijn medewerkers voorlichting wordt gegeven over de te verrichten werkzaamheden en de daaraan verbonden risico's alsook over de maatregelen die erop gericht zijn deze risico's te voorkomen of te beperken.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;De voorlichting en onderricht moeten zijn aangepast aan de taken van de medewerker. De voorlichting dient plaats te vinden op of voor het moment dat een werknemer voor de eerste keer werkzaamheden bij uw organisatie gaat verrichten.&lt;/p&gt;</description>
@@ -443,7 +443,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-9" optional="no">
         <title>Toezicht door leidinggevenden</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-28" type="risk">
           <title>Het houden van toezicht is nadrukkelijk als taak en verantwoordelijkheid aan deleidinggevenden opgedragen.</title>
           <description>&lt;p&gt;De werkgever dient toe te zien op de naleving van de instructies en voorschriften gericht op het voorkomen of beperken van de risico's verbonden aan de te verrichten werkzaamheden. De werkgever moet ook toezien op het juiste gebruik van persoonlijke beschermingsmiddelen. Indien de werkgever niet in staat is persoonlijk toezicht te houden op alle medewerkers dienen de leidinggevenden toezicht te houden op de hi&#235;rarchisch onder hen werkende&lt;/p&gt;&lt;br/&gt;&lt;p&gt;medewerkers. Het opdragen van de toezichthoudende taak is aantoonbaar als dit&lt;/p&gt;&lt;br/&gt;&lt;p&gt;schriftelijk gebeurt.&lt;/p&gt;</description>
@@ -495,7 +495,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-10" optional="no">
         <title>Gedrag van medewerkers</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-32" type="risk">
           <title>Door de medewerkers wordt gewerkt conform de procedures, voorschriften en/of regels ten aanzien van de arbeidsomstandigheden.</title>
           <description>&lt;p&gt;De werknemers zijn verplicht in het werk de procedures, voorschriften en/of regels ten aanzien van arbeidsomstandigheden te volgen. Dit dient structureel en systematisch te gebeuren zodat medewerkers de nodige voorzichtigheid en zorgvuldigheid in acht nemen en naar vermogen zorgdragen voor de eigen veiligheid en gezondheid en die van andere personen.&lt;/p&gt;</description>
@@ -523,7 +523,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-11" optional="no">
         <title>Ongevallen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-34" type="risk">
           <title>Uw organisatie meldt de in de toelichting genoemde arbeidsongevallen aan de Arbeidsinspectie.</title>
           <description>&lt;p&gt;Een werkgever heeft een meldingsplicht en is verplicht het volgende direct te melden aan de Arbeidsinspectie:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- dodelijke ongevallen;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- ongevallen met ernstig lichamelijk en/of geestelijk letsel (= schade aan de gezondheid, die&#160; binnen 24 uur na het tijdstip van de gebeurtenis leidt tot opname in een ziekenhuis, ter&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;observatie of behandeling, dan wel naar redelijk oordeel blijvend zal zijn).&lt;/p&gt;</description>
@@ -551,7 +551,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-12" optional="no">
         <title>Bijzondere categorie&#235;n werknemers</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-36" type="risk">
           <title>Als er in uw organisatie vrijwilligers, uitzendkrachten en/of stagiaires werken, wordt er in het arbobeleid voldoende rekening mee gehouden.</title>
           <description>&lt;p&gt;Een organisatie is verantwoordelijk voor de arbeidsomstandigheden van medewerkers waarover zij het feitelijk gezag uitoefent. Dit betreft naast medewerkers die in dienst zijn van de organisatie ook vrijwilligers, uitzendkrachten en/of stagiaires.&lt;/p&gt;</description>
@@ -663,7 +663,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-13" optional="no">
         <title>Bedrijfshulpverlening</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-45" type="risk">
           <title>In uw organisatie zijn bedrijfshulpverleners (BHV&#8217;ers) door de werkgever schriftelijkaangewezen.</title>
           <description>&lt;p&gt;Onder bedrijfshulpverleners wordt verstaan, medewerkers die zijn aangewezen om in geval van ongeval, brand of in noodsituaties snel en doeltreffend op te treden.&lt;/p&gt;</description>
@@ -799,7 +799,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-14" optional="no">
         <title>1.12&#160; Inrichting arbeidsplaatsen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-56" type="risk">
           <title>De orde en netheid in uw organisatie is goed te noemen.</title>
           <description>&lt;p&gt;Werkplekken moeten zindelijk, zoveel mogelijk vrij van stof en ordelijk zijn.&lt;/p&gt;</description>
@@ -899,7 +899,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-15" optional="no">
         <title>Voorzieningen in noodsituaties</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-64" type="risk">
           <title>Er zijn voldoende blusmiddelen aanwezig waarmee de aanwezige medewerkers eenbeginnende brand kunnen blussen.</title>
           <description>&lt;p&gt;Met blusmiddelen worden bedoeld handblustoestellen, brandslangen en branddekens. Bij de gemeentebrandweer of arbodienst kunt u over plaatsing en aantallen advies vragen. Bedenk dat er verschillende type branden zijn en ook verschillende typen blusmiddelen. De&lt;/p&gt;&lt;br/&gt;&lt;p&gt;middelen moeten op het type brand zijn afgestemd.&lt;/p&gt;</description>
@@ -987,7 +987,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-16" optional="no">
         <title>Ontspanningsruimten en andere voorzieningen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-71" type="risk">
           <title>Uw organisatie heeft &#233;&#233;n of meerdere pauzeruimten die voldoen aan de in de toelichtinggenoemde eisen.</title>
           <description>&lt;p&gt;Een pauzeruimte moet beschikken over:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- voldoende ruimte voor het aantal normaal daarvan gebruikmakende personen;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- voldoende tafels en stoelen.&lt;/p&gt;</description>
@@ -1051,7 +1051,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-17" optional="no">
         <title>Fysieke belasting</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-76" type="risk">
           <title>De fysieke belasting van medewerkers binnen uw organisatie is beoordeeld.</title>
           <description>&lt;p&gt;Voor fysieke belasting bestaat een nader omschreven risico-inventarisatie en -evaluatie verplichting (zie paragraaf A1). Dit betekent dat de fysieke belasting moet worden beoordeeld vanuit het oogpunt van veiligheid en gezondheid. Hierbij moet onder meer aandacht worden besteed aan de eisen van de taak en de kenmerken van de last en werkomgeving.&lt;/p&gt;</description>
@@ -1091,7 +1091,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-18" optional="no">
         <title>1.16&#160;Beeldschermwerk/zittend werk</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-79" type="risk">
           <title>De belasting van medewerkers door het werken met beeldschermen binnen uw organisatie is beoordeeld.</title>
           <description>&lt;p&gt;Voor beeldschermen bestaat een nader omschreven risico-inventarisatie en -evaluatie verplichting (zie paragraaf A1). Dit betekent dat de gevaren voor het gezichtsvermogen, en die van de fysieke en psychische belasting als gevolg van arbeid aan een beeldscherm moeten worden beoordeeld.&lt;/p&gt;</description>
@@ -1107,7 +1107,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-19" optional="no">
         <title>Persoonlijke beschermingsmiddelen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-80" type="risk">
           <title>Uw organisatie heeft een beoordeling van (de keuze van) persoonlijke beschermingsmiddelen uitgevoerd.</title>
           <description>&lt;p&gt;Voor persoonlijke beschermingsmiddelen geldt een nadere inventarisatie- en evaluatieverplichting (zie paragraaf A1), bestaande uit:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- een inventarisatie en evaluatie van de gevaren die niet met andere middelen dan PBM&#8217;s&#160; kunnen worden vermeden;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- een omschrijving van de kenmerken die de persoon-lijke beschermingsmiddelen moeten&#160; bezitten om de bedoelde gevaren te kunnen ondervangen, rekening houdend met eventuele&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;gevaarsbronnen die de PBM&#8217;s zelf kunnen vormen;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- een inventarisatie en evaluatie van de kenmerken van betreffende PBM&#8217;s die beschikbaar&#160; zijn, vergeleken met de in het hiervoor genoemde punt bedoelde kenmerken.&lt;/p&gt;</description>
@@ -1135,7 +1135,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-20" optional="no">
         <title>Werkdruk</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-82" type="risk">
           <title>Uw organisatie heeft de werkdrukverkenner toegepast en de knelpunten zijn opgenomen in het Plan van aanpak.</title>
           <description>&lt;p&gt;Invullen Cd-rom Werkdruk Verkenner Openbare Bibliotheken.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Als u minder dan 5 medewerkers heeft de vragen uit de werkdrukverkenner in het overleg bespreken.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Bij organisatiewijzigingen en bij het actualiseren van de RIE de werkdrukverkenner opnieuw toepassen.&lt;/p&gt;</description>
@@ -1151,7 +1151,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-21" optional="no">
         <title>Emotionele belasting</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-83" type="risk">
           <title>Er zijn afspraken gemaakt over ongewenste gedragingen van medewerkers onderling en van bezoekers.</title>
           <description>&lt;p&gt;Ongewenst gedrag gaat over (seksuele) intimidatie, pesten, agressie en geweld, discriminatie, en gebruik van alcohol en drugs.&lt;/p&gt;</description>
@@ -1179,7 +1179,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-22" optional="no">
         <title>Werk- en rusttijden</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-85" type="risk">
           <title>Uw organisatie registreert de werk- en rusttijden.</title>
           <description>&lt;p&gt;De werkgever is verplicht de in de onderneming geldende gebruikelijke werktijdenregeling schriftelijk vast te leggen. Ook moet de werkgever een registratie bijhouden van de&lt;/p&gt;&lt;br/&gt;&lt;p&gt;daadwerkelijk gewerkte uren. De vorm waarin de registratie wordt vastgelegd is niet&lt;/p&gt;&lt;br/&gt;&lt;p&gt;voorgeschreven. In ieder geval zal (per medewerker) moeten blijken wat de begin- en eindtijden zijn (inclusief de pauzes), de dagen waarop is gewerkt, en de afwezigheid door ziekte, vakantie en (buitengewoon) verlof.&lt;/p&gt;</description>
@@ -1219,7 +1219,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-23" optional="no">
         <title>Organisatie van de preventie: preventietaken</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-88" type="risk">
           <title>De organisatie heeft de preventietaken toegewezen.</title>
           <description>&lt;p&gt;Een werkgever met m&#233;&#233;r dan 15 medewerkers moet preventietaken toewijzen aan &#233;&#233;n of meer werknemers. Een werkgever met ten hoogste 15 medewerkers mag de preventietaken zelf uitvoeren.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;De werkgever hoeft geen speciale medewerker aan te trekken met preventietaken. Preventie kan een onderdeel zijn van de taak van de werkgever zelf of van de taak van &#233;&#233;n of meer werknemers.Voor het gemak wordt echter in dit instrument steeds gesproken over preventiemedewerker.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Preventietaken zijn: het meewerken aan of het opstellen van een RI&amp;amp;E, uitvoeren van de maatregelen uit het plan van aanpak, het geven van voorlichting, het signaleren van risico's en het treffen van maatregelen tegen die risico&#8217;s.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;De preventiemedewerkers (het aantal hangt af van preventietaken en de gewenste organisatie) hebben de kennis en ervaring, de middelen en de tijd, zodat zij de werkgever goed kunnen bijstaan bij de preventietaken.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;De preventiemedewerker werkt hierbij samen met de OR, de personeelsvertegenwoordiging (of werknemersvertegenwoordiging) of de medewerkers die het betreft.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Werkgevers die hun preventietaken goed uitvoeren besparen doorgaans aanzienlijk op de kosten van ongevallen, verzuim en stressproblemen. Investeringen in arbeidsomstandigheden en in het personeel renderen meestal goed als het gaat om de sfeer en productiviteit van het bedrijf.&lt;/p&gt;</description>
@@ -1443,10 +1443,10 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
     </module>
     <module external-id="M-27" optional="no">
       <title>Administratie (niet publiekelijk) algemeen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-28" optional="no">
         <title>Arbo- en verzuimbeleid</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-108" type="risk">
           <title>Er is afgesproken en bekend gemaakt waar medewerkers knelpunten over arbeidsomstandigheden kunnen melden.</title>
           <description></description>
@@ -1522,7 +1522,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-29" optional="no">
         <title>Bedrijfshulpverlening</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-114" type="risk">
           <title>De medewerkers op uw afdeling zijn op de hoogte van de wijze waarop de bedrijfshulpverlening in uw organisatie is georganiseerd.</title>
           <description></description>
@@ -1574,7 +1574,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-30" optional="no">
         <title>Inrichting arbeidsplaatsen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-118" type="risk">
           <title>De orde en netheid op uw afdeling is goed te noemen.</title>
           <description></description>
@@ -1590,7 +1590,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-31" optional="no">
         <title>Emotionele belasting</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-119" type="risk">
           <title>Medewerkers worden niet geconfronteerd met schokkende gebeurtenissen / trauma's in het werk.</title>
           <description></description>
@@ -1654,7 +1654,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-32" optional="no">
         <title>Werk- en rusttijden</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-124" type="risk">
           <title>Op uw afdeling worden de afgesproken werktijden gevolgd.</title>
           <description></description>
@@ -1683,10 +1683,10 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
     </module>
     <module external-id="M-33" optional="no">
       <title>Administratie (niet publiekelijk): Kantoor en beeldschermwerk</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-34" optional="true">
         <title>Kantoor en beeldschermwerk</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Medewerkers op uw afdeling werken gewoonlijk maximaal twee uur met een beeldscherm.</question>
         <risk external-id="R-127" type="risk">
           <title>Na maximaal twee uur aaneengesloten uren werken met een beeldscherm wordt dit werk afgewisseld met andersoortig werk of pauzes.</title>
@@ -1847,7 +1847,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-35" optional="no">
         <title>Omgevingsfactoren</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-140" type="risk">
           <title>Er is voldoende toetreding van daglicht.</title>
           <description>&lt;p&gt;Werkruimten waarin medewerkers overdag gemiddeld meer dan twee uur werken, moeten zijn voorzien van lichtopeningen waardoor het daglicht kan toetreden. Het gezamenlijk oppervlak van de lichtopeningen moet ten minste gelijk zijn aan 1/20 deel van het vloeroppervlak van de ruimte.&lt;/p&gt;</description>
@@ -1900,10 +1900,10 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
     </module>
     <module external-id="M-36" optional="no">
       <title>Bibliotheekmedewerkers: algemeen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-37" optional="no">
         <title>Arbo- en verzuimbeleid</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-144" type="risk">
           <title>Er is afgesproken en bekend gemaakt waar medewerkers knelpunten over arbeidsomstandigheden kunnen melden.</title>
           <description></description>
@@ -1979,7 +1979,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-38" optional="no">
         <title>Bedrijfshulpverlening</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-150" type="risk">
           <title>De medewerkers op uw afdeling zijn op de hoogte van de wijze waarop de bedrijfshulpverlening in uw organisatie is georganiseerd.</title>
           <description></description>
@@ -2031,7 +2031,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-39" optional="no">
         <title>Inrichting arbeidsplaatsen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-154" type="risk">
           <title>De orde en netheid op uw afdeling is goed te noemen.</title>
           <description></description>
@@ -2047,7 +2047,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-40" optional="no">
         <title>Emotionele belasting</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-155" type="risk">
           <title>Medewerkers worden niet geconfronteerd met schokkende gebeurtenissen / trauma's in het werk.</title>
           <description></description>
@@ -2111,7 +2111,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-41" optional="no">
         <title>Werk- en rusttijden</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-160" type="risk">
           <title>Op uw afdeling worden de afgesproken werktijden gevolgd.</title>
           <description></description>
@@ -2140,10 +2140,10 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
     </module>
     <module external-id="M-42" optional="no">
       <title>Bibliotheekmedewerkers: innemen en uitlenen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-43" optional="no">
         <title>Uitvoering balie</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-162" type="risk">
           <title>Een medewerker achter de zitbalie staat maximaal 10 keer per uur op.</title>
           <description></description>
@@ -2195,7 +2195,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-44" optional="no">
         <title>Inrichting zitbalie</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-166" type="risk">
           <title>Het werkblad ter hoogte van de werkplek is over een breedte van minimaal 60 cm dunner&#160; dan 5 cm.</title>
           <description>&lt;p&gt;Dit is inclusief eventuele apparatuur die in of onder de balie is ge&#239;nstalleerd&lt;/p&gt;</description>
@@ -2319,7 +2319,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-45" optional="no">
         <title>Inrichting stabalie</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-176" type="risk">
           <title>Het registreren (scannen, schuiven enz.) vindt plaats binnen een reikafstand van 45 cm gerekend vanaf de schouders.</title>
           <description></description>
@@ -2395,7 +2395,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-46" optional="no">
         <title>Inrichting schuifbalie</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-182" type="risk">
           <title>De hoek van het blad bedraagt tussen de 10 en 15 graden.</title>
           <description></description>
@@ -2459,7 +2459,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-47" optional="no">
         <title>Inrichting balie voor scanners</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-187" type="risk">
           <title>Bij het gebruik van een handscanner worden extreme polsstanden, opgetrokken houdingen en/of onnodige handelingen voorkomen.</title>
           <description></description>
@@ -2487,7 +2487,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-48" optional="no">
         <title>Gebruik brievenbus</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-189" type="risk">
           <title>Bij het legen van de boekenbak hoeft een medewerker niet ver te reiken.</title>
           <description></description>
@@ -2539,7 +2539,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-49" optional="no">
         <title>Stoelen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-193" type="risk">
           <title>Medewerkers zijn tevreden over de kantoorstoelen.</title>
           <description></description>
@@ -2555,7 +2555,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-50" optional="no">
         <title>Beeldschermopstelling</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-194" type="risk">
           <title>De beeldschermapparatuur is opgesteld zoals in de toelichting genoemd.</title>
           <description>&lt;p&gt;Om een goede houding mogelijk te maken dient:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- het beeldscherm en de bedieningsmiddelen (toetsenbord en muis) in &#233;&#233;n lijn recht voor de gebruiker te worden opgesteld;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- het beeldscherm circa 50 cm van de ogen te worden opgesteld, waardoor tevens&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;voldoende ruimte is voor de bedieningsmiddelen en om te steunen;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;-hoogte van het beeldscherm op ooghoogte.&lt;/p&gt;</description>
@@ -2571,7 +2571,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-51" optional="no">
         <title>Omgevingsfactoren</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-195" type="risk">
           <title>Er is voldoende toetreding van daglicht.</title>
           <description>&lt;p&gt;Werkruimten waarin medewerkers overdag gemiddeld meer dan twee uur werken, moeten zijn voorzien van lichtopeningen waardoor het daglicht kan toetreden. Het gezamenlijk oppervlak van de lichtopeningen moet ten minste gelijk zijn aan 1/20 deel van het vloeroppervlak van de ruimte.&lt;/p&gt;</description>
@@ -2624,10 +2624,10 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
     </module>
     <module external-id="M-52" optional="no">
       <title>Bibliotheekmedewerkers: sorteren</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-53" optional="no">
         <title>Sorteren</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-199" type="risk">
           <title>Er is voldoende ruimte om grof te sorteren, zodat er niet ver gereikt of gedraaid hoeft te worden.</title>
           <description></description>
@@ -2715,7 +2715,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-54" optional="no">
         <title>Omgevingsfactoren</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-206" type="risk">
           <title>Er is voldoende toetreding van daglicht.</title>
           <description>&lt;p&gt;Werkruimten waarin medewerkers overdag gemiddeld meer dan twee uur werken, moeten zijn voorzien van lichtopeningen waardoor het daglicht kan toetreden. Het gezamenlijk oppervlak van de lichtopeningen moet ten minste gelijk zijn aan 1/20 deel van het vloeroppervlak van de ruimte.&lt;/p&gt;</description>
@@ -2768,10 +2768,10 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
     </module>
     <module external-id="M-55" optional="no">
       <title>Bibliotheekmedewerkers: Transporteren</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-56" optional="no">
         <title>Transporteren met kar</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-210" type="risk">
           <title>De duwhoogte (positie van de handen) van de transportkar is minimaal 95 cm.</title>
           <description></description>
@@ -2943,7 +2943,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-57" optional="no">
         <title>Handmatig verplaatsen kratten</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-224" type="risk">
           <title>De krat is lichter dan 12 kg bij het tillen en neerzetten vanaf heuphoogte.</title>
           <description></description>
@@ -3031,7 +3031,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-58" optional="no">
         <title>Omgevingsfactoren</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-231" type="risk">
           <title>Er is voldoende toetreding van daglicht.</title>
           <description>&lt;p&gt;Werkruimten waarin medewerkers overdag gemiddeld meer dan twee uur werken, moeten zijn voorzien van lichtopeningen waardoor het daglicht kan toetreden. Het gezamenlijk oppervlak van de lichtopeningen moet ten minste gelijk zijn aan 1/20 deel van het vloeroppervlak van de ruimte.&lt;/p&gt;</description>
@@ -3084,10 +3084,10 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
     </module>
     <module external-id="M-59" optional="no">
       <title>Bibliotheekmedewerkers: Opruimen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-60" optional="no">
         <title>Wegzetten en opruimen van boeken in kasten</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-235" type="risk">
           <title>Er wordt korter dan4 minutenachtereen gehurkt, geknield of gebukt.</title>
           <description></description>
@@ -3223,7 +3223,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-61" optional="no">
         <title>Verplaatsen van boekensteunen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-246" type="risk">
           <title>De boekensteunen zijn makkelijk te verplaatsen.</title>
           <description></description>
@@ -3251,7 +3251,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-62" optional="no">
         <title>Opbergen van Cd&#8217;s, DVD's en video's</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-248" type="risk">
           <title>De onderste lade of kastplank is hoger dan 28 cm.</title>
           <description></description>
@@ -3315,7 +3315,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-63" optional="no">
         <title>Omgevingsfactoren</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-253" type="risk">
           <title>Er is voldoende toetreding van daglicht.</title>
           <description>&lt;p&gt;Werkruimten waarin medewerkers overdag gemiddeld meer dan twee uur werken, moeten zijn voorzien van lichtopeningen waardoor het daglicht kan toetreden. Het gezamenlijk oppervlak van de lichtopeningen moet ten minste gelijk zijn aan 1/20 deel van het vloeroppervlak van de ruimte.&lt;/p&gt;</description>
@@ -3344,10 +3344,10 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
     </module>
     <module external-id="M-64" optional="no">
       <title>Bibliotheekmedewerkers: Inlichtingen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-65" optional="no">
         <title>Uitvoering balie</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-257" type="risk">
           <title>Een medewerker achter de zitbalie staat maximaal 10 keer per uur op.</title>
           <description></description>
@@ -3399,7 +3399,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-66" optional="no">
         <title>Inrichting balie</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-261" type="risk">
           <title>Het werkblad ter hoogte van de werkplek is over een breedte van minimaal 60 cm dunner&#160; dan 5 cm.</title>
           <description>&lt;p&gt;Dit is inclusief eventuele apparatuur die in of onder de balie is ge&#239;nstalleerd.&lt;/p&gt;</description>
@@ -3487,7 +3487,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-67" optional="no">
         <title>Stoelen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-268" type="risk">
           <title>Medewerkers zijn tevreden over de kantoorstoelen.</title>
           <description></description>
@@ -3503,7 +3503,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-68" optional="no">
         <title>Beeldschermopstelling</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-269" type="risk">
           <title>De beeldschermapparatuur is opgesteld zoals in de toelichting genoemd.</title>
           <description>&lt;p&gt;Om een goede houding mogelijk te maken dient:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- het beeldscherm en de bedieningsmiddelen (toetsenbord en muis) in &#233;&#233;n lijn recht voor&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;de gebruiker te worden opgesteld;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- het beeldscherm circa 50 cm van de ogen te worden opgesteld, waardoor tevens&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;voldoende ruimte is voor de bedieningsmiddelen en om te steunen;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;-hoogte van het beeldscherm op ooghoogte.&lt;/p&gt;</description>
@@ -3579,7 +3579,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-69" optional="no">
         <title>Omgevingsfactoren</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-275" type="risk">
           <title>Er is voldoende toetreding van daglicht.</title>
           <description>&lt;p&gt;Werkruimten waarin medewerkers overdag gemiddeld meer dan twee uur werken, moeten zijn voorzien van lichtopeningen waardoor het daglicht kan toetreden. Het gezamenlijk oppervlak van de lichtopeningen moet ten minste gelijk zijn aan 1/20 deel van het vloeroppervlak van de ruimte.&lt;/p&gt;</description>
@@ -3632,10 +3632,10 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
     </module>
     <module external-id="M-70" optional="no">
       <title>Bibliotheekmedewerkers bibliobus</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-71" optional="no">
         <title>Uitvoering balie</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-279" type="risk">
           <title>Een medewerker achter de zitbalie staat maximaal 10 keer per uur op.</title>
           <description></description>
@@ -3687,7 +3687,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-72" optional="true">
         <title>Inrichting zitbalie</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Er is een zitbalie aanwezig in de bibliobus.</question>
         <risk external-id="R-284" type="risk">
           <title>De dikte van het werkblad ter hoogte van de werkplek is over een breedte van minimaal 60 cm maximaal 5 cm.</title>
@@ -3812,7 +3812,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-73" optional="true">
         <title>Inrichting stabalie</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Er is een stabalie aanwezig in de bibliobus.</question>
         <risk external-id="R-295" type="risk">
           <title>Het registreren (scannen, schuiven enz.) vindt plaats binnen een reikafstand van 45 cm gerekend vanaf de schouders.</title>
@@ -3889,7 +3889,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-74" optional="no">
         <title>Stoelen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-301" type="risk">
           <title>Medewerkers zijn tevreden over de kantoorstoelen.</title>
           <description></description>
@@ -3905,7 +3905,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-75" optional="no">
         <title>Beeldschermopstelling</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-302" type="risk">
           <title>De beeldschermapparatuur is opgesteld zoals in de toelichting genoemd</title>
           <description>&lt;p&gt;Om een goede houding mogelijk te maken dient:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- het beeldscherm en de bedieningsmiddelen (toetsenbord en muis) in &#233;&#233;n lijn recht voor de gebruiker te worden opgesteld;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- het beeldscherm circa 50 cm van de ogen te worden opgesteld, waardoor tevens&lt;/p&gt;&lt;br/&gt;&lt;p&gt;voldoende ruimte is voor de bedieningsmiddelen en om te steunen;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- hoogte van het beeldscherm op ooghoogte.&lt;/p&gt;</description>
@@ -3921,7 +3921,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-76" optional="no">
         <title>Sorteren</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-303" type="risk">
           <title>Er is voldoende ruimte om grof te sorteren, zodat er niet ver gereikt of gedraaid hoeft te worden.</title>
           <description></description>
@@ -3973,7 +3973,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-77" optional="no">
         <title>Handmatig verplaatsen kratten</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-307" type="risk">
           <title>De krat is lichter dan 12 kg bij het tillen en neerzetten vanaf heuphoogte.</title>
           <description></description>
@@ -4061,7 +4061,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-78" optional="no">
         <title>Wegzetten en opruimen van boeken in kasten</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-314" type="risk">
           <title>Er wordt korter dan4 minutenachtereen gehurkt, geknield of gebukt.</title>
           <description></description>
@@ -4185,7 +4185,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-79" optional="no">
         <title>Verplaatsen van boekensteunen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-324" type="risk">
           <title>De boekensteunen zijn makkelijk te verplaatsen.</title>
           <description></description>
@@ -4213,7 +4213,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-80" optional="no">
         <title>Opbergen van Cd&#8217;s, DVD's en video's</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-326" type="risk">
           <title>De onderste lade of kastplank is hoger dan 28 cm.</title>
           <description></description>
@@ -4277,7 +4277,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-81" optional="no">
         <title>Inrichting cabine</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-331" type="risk">
           <title>De vormgeving van de bestuurdersstoel en cabine is zodanig dat in een goede lichaamshouding gezeten kan worden.</title>
           <description></description>
@@ -4305,7 +4305,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-82" optional="no">
         <title>Omgevingsfactoren</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-333" type="risk">
           <title>Er is voldoende toetreding van daglicht.</title>
           <description>&lt;p&gt;Werkruimten waarin medewerkers overdag gemiddeld meer dan twee uur werken, moeten zijn voorzien van lichtopeningen waardoor het daglicht kan toetreden. Het gezamenlijk oppervlak van de lichtopeningen moet ten minste gelijk zijn aan 1/20 deel van het vloeroppervlak van de ruimte.&lt;/p&gt;</description>
@@ -4357,7 +4357,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-83" optional="no">
         <title>Alleenwerk</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-337" type="risk">
           <title>U werkt nooit langer dan twee uur alleen (zonder contact met collega's).</title>
           <description></description>
@@ -4374,10 +4374,10 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
     </module>
     <module external-id="M-84" optional="no">
       <title>Facilitaire diensten</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-85" optional="no">
         <title>Arbo en verzuimbeleid</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-338" type="risk">
           <title>Er is afgesproken en bekend gemaakt waar medewerkers knelpunten over arbeidsomstandigheden kunnen melden.</title>
           <description></description>
@@ -4453,7 +4453,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-86" optional="no">
         <title>Bedrijfshulpverlening</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-344" type="risk">
           <title>De medewerkers op uw afdeling zijn op de hoogte van de wijze waarop de bedrijfshulpverlening in uw organisatie is georganiseerd.</title>
           <description></description>
@@ -4505,7 +4505,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-87" optional="no">
         <title>Inrichting arbeidsplaatsen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-348" type="risk">
           <title>De orde en netheid op uw afdeling is goed te noemen.</title>
           <description></description>
@@ -4598,7 +4598,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-89" optional="true">
         <title>Beeldschermwerk</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Medewerkers op uw afdeling werken gewoonlijk maximaal twee uur met een beeldscherm.</question>
         <risk external-id="R-357" type="risk">
           <title>Na maximaal twee uur aaneengesloten uren werken met een beeldscherm wordt dit werk afgewisseld met andersoortig werk of pauzes.</title>
@@ -4723,7 +4723,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-90" optional="no">
         <title>Fysieke belasting</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-367" type="risk">
           <title>Frequent (iedere 5 minuten of vaker) met de hand te tillen wordt voorkomen.</title>
           <description></description>
@@ -4877,7 +4877,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-91" optional="no">
         <title>Omgevingsfactoren</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-380" type="risk">
           <title>Er is voldoende toetreding van daglicht.</title>
           <description>&lt;p&gt;Werkruimten waarin medewerkers overdag gemiddeld meer dan twee uur werken, moeten zijn voorzien van lichtopeningen waardoor het daglicht kan toetreden. Het gezamenlijk oppervlak van de lichtopeningen moet ten minste gelijk zijn aan 1/20 deel van het vloeroppervlak van de ruimte.&lt;/p&gt;</description>
@@ -4958,7 +4958,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-93" optional="no">
         <title>Hand-armtrillingen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-387" type="risk">
           <title>Handarmtrillingen bij het gebruik van arbeidsmiddelen ontbreken.</title>
           <description>&lt;p&gt;Hand-armtrillingen komen onder andere voor bij het gebruik van trillend gereedschap, zoals boor- en freesmachines. Dit is schadelijk voor het lichaam.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Maatregelen om hand-armtrillingen te verminderen zijn: keuze andere bewerkingstechniek, bewuste inkoop arbeidsmiddelen, voor werkzaamheden geen arbeidsmiddelen gebruiken van een te zwaar kaliber, en beperking van de blootstellingsduur.&lt;/p&gt;</description>
@@ -5056,7 +5056,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-96" optional="no">
         <title>11.12&#160;Emotionele belasting</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-396" type="risk">
           <title>Medewerkers worden niet geconfronteerd met schokkende gebeurtenissen / trauma's in het werk.</title>
           <description></description>
@@ -5120,7 +5120,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
       </module>
       <module external-id="M-97" optional="no">
         <title>Werk- en rusttijden</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-401" type="risk">
           <title>Op uw afdeling worden de afgesproken werktijden gevolgd.</title>
           <description></description>

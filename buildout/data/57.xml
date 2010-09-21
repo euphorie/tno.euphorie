@@ -15,7 +15,7 @@
     <evaluation-optional>yes</evaluation-optional>
     <module external-id="M-2" optional="no">
       <title>Algemene bedrijfskenmerken</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-1" type="risk">
         <title>Bij werkzaamheden in of op gebouwen, werkplekken en terreinen kan veilig en gezond worden gewerkt</title>
         <description>&lt;p&gt;Maatregelen voor het veilig en gezond werken in of op gebouwen, werkplekken en terreinen kunnen o.a. zijn:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;het afbakenen en markeren van werkplekken&lt;/p&gt;&lt;br/&gt;&lt;p&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;het zorgen voor voldoende (drink)water&lt;/p&gt;&lt;br/&gt;&lt;p&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;ervoor zorgen dat werkplekken&#160; op hoogte en of diepte stabiel en stevig zijn en deze regelmatig worden gecontroleerd&lt;/p&gt;&lt;br/&gt;&lt;p&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;doeltreffende maatregelen nemen&#160; om ongewenste aanraking met o.a. elektriciteit, asbest en verontreinigingen te voorkomen&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Geconstateerde gebreken dienen structureel te worden aangepast&lt;/p&gt;</description>
@@ -91,7 +91,7 @@
     </module>
     <module external-id="M-3" optional="no">
       <title>Het bedrijf</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-4" optional="true">
         <title>Kantoor</title>
         <description>&lt;p&gt;Als er in een gebouw wordt gewerkt, dan worden daaraan eisen gesteld. De belangrijkste eisen staan in de vervolgvragen.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Er kunnen ook eisen staan in de gebruiksvergunning die door de gemeente is afgegeven.&lt;/p&gt;</description>
@@ -225,7 +225,7 @@
       </module>
       <module external-id="M-5" optional="true">
         <title>Magazijn</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Er is een magazijn of opslagruimte aanwezig.</question>
         <risk external-id="R-37" type="risk">
           <title>De opslag of het magazijn wordt goed onderhouden.</title>
@@ -325,7 +325,7 @@
       </module>
       <module external-id="M-7" optional="true">
         <title>Buitenterrein</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Er is een buitenterrein aanwezig.</question>
         <risk external-id="R-54" type="risk">
           <title>Er is een toegangsregeling aanwezig met daarbij een toelichting op het dragen van PBM</title>
@@ -486,7 +486,7 @@
       </module>
       <module external-id="M-8" optional="true">
         <title>Sloopmaterialen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Er vindt opslag en handel in sloopmaterialen plaats</question>
         <risk external-id="R-81" type="risk">
           <title>De opslag en/of verwerking van materialen wordt volgens de wet- en regelgeving uitgevoerd</title>
@@ -509,7 +509,7 @@
       </module>
       <module external-id="M-9" optional="true">
         <title>Nevenactiviteiten</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Naast de sloopactiviteiten vinden binnen het bedrijf nevenactiviteiten plaats</question>
         <risk external-id="R-85" type="risk">
           <title>Indien er in eigen beheer onderhoud en reparatie aan voertuigen en machines wordt uitgevoerd in een garage, is een aanvullende inventarisatie van de risico's gemaakt</title>
@@ -617,10 +617,10 @@
     </module>
     <module external-id="M-10" optional="no">
       <title>Functies</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-11" optional="true">
         <title>Administratief medewerker (ster)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>De functie administratief medewerker(ster) is aanwezig in de organisatie</question>
         <risk external-id="R-95" type="risk">
           <title>Na 2 uur computerwerk kan er minimaal 15 minuten gepauzeerd worden of kan er tijdelijk ander werk worden gedaan.</title>
@@ -771,7 +771,7 @@
       </module>
       <module external-id="M-12" optional="true">
         <title>Projectleider, uitvoerder, werkvoorbereider</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Een van de functies waaronder: projectleider, uitvoerder, werkvoorbereider is aanwezig in de organisatie</question>
         <risk external-id="R-121" type="risk">
           <title>Na 2 uur computerwerk kan er minimaal 15 minuten gepauzeerd worden of kan er tijdelijk ander werk worden gedaan.</title>
@@ -1054,7 +1054,7 @@
       </module>
       <module external-id="M-13" optional="true">
         <title>Handsloper</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>De functie handsloper is aanwezig in de organisatie</question>
         <risk external-id="R-171" type="risk">
           <title>De (nieuwe) medewerker wordt of is&#160; bij indiensttreding ge&#239;nformeerd over het bedrijf, de werkzaamheden en gemaakte afspraken</title>
@@ -1329,7 +1329,7 @@
       </module>
       <module external-id="M-14" optional="true">
         <title>Machinist</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>3.4.0&#160; De functie machinist is aanwezig in de organisatie</question>
         <risk external-id="R-221" type="risk">
           <title>De (nieuwe) medewerker wordt of is&#160; bij indiensttreding ge&#239;nformeerd over het bedrijf, de werkzaamheden en gemaakte afspraken</title>
@@ -1604,7 +1604,7 @@
       </module>
       <module external-id="M-15" optional="true">
         <title>Asbestsaneerder</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>De functie asbestsaneerder is aanwezig in de organisatie</question>
         <risk external-id="R-270" type="risk">
           <title>De (nieuwe) medewerker wordt of is bij indiensttreding ge&#239;nformeerd over het bedrijf, de werkzaamheden en gemaakte afspraken</title>
@@ -1885,7 +1885,7 @@
       </module>
       <module external-id="M-16" optional="true">
         <title>Monteur</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>De functie monteur is aanwezig in de organisatie</question>
         <risk external-id="R-321" type="risk">
           <title>De (nieuwe) medewerker wordt of is bij indiensttreding ge&#239;nformeerd over het bedrijf, de werkzaamheden en gemaakte afspraken</title>
@@ -2173,10 +2173,10 @@
     </module>
     <module external-id="M-17" optional="no">
       <title>Projecten</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-18" optional="no">
         <title>Algemeen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-370" type="risk">
           <title>De werknemer is op de hoogte van de specifieke veiligheids- en gezondheidsrisico&#8217;s van het project zoals beschreven in het veiligheids- en gezondheidsplan</title>
           <description></description>
@@ -2234,7 +2234,7 @@
       </module>
       <module external-id="M-19" optional="no">
         <title>Directe omgeving</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-380" type="risk">
           <title>Het risico dat er belendende gebouwen worden getroffen of instorten, gelet op de locatie en de gehanteerde slooptechniek, is geminimaliseerd</title>
           <description></description>
@@ -2292,7 +2292,7 @@
       </module>
       <module external-id="M-20" optional="no">
         <title>De sloop- en saneringslocatie</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-389" type="risk">
           <title>Alle aanwezige gas-, water- of elektriciteitsleidingen zijn afgesloten</title>
           <description></description>
@@ -2404,7 +2404,7 @@
       </module>
       <module external-id="M-21" optional="no">
         <title>Het sloopobject</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-407" type="risk">
           <title>De sloopvolgorde is zo gekozen dat het instort- of bedelvingsgevaar, minimaal is</title>
           <description></description>
@@ -2504,7 +2504,7 @@
       </module>
       <module external-id="M-22" optional="no">
         <title>Sloop- en Saneringsplaats</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-423" type="risk">
           <title>Gereedschappen en materieel worden periodiek gekeurd, ge&#239;nspecteerd en onderhouden</title>
           <description></description>
@@ -2641,7 +2641,7 @@
     </module>
     <module external-id="M-23" optional="true">
       <title>Gereedschappen/machines/transportmiddelen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <question>Er worden machines, gereedschappen en transportmiddelen gebruikt.</question>
       <risk external-id="R-446" type="risk">
         <title>Alle machines en gereedschappen zijn voorzien van CE-markering.</title>
@@ -2706,7 +2706,7 @@
     </module>
     <module external-id="M-24" optional="no">
       <title>In geval van nood</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-456" type="risk">
         <title>Nooduitgangen zijn duidelijk aangegeven en zijn vrij toegankelijk.</title>
         <description>&lt;p&gt;Zonder dat er iets verschoven hoeft te worden of zonder dat er een sleutel gehaald hoeft te worden, kan de nooduitgang meteen geopend worden.&lt;/p&gt;</description>
@@ -2795,7 +2795,7 @@
     </module>
     <module external-id="M-25" optional="no">
       <title>Werk- en rusttijden</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-470" type="risk">
         <title>Een werkdag is maximaal 9 uur.</title>
         <description>&lt;p&gt;In de Arbeidstijdenwet staan regels over de lengte van een werkdag, een werkweek en pauzes. Dit zijn de standaardregels. In een CAO of door overleg met de ondernemingsraad of de personeelsvertegenwoordiging kunnen andere regels zijn afgesproken. Deze afwijkingen op de standaardregeling worden schriftelijk vastgelegd.&lt;/p&gt;</description>
@@ -2835,7 +2835,7 @@
     </module>
     <module external-id="M-26" optional="no">
       <title>Taken/functies van medewerkers</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-476" type="risk">
         <title>Medewerkers verrichten zo min mogelijk repeterend werk en kunnen zelf het tempo bepalen.</title>
         <description>&lt;p&gt;Repeterend werk is werk waarbij in een korte tijd dezelfde handeling alsmaar wordt herhaald. Bij dat soort werk kan slijtage van spieren, pezen, gewrichten optreden met als gevolg verzuim.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Een ander belangrijk effect is de afname van motivatie en inzet. Medewerkers die meer dan alleen uitvoerende taken hebben zijn geneigd om met het bedrijf mee te denken.&lt;/p&gt;</description>
@@ -2883,7 +2883,7 @@
     </module>
     <module external-id="M-27" optional="no">
       <title>Ongewenst gedrag van medewerkers</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-483" type="risk">
         <title>Er zijn afspraken gemaakt over ongewenste gedragingen van medewerkers onderling.</title>
         <description>&lt;p&gt;Ongewenst gedrag gaat over (seksuele) intimidatie, pesten, agressie en geweld, discriminatie, en gebruik van alcohol en drugs.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;</description>
@@ -2912,7 +2912,7 @@
     </module>
     <module external-id="M-28" optional="no">
       <title>Basisafspraken over arbo</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-487" type="risk">
         <title>Bij de inkoop van materialen wordt gelet op arbo-eisen.</title>
         <description>&lt;p&gt;Vooraf rekening houden met de arbo-eisen voorkomt in een later stadium kosten. Voorbeelden zijn:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;geluidsarme machines zodat geen gehoorbescherming gekocht en gedragen hoeft te worden;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;makkelijk in hoogte verstelbaar bureaus zodat kortere en langere mensen er aan kunnen werken;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;stoffen in het productieproces die afzuiging nodig hebben en hoge milieu-eisen stellen, vervangen door stoffen met hetzelfde productie-effect en met minder gebruikseisen.&lt;/p&gt;</description>
@@ -2956,7 +2956,7 @@
     </module>
     <module external-id="M-29" optional="no">
       <title>Voorlichting</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-493" type="risk">
         <title>Iedere werknemer kan het RI&amp;E-rapport inzien.</title>
         <description>&lt;p&gt;Door het rapport in te zien, kunnen werknemers leren met welke risico&#8217;s zij te maken hebben en daardoor veiliger gaan werken.&lt;/p&gt;</description>
@@ -3012,7 +3012,7 @@
     </module>
     <module external-id="M-30" optional="no">
       <title>Afspraken over verzuim</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-501" type="risk">
         <title>Er zijn afspraken gemaakt over hoe, wanneer en bij wie medewerkers zich ziek moeten melden.</title>
         <description>&lt;p&gt;Bijv. een medewerker moet zich telefonisch voor 9 uur bij de leidinggevende ziek melden.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;</description>
@@ -3059,10 +3059,10 @@
     </module>
     <module external-id="M-31" optional="no">
       <title>Organisatie van de preventie</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-32" optional="no">
         <title>Preventietaken</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-508" type="risk">
           <title>De organisatie heeft de preventietaken toegewezen.</title>
           <description>&lt;p&gt;Een werkgever met m&#233;&#233;r dan 15 medewerkers moet preventietaken toewijzen aan &#233;&#233;n of meer werknemers. Een werkgever met ten hoogste 15 medewerkers mag de preventietaken zelf uitvoeren.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;De werkgever hoeft geen speciale medewerker aan te trekken met preventietaken. Preventie kan een onderdeel zijn van de taak van de werkgever zelf of van de taak van &#233;&#233;n of meer werknemers.Voor het gemak wordt echter in dit instrument steeds gesproken over preventiemedewerker.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Preventietaken zijn: het meewerken aan of het opstellen van een RI&amp;amp;E, uitvoeren van de maatregelen uit het plan van aanpak, het geven van voorlichting, het signaleren van risico's en het treffen van maatregelen tegen die risico&#8217;s.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;De preventiemedewerkers (het aantal hangt af van preventietaken en de gewenste organisatie) hebben de kennis en ervaring, de middelen en de tijd, zodat zij de werkgever goed kunnen bijstaan bij de preventietaken.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;De preventiemedewerker werkt hierbij samen met de OR, de personeelsvertegenwoordiging of de medewerkers die het betreft.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Werkgevers die hun preventietaken goed uitvoeren besparen doorgaans aanzienlijk op de kosten van ongevallen, verzuim en stressproblemen. Investeringen in arbeidsomstandigheden en in het personeel renderen meestal goed als het gaat om de sfeer en productiviteit van het bedrijf.&lt;/p&gt;</description>
@@ -3096,7 +3096,7 @@
       </module>
       <module external-id="M-33" optional="no">
         <title>Maatwerkregeling/vangnetregeling</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-513" type="risk">
           <title>U laat zich bij uw preventietaken bijstaan door &#233;&#233;n of meer gecertificeerde deskundigen (maatwerkregeling) of door een gecertificeerde arbodienst (vangnetregeling).</title>
           <description>&lt;p&gt;Op grond van de Arbowet moet de werkgever zich bij de uitvoering van de volgende taken laten bijstaan door &#233;&#233;n of meer gecertificeerde deskundigen:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;toetsing en advisering in het kader van de risico-inventarisatie en &#8211; evaluatie;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;arbeidsgezondheidskundig onderzoek;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;houden van arbeidsomstandighedenspreekuur;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;aanstellingskeuring;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;verzuimbegeleiding.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;De &#8216;maatwerkregeling&#8217; houdt in, dat de werkgever zelf bepaalt, op welke wijze gecertificeerde deskundigen bijstand verlenen.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Concreet betekent dit dat er minimaal een contract met een gecertificeerde bedrijfsarts dient te zijn afgesloten en dat een gecertificeerde arbodeskundige de RI&amp;amp;E dient te toetsen, als toetsing van de RI&amp;amp;E noodzakelijk is.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Als alternatief kan gebruik worden gemaakt van de &#8216;vangnetregeling&#8217;, de arbodienst verzorgt dan de bijstand.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Zie ook het stroomschema op http://www.arbo.nl/schema voor de keuze tussen beide regelingen.&lt;/p&gt;</description>
@@ -3177,7 +3177,7 @@
     </module>
     <module external-id="M-36" optional="no">
       <title>Ongevallen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-528" type="risk">
         <title>Ongevallen worden geregistreerd en de oorzaken onderzocht.</title>
         <description>&lt;p&gt;Het registreren van ongevallen en het bekijken van de oorzaken vormen de basis voor het nemen van gerichte maatregelen om deze ongevallen in de toekomst te voorkomen.&lt;/p&gt;</description>
@@ -3201,7 +3201,7 @@
     </module>
     <module external-id="M-37" optional="no">
       <title>Voortgang van het plan van aanpak</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-531" type="risk">
         <title>Elk jaar wordt over de uitvoering van het plan van aanpak gerapporteerd.</title>
         <description></description>

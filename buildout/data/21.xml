@@ -89,10 +89,10 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
     <profile-question external-id="KLV-98" type="optional">
       <title>Blazen van folies en/of Extrusie (bijv. flessenproductie) en/of Schuimen en/of Spuitgieten?</title>
       <question>Blazen van folies en/of Extrusie (bijv. flessenproductie) en/of Schuimen en/of Spuitgieten?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-3" optional="no">
         <title>Fysieke belasting bij Blazen, Extrusie, Schuimen en Spuitgieten (FB1)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-6343" type="risk">
           <title>De medewerkers tillen alleen producten die lichter</title>
           <description>&lt;p&gt;Vaak worden grondstoffen aangeleverd in zakken. Om gezondheidsschade te voorkomen, is het belangrijk gewichten zwaarder dan 23 kg niet handmatig te verplaatsen. Als de lasten groter dan 23 kg zijn, dienen hulpmiddelen te worden ingezet, zoals bijvoorbeeld: heftrucks, palletwagens, takels of vacu&#252;mheffers.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Andere maatregelen zijn:- aanvoer van grondstoffen in silo&#8217;s of bulktonnen- gebruik big bags en takel, zwenkkraan of vacu&#252;mheffer- grondstoffen in andere verpakkingshoeveelheden laten aanleveren.&lt;/p&gt;&lt;a href="http://home.szw.nl/navigatie/rubriek/dsp_rubriek.cfm?link_id=11347&amp;amp;doctype_id=15" rel="nofollow" target="_blank"&gt;Info&lt;/a&gt;&lt;a href="http://www.xs4all.nl/~ftpbb009/lift.html" rel="nofollow" target="_blank"&gt;Berkenen het maximale tilgewicht: &lt;/a&gt;</description>
@@ -518,7 +518,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
     <profile-question external-id="KLV-99" type="optional">
       <title>Harsverwerking?</title>
       <question>Harsverwerking?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1115" optional="true">
         <title>Harsverwerking (GS2)</title>
         <description>&lt;p&gt;Bij het verwerken van vloeibare harsen komen dampen vrij. Hierbij worden verschillende gevaarlijke stoffen gebruikt. Bij polyesterhars zijn dat: &lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;- organisch peroxide (initiator)&lt;/li&gt;&lt;li&gt;- polyesterhars&lt;/li&gt;&lt;li&gt;- styreen&lt;/li&gt;&lt;li&gt;- versneller (amines, cobaltoctoaat)&lt;/li&gt;&lt;li&gt;- glasvezelmatten of rovings&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;&lt;p&gt;De stoffen kunnen verschillende effecten hebben op de gezondheid van medewerkers. Peroxide is bijtend voor de ogen, huid en luchtwegen. Styreen is prikkelend voor de luchtwegen. Glasvezel kan irriterend zijn op de huid. Bij de afwerking van uitgeharde harsen komt vaak stof vrij, dat irriterend is voor de luchtwegen.&lt;/p&gt;</description>
@@ -591,7 +591,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
       </module>
       <module external-id="M-1116" optional="no">
         <title>Fysieke belasting bij  Harsverwerking (FB2)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-6386" type="risk">
           <title>De medewerkers tillen alleen producten en/of malle</title>
           <description>&lt;p&gt;Vaak worden grondstoffen aangeleverd in zakken. Om gezondheidsschade te&amp;#13;
@@ -819,7 +819,7 @@ verpakkingshoeveelheden laten aanleveren.&lt;/p&gt;&lt;a href="http://home.szw.n
     <profile-question external-id="KLV-100" type="optional">
       <title>Thermovormen?</title>
       <question>Thermovormen?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1120" optional="true">
         <title>Thermovormen (GS8)</title>
         <description>&lt;p&gt;Tijdens het verwarmen van thermoplasten ontstaat damp van het polymeer. Bij opbouw van de concentratie van damp kan dit gezondheidsschadelijk zijn.&lt;/p&gt;</description>
@@ -840,7 +840,7 @@ verpakkingshoeveelheden laten aanleveren.&lt;/p&gt;&lt;a href="http://home.szw.n
       </module>
       <module external-id="M-1121" optional="no">
         <title>Fysieke belasting bij Thermovormen (FB3)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-6407" type="risk">
           <title>De medewerkers tillen alleen producten en/of plate</title>
           <description>&lt;p&gt;Vaak worden grondstoffen aangeleverd in zakken. Om gezondheidsschade te&amp;#13;
@@ -1010,7 +1010,7 @@ verpakkingshoeveelheden laten aanleveren. &lt;/p&gt;&lt;a href="http://home.szw.
     <profile-question external-id="KLV-101" type="optional">
       <title>Rubber: Compounding (wegen en mengen)?</title>
       <question>Rubber: Compounding (wegen en mengen)?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1125" optional="true">
         <title>Compounding (GS4)</title>
         <description>&lt;p&gt;Onder compounding wordt verstaan het wegen, mengen en koelen. In het kennissysteem van de NRK vindt u uitgebreide informatie over arbo- en milieumaatregelen.&lt;/p&gt;&lt;a href="http://www.stoffenkennisnrk.nl/kennissysteem/http://www.stoffenkennisnrk.nl/kennissysteem/" rel="nofollow" target="_blank"&gt;zie website&lt;/a&gt;</description>
@@ -1539,7 +1539,7 @@ verpakkingshoeveelheden laten aanleveren.&lt;/p&gt;&lt;a href="http://home.szw.n
     <profile-question external-id="KLV-102" type="optional">
       <title>Rubber: Vormgeven?</title>
       <question>Rubber: Vormgeven?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1131" optional="true">
         <title>Vormgeven (GS5)</title>
         <description>&lt;p&gt;In het kennissysteem van de NRK vindt u uitgebreide informatie over de mogelijke gevaarlijke stoffen en arbo- en milieumaatregelen.&lt;/p&gt;&lt;a href="http://www.stoffenkennisnrk.nl/kennissysteem/" rel="nofollow" target="_blank"&gt;Zie website&lt;/a&gt;</description>
@@ -1922,7 +1922,7 @@ verpakkingshoeveelheden laten aanleveren.&lt;/p&gt;&lt;a href="http://home.szw.n
     <profile-question external-id="KLV-103" type="optional">
       <title>Rubber: Oppervlaktebehandeling?</title>
       <question>Rubber: Oppervlaktebehandeling?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1137" optional="true">
         <title>Oppervlaktebehandeling (GS6)</title>
         <description>&lt;p&gt;Onder oppervlaktebehandeling wordt verstaan ruwen, solutioneren, ontvetten, snijden en wondbehandeling.In het kennissysteem van de NRK vindt u uitgebreide informatie over arbo- en milieumaatregelen.&lt;/p&gt;&lt;a href="http://www.stoffenkennisnrk.nl/kennissysteem/" rel="nofollow" target="_blank"&gt;Zie website&lt;/a&gt;</description>
@@ -2322,7 +2322,7 @@ bijvoorbeeld: heftrucks, palletwagens, takels of vacu&#252;mheffers.&lt;/p&gt;&l
     <profile-question external-id="KLV-104" type="optional">
       <title>Rubber: Vulkaniseren?</title>
       <question>Rubber: Vulkaniseren?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1145" optional="true">
         <title>Vulkaniseren (GS7)</title>
         <description>&lt;p&gt;Onder vulkanisatie wordt zo wel verstaan het vulkaniseren na extrusie als persvulkanisatie.In het kennissysteem van de NRK vindt u uitgebreide informatie over arbo- en milieumaatregelen.&lt;/p&gt;&lt;a href="http://www.stoffenkennisnrk.nl/kennissysteem/" rel="nofollow" target="_blank"&gt;Zie website&lt;/a&gt;</description>
@@ -3112,7 +3112,7 @@ zonder daarbij hinder of overlast van roken door anderen te ondervinden.&lt;/p&g
     </module>
     <module external-id="M-1158" optional="no">
       <title>Werken met klanten/cli&#235;nten/gasten</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-6631" type="risk">
         <title>Er zijn afspraken gemaakt over wat te doen als een</title>
         <description>&lt;p&gt;Het gaat hier om agressie en geweld van klanten/cli&#235;nten/pati&#235;nten/gasten naar het eigen personeel. Hieronder wordt ook verstaan seksuele intimidatie, vandalisme en discriminatie.&lt;/p&gt;</description>
@@ -3201,7 +3201,7 @@ zonder daarbij hinder of overlast van roken door anderen te ondervinden.&lt;/p&g
     <module external-id="M-1161" optional="no">
       <module optional="no">
         <title>Algemeen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-6643" type="risk">
           <title>De machines worden periodiek onderhouden en gecont</title>
           <description>&lt;p&gt;Om een goede en veilige werking van de machines te kunnen garanderen is periodiek onderhoud en controle noodzakelijk. Afspraken over preventief onderhoud dienen schriftelijk te zijn vastgelegd. Het elektrische deel van de installatie dient gecontroleerd te worden volgens NEN 3140&lt;/p&gt;&lt;a href="http://www2.nen.nl/" rel="nofollow" target="_blank"&gt;Zie website&lt;/a&gt;</description>
@@ -3294,7 +3294,7 @@ zonder daarbij hinder of overlast van roken door anderen te ondervinden.&lt;/p&g
         </risk>
       </module>
       <title>Periodiek onderhoud en reparatiewerkzaamheden</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-2544" optional="no">
         <title>Onderhoud en reparatie aan machines vindt alleen plaats door daartoe bevoegd en opgeleid personeel.</title>
         <description>&lt;p&gt;55.7 Onderhouds- en reparatiewerkzaamheden worden alleen uitgevoerd door daartoe opgeleide en bevoegde medewerkers.&lt;/p&gt;</description>
@@ -3788,7 +3788,7 @@ veroorzaken.&#160;&lt;/p&gt;</description>
     </module>
     <module external-id="M-1192" optional="no">
       <title>In geval van nood</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-6809" type="risk">
         <title>Nooduitgangen zijn duidelijk aangegeven en zijn vr</title>
         <description>&lt;p&gt;Zonder dat er iets verschoven hoeft te worden of zonder dat er een sleutel gehaald hoeft te worden, kan de nooduitgang meteen geopend worden.&lt;/p&gt;</description>
@@ -3877,7 +3877,7 @@ veroorzaken.&#160;&lt;/p&gt;</description>
     </module>
     <module external-id="M-1193" optional="no">
       <title>Werk- en rusttijden</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-6823" type="risk">
         <title>Een werkdag is maximaal 9 uur.</title>
         <description>&lt;p&gt;In de Arbeidstijdenwet zijn regels opgenomen over de lengte van een werkdag, een werkweek en pauzes. Dit zijn de standaardregels. In een CAO of door overleg met de ondernemingsraad of de personeelsvertegenwoordiging kunnen andere regels zijn afgesproken. Deze afwijkingen op de standaardregeling worden schriftelijk vastgelegd.&lt;/p&gt;</description>
@@ -3917,7 +3917,7 @@ veroorzaken.&#160;&lt;/p&gt;</description>
     </module>
     <module external-id="M-1194" optional="no">
       <title>Taken / functies van medewerkers</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-6829" type="risk">
         <title>Medewerkers verrichten zo min mogelijk repeterend</title>
         <description>&lt;p&gt;Repeterend werk is werk waarbij in een korte tijd dezelfde handeling alsmaar wordt herhaald. Bij dat soort werk kan slijtage van spieren, pezen, gewrichten optreden met als gevolg verzuim. Een ander belangrijk effect is de afname van motivatie en inzet. Medewerkers die meer dan alleen uitvoerende taken hebben zijn geneigd om met het bedrijf mee te denken.&lt;/p&gt;</description>
@@ -3965,7 +3965,7 @@ veroorzaken.&#160;&lt;/p&gt;</description>
     </module>
     <module external-id="M-1195" optional="no">
       <title>Ongewenst gedrag van medewerkers</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-6836" type="risk">
         <title>Er is beleid geformuleerd, waarin afspraken zijn gemaakt over ongewenste gedragin</title>
         <description>&lt;p&gt;Ongewenst gedrag gaat over (seksuele) intimidatie, pesten, agressie en geweld, discriminatie, en gebruik van alcohol en drugs.&#160;&lt;/p&gt;</description>
@@ -3994,7 +3994,7 @@ veroorzaken.&#160;&lt;/p&gt;</description>
     </module>
     <module external-id="M-1196" optional="no">
       <title>Basisafspraken over arbo</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-6840" type="risk">
         <title>Bij de inkoop van materialen wordt gelet op arbo-e</title>
         <description>&lt;p&gt;Vooraf rekening houden met de arbo-eisen voorkomt in een later stadium kosten. Voorbeelden zijn:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;geluidsarme machines zodat geen gehoorbescherming gekocht en gedragen hoeft te worden;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;makkelijk in hoogte verstelbaar bureaus zodat kortere en langere mensen er aan kunnen werken;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;stoffen in het productieproces die afzuiging nodig hebben en hoge milieu-eisen stellen, vervangen door stoffen met hetzelfde productie-effect en met minder gebruikseisen.&lt;/p&gt;</description>
@@ -4038,7 +4038,7 @@ veroorzaken.&#160;&lt;/p&gt;</description>
     </module>
     <module external-id="M-1197" optional="no">
       <title>Voorlichting</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-6846" type="risk">
         <title>E&#233;n medewerker heeft arbo als extra taak en houdt</title>
         <description>&lt;p&gt;In grotere bedrijven heeft&#160; een medewerker naast zijn normale werktaak vaak een arbotaak gekregen en:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160; heeft dan bijv. een abonnement op vakbladen;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160; overlegt met brancheorganisaties over arbo en verzuim;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160; heeft eventueel contact met andere personen in andere bedrijven die dezelfde taak hebben.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Het gaat er om dat iemand binnen het bedrijf de ontwikkelingen bijhoudt en belangrijke dingen bespreekt met de werkgever.&lt;/p&gt;</description>
@@ -4106,7 +4106,7 @@ veroorzaken.&#160;&lt;/p&gt;</description>
     </module>
     <module external-id="M-1198" optional="no">
       <title>Afspraken over verzuim</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-6855" type="risk">
         <title>Er zijn afspraken gemaakt over hoe, wanneer en bij</title>
         <description>&lt;p&gt;Bijv. een medewerker moet zich telefonisch voor 9 uur bij de leidinggevende ziek melden.&#160;&#160;&#160;&lt;/p&gt;</description>
@@ -4160,7 +4160,7 @@ veroorzaken.&#160;&lt;/p&gt;</description>
     </module>
     <module external-id="M-1199" optional="no">
       <title>Afspraken met de Arbodienst/Bedrijfsarts</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-6863" type="risk">
         <title>Er zijn afspraken gemaakt met de Arbodienst over d</title>
         <description>&lt;p&gt;De belangrijkste vragen over verzuim en re&#239;ntegratie zijn bij het onderdeel&#160; verzuim behandeld. Hier gaat het om de afspraken die u moet maken met een Arbodienst en die u vastlegt in een contract.&#160;&lt;/p&gt;</description>
@@ -4190,7 +4190,7 @@ veroorzaken.&#160;&lt;/p&gt;</description>
     </module>
     <module external-id="M-1200" optional="no">
       <title>Ongevallen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-6867" type="risk">
         <title>Ongevallen worden geregistreerd en de oorzaken ond</title>
         <description>&lt;p&gt;Het registreren van ongevallen en het bekijken van de oorzaken vormen de&#160; basis voor het nemen van gerichte maatregelen om deze ongevallen in de toekomst te voorkomen.&lt;/p&gt;</description>
@@ -4214,7 +4214,7 @@ veroorzaken.&#160;&lt;/p&gt;</description>
     </module>
     <module external-id="M-1201" optional="no">
       <title>Persoonlijke beschermingsmiddelen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-6870" type="risk">
         <title>Een beoordeling voor geschikte persoonlijke besche</title>
         <description>&lt;p&gt;Aangezien persoonlijke beschermingsmiddelen een laatste bescherming van de gezondheid van de werknemer is, dient een beoordeling plaats te vinden of de middelen adequaat zijn. De werkgever dient de benodigde persoonlijke beschermingsmiddelen gratis te verstrekken.&lt;/p&gt;&lt;a href="http://www.euronorm.net/content/template.php?itemID=270" rel="nofollow" target="_blank"&gt;Zie website&lt;/a&gt;</description>
@@ -4310,7 +4310,7 @@ veroorzaken.&#160;&lt;/p&gt;</description>
     </module>
     <module external-id="M-1202" optional="no">
       <title>Voortgang van het plan van aanpak</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-6878" type="risk">
         <title>Elk jaar wordt over de uitvoering van het plan van</title>
         <description>&lt;p&gt;Jaarlijks moet de voortgang van het plan van aanpak op schrift worden gezet. Die voortgang wordt besproken met de ondernemingsraad, de personeelsvertegenwoordiging of het personeel.&#160;&lt;/p&gt;</description>
@@ -4334,7 +4334,7 @@ veroorzaken.&#160;&lt;/p&gt;</description>
     </module>
     <module external-id="M-2598" optional="no">
       <title>98A. OR/PVT</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-13617" type="risk">
         <title>Er is een Ondernemingsraad (OR) of Personeelsvertegenwoordiging</title>
         <description>&lt;p&gt;Bij meer dan 50 medewerkers is de werkgever verplicht een&amp;#13;
@@ -4367,7 +4367,7 @@ een Personeelsvertegenwoordiging (PVT) gebruikelijk.&lt;/p&gt;</description>
       <description>&lt;p&gt;In deze module zijn de wetswijzigingen uitgewerkt in de submodulen preventietaken, maatwerk- en vangnetregeling.&lt;/p&gt;&lt;p&gt;De relevante wetswijzigingen per 1 juli 2005 luiden:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Bedrijven moeten intern voorzien in zorg voor veilig en gezond werken in de dagelijkse bedrijfsvoering, vaak met een of meer preventiemedewerkers.&lt;/li&gt;&lt;li&gt;Er is een alternatief mogelijk voor de inschakeling van ene arbodienst voor arbo- en verzuimaanpak: sociale partners op branche- of bedrijfsniveau kunnen een maatwerkregeling overeenkomen. Zonder die overeenstemming geldt het vangnet: inschakeling van een arbodienst.&lt;/li&gt;&lt;li&gt;Bedrijven met maximaal 10 werknemers hoeven hun RI&amp;amp;E niet meer door een arbodienst of een deskundige te laten toetsen als ze dat document opstellen met een bij CAO overeengekomen, deskundig opgesteld, RI&amp;amp;E-instrument.&lt;/li&gt;&lt;/ul&gt;</description>
       <module external-id="M-3820" optional="no">
         <title>De preventietaken</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-19511" type="risk">
           <title>De organisatie heeft de preventietaken toegewezen</title>
           <description>&lt;p class="MsoNormal"&gt;Een werkgever met m&#233;&#233;r dan 15 medewerkers moet preventietaken toewijzen aan &#233;&#233;n of meer werknemers. Een werkgever met ten hoogste 15 medewerkers mag de preventietaken zelf uitvoeren. &lt;/p&gt;&lt;p class="MsoNormal"&gt;De werkgever hoeft geen speciale medewerker aan te trekken met preventietaken. Preventie kan een onderdeel zijn van de taak van de werkgever zelf of van de taak van &#233;&#233;n of meer werknemers. Voor het gemak wordt echter in dit instrument steeds gesproken over preventiemedewerker.&lt;/p&gt;&lt;p class="MsoNormal"&gt;Preventietaken zijn: het meewerken aan of het opstellen van een RI&amp;amp;E, uitvoeren van de maatregelen uit het plan van aanpak, het geven van voorlichting, het signaleren van risico's en het treffen van maatregelen tegen die risico&#8217;s. &lt;/p&gt;&lt;p class="MsoNormal"&gt;De preventiemedewerkers (het aantal hangt af van preventietaken en de gewenste organisatie) hebben de kennis en ervaring, de middelen en de tijd, zodat zij de werkgever goed kunnen bijstaan bij de preventietaken. &lt;/p&gt;&lt;p class="MsoNormal"&gt;De preventiemedewerker werkt hierbij samen met de OR, de personeelsvertegenwoordiging of de medewerkers die het betreft. &lt;/p&gt;</description>
@@ -4401,7 +4401,7 @@ een Personeelsvertegenwoordiging (PVT) gebruikelijk.&lt;/p&gt;</description>
       </module>
       <module external-id="M-3821" optional="no">
         <title>De maatwerk-, vangnetregeling</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-19518" type="risk">
           <title>U laat zich bij uw preventietaken bijstaan door &#233;&#233;n of meer gecertificeerde deskundigen (maatwerkregeling) of door een gecertificeerde arbodienst (vangnetregeling)</title>
           <description>&lt;p class="MsoNormal"&gt;Op grond van de Arbowet moet de werkgever zich bij de uitvoering van de volgende taken laten bijstaan door &#233;&#233;n of meer gecertificeerde deskundigen:&lt;/p&gt;&lt;p class="MsoNormal"&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; toetsing en advisering in het kader van de risico-inventarisatie en &#8211; evaluatie;&lt;/p&gt;&lt;p class="MsoNormal"&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; arbeidsgezondheidskundig onderzoek;&lt;/p&gt;&lt;p class="MsoNormal"&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; houden van arbeidsomstandighedenspreekuur (arbeidsomstandigheden spreekuur);&lt;/p&gt;&lt;p class="MsoNormal"&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; aanstellingskeuring;&lt;/p&gt;&lt;p class="MsoNormal"&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; verzuimbegeleiding.&lt;/p&gt;&lt;p class="MsoNormal"&gt;&#160;De &#8216;maatwerkregeling&#8217; houdt in, dat de werkgever zelf bepaalt, op welke wijze gecertificeerde deskundigen bijstand verlenen. &lt;/p&gt;&lt;p class="MsoNormal"&gt;Concreet betekent dit dat er minimaal een contract met een gecertificeerde bedrijfsarts dient te zijn afgesloten en dat een gecertificeerde arbodeskundige de RI&amp;amp;E dient te toetsen, als toetsing van de RI&amp;amp;E noodzakelijk is. &lt;/p&gt;&lt;p class="MsoNormal"&gt;Als alternatief kan gebruik worden gemaakt van de &#8216;vangnetregeling&#8217;, de arbodienst verzorgt dan de bijstand.&lt;/p&gt;&lt;p&gt;Zie ook het stroomschema op http://www.arbo.nl/schema voor de keuze tussen beide regelingen.&lt;/p&gt;</description>
@@ -4411,7 +4411,7 @@ een Personeelsvertegenwoordiging (PVT) gebruikelijk.&lt;/p&gt;</description>
       </module>
       <module external-id="M-3822" optional="no">
         <title>De maatwerkregeling</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-19519" type="risk">
           <title>U laat zich bijstaan door &#233;&#233;n of meer gecertificeerde deskundigen (maatwerkregeling) en heeft een overeenkomst met deze deskundigen(n).</title>
           <description>&lt;p class="MsoNormal"&gt;Op grond van de Arbowet moet de werkgever zich bij de uitvoering van de volgende taken laten bijstaan door &#233;&#233;n of meer gecertificeerde deskundigen (bedrijfsarts, veiligheidskundige, arbeidshygi&#235;nist, arbeids- en organisatiedeskundige):&lt;/p&gt;&lt;p class="MsoNormal"&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; toetsing en advisering in het kader van de risico-inventarisatie en &#8211; evaluatie;&lt;/p&gt;&lt;p class="MsoNormal"&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; arbeidsgezondheidskundig onderzoek;&lt;/p&gt;&lt;p class="MsoNormal"&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; houden van arbeidsomstandighedenspreekuur (arbeidsomstandigheden spreekuur);&lt;/p&gt;&lt;p class="MsoNormal"&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; aanstellingskeuring;&lt;/p&gt;&lt;p class="MsoNormal"&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; verzuimbegeleiding.&lt;/p&gt;&lt;p class="MsoNormal"&gt;&#160;De &#8216;maatwerkregeling&#8217; houdt in dat de werkgever zelf bepaalt op welke wijze gecertificeerde deskundigen bijstand kunnen verlenen. &lt;/p&gt;&lt;p class="MsoNormal"&gt;Concreet betekent dit dat er minimaal een contract met een gecertificeerde bedrijfsarts dient te zijn afgesloten en dat een gecertificeerde arbodeskundige de RI&amp;amp;E dient te toetsen als toetsing nodig is.&lt;/p&gt;&lt;p&gt;Als alternatief kan gebruik worden gemaakt van de&#160; &#8216;vangnetregeling&#8217; (zie verder). &lt;/p&gt;</description>
@@ -4457,7 +4457,7 @@ een Personeelsvertegenwoordiging (PVT) gebruikelijk.&lt;/p&gt;</description>
       </module>
       <module external-id="M-3823" optional="no">
         <title>De vangnetregeling</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-19526" type="risk">
           <title>Voor de deskundige ondersteuning wordt gebruik gemaakt van een gecertificeerde arbodienst (de vangnetregeling).</title>
           <description>&lt;p class="MsoNormal"&gt;Het antwoord luidt hier Nee als u de vragen bij de Maatwerkregeling ingevuld heeft. &lt;/p&gt;&lt;p class="MsoBodyText3"&gt;Op grond van de Arbowet moet de werkgever zich bij de uitvoering van de volgende taken laten bijstaan door een gecertificeerde arbodienst:&lt;/p&gt;&lt;p class="MsoNormal"&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; toetsing en advisering in het kader van de risico-inventarisatie en &#8211; evaluatie;&lt;/p&gt;&lt;p class="MsoNormal"&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; arbeidsgezondheidskundig onderzoek;&lt;/p&gt;&lt;p class="MsoNormal"&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; houden van arbeidsomstandighedenspreekuur;&lt;/p&gt;&lt;p class="MsoNormal"&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; aanstellingskeuring;&lt;/p&gt;&lt;p class="MsoNormal"&gt;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; verzuimbegeleiding.&lt;/p&gt;&lt;p&gt;De beslissing over de vraag of van het alternatief voor een arbodienst gebruik wordt gemaakt moet samen met de werknemers (CAO, OR of PVT) genomen worden. Bij geen overeenstemming valt een bedrijf automatisch in de vangnetregeling. &lt;/p&gt;</description>
@@ -4503,7 +4503,7 @@ een Personeelsvertegenwoordiging (PVT) gebruikelijk.&lt;/p&gt;</description>
       </module>
       <module external-id="M-3824" optional="no">
         <title>Atex</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-19533" type="risk">
           <title>Klopt het dat er in uw bedrijf geen brandbare gassen of brandbare vloeistoffen aanwezig zijn?</title>
           <description>&lt;p&gt;Brandbare gassen en brandbare vloeistoffen zijn te herkennen aan de Rzinnen R10, R11 en R12.&lt;/p&gt;</description>
@@ -4545,7 +4545,7 @@ een Personeelsvertegenwoordiging (PVT) gebruikelijk.&lt;/p&gt;</description>
     <profile-question external-id="KLV-148" type="optional">
       <title>Granuleermachine(s) ?</title>
       <question>Granuleermachine(s) ?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1163" optional="true">
         <title>Granuleren (BGS1)</title>
         <description>&lt;p&gt;Bij het granuleren kan blootstelling aan stof plaatsvinden.&lt;/p&gt;</description>
@@ -4625,7 +4625,7 @@ een Personeelsvertegenwoordiging (PVT) gebruikelijk.&lt;/p&gt;</description>
     <profile-question external-id="KLV-134" type="optional">
       <title>Drukinkttechniek(en)?</title>
       <question>Drukinkttechniek(en)?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1164" optional="true">
         <title>Drukinkttechnieken (BGS2)</title>
         <description/>
@@ -4743,10 +4743,10 @@ een Personeelsvertegenwoordiging (PVT) gebruikelijk.&lt;/p&gt;</description>
     <profile-question external-id="KLV-147" type="optional">
       <title>Drukvaten en stoomketel(s) ?</title>
       <question>Drukvaten en stoomketel(s) ?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1175" optional="no">
         <title>Drukvaten / stoomketels (BMV1)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-6741" type="risk">
           <title>De drukvaten/stoomketels kunnen alleen veilig word</title>
           <description>&lt;p&gt;Een drukpers is een pers waarop een product gemaakt wordt van&amp;#13;
@@ -4787,7 +4787,7 @@ matrijs die specifiek voor dat product ingebouwd wordt op de pers.&lt;/p&gt;&lt;
     <profile-question external-id="KLV-136" type="optional">
       <title>Verpakkingsmachine(s)?</title>
       <question>Verpakkingsmachine(s)?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1176" optional="true">
         <title>Foliewikkelmachines (Verpakking BMV2)</title>
         <description>&lt;p&gt;Alle machines moeten worden beoordeeld op veilig gebruik.&lt;/p&gt;</description>
@@ -4880,10 +4880,10 @@ matrijs die specifiek voor dat product ingebouwd wordt op de pers.&lt;/p&gt;&lt;
     <profile-question external-id="KLV-137" type="optional">
       <title>Lopende band(en)/ rollerba(a)n(en)?</title>
       <question>Lopende band(en)/ rollerba(a)n(en)?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1178" optional="no">
         <title>Lopende banden / rollerbanen (BMV3)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-6752" type="risk">
           <title>Alle bewegende en draaiende delen van de lopende b</title>
           <description>&lt;p&gt;Bewegende delen kunnen gevaar opleveren voor beknellen, indraaien en snijden. Dit betekent dat de tandwielen, v-snaren moeten zijn afgeschermd.&#160;&lt;/p&gt;</description>
@@ -4915,10 +4915,10 @@ matrijs die specifiek voor dat product ingebouwd wordt op de pers.&lt;/p&gt;&lt;
     <profile-question external-id="KLV-138" type="optional">
       <title>Hijswerktuig(en)/takel(s)?</title>
       <question>Hijswerktuig(en)/takel(s)?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1179" optional="no">
         <title>Hijswerktuigen / takels (BMV4)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-6754" type="risk">
           <title>De hijsmiddelen worden jaarlijks onderhouden en ge</title>
           <description>&lt;p&gt;Onder hijsmiddelen worden verstaan kranen, takels, haken, kettingen, hijsbanden etc.&lt;/p&gt;</description>
@@ -4976,10 +4976,10 @@ matrijs die specifiek voor dat product ingebouwd wordt op de pers.&lt;/p&gt;&lt;
     <profile-question external-id="KLV-139" type="optional">
       <title>Goederenlift(en)?</title>
       <question>Goederenlift(en)?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1180" optional="no">
         <title>Goederenlift (BMV5)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-6758" type="risk">
           <title>De goederenlift wordt jaarlijks onderhouden en gek</title>
           <description></description>
@@ -5036,7 +5036,7 @@ matrijs die specifiek voor dat product ingebouwd wordt op de pers.&lt;/p&gt;&lt;
     <profile-question external-id="KLV-140" type="optional">
       <title>Aanvoer van klein verpakte grondstoffen?</title>
       <question>Aanvoer van klein verpakte grondstoffen?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1167" optional="true">
         <title>Aanvoer van klein verpakte grondstoffen (BFB6)</title>
         <description>&lt;p&gt;Het verplaatsen van de grondstoffen, halffabrikaten en eindproducten waarbij vergt lichamelijke inspanning door tillen, duwen en trekken.&lt;/p&gt;</description>
@@ -5224,7 +5224,7 @@ verpakkingshoeveelheden laten aanleveren.&lt;/p&gt;&lt;a href="http://home.szw.n
     <profile-question external-id="KLV-141" type="optional">
       <title>Intern transport van grondstoffen, halffabrikaten en/of eindproducten?</title>
       <question>Intern transport van grondstoffen, halffabrikaten en/of eindproducten?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1225" optional="true">
         <title>Intern transport (BFB7)</title>
         <description/>
@@ -5395,7 +5395,7 @@ lendensteun op de stoel aanbrengen&lt;/p&gt;</action-plan>
     <profile-question external-id="KLV-236" type="optional">
       <title>Handmatig hanteren van zware en/of onhandelbare producten?</title>
       <question>Handmatig hanteren van zware en/of onhandelbare producten?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1168" optional="true">
         <title>Handmatig inpakken en afwerken van zware of slecht</title>
         <description>&lt;p&gt;Mogelijke belastende werksituaties tijdens het bedienen zijn:zwaar tillenbelastende werkhouding (gebogen, reiken, bukken)langdurig op dezelfde plaats staanonvoldoende afwisseling in de werkzaamheden&lt;/p&gt;</description>
@@ -5474,7 +5474,7 @@ bijvoorbeeld: heftrucks, palletwagens, takels of vacu&#252;mheffers.&lt;/p&gt;&l
     <profile-question external-id="KLV-143" type="optional">
       <title>Handmatig inpakken van serieproducten?</title>
       <question>Handmatig inpakken van serieproducten?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1169" optional="true">
         <title>Handmatig inpakken van serieproducten (BFB8a)</title>
         <description>&lt;p&gt;Als het eindproduct in grote oplagen wordt geproduceerd en handmatig wordt ingepakt is het antwoord &#8216;ja&#8217;. Wordt geen massaproductie gedaan of wordt het inpakken automatisch verricht, dan is het antwoord &#8216;nee&#8217;.&lt;/p&gt;</description>
@@ -5549,7 +5549,7 @@ bijvoorbeeld: heftrucks, palletwagens, takels of vacu&#252;mheffers.&lt;/p&gt;&l
     <profile-question external-id="KLV-144" type="optional">
       <title>Handmatig afwerken van serieproducten?</title>
       <question>Handmatig afwerken van serieproducten?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1170" optional="true">
         <title>Handmatig afwerken van serieproducten (BFB8b)</title>
         <description>&lt;p&gt;Moet een serieproduct afgewerkt worden bijvoorbeeld: bij snijden, afbramen, monteren, lijmen of anderszins, dan is het antwoord &#8216;ja&#8217;.&lt;/p&gt;</description>
@@ -5639,7 +5639,7 @@ werk zittend uit te voeren.&lt;/p&gt;</description>
     <profile-question external-id="KLV-145" type="optional">
       <title>Montage/assemblage van producten?</title>
       <question>Montage/assemblage van producten?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1171" optional="true">
         <title>Montage / assemblage van producten (BFB10)</title>
         <description>&lt;p&gt;Mogelijke belastend werksituaties tijdens het bedienen zijn:zwaar tillenbelastende werkhouding (gebogen, reiken, bukken)langdurig op dezelfde plaats staanonvoldoende afwisseling in de werkzaamheden&lt;/p&gt;</description>
@@ -5706,7 +5706,7 @@ Deze werkzaamheden worden minimaal twee uur per dag uitgevoerd.&lt;/p&gt;</descr
     <profile-question external-id="KLV-226" type="optional">
       <title>Lijmfabricage?</title>
       <question>Lijmfabricage?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1120" optional="true">
         <title>Thermovormen (GS8)</title>
         <description>&lt;p&gt;Tijdens het verwarmen van thermoplasten ontstaat damp van het polymeer. Bij opbouw van de concentratie van damp kan dit gezondheidsschadelijk zijn.&lt;/p&gt;</description>
@@ -6418,7 +6418,7 @@ afgeschermd.&lt;/p&gt;</action-plan>
       </module>
       <module external-id="M-1542" optional="true">
         <title>Pneumatische zakkenpers (MV11)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Er wordt  gebruik gemaakt van &#233;&#233;n of meerdere pneumatische zakkenpersen</question>
         <risk external-id="R-8338" type="risk">
           <title>De machine(s) is/zijn beveiligd tegen onbedoeld bedienen.</title>
@@ -6490,7 +6490,7 @@ machine.&lt;/p&gt;&lt;p&gt;&amp;#13;
     <profile-question external-id="KLV-227" type="optional">
       <title>Kunststof recycling?</title>
       <question>Kunststof recycling?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1607" optional="true">
         <title>Maalmolen (MV12)</title>
         <description/>
@@ -7261,7 +7261,7 @@ machine.&lt;/p&gt;</action-plan>
       </module>
       <module external-id="M-1694" optional="no">
         <title>Fysieke belasting bij Recycling (FB9)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-9635" type="risk">
           <title>De medewerkers tillen producten die lichter zijn dan 23 kg.</title>
           <description>&lt;p class="MsoNormal"&gt;Bij het aanvullen van de voorraad kan het voorkomen dat er&amp;#13;
@@ -7631,7 +7631,7 @@ het gebruik van waterdichte laarzen.&lt;/p&gt;</action-plan>
     <profile-question external-id="KLV-228" type="optional">
       <title>Schuimen? (GS3)</title>
       <question>Schuimen? (GS3)</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1629" optional="true">
         <title>Schuimen (GS3)</title>
         <description>&lt;p class="MsoNormal"&gt;Bij schuimen worden verschillende gevaarlijke stoffen&amp;#13;

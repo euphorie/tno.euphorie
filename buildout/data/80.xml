@@ -14,7 +14,7 @@
     <evaluation-optional>yes</evaluation-optional>
     <module external-id="M-2" optional="no">
       <title>Werkplekken</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-3" optional="true">
         <title>Werken aan de balie</title>
         <description>&lt;p&gt;Voor een bezoeker of klant is de baliemedewerker van het autoverhuurbedrijf het eerste contact en daarmee het visitekaartje van de organisatie. Als het werk en de werkomgeving goed georganiseerd zijn, zal de baliemedewerker met plezier zijn of haar werk doen. De kans op een vriendelijke ontvangst is dan groot. Gezondheidsklachten van fysieke of psychische aard ten gevolge van baliewerkzaamheden doen zich vaak voor. Fysieke klachten bij baliemedewerkers kunnen het gevolg zijn van:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Een statische werkhouding;&lt;/li&gt;&lt;li&gt;Een verkeerde de werkhoogte;&lt;/li&gt;&lt;li&gt;Te grote reikafstanden bij repeterende bewegingen;&lt;/li&gt;&lt;li&gt;(Langdurig) beeldschermwerk.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Omgevingsfactoren zoals klimaat, verlichting en lawaai kunnen zowel fysieke als psychische klachten veroorzaken. Een hoge werkdruk, lange werktijden, een te eenzijdige functie-inhoud en de soms aanwezige dreiging van agressie en geweld veroorzaken spanningen en komen ook bij baliewerk voor.&lt;/p&gt;</description>
@@ -412,7 +412,7 @@
     </module>
     <module external-id="M-8" optional="no">
       <title>Werkdruk</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-9" optional="true">
         <title>Werkdruk&#160; (a)</title>
         <description>&lt;p&gt;Gebruik voor het beantwoorden van deze vraag de werknemersvragenlijst. Die kunt u downloaden op &lt;/p&gt;&lt;br/&gt;&lt;a href="http://www.arbeidtools.nl/team50/rie-bovag/Inventariseren_risicos_RIE_bij_medewerkers_230506.pdf" rel="nofollow" target="_blank"&gt;http://www.arbeidtools.nl/team50/rie-bovag/Inventariseren_risicos_RIE_bij_medewerkers_230506.pdf&lt;/a&gt;&lt;br/&gt;&lt;p&gt;Weet u het antwoord niet? Parkeer het dan, of antwoord Ja. &lt;/p&gt;</description>
@@ -938,10 +938,10 @@
     </module>
     <module external-id="M-17" optional="no">
       <title>Gebouwen algemeen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-18" optional="no">
         <title>Vloeren</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-67" type="risk">
           <title>De vloeren zijn stroef, schoon en vlak.</title>
           <description>&lt;p&gt;Vloeren moeten schoon, ordelijk en niet glad zijn om struikelen en vallen te voorkomen. Natte vloeren zijn niet alleen glad, maar kunnen ook leiden tot natte en/of koude voeten. Op plaatsen waar met water wordt gewerkt en op buitenterreinen (regenwater) moet daarom voldoende afwatering aanwezig zijn.&lt;/p&gt;</description>
@@ -965,7 +965,7 @@
       </module>
       <module external-id="M-19" optional="no">
         <title>Toegangsdeuren</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-68" type="risk">
           <title>Toegangsdeuren zijn veilig, gemakkelijk te bedienen en voldoen aan alle eisen.</title>
           <description>&lt;p&gt;De toegangsdeuren moeten gemakkelijk te openen zijn.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Voor alle type deuren geldt:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Dat de constructie deugdelijk moet zijn, met inbegrip van de ophanging, de vanginrichting en de bevestiging aan het gebouw;&lt;/li&gt;&lt;li&gt;Het geheel moet zijn vervaardigd van deugdelijke materialen;&lt;/li&gt;&lt;li&gt;Delen die door losraken gevaar kunnen veroorzaken, moeten doeltreffend zijn geborgd.&lt;/li&gt;&lt;/ul&gt;</description>
@@ -982,7 +982,7 @@
       </module>
       <module external-id="M-20" optional="no">
         <title>Binnenklimaat en ventilatie</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-69" type="risk">
           <title>De temperatuur op de werkplek is goed; werknemers zijn tevreden over die temperatuur.</title>
           <description>&lt;p&gt;In de Arbo-wet en de beleidsregels wordt geen expliciete uitspraak gedaan, in de zin van: de temperatuur mag niet hoger of lager zijn dan..... In de Arbo-wet staat dat er sprake moet zijn van een behaaglijke temperatuur in relatie met de te verrichten arbeid en dat het klimaat niet tot schade van de gezondheid mag leiden.&lt;br/&gt;Behaaglijkheid is een subjectief begrip, wat de ene werknemer als een prettige temperatuur ervaart kan voor de andere werknemer veel te warm zijn. Er is sprake van een behaaglijk klimaat als minder dan 20% van de werknemers over het klimaat klaagt.&lt;br/&gt;Er zijn wel een paar specifieke regels voor zittend werk:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Het temperatuursverschil tussen 10 cm en 110 cm boven de grond mag niet meer zijn dan 3 graden;&lt;/li&gt;&lt;li&gt;De luchtsnelheid moet kleiner zijn dan 0,25 m/sec;&lt;/li&gt;&lt;li&gt;De vochtigheidsgraad moet liggen tussen de 30 en 70%;&lt;/li&gt;&lt;li&gt;De lucht- en stralingstemperatuur in de zomer moet liggen tussen de 23 en 26 graden en in de winter tussen de 20 en 23 graden Celsius.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;In het algemeen hanteert men de volgende gewenste temperaturen voor werkomgevingen (Min. temp. - Max. temp. (winter) (zomer)):&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Kantooromgeving 19&#176;C - 26&#176;C.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;a href="http://www.arbo.nl" rel="nofollow" target="_blank"&gt;http://www.arbo.nl&lt;/a&gt;&#160;en &lt;a href="http://www.arbobondgenoten.nl/arbothem/fysisch/klimaat/klimaat.htm#test" rel="nofollow" target="_blank"&gt;http://www.arbobondgenoten.nl/arbothem/fysisch/klimaat/klimaat.htm#test&lt;/a&gt;&#160;bevatten veel informatie over klimaat.&lt;/p&gt;</description>
@@ -1070,7 +1070,7 @@
       </module>
       <module external-id="M-21" optional="no">
         <title>Schoonmaak, orde en netheid</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-74" type="risk">
           <title>Het interieur van het gebouw wordt goed schoongemaakt.</title>
           <description>&lt;p&gt;Zorg voor een goed schoonmaakplan. Ruimten waarin regelmatig gewerkt wordt, moeten schoon en zoveel mogelijk stofvrij zijn (gezondheidsrisico).&lt;/p&gt;</description>
@@ -1087,7 +1087,7 @@
       </module>
       <module external-id="M-22" optional="no">
         <title>Sanitair, kledingopbergruimten en ontspanningsruimte</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-75" type="risk">
           <title>Toiletten, urinoirs en wasbakken zijn in voldoende aantallen aanwezig.</title>
           <description>&lt;p&gt;Tot een aantal van tien medewerkers kan worden volstaan met &#233;&#233;n toilet (voor dames en heren).&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Indien u meer dan tien medewerkers heeft moeten er afzonderlijke dames- en herentoiletten zijn. Zorg dan dat er voor iedere 15 werknemers van hetzelfde geslacht minstens &#233;&#233;n toilet is. Het mannentoilet mag ook deels uit urinoirs bestaan zolang er maar &#233;&#233;n toilet voor iedere 25 mannen of minder is.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;In de nabijheid van toiletten moeten altijd voldoende wasbakken zijn met stromend water. Op locaties met mobiele toiletten gelden dezelfde regels als voor normale toiletten.&lt;/p&gt;</description>
@@ -1129,7 +1129,7 @@
       </module>
       <module external-id="M-23" optional="no">
         <title>Verlichting en daglicht</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-78" type="risk">
           <title>Op de werkplek is voldoende daglicht en directe zoninstraling kan worden geweerd.</title>
           <description>&lt;p&gt;Op werkplekken waar gedurende minimaal 2 uur per dag arbeid wordt verricht, geldt voor daglichttoetreding dat per 20 m2vloeroppervlakte minimaal 1 m2doorzichtige lichtopening (ramen en lichtkoepels) aanwezig moeten zijn. De lichtopeningen mogen zich ook bevinden in een inwendige scheidingsconstructie van een besloten ruimte, voor zover deze constructie niet de scheiding vormt met een andere besloten ruimte. Een besloten ruimte is een ruimte zonder directe lichtopeningen in de buitenmuren en/of daken.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Zowel te veel als te weinig licht kan betekenen dat het werk onvoldoende gezien wordt. Te veel licht komt voor wanneer de zon ongehinderd naar binnen kan schijnen. Met name wanneer daklichten zijn aangebracht of hoge ramen kan het lichtniveau hinderlijk hoog worden. Goede zonwering is dan noodzakelijk. Te weinig licht komt bijvoorbeeld voor op werkplekken waar te weinig daglicht toetreedt of te weinig kunstlicht (ook: verouderde lampen!) aanwezig is.&lt;/p&gt;</description>
@@ -1163,10 +1163,10 @@
     </module>
     <module external-id="M-24" optional="no">
       <title>In geval van nood</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-25" optional="no">
         <title>Nooduitgangen, vluchtwegen en noodverlichting</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-80" type="risk">
           <title>Er zijn voldoende nooduitgangen.</title>
           <description>&lt;p&gt;Alle werkruimten moeten in geval van nood snel kunnen worden verlaten door meerdere (nood)uitgangen. Hiertoe moeten deze ruimten zijn voorzien van minimaal twee zover mogelijk uit elkaar gelegen uitgangen. De afstand die in een ruimte moet worden afgelegd om een uitgang te bereiken, mag niet meer bedragen dan 30 meter. De uitgangen dienen te leiden naar twee verschillende wegen, waarlangs men de begane grond buiten het gebouw kan bereiken.&lt;/p&gt;</description>
@@ -1246,7 +1246,7 @@
       </module>
       <module external-id="M-26" optional="no">
         <title>Brandblusmiddelen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-85" type="risk">
           <title>De vereiste brandblusmiddelen zijn in alle ruimten aanwezig, herkenbaar en bereikbaar.</title>
           <description>&lt;p&gt;In een gebouw moet per 200 m2oppervlak ten minste &#233;&#233;n draagbaar blustoestel aanwezig zijn, met een minimum aantal stuks van twee per vloer (begane grond/verdiepingsvloer). Bij verdiepingen met een vloeroppervlak van minder dan 200 m2kunt u volstaan met &#233;&#233;n blustoestel per verdieping.&lt;br/&gt;&#160;&lt;br/&gt;Hetzelfde geldt voor vrijstaande gebouwen met een vloeroppervlakte kleiner dan 50 m2wanneer deze uitsluitend in gebruik zijn als kantoor, kantine en dergelijke.&lt;br/&gt;&#160;&lt;br/&gt;Laat u door de brandweer of de leverancier van de blusmiddelen adviseren welke blusmiddelen u het best kunt aanschaffen.&#160;&lt;/p&gt;&lt;p&gt;Op de website &lt;a href="http://www.brandblusserinfosite.nl" rel="nofollow" target="_blank"&gt;http://www.brandblusserinfosite.nl&lt;/a&gt;&#160;Vindt u meer informatie over brandblussers.&lt;/p&gt;</description>
@@ -1276,7 +1276,7 @@
       </module>
       <module external-id="M-27" optional="no">
         <title>Bedrijfshulpverlening</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-87" type="risk">
           <title>Er is een bedrijfsnoodplan gemaakt.</title>
           <description>&lt;p&gt;Voor ieder bedrijf&#160; moet een noodplan worden uitgewerkt. Een exemplaar van het noodplan moet in de inrichting aanwezig zijn op een voor het personeel gemakkelijk bereikbare plaats.&lt;br/&gt;&#160;&lt;br/&gt;Op basis van dit plan en het goed functioneren ervan is de directie of de BHV-er degene die bij bijvoorbeeld brand zeker weet of de brandweer nog naar mogelijke slachtoffers moet zoeken en welke wegen de brandweer kan volgen aan de hand van de plattegrond. Voorbeelden zijn opgenomen in de oplossingen.&lt;br/&gt;Het noodplan moet voor het personeel direct beschikbaar zijn.&lt;a href="http://www2.let.uu.nl/solis/arbo/calamiteitenplan/index.htm" rel="nofollow" target="_blank"&gt;http://www2.let.uu.nl/solis/arbo/calamiteitenplan/index.htm&lt;/a&gt;&lt;br/&gt;&lt;a href="http://www.brandblusserinfosite.nl/new_page_31.htm" rel="nofollow" target="_blank"&gt;http://www.brandblusserinfosite.nl/new_page_31.htm&lt;/a&gt;&lt;/p&gt;</description>
@@ -1367,10 +1367,10 @@
     </module>
     <module external-id="M-28" optional="no">
       <title>Basisafspraken over arbo en verzuim</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-29" optional="no">
         <title>Taken en functies van medewerkers</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-94" type="risk">
           <title>Bij het samenstellen van functies wordt eenzijdige belasting voorkomen.</title>
           <description>&lt;p&gt;Eenzijdige belasting kan zowel lichamelijk of geestelijk zijn. Voorkoming van geestelijke belasting kan door:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Niet alleen routinematig werk uit te voeren;&lt;/li&gt;&lt;li&gt;Afwisseling met moeilijkere taken zoals planning van het werk;&lt;/li&gt;&lt;li&gt;Zelf of in samenwerking met anderen problemen kunnen oplossen.&lt;/li&gt;&lt;/ul&gt;</description>
@@ -1437,7 +1437,7 @@
       </module>
       <module external-id="M-30" optional="no">
         <title>Arbo-overleg en personeelsvertegenwoordiging</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-99" type="risk">
           <title>In werkbesprekingen wordt regelmatig gesproken over arbeidsomstandig&#173;heden en verzuim.</title>
           <description>&lt;p&gt;Door arbo en verzuim regelmatig te bespreken kunnen er gericht oplossingen worden gezocht en wordt er voortdurend gewerkt aan de verbetering van arbo.&lt;/p&gt;</description>
@@ -1466,7 +1466,7 @@
       </module>
       <module external-id="M-31" optional="no">
         <title>Aandacht voor bijzondere groepen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-101" type="risk">
           <title>Er wordt bij het verdelen van taken aandacht besteed aan kwetsbare groepen.</title>
           <description>&lt;p&gt;Onder kwetsbare groepen vallen oproepkrachten, uitzendkrachten, onervaren krachten (nieuwkomers en stagiaires), gehandicapten, jongeren onder de 18 jaar, zwangere vrouwen en medewerkers die de Nederlandse taal niet beheersen.&lt;br/&gt;Deze groepen zijn kwetsbaar omdat ze bijvoorbeeld minder goed op de hoogte zijn van de regels of door bijvoorbeeld zwangerschap bepaald soort werk niet kunnen doen.&lt;br/&gt;&#160;&lt;br/&gt;Het bedrijf moet rekening houden met bijzondere risico's die gekoppeld zijn aan deze groepen werknemers, waaronder:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Voor zwangere vrouwen zijn risicovolle werkzaamheden met name het werken met bepaalde gevaarlijke stoffen, tillen en werken in ongemakkelijke houdingen, zoals langdurig zittend werk op kantoor;&lt;/li&gt;&lt;li&gt;Bij ingehuurd personeel moet het bedrijf rekening houden met de ervaring en kennis die nodig is voor bepaalde werkzaamheden, zoals het werken met specialistische apparatuur;&lt;/li&gt;&lt;li&gt;Ook voor andere groepen medewerkers kunnen bijzondere risico's aanwezig zijn. Denk bijvoorbeeld aan zware lichamelijke arbeid voor oudere werknemers;&lt;/li&gt;&lt;li&gt;Ook vereist de groep medewerkers die de Nederlandse taal niet voldoende machtig is, extra aandacht.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Het bedrijf mag bepaalde werkzaamheden niet door jeugdigen laten uitvoeren. Voorbeelden hiervan zijn:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Werken met bepaalde gevaarlijke stoffen die vallen onder bijvoorbeeld de categorie&#235;n 'vergiftig', 'kankerverwekkend' of 'mutageen';&lt;/li&gt;&lt;li&gt;Zonder toezicht werken aan gevaarlijke installaties;&lt;/li&gt;&lt;li&gt;Werken op een werkplek waar zij worden blootgesteld aan een geluidsniveau van 85 dB(A) of hoger;&lt;/li&gt;&lt;li&gt;Een uitzondering hierop geldt wanneer jeugdigen arbeid verrichten in het kader van een bij wet geregelde beroepsopleiding.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;De voorlichting over de aanwezige risico's moet zo nodig op deze groepen werknemers zijn afgestemd. Tevens moet u met name op deze groepen voldoende toezicht houden.&lt;/p&gt;&lt;p&gt;&lt;a href="http://home.szw.nl/navigatie/rubriek/dsp_rubriek.cfm?rubriek_id=1&amp;amp;subrubriek_id=104&amp;amp;link_id=2161#top" rel="nofollow" target="_blank"&gt;http://home.szw.nl/navigatie/rubriek/dsp_rubriek.cfm?rubriek_id=1&amp;amp;subrubriek_id=104&amp;amp;link_id=2161#top&lt;/a&gt;&lt;br/&gt;&lt;a href="http://home.szw.nl/navigatie/rubriek/dsp_rubriek.cfm?rubriek_id=2&amp;amp;subrubriek_id=210&amp;amp;link_id=2105#211100http://www.arbobondgenoten.nl" rel="nofollow" target="_blank"&gt;http://home.szw.nl/navigatie/rubriek/dsp_rubriek.cfm?rubriek_id=2&amp;amp;subrubriek_id=210&amp;amp;link_id=2105#211100&lt;br/&gt;http://www.arbobondgenoten.nl&lt;/a&gt; &lt;/p&gt;&lt;p&gt;Hier is een folder Werk&amp;amp;Zwangerschap te vinden en een boekje te downloaden Alles over Werk en Zwangerschap.&lt;/p&gt;</description>
@@ -1498,7 +1498,7 @@
       </module>
       <module external-id="M-32" optional="no">
         <title>Voorlichting en toezicht</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-103" type="risk">
           <title>Medewerkers ontvangen regelmatig voorlichting en instructie over het (veilig) uitvoeren van hun werk.</title>
           <description>&lt;p&gt;Per functie is vastgesteld hoe het werk gedaan moet worden en met welke hulpmiddelen. Daarbij wordt ook ingegaan op persoonlijke beschermingsmiddelen. Udient als werkgever ervoor te zorgen dat alle werknemers, uitzendkrachten en tijdelijke arbeidskrachten bij indiensttreding en verder zo vaak als noodzakelijk op doeltreffende wijze voorlichting en onderricht ontvangen over:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;De aard van het werk en de daarmee verbonden gevaren;&lt;/li&gt;&lt;li&gt;De maatregelen die zijn getroffen om gevaren bij het werk te voorkomen of te beperken;&lt;/li&gt;&lt;li&gt;Doel, werking en gebruik van beveiligingen en gebruik van (persoonlijke) beschermingsmiddelen;&lt;/li&gt;&lt;li&gt;De wijze waarop de preventiemedewerker, de deskundige bijstand (bijvoorbeeld arbodienst), de preventie van calamiteiten en ongevallen en de bedrijfshulpverlening zijn georganiseerd.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Voorlichting en onderricht moeten actueel en schriftelijk beschikbaar zijn. Verder dient de informatie tevens mondeling, bijvoorbeeld via het werkoverleg, te worden gegeven. Om goede en tijdige voorlichting en onderricht te waarborgen, is het nodig dat er structureel aandacht aan wordt besteed en er planmatig wordt gewerkt. In kleinere bedrijven kan het geheel wat eenvoudiger worden opgezet dan in grotere. Maar ook hier verdient het aanbeveling systematisch en volgens een voorlichtingsplan te werken.&lt;br/&gt;&#160;&lt;br/&gt;* zie PDF-bestand Voorlichting agressie en geweld&lt;br/&gt;&#160;&lt;a href="http://home.szw.nl/navigatie/dossier/dsp_dossier.cfm?set_id=136&amp;amp;link_id=5500" rel="nofollow" target="_blank"&gt;http://home.szw.nl/navigatie/dossier/dsp_dossier.cfm?set_id=136&amp;amp;link_id=5500&lt;/a&gt;&lt;/p&gt;</description>
@@ -1570,7 +1570,7 @@
       </module>
       <module external-id="M-33" optional="no">
         <title>Persoonlijke beschermingsmiddelen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-108" type="risk">
           <title>Er wordt gestreefd het gebruik van persoonlijke beschermingsmiddelen overbodig te maken door waar mogelijk risico's bij de bron aan te pakken.</title>
           <description>&lt;p&gt;Gevaren voor de veiligheid of de gezondheid van de werknemer moeten zoveel mogelijk bij de bron daarvan worden voorkomen of worden beperkt. Wanneer dit niet kan moeten andere maatregelen worden getroffen, waarbij maatregelen gericht op collectieve bescherming devoorranghebben boven maatregelen gericht op individuele bescherming (zoals PBM).&lt;/p&gt;</description>
@@ -1600,7 +1600,7 @@
       </module>
       <module external-id="M-34" optional="no">
         <title>Afspraken over verzuim</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-110" type="risk">
           <title>Er zijn afspraken gemaakt over hoe, wanneer en bij wie medewerkers zich ziek moeten melden.</title>
           <description>&lt;p&gt;Bijvoorbeeld een medewerker moet zich telefonisch v&#243;&#243;r 9 uur bij de leidinggevende ziek melden. &lt;br/&gt;Voor een voorbeeld verzuimprotocol zie &lt;a href="http://www.fnvbondgenoten.nl/dossiers/dossier_overzicht/ziekteverzuim_re-integratie/brochures_protocollen/269629/" rel="nofollow" target="_blank"&gt;http://www.fnvbondgenoten.nl/dossiers/dossier_overzicht/ziekteverzuim_re-integratie/brochures_protocollen/269629/&lt;/a&gt; &lt;/p&gt;</description>
@@ -1693,7 +1693,7 @@
       </module>
       <module external-id="M-35" optional="no">
         <title>Ongevallen en beroepsziekten</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-116" type="risk">
           <title>Ongevallen worden op het hoofdkantoor geregistreerd en de oorzaken onderzocht.</title>
           <description>&lt;p&gt;Het registreren van ongevallen en onderzoek naar de oorzaken vormen de basis voor het nemen van gerichte maatregelen om deze ongevallen in de toekomst te voorkomen.&lt;br/&gt;Voorbeelden van ongevallenregistraties zijn opgenomen in de oplossingen.&lt;a href="http://www.utwente.nl/pao/info_voor/medewerkers/arbo/arbo/ongevallen/" rel="nofollow" target="_blank"&gt;http://www.utwente.nl/pao/info_voor/medewerkers/arbo/arbo/ongevallen/&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;br/&gt;&#160;&lt;/p&gt;</description>
@@ -1749,10 +1749,10 @@
     </module>
     <module external-id="M-36" optional="no">
       <title>Organisatie van de preventie</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-37" optional="no">
         <title>Preventietaken</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-120" type="risk">
           <title>Er zijn preventietaken ten aanzien van arbo toegewezen aan medewerker(s).</title>
           <description>&lt;p&gt;Met het ingaan van de nieuwe Arbowetgeving per juli 2005 moeten bedrijven een preventiemedewerker aanstellen. Deze persoon zal een spilfunctie vervullen op de werkvloer op het gebied van arbeidsomstandigheden. Hij zal een vraagbaak zijn voor collega's en kennis moeten hebben van de veiligheid m.b.t. apparatuur, gevaarlijke stoffen en persoonlijke beschermingsmiddelen.&lt;br/&gt;&#160;&lt;br/&gt;Een werkgever met m&#233;&#233;r dan 25 medewerkers moet preventietaken toewijzen aan &#233;&#233;n of meer werknemers. Een werkgever met (sinds 1-1-2007) ten hoogste 25 medewerkers mag de preventietaken zelf uitvoeren als hij daarvoor over voldoende deskundigheid, ervaring en uitrusting beschikt.&lt;br/&gt;&#160;&lt;br/&gt;Het management hoeft geen speciale medewerker aan te trekken met preventietaken. Preventie kan een onderdeel zijn van de taak van het management zelf of van de taak van &#233;&#233;n of meer werknemers.Voor het gemak wordt echter in dit instrument steeds gesproken over de preventiemedewerker.&lt;br/&gt;&#160;&lt;br/&gt;Preventietaken zijn: het meewerken aan of het opstellen van een RI&amp;amp;E, uitvoeren van de maatregelen uit het Plan van Aanpak, het geven van voorlichting, het signaleren van risico's en het treffen van maatregelen ter beperking van die risico's.&lt;br/&gt;&#160;&lt;br/&gt;De preventiemedewerkers (het aantal hangt af van de preventietaken en de gewenste organisatie) hebben de kennis en ervaring, de middelen en de tijd, zodat zij het management goed kunnen bijstaan bij de preventietaken. De preventiemedewerker werkt hierbij samen met de OR, de personeelsvertegenwoordiging of de medewerkers die het betreft.&lt;br/&gt;&#160;&lt;br/&gt;Werkgevers die hun preventietaken goed uitvoeren besparen doorgaans aanzienlijk op de kosten van ongevallen, verzuim en stressproblemen. Investeringen in arbeidsomstandigheden en in het personeel renderen meestal goed als het gaat om de sfeer en productiviteit van het bedrijf.&lt;br/&gt;&#160;&lt;br/&gt;De preventiemedewerker kan op verschillende plaatsen informatie of hulp krijgen. Daarvoor zijn in deze RI&amp;amp;E op diverse plaatsen links aangebracht.&lt;br/&gt;&#160;&lt;a href="http://home.szw.nl/navigatie/rubriek/dsp_rubriek.cfm?link_id=88931&amp;amp;doctype_id=15" rel="nofollow" target="_blank"&gt;http://home.szw.nl/navigatie/rubriek/dsp_rubriek.cfm?link_id=88931&amp;amp;doctype_id=15&lt;/a&gt;&lt;/p&gt;</description>
@@ -1782,7 +1782,7 @@
       </module>
       <module external-id="M-38" optional="no">
         <title>Deskundige ondersteuning</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-122" type="risk">
           <title>U laat zich bijstaan door een geregistreerde bedrijfsarts en &#233;&#233;n of meer gecertificeerde deskundigen (maatwerkregeling) en heeft een overeenkomst met deze deskundige(n).</title>
           <description>&lt;p&gt;Op grond van de Arbowet moet het management zich tenminste laten bijstaan door een geregistreerde bedrijfsarts bij de uitvoering van de volgende taken (eventueel aangevuld met &#233;&#233;n of meer gecertificeerde deskundigen als veiligheidskundige, arbeidshygi&#235;nist, arbeids- en organisatiedeskundige):&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Toetsing en advisering in het kader van de risico-inventarisatie en - evaluatie (RI&amp;amp;E) (zie uitzonderingen);&lt;/li&gt;&lt;li&gt;Periodiek arbeidsgezondheidskundig onderzoek (PAGO);&lt;/li&gt;&lt;li&gt;Houden van arbeidsomstandigheden spreekuur;&lt;/li&gt;&lt;li&gt;Aanstellingskeuring;&lt;/li&gt;&lt;li&gt;Verzuimbegeleiding.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;De 'maatwerkregeling' houdt in dat het management grotendeels zelf bepaalt op welke wijze gecertificeerde deskundigen bijstand kunnen verlenen.&lt;br/&gt;Concreet betekent dit dat er minimaal een contract met een geregistreerde bedrijfsarts dient te zijn afgesloten en dat een gecertificeerde arbodeskundige de RI&amp;amp;E dient te toetsen als toetsing nodig is.&lt;br/&gt;&#160;&lt;br/&gt;Als alternatief kan gebruik worden gemaakt van de 'vangnetregeling'. Dat betekent dat u zich zoals 'vroeger' moet laten ondersteunen door een (interne) arbodienst.&lt;a href="http://www.arbobondgenoten.nl/arbothem/arbodnst/vragen_maatwerkregeling.htm" rel="nofollow" target="_blank"&gt;http://www.arbobondgenoten.nl/arbothem/arbodnst/vragen_maatwerkregeling.htm&lt;/a&gt;&lt;/p&gt;</description>

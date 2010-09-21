@@ -60,10 +60,10 @@ yHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHyx27t153m8vjm8fTq9vjw+v31+vv2
     <evaluation-optional>yes</evaluation-optional>
     <module external-id="M-4048" optional="no">
       <title>Arbozorg en organisatie van de arbeid</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-4050" optional="no">
         <title>Arbobeleid</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-20666" type="policy">
           <title>De werkgever beschikt over een beleidsverklaring.</title>
           <description>&lt;p&gt;Beschrijf de doelstelling en de zorgplicht van de werkgever ten aanzien van zijn medewerkers over Veiligheid, Gezondheid, Welzijn en Milieu (VWGM). De verklaring dient ondertekend te zijn en bekend te worden gemaakt.&lt;/p&gt;</description>
@@ -180,7 +180,7 @@ yHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHyx27t153m8vjm8fTq9vjw+v31+vv2
       </module>
       <module external-id="M-4067" optional="no">
         <title>Verzuimbeleid</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-20727" type="policy">
           <title>De risicogroepen zijn bekend</title>
           <description>&lt;p&gt;Geef aan of er leerlingen zijn, zwangere medewerksters, vakantiewerkers, ouderen, gehandicapten, onervaren medewerkers, personeel in besloten ruimten, medewerkers die de Nederlandse taal niet beheersen.&lt;/p&gt;</description>
@@ -293,7 +293,7 @@ yHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHyx27t153m8vjm8fTq9vjw+v31+vv2
       </module>
       <module external-id="M-4068" optional="no">
         <title>Samenwerking en overleg</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-20739" type="policy">
           <title>Er is een OR  of een personeelsvertegenwoordiging.</title>
           <description>&lt;p&gt;In de Arbowet en de Wet op de Ondernemingsraden staat dat afspraken gemaakt moeten worden over onder meer:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;de inschakeling van de Arbodienst;&lt;/li&gt;&lt;li&gt;de risico-inventarisatie en &#8211;evaluatie, de rapportage en het plan van aanpak;&lt;li&gt;de inschakeling van bedrijfshulpverleners.&lt;/li&gt;&lt;/li&gt;&lt;li&gt;de inschakeling van bedrijfshulpverleners.&lt;/li&gt;&lt;li&gt;de verzuimregels;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Een ondernemingsraad is verplicht vanaf 50 werknemers. Tussen 10 en 50 werknemers kan de werkgever een personeelsvertegenwoordiging instellen. Als de meerderheid van de werknemers dat wil, dan moet de werkgever een personeelsvertegenwoordiging instellen. &lt;br/&gt;Bij minder dan 10 werknemers kan de werkgever uit vrije wil een personeelsvertegenwoordiging instellen. &lt;br/&gt;Als er geen medezeggenschapsorgaan is, dan wordt het overleg met de belanghebbende werknemers gevoerd.&lt;/p&gt;</description>
@@ -333,7 +333,7 @@ yHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHyx27t153m8vjm8fTq9vjw+v31+vv2
       </module>
       <module external-id="M-4069" optional="no">
         <title>Toezicht op risicovolle zaken</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-20742" type="policy">
           <title>Leidinggevenden voeren werkplekinspecties uit.</title>
           <description>&lt;p&gt;Laat de werkplekinspecties uitvoeren aan de hand van een controlelijst.&lt;/p&gt;</description>
@@ -385,7 +385,7 @@ yHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHyx27t153m8vjm8fTq9vjw+v31+vv2
       </module>
       <module external-id="M-4070" optional="no">
         <title>Milieu</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-20746" type="policy">
           <title>Afval wordt gescheiden.</title>
           <description>&lt;p&gt;Scheid afval in bijvoorbeeld ijzer, papier, afgewerkte olie, poetslappen, ed. op de locaties, afdelingen, maar ook op kantoor.&lt;/p&gt;</description>
@@ -414,7 +414,7 @@ yHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHyx27t153m8vjm8fTq9vjw+v31+vv2
     </module>
     <module external-id="M-4049" optional="no">
       <title>Melden en registreren van ongevallen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-20748" type="policy">
         <title>Elke lokatie heeft een ongevallen meldingsprocedure.</title>
         <description></description>
@@ -490,7 +490,7 @@ yHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHyx27t153m8vjm8fTq9vjw+v31+vv2
     </module>
     <module external-id="M-4051" optional="no">
       <title>Opleidingen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-20755" type="policy">
         <title>Voor iedere medewerker is een opleidingsplan aanwezig.</title>
         <description></description>
@@ -506,7 +506,7 @@ yHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHyx27t153m8vjm8fTq9vjw+v31+vv2
     </module>
     <module external-id="M-4052" optional="no">
       <title>Voorlichting en instructie</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-21555" type="policy">
         <title>(Nieuwe) medewerkers worden (periodiek) voorgelicht over de risico's die aan het werk zijn verbonden en dit wordt schriftelijk vastgelegd.</title>
         <description>&lt;p&gt;Onderwerpen die behandeld kunnen worden zijn: veiligheid van machines, fysieke belasting, lawaaiblootstelling, gebruik van gevaarlijke stoffen, beeldschermwerk etc.&lt;/p&gt;&lt;p&gt;De medewerkers moeten in elke geval voor aanvang van deze werkzaamheden deze voorlichting en instructie hebben gehad.&lt;/p&gt;</description>
@@ -526,7 +526,7 @@ yHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHyx27t153m8vjm8fTq9vjw+v31+vv2
     </module>
     <module external-id="M-4053" optional="no">
       <title>Arbeidsmiddelen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-21557" type="policy">
         <title>Er is een uniek systeem voor het periodiek keuren en onderhouden van arbeidsmiddelen en materieel opgezet.</title>
         <description>&lt;p&gt;Kritieke apparatuur dient in goede conditie te blijven. Voorbeelden van apparatuur die minimaal jaarlijks (afwijkende keuringsfrequenties zijn toegestaan, mits goed onderbouwd) gekeurd dienen te worden zijn: puinbrekers, sorteerinstallaties, hijsgereedschap (takels, hijsbanden, kettingwerk, stroppen), draagbaar klimmateriaal (ladders en rolsteigers),&#160;elektrisch handgereedschap etc.&lt;/p&gt;&lt;p&gt;Check of alle arbeidsmiddelen die niet meer worden gebruikt op een zodanige wijze gedemonteerd of gesloopt zijn, dat zij niet zo eenvoudig&#160;opnieuw in gebruik genomen kunnen worden.&lt;/p&gt;</description>
@@ -590,7 +590,7 @@ yHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHyx27t153m8vjm8fTq9vjw+v31+vv2
     </module>
     <module external-id="M-4054" optional="no">
       <title>Persoonlijke beschermingsmiddelen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-21562" type="policy">
         <title>De juiste (op de risico afgestemde) PBM's worden gratis ter beschikking gesteld, onderhouden en vervangen.</title>
         <description>&lt;p&gt;Op basis van de RI&amp;amp;E krijgt de werkgever inzicht in de risicovolle situaties in zijn bedrijf. Indien het niet mogelijk is een risico weg te nemen dan is het beschikbaar stellen en laten dragen van persoonlijke beschermingsmiddelen (PBM's) aan de orde. Er dient een inventarisatie gemaakt te worden van de PBM's die verstrekt moeten worden.&lt;/p&gt;</description>
@@ -642,7 +642,7 @@ yHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHyx27t153m8vjm8fTq9vjw+v31+vv2
     </module>
     <module external-id="M-4055" optional="no">
       <title>Welzijn / werkdruk</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-21566" type="policy">
         <title>Werk- en rusttijden zijn vastgelegd conform de arbeidstijdenwet.</title>
         <description>&lt;p&gt;In de Arbeidstijdenwet staan regels over de lengte van een werkdag, een werkweek en pauzes. Dit zijn standaardregels. In een CAO of door overleg met de ondernemingsraad of de personeelsvertegenwoordiging kunnen andere regels zijn afgesproken. Deze afwijking op de standaardregeling wordt schriftelijk vastgelegd.&lt;/p&gt;&lt;p&gt;Ook afspraken omtrent overwerk dienen te worden vastgelegd.&lt;/p&gt;&lt;p&gt;Werk-, rust- en reistijd mogen niet meer bedragen dan 11.5 uur per werkdag.&lt;/p&gt;</description>
@@ -671,7 +671,7 @@ yHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHyx27t153m8vjm8fTq9vjw+v31+vv2
     <module external-id="M-4056" optional="no">
       <module optional="no">
         <title>Algemeen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-21580" type="risk">
           <title>De blootstelling aan teer en teerhoudende producten worden zoveel mogelijk beperkt.</title>
           <description>&lt;p&gt;Met name bij de machinale opslag en overslag&#160;kan er met dakleer gewerkt worden.&lt;/p&gt;&lt;p&gt;Met name oude teerlagen bevatten Polycyclische Aromatische Koolwaterstoffen (PAK). PAK staan op de lijst voor kankerverwekkende stoffen. &lt;/p&gt;&lt;p&gt;PAK&#160;zijn door de Gezondheidsraad als kankerverwekkend geclassificeerd.&#160;&#160; Als vervanging technisch niet mogelijk is, dient een bedrijf, op basis van een RI&amp;amp;E en conform de stand van de techniek, zodanige beheersmaatregelen te treffen dat de blootstelling zo laag mogelijk is, (met inachtneming van de arbeidshygi&#235;nische strategie). &lt;/p&gt;</description>
@@ -722,7 +722,7 @@ yHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHyx27t153m8vjm8fTq9vjw+v31+vv2
         </risk>
       </module>
       <title>Gevaarlijke stoffen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-4289" optional="no">
         <title>Gevaarlijke stoffen</title>
         <description>&lt;p&gt;8.1 Gevaarlijke stoffen&lt;/p&gt;</description>
@@ -875,7 +875,7 @@ yHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHyx27t153m8vjm8fTq9vjw+v31+vv2
     </module>
     <module external-id="M-4057" optional="no">
       <title>Fysieke belasting</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-21583" type="top5">
         <title>Er zijn adequate maatregelen aanwezig om de negatieve effecten van fysiek belastend werk te beperken.</title>
         <description>&lt;p&gt;Fysiek belasting is :&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Zwaar tillen en duwen en trekken van zware lasten;&lt;/li&gt;&lt;li&gt;Werken in ongunstige houding;&lt;/li&gt;&lt;li&gt;Kortcyclische werkzaamheden. Indien het gehele proces zich binnen een tijdsbestek van 90 seconden volledig herhaald en vele herhalingen achtereen worden uitgevoerd (minimaal 1 uur achter elkaar of totaal 2 uur per dag).&lt;/li&gt;&lt;/ul&gt;</description>
@@ -891,7 +891,7 @@ yHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHyx27t153m8vjm8fTq9vjw+v31+vv2
     </module>
     <module external-id="M-4058" optional="no">
       <title>Geluidsbelasting</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-21584" type="top5">
         <title>De werkplekken met geluidsniveaus hoger dan 80 dB(A) zijn bekend.</title>
         <description>&lt;p&gt;Geluidsniveaus van boven de 80 dB(A) moeten in kaart worden gebracht. Een geluidsniveau van boven de 80 dB(A) is te herkennen wanneer je op 1m afstand van elkaar niet op normale wijze met elkaar kan praten.&lt;/p&gt;</description>
@@ -949,7 +949,7 @@ yHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHyx27t153m8vjm8fTq9vjw+v31+vv2
     </module>
     <module external-id="M-4059" optional="no">
       <title>Overige fysieke/ fysische belasting</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-21590" type="risk">
         <title>De klimaatomstandigheden worden bevorderd.</title>
         <description>&lt;p&gt;Denk o.a.&#160;het beheersen van&#160;tocht, warmte, koude, verse lucht&#160;en direct zonlicht.&lt;/p&gt;</description>
@@ -1001,7 +1001,7 @@ yHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHyx27t153m8vjm8fTq9vjw+v31+vv2
     </module>
     <module external-id="M-4060" optional="no">
       <title>Kantoor / commandoruimte / installatie</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-21606" type="risk">
         <title>De beeldschermwerkplekken zijn in orde.</title>
         <description>&lt;p&gt;Wanneer meer dan 2 uur per dag beeldschermwerk wordt verricht is het noodzakelijk dat de beeldschermwerkplek aan de bepalingen uit het Arbobesluit voldoet.&lt;/p&gt;&lt;p&gt;Zie &lt;a href="http://arbeidsinspectie.szw.nl/index.cfm?fuseaction=dsp_document&amp;amp;link_id=15510&amp;amp;menu_item=1816" rel="nofollow" target="_blank"&gt;Arbo Informatieblad (AI) 2&lt;/a&gt;&lt;/p&gt;</description>
@@ -1065,7 +1065,7 @@ yHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHyx27t153m8vjm8fTq9vjw+v31+vv2
     </module>
     <module external-id="M-4061" optional="no">
       <title>Werf algemeen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-21611" type="risk">
         <title>Er is voldoende vrije bewegingsruimte om de machines.</title>
         <description>&lt;p&gt;Onvoldoende bewegingsruimte kan ongevallen in de hand werken.&lt;/p&gt;</description>
@@ -1111,7 +1111,7 @@ yHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHyx27t153m8vjm8fTq9vjw+v31+vv2
     </module>
     <module external-id="M-4062" optional="no">
       <title>Sorteerhal en leescabine.</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-21616" type="risk">
         <title>De sorteerhal is een veilige werkomgeving.</title>
         <description>&lt;ul&gt;&lt;li&gt;Voorkom aanrijdgevaar;&lt;/li&gt;&lt;li&gt;Zorg voor voldoende ventilatie; &lt;/li&gt;&lt;li&gt;Voorkom stofvorming zoveel mogelijk op stortplaatsen en overstortpunten (zie bij Kwartsstof, 8.3);&lt;/li&gt;&lt;li&gt;Beperk de blootstelling aan DME (zie bij DME, 8.4);&lt;/li&gt;&lt;li&gt;Voorkom bedelvingsgevaar;&lt;/li&gt;&lt;li&gt;Bescherm aanvoerders.&lt;/li&gt;&lt;/ul&gt;</description>
@@ -1127,7 +1127,7 @@ yHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHyx27t153m8vjm8fTq9vjw+v31+vv2
     </module>
     <module external-id="M-4063" optional="no">
       <title>Werkplaats</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-21617" type="risk">
         <title>De werkplaats is een veilige werkomgeving.</title>
         <description>&lt;ul&gt;&lt;li&gt;Machines: Zorg voor werkschakelaars, nulstandbeveiliging, geremde motoren. Benodigde beveiligingen zijn aangebracht; &lt;/li&gt;&lt;li&gt;Zorg voor voldoende bewegingsruimte (vrije looppaden);&lt;/li&gt;&lt;li&gt;De heftruck ondergaat een periodieke keuring. De heftruckchauffeur heeft een aantoonbare voorlichting en instructie (opleiding) genoten;&lt;/li&gt;&lt;li&gt;Zorg dat werkplaats vrij is van gevaarlijke stoffen voor dat een monteur deze betreedt.&lt;/li&gt;&lt;/ul&gt;</description>
@@ -1143,7 +1143,7 @@ yHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHyx27t153m8vjm8fTq9vjw+v31+vv2
     </module>
     <module external-id="M-4064" optional="no">
       <title>Terrein algemeen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-21618" type="risk">
         <title>Het terrein is een veilige werkomgeving.</title>
         <description>&lt;p&gt;Zorg voor voldoende verlichting, hekken ter afzetting en bebording met gedragsregels.&lt;/p&gt;&lt;p&gt;Maak afspraken over contactpersoon bij alarmsituatie, zorg voor overleg en maak afspraken met politie/ brandweer.&lt;/p&gt;&lt;p&gt;Zorg voor een ordelijk en begaanbaar terrein.&lt;/p&gt;&lt;p&gt;Zorg voor scheiding van aan- en afvoerroutes.&lt;/p&gt;</description>
@@ -1159,10 +1159,10 @@ yHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHyx27t153m8vjm8fTq9vjw+v31+vv2
     </module>
     <module external-id="M-4065" optional="no">
       <title>Veiligheidstechnisch</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-4071" optional="no">
         <title>(Grondverzet)materieel</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-21619" type="risk">
           <title>Het grondverzetmaterieel is in goede staat.</title>
           <description>&lt;ul&gt;&lt;li&gt;Het materieel moet regelmatig gekeurd worden. Dit moet worden gedocumenteerd (schriftelijk vastgelegd en bewaard). Verder dienen er geluidsstickers en keuringsstickers aanwezig te zijn;&lt;/li&gt;&lt;li&gt;Er moet voldoende uitzicht zijn;&lt;/li&gt;&lt;li&gt;Er dient achteruitrijbeveiliging of signalering aanwezig te zijn;&lt;/li&gt;&lt;li&gt;Let op&#160;een juiste opstelling;&lt;/li&gt;&lt;li&gt;Let op juist gebruik.&lt;/li&gt;&lt;li&gt;Zorg voor juist onderhoud van de filteroverdrukinstallaties.&lt;/li&gt;&lt;li&gt;Zorg voor een indicatiemeter in de cabine op overdruk en doorslag van de filter.&lt;/li&gt;&lt;/ul&gt;</description>
@@ -1178,7 +1178,7 @@ yHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHyx27t153m8vjm8fTq9vjw+v31+vv2
       </module>
       <module external-id="M-4072" optional="no">
         <title>Hijsgereedschappen en elektrische gereedschappen.</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-21620" type="risk">
           <title>Er wordt met veilig hijsgereedschap en electrisch gewerkt.</title>
           <description>&lt;ul&gt;&lt;li&gt;Er dienen certificaten van keuring en visuele inspecties aanwezig te zijn;&lt;/li&gt;&lt;li&gt;Let op stickeraanduiding met toelaatbare belasting;&lt;/li&gt;&lt;li&gt;Sla de gereedschappen gekeurd op en regel uitgifte via registratie;&lt;/li&gt;&lt;li&gt;Maak vooraf keuze inzake inzet en kwaliteit materieel;&lt;/li&gt;&lt;li&gt;Geef instructie over spreidhoeken en belasting;&lt;/li&gt;&lt;li&gt;Controleer regelmatig voor gebruik.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Zie meer informatie in de ABOMAFOON 3.18 &#160;(&lt;a href="http://www.aboma.nl/" rel="nofollow" target="_blank"&gt;www.aboma.nl&lt;/a&gt;)&lt;/p&gt;</description>
@@ -1194,7 +1194,7 @@ yHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHyx27t153m8vjm8fTq9vjw+v31+vv2
       </module>
       <module external-id="M-4073" optional="no">
         <title>Ladders / trappen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-21621" type="risk">
           <title>Er wordt zo min mogelijk gebruik gemaakt van trappen en ladders.</title>
           <description>&lt;p&gt;Zie meer informatie in de ABOMAFOON 5.12 &#160;(&lt;a href="http://www.aboma.nl/" rel="nofollow" target="_blank"&gt;www.aboma.nl&lt;/a&gt;)&lt;/p&gt;</description>
@@ -1210,7 +1210,7 @@ yHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHzyHHyx27t153m8vjm8fTq9vjw+v31+vv2
       </module>
       <module external-id="M-4074" optional="no">
         <title>Onderhoud installatie</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-21622" type="risk">
           <title>De installatie wordt goed onderhouden</title>
           <description>&lt;p&gt;Ga uit van de werkinstructie. Deze is de vinden op &lt;/p&gt;&lt;a href="http://www.brbs.nl/" rel="nofollow" target="_blank"&gt;www.brbs.nl&lt;/a&gt;</description>

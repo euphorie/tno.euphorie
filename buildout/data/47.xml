@@ -88,10 +88,10 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
     <evaluation-optional>yes</evaluation-optional>
     <module external-id="M-2" optional="no">
       <title>In geval van nood</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-3" optional="no">
         <title>Binnen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-1" type="top5">
           <title>1.1.1.&#160; Er is voor alle accommodaties die u gebruikt een ontruimingsplan beschikbaar.</title>
           <description>&lt;p&gt;Het gaat hierbij o.a. om een plattegrond van de accommodatie met de vluchtwegen. Maar een ontruimingsplan is meer dan dat. Voor meer informatie kijk op &lt;/p&gt;&lt;a href="http://bedrijfshulpverlening.pagina.nl/" rel="nofollow" target="_blank"&gt;http://bedrijfshulpverlening.pagina.nl&lt;/a&gt;</description>
@@ -179,7 +179,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
       </module>
       <module external-id="M-4" optional="true">
         <title>Buiten</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Mijn organisatie onderneemt activiteiten &#8216;buiten&#8217;, bijvoorbeeld in de natuur of op de openbare weg.</question>
         <risk external-id="R-13" type="top5">
           <title>Er is per 50 aanwezigen minimaal &#233;&#233;n werkende / opgeladen telefoon mee.</title>
@@ -209,10 +209,10 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
     </module>
     <module external-id="M-5" optional="no">
       <title>Algemeen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-6" optional="no">
         <title>Werktijden</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-17" type="risk">
           <title>De vrijwilligers werken  gemiddeld minder dan 40 uur  per week voor uw organistie.</title>
           <description>&lt;p&gt;Een incidentele &#8216;drukke&#8217; week is natuurlijk geen probleem, maar gemiddeld is een werkweek van 40 uur toegestaan.&#160;&lt;/p&gt;</description>
@@ -234,7 +234,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
       </module>
       <module external-id="M-7" optional="no">
         <title>Werksfeer/ diversiteit</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-19" type="risk">
           <title>Indien nodig krijgen vrijwilligers voorlichting over achtergronden van mensen die zij ontmoeten tijdens het vrijwilligerswerk.</title>
           <description>&lt;p&gt;Hierbij kan het gaan om collega-vrijwilligers, maar ook om andere mensen waar je mee te maken krijgt tijdens het vrijwilligerswerk. Bij de voorlichting kan het gaan om aspecten die bijvoorbeeld te maken hebben met leeftijd, afkomst en (geestelijke) beperkingen.&lt;/p&gt;</description>
@@ -274,7 +274,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
       </module>
       <module external-id="M-8" optional="no">
         <title>Ongewenst gedrag</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-25" type="risk">
           <title>Er zijn afspraken gemaakt over&#160;wat wordt verstaan onder ongewenst gedrag.</title>
           <description>&lt;p&gt;Ongewenst gedrag gaat over (seksuele) intimidatie, pesten, agressie en geweld, discriminatie, en gebruik van alcohol en drugs. Bij die afspraken (op papier) wordt ook aandacht besteed aan de eventuele sancties als iemand zich niet aan de regels houdt.&lt;/p&gt;</description>
@@ -356,7 +356,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
     </module>
     <module external-id="M-10" optional="no">
       <title>Gebouwen en terreinen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-11" optional="true">
         <title>Algemene zaken m.b.t. gebouwen en terreinen.</title>
         <description>&lt;p&gt;Als er in een gebouw wordt gewerkt, dan worden daaraan eisen gesteld. De belangrijkste eisen staan in de vervolgvragen. Er kunnen ook eisen staan in de gebruiksvergunning die door de gemeente is afgegeven.&lt;/p&gt;</description>
@@ -526,7 +526,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
       </module>
       <module external-id="M-12" optional="true">
         <title>Specifieke zaken met betrekking tot de bar</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Binnen het gebouw of tijdens de activiteiten wordt gebruik gemaakt van een bar.</question>
         <risk external-id="R-55" type="risk">
           <title>Het looppad achter de bar is voldoende breed.</title>
@@ -579,7 +579,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
       </module>
       <module external-id="M-13" optional="true">
         <title>Specifieke zaken met betrekking tot de keuken</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Binnen het gebouw of tijdens de activiteiten wordt gebruik gemaakt van een keuken.</question>
         <risk external-id="R-62" type="risk">
           <title>De keuken is zo ingericht dat de materialen gebruikt voor de wanden, vloeren en werkoppervlakken goed zijn schoon te maken.</title>
@@ -751,10 +751,10 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
     </module>
     <module external-id="M-16" optional="no">
       <title>Werksoorten</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-17" optional="true">
         <title>Kantoor en bestuurswerk</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Er zijn medewerkers van uw organisatie die meer dan 2 uur gemiddeld per week kantoor of bestuurswerk verrichten (inclusief computerwerk).</question>
         <risk external-id="R-85" type="risk">
           <title>De ruimte waarin gewerkt of vergaderd wordt, is goed geventileerd.</title>
@@ -813,7 +813,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
       </module>
       <module external-id="M-18" optional="true">
         <title>Standhouder op evenementen, tentoonstellingen en beurzen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Als onderdeel van de activiteiten van uw organisatie bent&#160;als standhouder aanwezig op&#160; evenementen, tentoonstellingen en beurzen.</question>
         <risk external-id="R-93" type="risk">
           <title>Er zijn maatregelen genomen ter bescherming tegen regen, hoge- en lage temperaturen.</title>
@@ -872,7 +872,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
       </module>
       <module external-id="M-19" optional="no">
         <title>Lichamelijk werk</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-99" type="top5">
           <title>Er zijn goede hulpmiddelen aanwezig en afspraken gemaakt om medewerkers te helpen bij het verplaatsen van items van meer dan 25 kilo.</title>
           <description>&lt;p&gt;Voor te zwaar tillen wordt 25 kg vaak als richtlijn gebruikt. Het is overigens zwaarder om 15 kg in een gebogen houding neer te moeten te zetten of met 15 kg het lichaam te moeten draaien en deze handelingen ook nog heel vaak of de hele dag te moeten doen. Voor het gemak wordt hier de norm 25 kg gebruikt, waarbij ook gedacht wordt aan de andere situaties.&lt;br/&gt;&#160;&lt;/p&gt;</description>
@@ -906,7 +906,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
       </module>
       <module external-id="M-20" optional="true">
         <title>In de natuur</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Uw organisatie onderneemt activiteiten in de natuur.</question>
         <risk external-id="R-103" type="top5">
           <title>Er zijn duidelijke afspraken gemaakt over de aanpak van de werkzaamheden.</title>
@@ -953,7 +953,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
       </module>
       <module external-id="M-21" optional="true">
         <title>Werken met dieren</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>In uw organisatie wordt met dieren gewerkt.</question>
         <risk external-id="R-109" type="risk">
           <title>Vrijwilligers zijn ge&#239;nstrueerd over hygi&#235;nisch werken.</title>
@@ -988,7 +988,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
       </module>
       <module external-id="M-22" optional="true">
         <title>Reizen / excursies</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Onderdeel van de activiteiten zijn reizen en/of excursies.</question>
         <risk external-id="R-115" type="top5">
           <title>Voor elke nieuwe reis wordt een noodplan opgesteld dat is toegesneden op het doel van de reis/excursie en de deelnemers.</title>
@@ -1023,7 +1023,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
       </module>
       <module external-id="M-23" optional="true">
         <title>Werken met Geld</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Vrijwilligers van uw organisaties halen geld op, bijvoorbeeld door middel van een collecte of door de verkoop van lootjes of&#160; drank of etenswaren.</question>
         <risk external-id="R-120" type="top5">
           <title>Vrijwilligers weten hoe ze moeten handelen in het geval van een beroving.</title>
@@ -1052,7 +1052,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
       </module>
       <module external-id="M-24" optional="true">
         <title>Huisbezoek</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Vrijwilligers van uw organisatie leggen bezoeken af bij mensen thuis of vrijwilligers verrichten werkzaamheden bij mensen thuis.</question>
         <risk external-id="R-125" type="risk">
           <title>Vrijwilligers zijn zonodig ge&#239;nstrueerd over hygi&#235;ne.</title>
@@ -1081,7 +1081,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
       </module>
       <module external-id="M-25" optional="true">
         <title>Werken op of in het water</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Binnen uw organisatie wordt op, in of aan het water gewerkt.</question>
         <risk external-id="R-130" type="top5">
           <title>Er is een noodplan dat specifiek is toegesneden op uw activiteiten op of in het water.</title>
@@ -1134,7 +1134,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
       </module>
       <module external-id="M-26" optional="true">
         <title>Theater / bar / caf&#233; / disco</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Uw organisatie exploiteert een theater / bar/ caf&#233; of disco.</question>
         <risk external-id="R-138" type="top5">
           <title>Er wordt gewaakt voor oververmoeidheid bij vrijwilligers.</title>
@@ -1216,7 +1216,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
       </module>
       <module external-id="M-28" optional="true">
         <title>Fietsen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Fietsen met groepen (kinderen) behoort tot de activiteiten van uw organisatie.</question>
         <risk external-id="R-152" type="risk">
           <title>Er zijn afspraken gemaakt over de grootte van de groepen die fietsen.</title>
@@ -1257,7 +1257,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
       </module>
       <module external-id="M-29" optional="true">
         <title>Werken aan de openbare weg</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Uw organisatie organiseert evenementen aan de openbare weg.</question>
         <risk external-id="R-159" type="risk">
           <title>De weg is zonodig goed afgezet.</title>
@@ -1298,7 +1298,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
       </module>
       <module external-id="M-30" optional="true">
         <title>Zorgverlening</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Activiteiten vinden plaats in de zorgverlening.</question>
         <risk external-id="R-166" type="risk">
           <title>Vrijwilligers zijn getraind in het tillen van mensen.</title>
@@ -1327,7 +1327,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
       </module>
       <module external-id="M-31" optional="true">
         <title>Kamperen, kampvuren, e.d.</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Binnen uw vrijwilligersorganisatie wordt soms gekampeerd.</question>
         <risk external-id="R-171" type="risk">
           <title>Er is een noodplan dat specifiek is toegesneden op kamperen en dat voor elke nieuwe kampeeractiviteit wordt aangepast.</title>
@@ -1368,7 +1368,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
       </module>
       <module external-id="M-3067" optional="true">
         <title>Hulpverlening en rampenbestrijding</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Uw organisatie is betrokken bij hulpverlening en rampenbestrijding.</question>
         <risk external-id="R-16574" type="policy">
           <title>Er zijn met andere (onder andere professionele) hulpverleners afspraken gemaakt over de samenwerking.</title>
@@ -1428,7 +1428,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
     </module>
     <module external-id="M-32" optional="no">
       <title>Bijzondere omstandigheden</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-33" optional="true">
         <title>Geluid</title>
         <description>&lt;p&gt;Gehoorschade kan al optreden wanneer mensen regelmatig blootgesteld worden aan een geluidsniveau van 80 dB(A) of meer. Hiervan is sprake wanneer u elkaar moeilijk kan verstaan op 1 meter afstand.&#160;&lt;/p&gt;</description>
@@ -1478,7 +1478,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
       </module>
       <module external-id="M-34" optional="true">
         <title>Gereedschappen, machines en transportmiddelen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Tijdens het werk worden gereedschappen, machines en transportmiddelen gebruikt.</question>
         <risk external-id="R-193" type="policy">
           <title>Bij de aanschaf van nieuwe apparatuur wordt er gelet op geluidsniveau, veiligheidsvoorzieningen en het&#160; CE-keurmerk.</title>
@@ -1645,7 +1645,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
       </module>
       <module external-id="M-35" optional="true">
         <title>Klimaat</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Bij het werk komt uitzonderlijke warmte, koude of tocht voor of er wordt buiten gewerkt.</question>
         <risk external-id="R-208" type="top5">
           <title>Bij extreme warmte of straling zijn er regels afgesproken hoe er gewerkt kan worden.</title>
@@ -1680,7 +1680,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
       </module>
       <module external-id="M-36" optional="true">
         <title>Werken op hoogte</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>In uw organisaties werken vrijwilligers(soms) op hoogte.</question>
         <risk external-id="R-212" type="risk">
           <title>Bij werken op hoogte is vastgesteld met welke hulpmiddelen moet worden gewerkt.</title>
@@ -1780,7 +1780,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
       </module>
       <module external-id="M-38" optional="true">
         <title>Schoonmaakmiddelen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Door of tijdens het werk kunnen vrijwilligers in aanraking komen met schoonmaakmiddelen.</question>
         <risk external-id="R-225" type="top5">
           <title>Vrijwilligers zijn ge&#239;nformeerd over de risico&#8217;s van schoonmaakmiddelen waarmee ze werken.</title>
@@ -1821,10 +1821,10 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
     </module>
     <module external-id="M-40" optional="no">
       <title>Verzekeringen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-41" optional="no">
         <title>Verzekeringen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-230" type="policy">
           <title>Er is voor vrijwilligers een WA-verzekering afgesloten.</title>
           <description></description>
@@ -1847,10 +1847,10 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
     </module>
     <module external-id="M-42" optional="no">
       <title>Algemene afspraken over arbo</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-43" optional="no">
         <title>7.1.&#160;Interne afspraken over arbeidsomstandigheden</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-233" type="policy">
           <title>7.1.1.&#160;Een vrijwilliger of bestuurslid is permanent verantwoordelijk voor het opstellen en uitvoeren van het arbo-beleid.</title>
           <description></description>

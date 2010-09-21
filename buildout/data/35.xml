@@ -250,10 +250,10 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
     <profile-question external-id="KLV-1" type="optional">
       <title>Algemeen en beleid? Dit onderdeel is van toepassing op alle werkprocessen en betreft algemene zaken zoals het gebouw, maar ook arbeidsomstandigheden- en verzuimbeleid, alsmede de decentrale bedrijfshulpverlening.</title>
       <question>1 Algemeen en beleid? Dit onderdeel is van toepassing op alle werkprocessen en betreft algemene zaken zoals het gebouw, maar ook arbeidsomstandigheden- en verzuimbeleid, alsmede de decentrale bedrijfshulpverlening.</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-2" optional="no">
         <title>Algemene afspraken over arbobeleid en voorlichting (Alg)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-1" type="policy">
           <title>Er is een arbobeleid aanwezig.</title>
           <problem-description>1.1.1 Er is geen arbobeleid aanwezig.</problem-description>
@@ -380,7 +380,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-3" optional="no">
         <title>Afspraken over verzuim (Alg)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-9" type="policy">
           <title>De leidinggevende beschikt over actuele verzuimcijfers en deze leveren een input voor het op- en bijstellen van het verzuimbeleid.</title>
           <problem-description>1.2.1 De leidinggevende beschikt niet over actuele verzuimcijfers en/of deze cijfers leveren geen input voor het op- en bijstellen van het verzuimbeleid.</problem-description>
@@ -453,10 +453,10 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-4" optional="no">
         <title>Bedrijfshulpverlening (Alg)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <module external-id="M-5" optional="no">
           <title>Calamiteiten en ongevallen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-15" type="policy">
             <title>Er zijn op de werkplek mogelijkheden om alarm te slaan in geval van een calamiteit of ongeval.</title>
             <problem-description>1.3.1.1 Er zijn op de werkplek onvoldoende mogelijkheden om alarm te slaan.</problem-description>
@@ -632,7 +632,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-7" optional="no">
         <title>Werk- en rusttijden (Alg)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-27" type="policy">
           <title>De maximale arbeidstijd wordt niet overschreden.</title>
           <problem-description>1.4.1 De maximale arbeidstijd wordt overschreden.</problem-description>
@@ -719,7 +719,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-8" optional="no">
         <title>Het gebouw, algemeen (Alg)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-35" type="policy">
           <title>Het gebouw waarin de afdeling is gehuisvest wordt goed onderhouden.</title>
           <problem-description>1.5.1 Het gebouw waarin de afdeling is gehuisvest is niet goed onderhouden.</problem-description>
@@ -918,7 +918,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-9" optional="true">
         <title>Afdelingsmagazijn, opslagruimte, archiefruimte (Alg)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Er is een magazijn, opslagruimte en/of archiefruimte aanwezig.</question>
         <risk external-id="R-60" type="policy">
           <title>Het magazijn, de opslagruimte en/of de archiefruimte wordt goed onderhouden.</title>
@@ -1278,7 +1278,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-12" optional="no">
         <title>Fysische belasting (Alg)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <module external-id="M-13" optional="true">
           <title>Werken bij temperatuurswisselingen</title>
           <description>&lt;p&gt;Het werken in de buitenlucht kan belastend zijn in verband met de blootstelling aan koude en warme weersomstandigheden. Ook bij wisseling van binnen- en buitenwerk en bij het werken in diepvries- en koelruimtes wordt aanpassing van het lichaam gevergd.&lt;/p&gt;</description>
@@ -1463,7 +1463,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-2442" optional="no">
         <title>Tot slot (Alg)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-12817" type="policy">
           <title>Alle relevante risico's zijn in het werkproces algemeen aan de orde gekomen.</title>
           <problem-description>1.11.1 Nog niet alle relevante risico's zijn in&#160;het proces "Algemeen en Beleid" aan de orde gekomen.</problem-description>
@@ -1476,10 +1476,10 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
     <profile-question external-id="KLV-2" type="optional">
       <title>Onderzoek en behandeling? Dit omvat (para)medisch onderzoek of behandeling, inclusief beeldvormende en nucleaire technieken, operatieve ingrepen en functieonderzoek.</title>
       <question>2 Onderzoek en behandeling? Dit omvat (para)medisch onderzoek of behandeling, inclusief beeldvormende en nucleaire technieken, operatieve ingrepen en functieonderzoek.</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-17" optional="no">
         <title>Werkruimtes (Ozk/beh)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <module external-id="M-18" optional="true">
           <title>Spreekkamer/behandelkamer poli/algemeen orgaanfunctie onderzoek</title>
           <description>&lt;p&gt;- spreek/onderzoekkamer&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- behandelkamers&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- gipskamer&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- (interventie) scopiekamer&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- groepsbehandeling (fysio- en ergotherapie)&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- rongtendiagnostiek&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- mri&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- verloskamer&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- bunkers&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- operatiekamer&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- verkoeverkamer&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- tandartskamer&lt;/p&gt;</description>
@@ -1565,7 +1565,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-19" optional="true">
           <title>MRI</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <question>Er is een kamer waar gebruik gemaakt wordt van MRI</question>
           <risk external-id="R-112" type="policy">
             <title>Er zijn maatregelen getroffen om te waarschuwen voor de gevaren van het magnetisch veld</title>
@@ -1583,7 +1583,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-20" optional="true">
           <title>Operatieafdeling of operatiebehandelkamer</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <question>Er is een operatieafdeling of operatiebehandelkamer</question>
           <risk external-id="R-114" type="policy">
             <title>De ruimten voldoen aan de hoge eis met betrekking tot luchtreinheid</title>
@@ -1814,7 +1814,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-22" optional="true">
           <title>Verlosafdeling</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <question>Er is een verlosafdeling</question>
           <risk external-id="R-133" type="policy">
             <title>De verloskamer is functioneel ingericht</title>
@@ -1871,7 +1871,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-23" optional="true">
           <title>Zwembad</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <question>Er is een zwembad ten behoeve van hydrotherapie</question>
           <risk external-id="R-138" type="risk">
             <title>De vloeren in het zwembad zijn stroef</title>
@@ -1941,7 +1941,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-24" optional="true">
           <title>Obductiekamer en fixatiekamer</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <question>Er is een fixatiekamer en/of een obductiekamer aanwezig.</question>
           <risk external-id="R-144" type="policy">
             <title>De obductiekamer en de fixatiekamer zijn goed uitgerust voor het type werkzaamheden</title>
@@ -2063,7 +2063,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-25" optional="no">
           <title>Sanitaire ruimten voor pati&#235;nten</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-153" type="policy">
             <title>Het invalidentoilet is adequaat ingericht voor het gebruik door mindervaliden</title>
             <problem-description>2.1.8.1 Het invalidentoilet is niet adequaat ingericht voor het gebruik door mindervaliden. </problem-description>
@@ -2098,7 +2098,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         <question>Medewerkers werken gericht met biologische agentia</question>
         <module external-id="M-27" optional="no">
           <title>Algemeen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-156" type="top5">
             <title>Er is een overzicht van medewerkers die geclassificeerd zijn als ?risicolopers?  en ?risicovormers? met betrekking tot de (pathogene) biologische agentia waarmee zij in contact kunnen komen</title>
             <problem-description>2.2.1.1 Er is geen actueel overzicht van medewerkers die geclassificeerd zijn als "risicolopers en "risicovormers" met betrekking tot de (pathogene) biologische agentia waarmee zij in contact kunnen komen. </problem-description>
@@ -2305,7 +2305,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-29" optional="no">
           <title>Gedragsaspecten</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-169" type="top5">
             <title>Alle medewerkers zijn op de hoogte van de veiligheids- en gezondheidsrisico's van (het werken met) biologische agentia</title>
             <problem-description>2.2.3.1 Niet alle medewerkers zijn op de hoogte van de veiligheids- en gezondheidsrisico's van (het werken met) biologische agentia. </problem-description>
@@ -2392,7 +2392,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         <question>Op de afdelingen worden inhalatieanesthetica gebruikt</question>
         <module external-id="M-31" optional="no">
           <title>Inhalatieanesthetica</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <solution-direction>&lt;h3&gt;Zie voor suggesties &lt;/h3&gt;&lt;p&gt;Zie voor suggesties ook de praktijkgids inhalatie anesthetica (P. Castelijn) of op &lt;a href="http://www.arboconvenantacademischeziekenhuizen.nl/" rel="nofollow" target="_blank"&gt;http://www.arboconvenantacademischeziekenhuizen.nl&lt;/a&gt; en klik op narcosegassen.&lt;/p&gt;&lt;p&gt;Overweeg andere vormen van anesthesie, bijvoorbeeld intraveneus&lt;/p&gt;</solution-direction>
           <risk external-id="R-176" type="policy">
             <title>Er is voldoende (ruimte)ventilatie om het risico van inhalatieanesthetica te beheersen</title>
@@ -2612,7 +2612,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-33" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-191" type="policy">
             <title>Er zijn werkvoorschriften en protocollen gemaakt en deze zijn bekend en toegankelijk voor de medewerkers.</title>
             <problem-description>2.3.3.1 Niet voor alle werkzaamheden met inhalatieanesthetica zijn werkvoorschriften of protocollen gemaakt en/of deze zijn niet bekend bij en toegankelijk voor de medewerkers.</problem-description>
@@ -2657,7 +2657,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       <module external-id="M-34" optional="true">
         <module optional="no">
           <title>Algemeen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-197" type="policy">
             <title>Er is een actuele registratie van alle gevaarlijke stoffen op de afdeling</title>
             <problem-description>2.4.1 Er is geen complete actuele registratie van alle gevaarlijke stoffen op de afdeling. </problem-description>
@@ -3298,7 +3298,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-41" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-254" type="policy">
             <title>Alle medewerkers zijn op de hoogte van de veiligheids- en gezondheidsrisico's van (het werken met) gevaarlijke stoffen</title>
             <problem-description>2.4.7.1 Niet alle medewerkers zijn op de hoogte van alle veiligheids- en gezondheidsrisico's van (het werken met) gevaarlijke stoffen. </problem-description>
@@ -3463,7 +3463,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       <module external-id="M-43" optional="true">
         <module optional="no">
           <title>Algemeen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-270" type="risk">
             <title>Er is een nadere inventarisatie gedaan om de bronnen en de situaties waarin blootstelling aan niet-ioniserende straling kan plaatsvinden in kaart te brengen</title>
             <problem-description>2.6.1 Er is geen nadere inventarisatie gedaan om de bronnen en de situaties waarin blootstelling aan niet-ioniserende straling kan plaatsvinden in kaart te brengen.</problem-description>
@@ -3680,7 +3680,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-50" optional="no">
           <title>Gebruik van handschoenen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-288" type="risk">
             <title>Medewerkers moeten veelvuldig of langdurig handschoenen dragen</title>
             <description>&lt;p&gt;Door het transpireren in handschoenen ontstaat bij langdurig gebruik hetzelfde effect als bij nat werk. Omdat het kort (minder dan 10 minuten) dragen van handschoenen niet direct tot natte handen leidt, kan het frequent kort (= tot het moment van transpireren) gebruik niet veel kwaad.&lt;/p&gt;</description>
@@ -3690,7 +3690,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-51" optional="no">
           <title>Handen reinigen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-291" type="risk">
             <title>Medewerkers reinigen of desinfecteren veelvuldig de handen</title>
             <description>&lt;p&gt;Desinfectie met handenalcohol is minder schadelijk dan het wassen met water en zeep. Als schadelijk wordt gezien een frequentie van 20 maal per dag of een duur van 25% van de werktijd.&lt;/p&gt;</description>
@@ -3706,7 +3706,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-52" optional="no">
           <title>Irriterende stoffen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-294" type="risk">
             <title>Medewerkers komen regelmatig in aanraking met irriterende stoffen</title>
             <description>&lt;p&gt;Onder irriterende stoffen worden onder meer verstaan zeep en andere schoonmaakmiddelen, chloor, maar ook water. Als schadelijk wordt gezien: een frequentie van 20 maal per dag of een duur van 25% van de werktijd.&lt;/p&gt;</description>
@@ -3722,7 +3722,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-53" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-297" type="top5">
             <title>Er zijn werkvoorschriften en protocollen gemaakt. Alle maatregelen, werkvoorschriften en protocollen inzake natwerk en huidbelasting zijn bij iedereen bekend</title>
             <problem-description>2.7.5.1 Er zijn geen werkvoorschriften en protocollen gemaakt. Eventuele maatregelen zijn niet bij iedereen bekend.</problem-description>
@@ -3983,7 +3983,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         <question>Er komen fysiek belastende werkzaamheden voor</question>
         <module external-id="M-65" optional="no">
           <title>Staan en lopen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-326" type="risk">
             <title>Veelvuldig of langdurig staan of lopen komt voor</title>
             <problem-description>2.9.1.0 Veelvuldig of langdurig staan of lopen komt niet of nauwelijks voor. </problem-description>
@@ -3994,7 +3994,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-66" optional="no">
           <title>Ongunstige werkhoudingen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-328" type="risk">
             <title>Ongunstige werkhoudingen komen veelvuldig voor</title>
             <description>&lt;p&gt;Onder ongunstige werkhoudingen wordt verstaan: knielen, bukken, draaien, reiken, hurken, buigen, voorovergebogen werken, nekflexie, werken boven schouderhoogte.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Het werken in een sterk voorovergebogen werkhouding langer dan een half uur per werkdag geeft een verhoogd risico op het ontstaan van rugklachten.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Deze vormen van fysieke belasting komen o.m. voor tijdens het werken met microscopen, aan de zuurkast, werken aan bed/behandel/operatietafel, bediening van bedbalken/consoles, onderhouds- en schoonmaakwerkzaamheden, bevoorrading van magazijnen, archiefwerk, werk in restaurant/keukens.&lt;/p&gt;</description>
@@ -4004,7 +4004,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-67" optional="no">
           <title>Repeterende handelingen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-330" type="risk">
             <title>Repeterende handelingen komen voor</title>
             <description>&lt;p&gt;Onder repeterende bewegen worden verstaan: herhaalde (of bijna dezelfde) bewegingen van de handen, vaker dan 2 keer per minuut, gedurende minimaal 1 uur achter elkaar of gedurende minimaal 2 uur per dag.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Repeterende handelingen kunnen voorkomen tijdens typen en muizen,&#194;&#160; pipeteerwerkzaamheden, coupes snijden, portioneren van maaltijden, schenken van koffie/thee/dranken, schroeven.&lt;/p&gt;</description>
@@ -4032,7 +4032,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-69" optional="no">
           <title>Duwen en trekken</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-334" type="risk">
             <title>Duwen en trekken komen veelvuldig voor</title>
             <description>&lt;p&gt;Normen:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;20 kilo voor het in gang zetten en 10 kilo voor het in gang houden. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Duwen en trekken komen voor bij vervoer van bedden, rolstoelen of brancards, containers, regaalwagens, voedingswagens, afvalwagens etc.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Duwen heeft de voorkeur boven trekken van bijvoorbeeld karren, bedden.&lt;/p&gt;</description>
@@ -4048,7 +4048,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-71" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-338" type="top5">
             <title>Er zijn werkvoorschriften en protocollen gemaakt om fysiek belastende werkzaamheden te verminderen en deze zijn bij de medewerkers bekend</title>
             <problem-description>2.9.7.1 Er zijn geen werkvoorschriften en protocollen gemaakt om fysiek belastende werkzaamheden te verminderen of de werkvoorschriften en protocollen zijn onvoldoende bekend bij de medewerkers.</problem-description>
@@ -4079,7 +4079,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-2443" optional="no">
         <title>Tot slot (Ozk/beh)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-12818" type="policy">
           <title>Alle relevante risico's zijn in het werkproces Onderzoek en Behandeling aan de orde gekomen.</title>
           <problem-description>2.10.1 Nog niet alle relevante risico's zijn in het werkproces Onderzoek en Behandeling aan de orde gekomen.</problem-description>
@@ -4092,13 +4092,13 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
     <profile-question external-id="KLV-3" type="optional">
       <title>Verpleging &amp; Verzorging? Het gaat hierom verpleegkundige en verzorgende activiteiten op verpleegafdelingen, intensive care, poliklinieken, spoedeisende hulp,  dagcentra en psychiatrie.</title>
       <question>3 Verpleging &amp; Verzorging? Het gaat hierom verpleegkundige en verzorgende activiteiten op verpleegafdelingen, intensive care, poliklinieken, spoedeisende hulp,  dagcentra en psychiatrie.</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-73" optional="no">
         <title>Werkruimtes (VenV)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <module external-id="M-74" optional="true">
           <title>Keuken/pantry</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <question>Er is een afdelingskeuken aanwezig</question>
           <risk external-id="R-344" type="policy">
             <title>De keuken wordt goed schoongemaakt</title>
@@ -4155,7 +4155,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-75" optional="no">
           <title>Spoelkeuken/medicijnkamer/behandelkamer</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-348" type="policy">
             <title>De spoelkeuken is adequaat ingericht voor het gebruik</title>
             <problem-description>3.1.2.1 De spoelkeuken is niet adequaat ingericht voor het gebruik </problem-description>
@@ -4263,7 +4263,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-76" optional="no">
           <title>Sanitaire voorzieningen voor pati&#235;nten</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-356" type="risk">
             <title>Het invalidentoilet is adequaat ingericht voor het gebruik door mindervaliden</title>
             <problem-description>3.1.3.1 Het invalidentoilet is niet adequaat ingericht voor het gebruik door mindervaliden. </problem-description>
@@ -4293,7 +4293,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-77" optional="no">
           <title>Pati&#235;ntenkamers</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-358" type="policy">
             <title>Pati&#235;ntenkamers zijn adequaat ingericht voor het gebruik</title>
             <problem-description>3.1.4.1 Pati&#235;ntenkamers zijn niet adequaat ingericht voor het gebruik. </problem-description>
@@ -4328,7 +4328,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         <question>Medewerkers werkengerichtmet biologische agentia.</question>
         <module external-id="M-79" optional="no">
           <title>Algemeen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-361" type="top5">
             <title>Er is een overzicht van medewerkers die geclassificeerd zijn als ?risicolopers? en ?risicovormers? met betrekking tot de (pathogene) biologische agentia waarmee zij in contact kunnen komen</title>
             <description>&lt;p&gt;Medewerkers lopen voor sommige biologische agentia een verhoogd risico, bijvoorbeeld voor Hep B of TBC.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- Hep B: Er is ge&#239;nventariseerd welke functies behoren tot de categorie risicolopers en ?vormers&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- Voor TBC is ge&#239;nventariseerd welke functies behoren tot de risicolopers.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Van medewerkers die werken op afdelingen waarbij de kans aanwezig dat zij in contact komen met kinderziekten dient ge&#239;nventariseerd te worden wat hun immuunstatus is.&lt;/p&gt;</description>
@@ -4515,7 +4515,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-81" optional="no">
           <title>Gedragsaspecten</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-374" type="top5">
             <title>Alle medewerkers zijn op de hoogte van de veiligheids- en gezondheidsrisico's van (het werken met) biologische agentia</title>
             <problem-description>3.2.3.1 Niet alle medewerkers zijn op de hoogte van de veiligheids- en gezondheidsrisico's van (het werken met) biologische agentia </problem-description>
@@ -4598,7 +4598,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-82" optional="no">
         <title>Gevaarlijke stoffen en risicogeneesmiddelen (VenV)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <module external-id="M-83" optional="true">
           <title>Algemeen</title>
           <description>&lt;p&gt;Onder "werken met"&#160; wordt verstaan: het werken met geopende verpakkingen.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Gevaarlijke stoffen zijn stoffen en preparaten (mengsels of oplossingen van stoffen), waarvan de eigenschappen of de omstandigheden waaronder ze voorkomen gevaar voor de gezondheid of hinder kunnen opleveren.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Gevaarlijke stoffen zijn te herkennen aan een oranje met zwart pictogram op het etiket. Denk ook aan agressieve schoonmaakmiddelen, chloortabletten en kant-en-klare kits, medicijnen.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Er zijn, na de eerste algemene module, aparte submodules voor:&#160;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- Opslag (gevaarlijke stoffen algemeen)&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- Transport en ontvangst (gevaarlijke stoffen algemeen)&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- Kankerverwekkende, reprotoxische en mutagene stoffen&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- Cytostatica (i.v.m. specifieke regelgeving)&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- Bereiding cytostatica&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- Toediening cytostatica&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- Verpleging pati&#235;nten met cytostatica&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- Cryogene stoffen&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- Gedragsaspecten&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Meer info op &lt;/p&gt;&lt;a href="http://arboconvenantacademischeziekenhuizen.nl/" rel="nofollow" target="_blank"&gt;deze site&lt;/a&gt;&lt;p&gt;.&lt;/p&gt;</description>
@@ -5148,7 +5148,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-89" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-430" type="policy">
             <title>Alle medewerkers zijn op de hoogte van de veiligheids- en gezondheidsrisico's van (het werken met) gevaarlijke stoffen</title>
             <problem-description>3.3.7.1 Niet alle medewerkers zijn op de hoogte van alle veiligheids- en gezondheidsrisico's van (het werken met) gevaarlijke stoffen.</problem-description>
@@ -5211,7 +5211,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         <question>Medewerkers hebben te maken met werkzaamheden en omstandigheden die een risico op klachten van de huid met zich meebrengen</question>
         <module external-id="M-91" optional="no">
           <title>Nat werk en huidbelasting</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-437" type="top5">
             <title>Medewerkers verrichten veel nat werk</title>
             <description>&lt;p&gt;Als schadelijk wordt gezien: een frequentie van 20 maal per dag of een duur van 25% van de werktijd.&lt;/p&gt;</description>
@@ -5247,7 +5247,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-92" optional="no">
           <title>Gebruik van handschoenen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-440" type="risk">
             <title>Medewerkers moeten veelvuldig of langdurig handschoenen dragen</title>
             <description>&lt;p&gt;Door het transpireren in handschoenen ontstaat bij langdurig gebruik hetzelfde effect als bij nat werk. Omdat het kort (minder dan 10 minuten) dragen van handschoenen niet direct tot natte handen leidt, kan het frequent kort (= tot het moment van transpireren) gebruik niet veel kwaad. &lt;br/&gt;Let hierbij ook op andere persoonlijke beschermingsmiddelen zoals (las-)brillen, mondkapjes, e.d.&lt;/p&gt;</description>
@@ -5257,7 +5257,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-93" optional="no">
           <title>Handen reinigen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-443" type="risk">
             <title>Medewerkers reinigen of desinfecteren veelvuldig de handen</title>
             <description>&lt;p&gt;Desinfectie met handenalcohol is minder schadelijk dan het wassen met water en zeep. Als schadelijk wordt gezien een frequentie van 20 maal per dag of een duur van 25% van de werktijd. &lt;br/&gt;Let bij de keuze van de handalcohol op de toegevoegde bestanddelen, waarbij terugvettende als positief en de overige als negatieve bestempeld worden.&lt;/p&gt;</description>
@@ -5273,7 +5273,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-94" optional="no">
           <title>Irriterende stoffen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-446" type="risk">
             <title>Medewerkers komen regelmatig in aanraking met irriterende stoffen</title>
             <description>&lt;p&gt;Onder irriterende stoffen worden onder meer verstaan zeep en andere schoonmaakmiddelen, chloor, maar ook water. Als schadelijk wordt gezien: een frequentie van 20 maal per dag of een duur van 25% van de werktijd.&lt;/p&gt;</description>
@@ -5289,7 +5289,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-95" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-449" type="top5">
             <title>Er zijn werkvoorschriften en protocollen gemaakt. Alle maatregelen, werkvoorschriften en protocollen inzake natwerk en huidbelasting zijn bij iedereen bekend.</title>
             <problem-description>3.4.5.1 Er zijn geen werkvoorschriften en protocollen gemaakt. Eventueel genomen maatregelen zijn niet bij iedereen bekend.</problem-description>
@@ -5431,7 +5431,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-97" optional="no">
         <title>Niet - Ioniserende straling (VenV)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <module external-id="M-98" optional="true">
           <title>Algemeen</title>
           <description>&lt;p&gt;Niet-ioniserende straling is een verzamelnaam voor een aantal soorten straling, die in lage doseringen en zonder langdurige blootstelling niet schadelijk zijn. De volgende effecten kunnen ontstaan: opwarming of het veroorzaken van elektrische stromen in weefsels en cellen.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Blootstelling aan hogere doseringen of concentraties kunnen gevaarlijk zijn voor de mens, zoals radiofrequente straling van seal-machines en zendapparatuur, infrarode straling van lasbogen, hete voorwerpen en lasers (bijvoorbeeld de laserpen!), DECT, GSM, UV-straling van lasprocessen en sterilisatielampen. Over effecten als vermoeidheid, slaperigheid en carcinogeniteit is nog weinig bekend.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Apparaten en machines die niet-ioniserende straling uitzenden moeten -net als alle andere apparaten-&#160;deugdelijk geconstrueerd zijn.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Voor elke soort straling zijn gezondheidskundige limieten vastgesteld. Werkgevers moeten maatregelen nemen om een overschrijding van de limieten te voorkomen.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;NB: Bij het maken van deze module is grotendeels gebruik gemaakt van de informatie die de Universiteit Twente op Internet beschikbaar heeft gesteld.&lt;/p&gt;</description>
@@ -5841,7 +5841,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         <question>Er komen fysiek belastende werkzaamheden voor</question>
         <module external-id="M-114" optional="no">
           <title>Staan en lopen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-502" type="risk">
             <title>Veelvuldig of langdurig staan of lopen komt voor</title>
             <problem-description>3.8.1.1 Veelvuldig of langdurig staan of lopen komt niet voor.</problem-description>
@@ -5852,7 +5852,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-115" optional="no">
           <title>Ongunstige werkhoudingen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-504" type="risk">
             <title>Ongunstige werkhoudingen komen veelvuldig voor</title>
             <description>&lt;p&gt;Onder ongunstige werkhoudingen wordt verstaan: knielen, bukken, draaien, reiken, hurken, buigen, voorovergebogen werken, werken met gebogen of gedraaide nek, werken boven schouderhoogte.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Het werken in een sterk voorovergebogen werkhouding langer dan een half uur per werkdag geeft een verhoogd risico op het ontstaan van rugklachten.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Deze vormen van fysieke belasting komen o.m. voor tijdens het werken met microscopen, aan de zuurkast, werken aan bed/behandel/operatietafel, bediening van bedbalken/consoles, onderhouds- en schoonmaakwerkzaamheden, bevoorrading van magazijnen.&lt;/p&gt;</description>
@@ -5862,7 +5862,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-116" optional="no">
           <title>Repeterende handelingen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-506" type="risk">
             <title>Repeterende handelingen komen voor</title>
             <description>&lt;p&gt;Onder repeterende bewegen wordt verstaan: herhaalde (of bijna dezelfde) bewegingen van de handen, vaker dan 2 keer per minuut, gedurende minimaal 1 uur achter elkaar of gedurende minimaal 2 uur per dag.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Repeterende handelingen kunnen voorkomen tijdens typen en muizen,&#194;&#160; pipeteerwerkzaamheden,&#194;&#160;portioneren van maaltijden, schenken van koffie/thee/dranken.&lt;/p&gt;</description>
@@ -5872,7 +5872,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-117" optional="no">
           <title>Tillen en dragen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-508" type="risk">
             <title>Tillen en dragen komen voor</title>
             <description>&lt;p&gt;Het tillen van gewichten van 23 kilo of zwaarder moet zoveel mogelijk worden voorkomen. Indien de tilsituatie niet optimaal is, ligt het te tillen gewicht lager. Tillen en dragen komt onder andere voor tijdens het verplaatsen van pati&#258;&#356;nten van bed/rolstoel naar de behandeltafel en vice versa, aanbrengen van positiemateriaal, fotoplaten, dienbladen, dossiers, tijdens bevoorrading en archiefwerk.&lt;/p&gt;</description>
@@ -5888,7 +5888,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-118" optional="no">
           <title>Duwen en trekken</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-510" type="risk">
             <title>Duwen en trekken komen veelvuldig voor</title>
             <problem-description>3.8.5.0 Duwen en trekken komen niet of nauwelijks voor.</problem-description>
@@ -5905,7 +5905,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-119" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-512" type="top5">
             <title>Er zijn werkvoorschriften en protocollen gemaakt om fysiek belastende werkzaamheden te verminderen en deze zijn bekend bij de medewerkers.</title>
             <problem-description>3.8.6.1 Er zijn geen werkvoorschriften en protocollen gemaakt om fysiek belastende werkzaamheden te verminderen en/of de werkvoorschriften en protocollen zijn niet bekend bij de medewerkers</problem-description>
@@ -5936,7 +5936,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-2445" optional="no">
         <title>Tot slot (VenV)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-12819" type="policy">
           <title>Alle relevante risico's zijn in het werkproces Verpleging en Verzorging aan de orde gekomen.</title>
           <problem-description>3.9.1 Nog niet alle relevante risico's zijn in het werkproces Verpleging en Verzorging aan de orde gekomen.</problem-description>
@@ -5949,10 +5949,10 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
     <profile-question external-id="KLV-4" type="optional">
       <title>Onderwijs? Dit proces omvat centraal en decentraal te volgen onderwijs, op medisch en verpleegkundig vakgebied, vaardigheidstrainingen en studiefaciliteiten. Het betreft zowel studenten als medewerkers in het onderwijs.</title>
       <question>4 Onderwijs? Dit proces omvat centraal en decentraal te volgen onderwijs, op medisch en verpleegkundig vakgebied, vaardigheidstrainingen en studiefaciliteiten. Het betreft zowel studenten als medewerkers in het onderwijs.</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-121" optional="no">
         <title>Werkruimtes (Onderw)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <module external-id="M-122" optional="true">
           <title>Onderwijsruimte (klaslokalen en collegezalen)</title>
           <description>&lt;p&gt;Voor het vaardigheidsonderwijs wordt gebruik gemaakt van speciaal ingerichte ruimten. Zie hiervoor module 3 van deze RI&amp;amp;E en de bijbehorende sub-modules.&lt;/p&gt;</description>
@@ -6310,7 +6310,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         <question>Medewerkers werken gericht met biologische agentia.</question>
         <module external-id="M-128" optional="no">
           <title>Algemeen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-548" type="top5">
             <title>Er is een overzicht van medewerkers en studenten die geclassificeerd zijn als ?risicolopers? en ?risicovormers? met betrekking tot de (pathogene) biologische agentia waarmee zij in contact kunnen komen.</title>
             <problem-description>4.2.1.1 Er is geen (volledig) overzicht van medewerkers en studenten die geclassificeerd zijn als risicolopers en risicovormers met betrekking tot de (pathogene) biologische agentia waarmee zij in contact kunnen komen. </problem-description>
@@ -6421,7 +6421,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-129" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-555" type="top5">
             <title>Alle medewerkers en studenten zijn op de hoogte van de veiligheids- en gezondheidsrisico's van (het werken met) biologische agentia</title>
             <problem-description>4.2.2.1 Niet alle medewerkers en studenten zijn op de hoogte van de veiligheids- en gezondheidsrisico's van (het werken met) biologische agentia. </problem-description>
@@ -6503,7 +6503,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       <module external-id="M-130" optional="true">
         <module optional="no">
           <title>Algemeen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-562" type="policy">
             <title>Er is een actuele registratie van alle gevaarlijke stoffen op de afdeling</title>
             <problem-description>4.3.1 Er is geen complete actuele registratie van alle gevaarlijke stoffen op de afdeling </problem-description>
@@ -6848,7 +6848,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-135" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-591" type="policy">
             <title>Alle medewerkers en studenten zijn op de hoogte van de veiligheids- en gezondheidsrisico's van (het werken met) gevaarlijke stoffen</title>
             <problem-description>4.3.5.1 Niet alle medewerkers zijn op de hoogte van alle veiligheids- en gezondheidsrisico's van (het werken met) gevaarlijke stoffen</problem-description>
@@ -7143,7 +7143,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         <question>Er komen fysiek belastende werkzaamheden voor.</question>
         <module external-id="M-147" optional="no">
           <title>Staan en lopen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-622" type="risk">
             <title>Veelvuldig of langdurig staan of lopen komt voor.</title>
             <problem-description>4.5.1.0 Veelvuldig of langdurig staan of lopen komt niet of nauwelijks voor.</problem-description>
@@ -7160,7 +7160,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-148" optional="no">
           <title>Ongunstige werkhoudingen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-624" type="risk">
             <title>Ongunstige werkhoudingen komen veelvuldig voor.</title>
             <description>&lt;p&gt;Onder ongunstige werkhoudingen wordt verstaan: knielen, bukken, draaien, reiken, hurken, buigen, voorovergebogen werken, nekflexie, werken boven schouderhoogte.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Het werken in een sterk voorovergebogen werkhouding langer dan een half uur per werkdag geeft een verhoogd risico op het ontstaan van rugklachten.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Deze vormen van fysieke belasting komen o.m. voor tijdens het werken met microscopen, aan de zuurkast, werken aan bed/behandel/operatietafel, bediening van bedbalken/consoles, onderhouds- en schoonmaakwerkzaamheden, bevoorrading van magazijnen, archiefwerk, werk in restaurant/keukens.&lt;/p&gt;</description>
@@ -7176,7 +7176,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-149" optional="no">
           <title>Repeterende handelingen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-626" type="risk">
             <title>Repeterende handelingen komen voor.</title>
             <description>&lt;p&gt;Onder repeterende bewegen wordt verstaan: herhaalde (of bijna dezelfde) bewegingen van de handen, vaker dan 2 keer per minuut, gedurende minimaal 1 uur achter elkaar of gedurende minimaal 2 uur per dag.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Repeterende handelingen kunnen voorkomen tijdens typen en muizen,&#194;&#160; pipeteerwerkzaamheden, coupes snijden, portioneren van maaltijden, schenken van koffie/thee/dranken, schroeven.&lt;/p&gt;</description>
@@ -7204,7 +7204,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-151" optional="no">
           <title>Duwen en trekken</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-630" type="risk">
             <title>Duwen en trekken komen veelvuldig voor.</title>
             <description>&lt;p&gt;Normen:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;20 kilo voor het in gang zetten en 10 kilo voor het in gang houden. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Duwen en trekken komen voor bij vervoer van bedden, rolstoelen of brancards, containers, regaalwagens, voedingswagens, afvalwagens, etc.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Duwen heeft de voorkeur boven trekken van bijvoorbeeld karren, bedden.&lt;/p&gt;</description>
@@ -7220,7 +7220,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-152" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-632" type="risk">
             <title>Er zijn werkvoorschriften en protocollen gemaakt om fysiek belastende werkzaamheden te verminderen en deze zijn bij de medewerkers bekend.</title>
             <problem-description>4.5.6.1 Er zijn geen werkvoorschriften en protocollen gemaakt om fysiek belastende werkzaamheden te verminderen en/of de werkvoorschriften en protocollen zijn niet bekend bij de medewerkers.</problem-description>
@@ -7264,7 +7264,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-2446" optional="no">
         <title>Tot slot (Onderw)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-12820" type="policy">
           <title>Alle relevante risico's zijn in het werkproces Onderwijs aan de orde gekomen.</title>
           <problem-description>4.6.1 Nog niet alle relevante risico's zijn in het werkproces Onderwijs aan de orde gekomen.</problem-description>
@@ -7277,13 +7277,13 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
     <profile-question external-id="KLV-5" type="optional">
       <title>Laboratoriumwerk? Denk hierbij aan zowel routine- als researchwerkzaamheden, maar ook aan het werken met proefdieren en pathologie.</title>
       <question>5 Laboratoriumwerk? Denk hierbij aan zowel routine- als researchwerkzaamheden, maar ook aan het werken met proefdieren en pathologie.</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-154" optional="no">
         <title>werkruimtes (Lab)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <module external-id="M-155" optional="no">
           <title>Laboratoriumruimte algemeen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-637" type="policy">
             <title>Het laboratorium is goed uitgerust voor het type werkzaamheden</title>
             <problem-description>5.1.1.1 Het laboratorium is niet goed uitgerust voor het type werkzaamheden. </problem-description>
@@ -7632,7 +7632,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       <module external-id="M-157" optional="true">
         <module optional="no">
           <title>Algemeen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-665" type="policy">
             <title>Er is een actuele registratie van alle gevaarlijke stoffen op de afdeling</title>
             <problem-description>5.2.1 Er is geen complete actuele registratie van alle gevaarlijke stoffen op de afdeling </problem-description>
@@ -7976,7 +7976,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-162" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-694" type="policy">
             <title>Alle medewerkers zijn op de hoogte van de veiligheids- en gezondheidsrisico's van (het werken met) gevaarlijke stoffen</title>
             <problem-description>5.2.5.1 Niet alle medewerkers zijn op de hoogte van alle veiligheids- en gezondheidsrisico's van (het werken met) gevaarlijke stoffen </problem-description>
@@ -8039,7 +8039,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         <question>Medewerkers werkengerichtmet biologische agentia.</question>
         <module external-id="M-164" optional="no">
           <title>Algemeen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-701" type="top5">
             <title>Er is een overzicht van medewerkers die geclassificeerd zijn als ?risicolopers? en ?risicovormers? met betrekking tot de (pathogene) biologische agentia waarmee zij in contact kunnen komen.</title>
             <problem-description>5.3.1.1 Er is geen overzicht van medewerkers die geclassificeerd zijn als risicolopers en risicovormers met betrekking tot de (pathogene) biologische agentia waarmee zij in contact kunnen komen. </problem-description>
@@ -8608,7 +8608,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-169" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-740" type="top5">
             <title>Alle medewerkers zijn op de hoogte van de veiligheids- en gezondheidsrisico's van (het werken met) biologische agentia</title>
             <problem-description>5.3.6.1 Niet alle medewerkers zijn op de hoogte van de veiligheids- en gezondheidsrisico's van (het werken met) biologische agentia.</problem-description>
@@ -8858,7 +8858,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-176" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-768" type="top5">
             <title>Er zijn werkvoorschriften en protocollen gemaakt. Alle maatregelen, werkvoorschriften en protocollen inzake natwerk en huidbelasting zijn bij iedereen bekend.</title>
             <problem-description>5.5.5.1 Er zijn geen werkvoorschriften en protocollen gemaakt. Eventuele maatregelen inzake natwerk en huidbelasting zijn niet bij iedereen bekend.</problem-description>
@@ -9119,7 +9119,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         <question>Er komen fysiek belastende werkzaamheden voor.</question>
         <module external-id="M-188" optional="no">
           <title>Staan en lopen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-797" type="risk">
             <title>Veelvuldig of langdurig staan of lopen komt voor.</title>
             <description>&lt;p&gt;Voor langdurig staan wordt de norm van 4 uur per werkdag gehanteerd.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Veelvuldig lopen doet vooral een beroep op het uithoudingsvermogen. Met name longen, hart en de energiesystemen worden dan belast.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Deze vormen van fysieke belasting komen o.m. voor tijdens werkzaamheden aan bed, behandel- of operatietafel, logistieke en bevoorradingswerkzaamheden, surveillance, werkzaamheden in de centrale keuken, onderhoudswerkzaamheden, het vervoeren van bedden, brancards en rolstoelen.&lt;/p&gt;</description>
@@ -9129,7 +9129,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-189" optional="no">
           <title>Ongunstige werkhoudingen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-799" type="risk">
             <title>Ongunstige werkhoudingen komen veelvuldig voor.</title>
             <description>&lt;p&gt;Onder ongunstige werkhoudingen wordt verstaan: knielen, bukken, draaien, reiken, hurken, buigen, voorovergebogen werken, nekflexie, werken boven schouderhoogte.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Het werken in een sterk voorovergebogen werkhouding langer dan een half uur per werkdag geeft een verhoogd risico op het ontstaan van rugklachten.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Deze vormen van fysieke belasting komen o.m. voor tijdens het werken met microscopen, aan de zuurkast, werken aan bed/behandel/operatietafel, bediening van bedbalken/consoles, onderhouds- en schoonmaakwerkzaamheden, bevoorrading van magazijnen, archiefwerk, werk in restaurant/keukens.&lt;/p&gt;</description>
@@ -9139,7 +9139,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-190" optional="no">
           <title>Repeterende handelingen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-801" type="risk">
             <title>Repeterende handelingen komen voor.</title>
             <description>&lt;p&gt;Onder repeterende bewegen wordt verstaan: herhaalde (of bijna dezelfde) bewegingen van de handen, vaker dan 2 keer per minuut, gedurende minimaal 1 uur achter elkaar of gedurende minimaal 2 uur per dag.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Repeterende handelingen kunnen voorkomen tijdens typen en muizen,&#194;&#160; pipeteerwerkzaamheden, coupes snijden, portioneren van maaltijden, schenken van koffie/thee/dranken, schroeven.&lt;/p&gt;</description>
@@ -9149,7 +9149,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-191" optional="no">
           <title>Langdurig zitten</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-803" type="risk">
             <title>Langdurig zitten komt voor.</title>
             <problem-description>5.7.4.0 Langdurig zitten komt niet of nauwelijks voor.</problem-description>
@@ -9160,7 +9160,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-192" optional="no">
           <title>Tillen en dragen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-805" type="risk">
             <title>Tillen en dragen komen voor.</title>
             <description>&lt;p&gt;Het tillen van gewichten van 23 kilo of zwaarder moet zoveel mogelijk worden voorkomen. Indien de tilsituatie niet optimaal is, ligt het te tillen gewicht lager. Tillen en dragen komt onder andere voor tijdens het verplaatsen van pati&#258;&#356;nten van bed/rolstoel naar de behandeltafel en vice versa, aanbrengen van positiemateriaal, fotoplaten, dienbladen, dossiers, tijdens bevoorrading en archiefwerk.&lt;/p&gt;</description>
@@ -9176,7 +9176,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-193" optional="no">
           <title>Duwen en trekken</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-807" type="risk">
             <title>Duwen en trekken komen veelvuldig voor.</title>
             <description>&lt;p&gt;Normen:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;20 kilo voor het in gang zetten en 10 kilo voor het in gang houden. Duwen en trekken komen voor bij vervoer van bedden, rolstoelen of brancards, containers, regaalwagens, voedingswagens, afvalwagens, etc.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Duwen heeft de voorkeur boven trekken van bijvoorbeeld karren, bedden.&lt;/p&gt;</description>
@@ -9192,7 +9192,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-195" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-811" type="top5">
             <title>Er zijn werkvoorschriften en protocollen gemaakt om fysiek belastende werkzaamheden te verminderen en deze zijn bij de medewerkers bekend.</title>
             <problem-description>5.7.8.1 Er zijn geen werkvoorschriften en protocollen gemaakt om fysiek belastende werkzaamheden te verminderen en/of de werkvoorschriften en protocollen zijn niet bekend bij de medewerkers.</problem-description>
@@ -9236,7 +9236,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-2447" optional="no">
         <title>Tot slot (Lab)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-12821" type="policy">
           <title>Alle relevante risico's zijn in het werkproces Laboratoriumwerk aan de orde gekomen.</title>
           <problem-description>5.8.1 Nog niet alle relevante risico's zijn in het werkproces Laboratoriumwerk aan de orde gekomen.</problem-description>
@@ -9249,10 +9249,10 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
     <profile-question external-id="KLV-6" type="optional">
       <title>Medicamentenbereiding? Het betreft het zelf samenstellen van medicamenten, maar ook het werken met gerede of halffabrikaten.</title>
       <question>6 Medicamentenbereiding? Het betreft het zelf samenstellen van medicamenten, maar ook het werken met gerede of halffabrikaten.</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-197" optional="no">
         <title>Werkruimte: Apotheekruimte ? Bereidings annex laboratoriumruimte algemeen  (Med)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-816" type="policy">
           <title>De apotheek is goed uitgerust voor het type werkzaamheden</title>
           <problem-description>6.1.1 De apotheek is niet goed uitgerust voor het type werkzaamheden.</problem-description>
@@ -9387,7 +9387,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       <module external-id="M-198" optional="true">
         <module optional="no">
           <title>Algemeen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-827" type="policy">
             <title>Er is een actuele registratie van alle gevaarlijke stoffen op de afdeling</title>
             <problem-description>6.2.1 Er is geen complete actuele registratie van alle gevaarlijke stoffen op de afdeling </problem-description>
@@ -9765,7 +9765,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-204" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-861" type="policy">
             <title>Alle medewerkers zijn op de hoogte van de veiligheids- en gezondheidsrisico's van (het werken met) gevaarlijke stoffen</title>
             <problem-description>6.2.6.1 Niet alle medewerkers zijn op de hoogte van alle veiligheids- en gezondheidsrisico's van (het werken met) gevaarlijke stoffen </problem-description>
@@ -9859,7 +9859,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-207" optional="no">
           <title>Gebruik van handschoenen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-871" type="risk">
             <title>Medewerkers moeten veelvuldig of langdurig handschoenen dragen.</title>
             <description>&lt;p&gt;Door het transpireren in handschoenen ontstaat bij langdurig gebruik hetzelfde effect als bij nat werk. Omdat het kort (minder dan 10 minuten) dragen van handschoenen niet direct tot natte handen leidt, kan het frequent kort (= tot het moment van transpireren) gebruik niet veel kwaad.&lt;/p&gt;</description>
@@ -9869,7 +9869,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-208" optional="no">
           <title>Handen reinigen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-874" type="risk">
             <title>Medewerkers reinigen of desinfecteren veelvuldig de handen.</title>
             <description>&lt;p&gt;Desinfectie met handenalcohol is minder schadelijk dan het wassen met water en zeep. Als schadelijk wordt gezien een frequentie van 20 maal per dag of een duur van 25% van de werktijd.&lt;/p&gt;</description>
@@ -9885,7 +9885,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-209" optional="no">
           <title>Irriterende stoffen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-877" type="risk">
             <title>Medewerkers komen regelmatig in aanraking met irriterende stoffen.</title>
             <description>&lt;p&gt;Onder irriterende stoffen worden onder meer verstaan zeep en andere schoonmaakmiddelen, chloor,maar ook water. Als schadelijk wordt gezien: een frequentie van 20 maal per dag of een duur van 25% van de werktijd.&lt;/p&gt;</description>
@@ -9901,7 +9901,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-210" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-880" type="top5">
             <title>Er zijn werkvoorschriften en protocollen gemaakt. Alle maatregelen, werkvoorschriften en protocollen inzake nat werk en huidbelasting zijn bij iedereen bekend.</title>
             <problem-description>6.3.5.1 Er zijn geen werkvoorschriften en protocollen gemaakt. Eventuele genomen maatregelen zijn niet bij iedereen bekend.</problem-description>
@@ -10146,7 +10146,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         <question>Er komen fysiek belastende werkzaamheden voor.</question>
         <module external-id="M-221" optional="no">
           <title>Staan en lopen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-907" type="risk">
             <title>Veelvuldig of langdurig staan of lopen komt voor.</title>
             <description>&lt;p&gt;Voor langdurig staan wordt de norm van 4 uur per werkdag gehanteerd.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Veelvuldig lopen doet vooral een beroep op het uithoudingsvermogen. Met name longen, hart en de energiesystemen worden dan belast.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Deze vormen van fysieke belasting komen o.m. voor tijdens werkzaamheden aan bed, behandel- of operatietafel, logistieke en bevoorradingswerkzaamheden, surveillance, werkzaamheden in de centrale keuken, onderhoudswerkzaamheden, het vervoeren van bedden, brancards en rolstoelen.&lt;/p&gt;</description>
@@ -10156,7 +10156,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-222" optional="no">
           <title>Ongunstige werkhoudingen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-909" type="risk">
             <title>Ongunstige werkhoudingen komen veelvuldig voor.</title>
             <description>&lt;p&gt;Onder ongunstige werkhoudingen wordt verstaan: knielen, bukken, draaien, reiken, hurken, buigen, voorovergebogen werken, nekflexie, werken boven schouderhoogte.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Het werken in een sterk voorovergebogen werkhouding langer dan een half uur per werkdag geeft een verhoogd risico op het ontstaan van rugklachten.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Deze vormen van fysieke belasting komen o.m. voor tijdens het werken met microscopen, aan de zuurkast, werken aan bed/behandel/operatietafel, bediening van bedbalken/consoles, onderhouds- en schoonmaakwerkzaamheden, bevoorrading van magazijnen, archiefwerk, werk in restaurant/keukens.&lt;/p&gt;</description>
@@ -10166,7 +10166,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-223" optional="no">
           <title>Repeterende handelingen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-911" type="risk">
             <title>Repeterende handelingen komen voor.</title>
             <description>&lt;p&gt;Onder repeterende bewegen wordt verstaan: herhaalde (of bijna dezelfde) bewegingen van de handen, vaker dan 2 keer per minuut, gedurende minimaal 1 uur achter elkaar of gedurende minimaal 2 uur per dag.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Repeterende handelingen kunnen voorkomen tijdens typen en muizen,&#194;&#160; pipeteerwerkzaamheden, coupes snijden, portioneren van maaltijden, schenken van koffie/thee/dranken, schroeven.&lt;/p&gt;</description>
@@ -10176,7 +10176,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-224" optional="no">
           <title>Duwen en trekken</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-913" type="risk">
             <title>Duwen en trekken komen veelvuldig voor.</title>
             <problem-description>6.5.4.0 Duwen en trekken komt niet of nauwelijks voor.</problem-description>
@@ -10193,7 +10193,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-225" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-915" type="top5">
             <title>Er zijn werkvoorschriften en protocollen gemaakt om fysiek belastende werkzaamheden te verminderen en deze zijn bij de medewerkers bekend.</title>
             <problem-description>6.5.5.1 Er zijn geen werkvoorschriften en protocollen aanwezig om fysiek belastende werkzaamheden te verminderen en/of de werkvoorschriften en protocollen zijn onvoldoende bekend bij de medewerkers.</problem-description>
@@ -10237,7 +10237,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-2448" optional="no">
         <title>Tot slot (Med)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-12822" type="policy">
           <title>Alle relevante risico's zijn in het werkproces Medicamentenbereiding aan de orde gekomen.</title>
           <problem-description>6.6.1 Nog niet alle relevante risico's zijn in het werkproces Medicamentenbereiding aan de orde gekomen.</problem-description>
@@ -10250,10 +10250,10 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
     <profile-question external-id="KLV-7" type="optional">
       <title>Sterilisatie? Dit betreft het reinigen van medische apparatuur en toebehoren zoals het reinigen van scopen en het werken met autoclaven.</title>
       <question>7 Sterilisatie? Dit betreft het reinigen van medische apparatuur en toebehoren zoals het reinigen van scopen en het werken met autoclaven.</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-227" optional="no">
         <title>De spoel- en sterilisatieruimten (Instr)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-920" type="policy">
           <title>De ruimten zijn adequaat ingericht voor het gebruik.</title>
           <problem-description>7.1.1 De ruimten zijn niet adequaat ingericht voor het gebruik. </problem-description>
@@ -10313,7 +10313,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         <question>Medewerkers werkengerichtmet biologische agentia.</question>
         <module external-id="M-229" optional="no">
           <title>Algemeen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-925" type="top5">
             <title>Er is een overzicht van medewerkers die geclassificeerd  zijn als ?risicolopers?  en ?risicovormers? met betrekking tot de (pathogene) biologische agentia waarmee zij in contact kunnen komen.</title>
             <description>&lt;p&gt;Medewerkers lopen voor sommige biologische agentia een verhoogd risico, bijvoorbeeld voor Hep. B of TBC.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- Hep. B: Er is ge&#239;nventariseerd welke functies behoren tot de categorie risicolopers en ?vormers.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- Voor TBC is ge&#239;nventariseerd welke functies behoren tot de risicolopers.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Van medewerkers die werken op afdelingen waarbij de kans aanwezig dat zij in contact komen met kinderziekten dient ge&#239;nventariseerd te worden wat hun immuunstatus is.&lt;/p&gt;</description>
@@ -10512,7 +10512,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-231" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-938" type="top5">
             <title>Alle medewerkers zijn op de hoogte van de veiligheids- en gezondheidsrisico's van (het werken met) biologische agentia</title>
             <problem-description>7.2.3.1 Niet alle medewerkers zijn op de hoogte van de veiligheids- en gezondheidsrisico's van (het werken met) biologische agentia. </problem-description>
@@ -10596,7 +10596,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       <module external-id="M-232" optional="true">
         <module optional="no">
           <title>Algemeen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-945" type="policy">
             <title>Er is een actuele registratie van alle gevaarlijke stoffen op de afdeling</title>
             <problem-description>7.3.1 Er is geen complete actuele registratie van alle gevaarlijke stoffen op de afdeling </problem-description>
@@ -10746,7 +10746,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-235" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-959" type="policy">
             <title>Alle medewerkers zijn op de hoogte van de veiligheids- en gezondheidsrisico's van (het werken met) gevaarlijke stoffen</title>
             <problem-description>7.3.3.1 Niet alle medewerkers zijn op de hoogte van alle veiligheids- en gezondheidsrisico's van (het werken met) gevaarlijke stoffen </problem-description>
@@ -10840,7 +10840,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-238" optional="no">
           <title>Gebruik van handschoenen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-969" type="risk">
             <title>Medewerkers moeten veelvuldig of langdurig handschoenen dragen.</title>
             <description>&lt;p&gt;Door het transpireren in handschoenen ontstaat bij langdurig gebruik hetzelfde effect als bij nat werk. Omdat het kort (minder dan 10 minuten) dragen van handschoenen niet direct tot natte handen leidt, kan het frequent kort (= tot het moment van transpireren) gebruik niet veel kwaad. &lt;/p&gt;&lt;p&gt;Let hierbij ook op andere persoonlijke beschermingsmiddelen zoals (las-)brillen, mondkapjes, e.d.&lt;/p&gt;</description>
@@ -10850,7 +10850,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-239" optional="no">
           <title>Handen reinigen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-972" type="risk">
             <title>Medewerkers reinigen of desinfecteren veelvuldig de handen.</title>
             <description>&lt;p&gt;Desinfectie met handenalcohol is minder schadelijk dan het wassen met water en zeep. Als schadelijk wordt gezien een frequentie van 20 maal per dag of een duur van 25% van de werktijd.&lt;/p&gt;</description>
@@ -10866,7 +10866,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-240" optional="no">
           <title>Irriterende stoffen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-975" type="risk">
             <title>Medewerkers komen regelmatig in aanraking met irriterende stoffen.</title>
             <description>&lt;p&gt;Onder irriterende stoffen worden onder meer verstaan zeep en andere schoonmaakmiddelen, chloor, maar ook water. Als schadelijk wordt gezien: een frequentie van 20 maal per dag of een duur van 25% van de werktijd.&lt;/p&gt;</description>
@@ -10882,7 +10882,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-241" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-978" type="top5">
             <title>Er zijn werkvoorschriften en protocollen gemaakt. Alle maatregelen, werkvoorschriften en protocollen inzake nat werk en huidbelasting zijn bij iedereen bekend.</title>
             <problem-description>7.4.5.1 Er zijn geen werkvoorschriften en protocollen gemaakt. Ingevoerde maatregelen zijn niet bij iedereen bekend.</problem-description>
@@ -11131,7 +11131,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         <question>Er komen fysiek belastende werkzaamheden voor.</question>
         <module external-id="M-252" optional="no">
           <title>Staan en lopen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1005" type="risk">
             <title>Veelvuldig of langdurig staan of lopen komt voor.</title>
             <description>&lt;p&gt;Voor langdurig staan wordt de norm van 4 uur per werkdag gehanteerd.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Veelvuldig lopen doet vooral een beroep op het uithoudingsvermogen. Met name longen, hart en de energiesystemen worden dan belast.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Deze vormen van fysieke belasting komen o.m. voor tijdens werkzaamheden aan bed, behandel- of operatietafel, logistieke en bevoorradingswerkzaamheden, surveillance, werkzaamheden in de centrale keuken, onderhoudswerkzaamheden, het vervoeren van bedden, brancards en rolstoelen.&lt;/p&gt;</description>
@@ -11147,7 +11147,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-253" optional="no">
           <title>Ongunstige werkhoudingen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1007" type="risk">
             <title>Ongunstige werkhoudingen komen veelvuldig voor.</title>
             <description>&lt;p&gt;Onder ongunstige werkhoudingen wordt verstaan: knielen, bukken, draaien, reiken, hurken, buigen, voorovergebogen werken, nekflexie, werken boven schouderhoogte.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Het werken in een sterk voorovergebogen werkhouding langer dan een half uur per werkdag geeft een verhoogd risico op het ontstaan van rugklachten&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Deze vormen van fysieke belasting komen o.m. voor tijdens het werken met microscopen, aan de zuurkast, werken aan bed/behandel/operatietafel, bediening van bedbalken/consoles, onderhouds- en schoonmaakwerkzaamheden, bevoorrading van magazijnen, archiefwerk, werk in restaurant/keukens.&lt;/p&gt;</description>
@@ -11163,7 +11163,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-254" optional="no">
           <title>Repeterende handelingen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1009" type="risk">
             <title>Repeterende handelingen komen voor.</title>
             <description>&lt;p&gt;Onder repeterende bewegen wordt verstaan: herhaalde (of bijna dezelfde) bewegingen van de handen, vaker dan 2 keer per minuut, gedurende minimaal 1 uur achter elkaar of gedurende minimaal 2 uur per dag.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Repeterende handelingen kunnen voorkomen tijdens typen en muizen,&#194;&#160; pipeteerwerkzaamheden, coupes snijden, portioneren van maaltijden, schenken van koffie/thee/dranken, schroeven.&lt;/p&gt;</description>
@@ -11173,7 +11173,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-255" optional="no">
           <title>Tillen en dragen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1011" type="risk">
             <title>Tillen en dragen komen voor.</title>
             <description>&lt;p&gt;Het tillen van gewichten van 23 kilo of zwaarder moet zoveel mogelijk worden voorkomen. Indien de tilsituatie niet optimaal is, ligt het te tillen gewicht lager. Tillen en dragen komt onder andere voor tijdens het verplaatsen van pati&#258;&#356;nten van bed/rolstoel naar de behandeltafel en vice versa, aanbrengen van positiemateriaal, fotoplaten, dienbladen, dossiers, tijdens bevoorrading en archiefwerk.&lt;/p&gt;</description>
@@ -11189,7 +11189,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-256" optional="no">
           <title>Duwen en trekken</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1013" type="risk">
             <title>Duwen en trekken komen veelvuldig voor.</title>
             <description>&lt;p&gt;Normen:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;20 kilo voor het in gang zetten en 10 kilo voor het in gang houden. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Duwen en trekken komen voor bij vervoer van bedden, rolstoelen of brancards, containers, regaalwagens, voedingswagens, afvalwagens, etc.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Duwen heeft de voorkeur boven trekken van bijvoorbeeld karren, bedden.&lt;/p&gt;</description>
@@ -11205,7 +11205,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-257" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1015" type="top5">
             <title>Er zijn werkvoorschriften en protocollen gemaakt om fysiek belastende werkzaamheden te verminderen en deze zijn bij de medewerkers bekend.</title>
             <problem-description>7.6.6.1 Er zijn geen werkvoorschriften en protocollen aanwezig om fysiek belastende werkzaamheden te verminderen of de werkvoorschriften en protocollen zijn bij de medewerkers niet bekend.</problem-description>
@@ -11249,7 +11249,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-2449" optional="no">
         <title>Tot slot (Instr)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-12824" type="policy">
           <title>Alle relevante risico's zijn in het werkproces Reiniging en Sterilisatie Instrumenten en Toebehoren aan de orde gekomen.</title>
           <problem-description>7.7.1 Nog niet alle relevante risico's zijn in het werkproces Reiniging en Sterilisatie Instrumenten en Toebehoren aan de orde gekomen.</problem-description>
@@ -11262,10 +11262,10 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
     <profile-question external-id="KLV-8" type="optional">
       <title>Schoonmaak? Hier onder wordt verstaan het reinigen van gebouwen en bouwdelen; zowel de inventaris als de vloeren, wanden, ramen en deuren, alsmede het sanitair.</title>
       <question>8 Schoonmaak? Hier onder wordt verstaan het reinigen van gebouwen en bouwdelen; zowel de inventaris als de vloeren, wanden, ramen en deuren, alsmede het sanitair.</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-259" optional="no">
         <title>Werkruimtes: werkkasten (Schoonm)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-1020" type="policy">
           <title>De werkkast is adequaat ingericht voor het gebruik.</title>
           <problem-description>8.1.1 De werkkast is niet adequaat ingericht voor het gebruik. </problem-description>
@@ -11356,7 +11356,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       <module external-id="M-261" optional="true">
         <module optional="no">
           <title>Algemeen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1028" type="policy">
             <title>Er is een actuele registratie van alle gevaarlijke stoffen op de afdeling</title>
             <problem-description>8.3.1 Er is geen complete actuele registratie van alle gevaarlijke stoffen op de afdeling </problem-description>
@@ -11515,7 +11515,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-264" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1042" type="policy">
             <title>Alle medewerkers zijn op de hoogte van de veiligheids- en gezondheidsrisico's van (het werken met) gevaarlijke stoffen</title>
             <problem-description>8.3.3.1 Niet alle medewerkers zijn op de hoogte van alle veiligheids- en gezondheidsrisico's van (het werken met) gevaarlijke stoffen </problem-description>
@@ -11609,7 +11609,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-267" optional="no">
           <title>Gebruik van handschoenen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1052" type="risk">
             <title>Medewerkers moeten veelvuldig of langdurig handschoenen dragen.</title>
             <description>&lt;p&gt;Door het transpireren in handschoenen ontstaat bij langdurig gebruik hetzelfde effect als bij nat werk. Omdat het kort (minder dan 10 minuten) dragen van handschoenen niet direct tot natte handen leidt, kan het frequent kort (= tot het moment van transpireren) gebruik niet veel kwaad.&lt;/p&gt;</description>
@@ -11619,7 +11619,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-268" optional="no">
           <title>Handen reinigen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1055" type="risk">
             <title>Medewerkers reinigen of desinfecteren veelvuldig de handen.</title>
             <description>&lt;p&gt;Desinfectie met handenalcohol is minder schadelijk dan het wassen met water en zeep. Als schadelijk wordt gezien een frequentie van 20 maal per dag of een duur van 25% van de werktijd.&lt;/p&gt;</description>
@@ -11635,7 +11635,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-269" optional="no">
           <title>Irriterende stoffen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1058" type="risk">
             <title>Medewerkers komen regelmatig in aanraking met irriterende stoffen.</title>
             <description>&lt;p&gt;Onder irriterende stoffen worden onder meer verstaan zeep en andere schoonmaakmiddelen, chloor, maar ook water. Als schadelijk wordt gezien: een frequentie van 20 maal per dag of een duur van 25% van de werktijd.&lt;/p&gt;</description>
@@ -11651,7 +11651,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-270" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1061" type="top5">
             <title>Er zijn werkvoorschriften en protocollen gemaakt. Alle maatregelen, werkvoorschriften en protocollen inzake nat werk en huidbelasting zijn bij iedereen bekend.</title>
             <problem-description>8.4.5.1 Er zijn geen werkvoorschriften en protocollen gemaakt. Genomen maatregelen zijn niet bij iedereen bekend.</problem-description>
@@ -11918,7 +11918,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         <question>Er komen fysiek belastende werkzaamheden voor.</question>
         <module external-id="M-282" optional="no">
           <title>Staan en lopen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1090" type="risk">
             <title>Veelvuldig of langdurig staan of lopen komt voor.</title>
             <description>&lt;p&gt;Voor langdurig staan wordt de norm van 4 uur per werkdag gehanteerd.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Veelvuldig lopen doet vooral een beroep op het uithoudingsvermogen. Met name longen, hart en de energiesystemen worden dan belast.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Deze vormen van fysieke belasting komen o.m. voor tijdens werkzaamheden aan bed, behandel- of operatietafel, logistieke en bevoorradingswerkzaamheden, surveillance, werkzaamheden in de centrale keuken, onderhoudswerkzaamheden, het vervoeren van bedden, brancards en rolstoelen.&lt;/p&gt;</description>
@@ -11934,7 +11934,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-283" optional="no">
           <title>Ongunstige werkhoudingen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1092" type="risk">
             <title>Ongunstige werkhoudingen komen veelvuldig voor.</title>
             <description>&lt;p&gt;Onder ongunstige werkhoudingen wordt verstaan: knielen, bukken, draaien, reiken, hurken, buigen, voorovergebogen werken, nekflexie, werken boven schouderhoogte.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Het werken in een sterk voorovergebogen werkhouding langer dan een half uur per werkdag geeft een verhoogd risico op het ontstaan van rugklachten&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Deze vormen van fysieke belasting komen o.m. voor tijdens het werken met microscopen, aan de zuurkast, werken aan bed/behandel/operatietafel, bediening van bedbalken/consoles, onderhouds- en schoonmaakwerkzaamheden, bevoorrading van magazijnen, archiefwerk, werk in restaurant/keukens.&lt;/p&gt;</description>
@@ -11950,7 +11950,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-284" optional="no">
           <title>Repeterende handelingen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1094" type="risk">
             <title>Repeterende handelingen komen voor.</title>
             <problem-description>8.6.3.0 Repeterende handelingen komen niet of nauwelijks voor.</problem-description>
@@ -11961,7 +11961,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-285" optional="no">
           <title>Tillen en dragen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1096" type="risk">
             <title>Tillen en dragen komen voor.</title>
             <problem-description>8.6.0 Tillen en dragen komen niet of nauwelijks voor.</problem-description>
@@ -11978,7 +11978,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-286" optional="no">
           <title>Duwen en trekken</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1098" type="risk">
             <title>Duwen en trekken komen veelvuldig voor.</title>
             <description>&lt;p&gt;Normen:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;20 kilo voor het in gang zetten en 10 kilo voor het in gang houden. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Duwen en trekken komen voor bij vervoer van bedden, rolstoelen of brancards, containers, regaalwagens, voedingswagens, afvalwagens, etc.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Duwen heeft de voorkeur boven trekken van bijvoorbeeld karren, bedden.&lt;/p&gt;</description>
@@ -11994,7 +11994,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-288" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1102" type="top5">
             <title>Er zijn werkvoorschriften en protocollen gemaakt om fysiek belastende werkzaamheden te verminderen en deze zijn bij de medewerkers bekend.</title>
             <problem-description>8.6.7.1 Er zijn geen werkvoorschriften en protocollen aanwezig om fysiek belastende werkzaamheden te verminderen of deze zijn niet bekend bij de medewerkers.</problem-description>
@@ -12038,7 +12038,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-2450" optional="no">
         <title>Tot slot (Schoonm)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-12825" type="policy">
           <title>Alle relevante risico's zijn in het werkproces Schoonmaak aan de orde gekomen.</title>
           <problem-description>8.7.1 Nog niet alle relevante risico's zijn in het werkproces Schoonmaak aan de orde gekomen.</problem-description>
@@ -12051,10 +12051,10 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
     <profile-question external-id="KLV-9" type="optional">
       <title>Voedingsbereiding? Dit omvat het werk in de (centrale) keukens en bijbehorende afdelingen, maar ook distributie van voeding op afdelingen en de afwas.</title>
       <question>9 Voedingsbereiding? Dit omvat het werk in de (centrale) keukens en bijbehorende afdelingen, maar ook distributie van voeding op afdelingen en de afwas.</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-290" optional="no">
         <title>Werkruimte: keuken (Voeding)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-1107" type="policy">
           <title>De keuken is functioneel ingericht voor het gebruik.</title>
           <problem-description>9.1.1 De keuken is niet functioneel ingericht voor het gebruik. </problem-description>
@@ -12171,7 +12171,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-293" optional="no">
           <title>Gebruik van handschoenen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1117" type="risk">
             <title>Medewerkers moeten veelvuldig of langdurig handschoenen dragen.</title>
             <description>&lt;p&gt;Door het transpireren in handschoenen ontstaat bij langdurig gebruik hetzelfde effect als bij nat werk. Omdat het kort (minder dan 10 minuten) dragen van handschoenen niet direct tot natte handen leidt, kan het frequent kort (= tot het moment van transpireren) gebruik niet veel kwaad. &lt;br/&gt;Let hierbij ook op andere persoonlijke beschermingsmiddelen zoals (las-)brillen, mondkapjes, e.d.&lt;/p&gt;</description>
@@ -12181,7 +12181,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-294" optional="no">
           <title>Handen reinigen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1120" type="risk">
             <title>Medewerkers reinigen of desinfecteren veelvuldig de handen.</title>
             <description>&lt;p&gt;Desinfectie met handenalcohol is minder schadelijk dan het wassen met water en zeep. Als schadelijk wordt gezien een frequentie van 20 maal per dag of een duur van 25% van de werktijd.&lt;/p&gt;</description>
@@ -12197,7 +12197,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-295" optional="no">
           <title>Irriterende stoffen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1123" type="risk">
             <title>Medewerkers komen regelmatig in aanraking met irriterende stoffen.</title>
             <description>&lt;p&gt;Onder irriterende stoffen worden onder meer verstaan zeep en andere schoonmaakmiddelen, chloor, maar ook water. Als schadelijk wordt gezien: een frequentie van 20 maal per dag of een duur van 25% van de werktijd.&lt;/p&gt;</description>
@@ -12213,7 +12213,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-296" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1126" type="top5">
             <title>Er zijn werkvoorschriften en protocollen gemaakt. Alle maatregelen, werkvoorschriften en protocollen inzake nat werk en huidbelasting zijn bij iedereen bekend.</title>
             <problem-description>9.2.5.1 Er zijn geen werkvoorschriften en protocollen gemaakt. Genomen maatregelen zijn niet bij iedereen bekend.</problem-description>
@@ -12245,7 +12245,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       <module external-id="M-297" optional="true">
         <module optional="no">
           <title>Algemeen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1131" type="policy">
             <title>Er is een actuele registratie van alle gevaarlijke stoffen op de afdeling</title>
             <problem-description>9.3.1 Er is geen complete actuele registratie van alle gevaarlijke stoffen op de afdeling </problem-description>
@@ -12404,7 +12404,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-300" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1145" type="policy">
             <title>Alle medewerkers zijn op de hoogte van de veiligheids- en gezondheidsrisico's van (het werken met) gevaarlijke stoffen</title>
             <problem-description>9.3.3.1 Niet alle medewerkers zijn op de hoogte van alle veiligheids- en gezondheidsrisico's van (het werken met) gevaarlijke stoffen </problem-description>
@@ -12712,7 +12712,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         <question>Er komen fysiek belastende werkzaamheden voor.</question>
         <module external-id="M-312" optional="no">
           <title>Staan en lopen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1176" type="risk">
             <title>Veelvuldig of langdurig staan of lopen komt voor.</title>
             <description>&lt;p&gt;Voor langdurig staan wordt de norm van 4 uur per werkdag gehanteerd.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Veelvuldig lopen doet vooral een beroep op het uithoudingsvermogen. Met name longen, hart en de energiesystemen worden dan belast.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Deze vormen van fysieke belasting komen o.m. voor tijdens werkzaamheden aan bed, behandel- of operatietafel, logistieke en bevoorradingswerkzaamheden, surveillance, werkzaamheden in de centrale keuken, onderhoudswerkzaamheden, het vervoeren van bedden, brancards en rolstoelen.&lt;/p&gt;</description>
@@ -12728,7 +12728,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-313" optional="no">
           <title>Ongunstige werkhoudingen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1178" type="risk">
             <title>Ongunstige werkhoudingen komen veelvuldig voor.</title>
             <description>&lt;p&gt;Onder ongunstige werkhoudingen wordt verstaan: knielen, bukken, draaien, reiken, hurken, buigen, voorovergebogen werken, nekflexie, werken boven schouderhoogte.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Het werken in een sterk voorovergebogen werkhouding langer dan een half uur per werkdag geeft een verhoogd risico op het ontstaan van rugklachten.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Deze vormen van fysieke belasting komen o.m. voor tijdens het werken met microscopen, aan de zuurkast, werken aan bed/behandel/operatietafel, bediening van bedbalken/consoles, onderhouds- en schoonmaakwerkzaamheden, bevoorrading van magazijnen, archiefwerk, werk in restaurant/keukens.&lt;/p&gt;</description>
@@ -12738,7 +12738,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-314" optional="no">
           <title>Repeterende handelingen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1180" type="risk">
             <title>Repeterende handelingen komen voor.</title>
             <description>&lt;p&gt;Onder repeterend bewegen wordt verstaan: herhaalde (of bijna dezelfde) bewegingen van de handen, vaker dan 2 keer per minuut, gedurende minimaal 1 uur achter elkaar of gedurende minimaal 2 uur per dag.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Repeterende handelingen kunnen voorkomen tijdens typen en muizen,&#194;&#160; pipeteerwerkzaamheden, coupes snijden, portioneren van maaltijden, schenken van koffie/thee/dranken, schroeven.&lt;/p&gt;</description>
@@ -12748,7 +12748,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-315" optional="no">
           <title>Tillen en dragen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1182" type="risk">
             <title>Tillen en dragen komen voor.</title>
             <description>&lt;p&gt;Het tillen van gewichten van 23 kilo of zwaarder moet zoveel mogelijk worden voorkomen. Indien de tilsituatie niet optimaal is, ligt het te tillen gewicht lager. Tillen en dragen komt onder andere voor tijdens het verplaatsen van pati&#258;&#356;nten van bed/rolstoel naar de behandeltafel en vice versa, aanbrengen van positiemateriaal, fotoplaten, dienbladen, dossiers, tijdens bevoorrading en archiefwerk.&lt;/p&gt;</description>
@@ -12764,7 +12764,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-316" optional="no">
           <title>Duwen en trekken</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1184" type="risk">
             <title>Duwen en trekken komen veelvuldig voor.</title>
             <description>&lt;p&gt;Normen:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;20 kilo voor het in gang zetten en 10 kilo voor het in gang houden. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Duwen en trekken komen voor bij vervoer van bedden, rolstoelen of brancards, containers, regaalwagens, voedingswagens, afvalwagens, etc.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Duwen heeft de voorkeur boven trekken van bijvoorbeeld karren, bedden.&lt;/p&gt;</description>
@@ -12780,7 +12780,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-317" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1186" type="top5">
             <title>Er zijn werkvoorschriften en protocollen gemaakt om fysiek belastende werkzaamheden te verminderen en deze zijn bij de medewerkers bekend.</title>
             <problem-description>9.5.6.1 Er zijn geen werkvoorschriften en protocollen aanwezig om fysiek belastende werkzaamheden te verminderen of deze zijn bij de medewerkers niet bekend.</problem-description>
@@ -12824,7 +12824,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-2451" optional="no">
         <title>Tot slot (Voeding)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-12826" type="policy">
           <title>Alle relevante risico's zijn in het werkproces Voedingsbereiding en -uitgifte aan de orde gekomen.</title>
           <problem-description>9.6.1 Nog niet alle relevante risico's zijn in het werkproces Voedingsbereiding en -uitgifte aan de orde gekomen.</problem-description>
@@ -12837,13 +12837,13 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
     <profile-question external-id="KLV-10" type="optional">
       <title>Administratieve werkprocessen? Deze maken deel uit van andere werkprocessen. Daarnaast is dit proces van toepassing voor organisatieonderdelen waar vnl. administratief werk wordt verricht, zoals zorgadministraties, secretariaten en stafafdelingen.</title>
       <question>10 Administratieve werkprocessen? Deze maken deel uit van andere werkprocessen. Daarnaast is dit proces van toepassing voor organisatieonderdelen waar vnl. administratief werk wordt verricht, zoals zorgadministraties, secretariaten en stafafdelingen.</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-319" optional="no">
         <title>Werkruimten (Admin)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <module external-id="M-320" optional="true">
           <title>Kantoren</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <question>Er is een kantoor aanwezig.</question>
           <risk external-id="R-1192" type="risk">
             <title>Per medewerker is voldoende werkruimte aanwezig.</title>
@@ -13432,7 +13432,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         <question>Er komen fysiek belastende werkzaamheden voor.</question>
         <module external-id="M-335" optional="no">
           <title>Ongunstige werkhoudingen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1246" type="risk">
             <title>Ongunstige werkhoudingen komen veelvuldig voor.</title>
             <problem-description>10.3.1.0 Ongunstige werkhoudingen komen niet of nauwelijks voor</problem-description>
@@ -13443,7 +13443,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-336" optional="no">
           <title>Repeterende handelingen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1248" type="risk">
             <title>Repeterende handelingen komen voor.</title>
             <problem-description>10.3.2.0 Repeterende handelingen komen niet of nauwelijks voor.</problem-description>
@@ -13454,7 +13454,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-337" optional="no">
           <title>Langdurig zitten</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1250" type="risk">
             <title>Langdurig zitten komt voor.</title>
             <description>&lt;p&gt;Aanbevolen wordt het zitten te beperken tot 5 uur per werkdag. Langdurig zitten komt voor bij het werken met computers of het uitvoeren van besturingstaken.&lt;/p&gt;</description>
@@ -13464,7 +13464,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-338" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1252" type="risk">
             <title>Er zijn werkvoorschriften en protocollen gemaakt om fysiek belastende werkzaamheden te verminderen en deze zijn bij de medewerkers bekend.</title>
             <problem-description>10.3.4.1 Er zijn geen werkvoorschriften en protocollen aanwezig&#160;gemaakt om fysiek belastende werkzaamheden te verminderen of deze zijn onvoldoende bekend bij de medewerkers.</problem-description>
@@ -13526,7 +13526,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-2452" optional="no">
         <title>Tot slot (Admin)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-12827" type="policy">
           <title>Alle relevante risico's zijn in het werkproces Administratieve Werkprocessen aan de orde gekomen.</title>
           <problem-description>10.5.1 Nog niet alle relevante risico's zijn in het werkproces Administratieve Werkprocessen aan de orde gekomen.</problem-description>
@@ -13539,7 +13539,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
     <profile-question external-id="KLV-11" type="optional">
       <title>Bedrijfshulpverlening? Het betreft hier werkzaamheden van de medewerkers van de centrale bedrijfshulpverleningsorganisatie.</title>
       <question>11 Bedrijfshulpverlening? Het betreft hier werkzaamheden van de medewerkers van de centrale bedrijfshulpverleningsorganisatie.</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-341" optional="true">
         <title>Werkruimtes: Meldkamer (BHV)</title>
         <description>&lt;p&gt;Het betreft hier een zaal waarin beveiligingsmedewerkers werken. Het is een op een centrale locatie gelegen ruimte waarin zowel administratief werk, het volgen van beelden van bewakingscamera?s en klantencontact plaatsvindt, alsmede de co&#246;rdinatie van de hulpverlening bij noodsituaties.&lt;/p&gt;</description>
@@ -13646,7 +13646,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-343" optional="no">
         <title>Centrale organisatie bedrijfshulpverlening (BHV)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-1268" type="policy">
           <title>Er is een (centraal georganiseerde) bedrijfshulpverleningsorganisatie aanwezig.</title>
           <problem-description>11.3.1 Er is geen (centraal georganiseerde) bedrijfshulpverleningsorganisatie aanwezig.</problem-description>
@@ -13720,7 +13720,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-344" optional="true">
         <title>Werken met&#160; ademlucht/perslucht (BHV)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>De medewerkers van de Bedrijfshulpverlenings (BHV-) organisatie werken met ademluchttoestellen</question>
         <risk external-id="R-1276" type="policy">
           <title>Medewerkers zijn opgeleid om met ademluchttoestellen te werken en trainen hier regelmatig op.</title>
@@ -13819,7 +13819,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-5495" optional="true">
         <title>Werken met chemicali&#235;npakken / spatpakken</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>De medewerkers van de bedrijfshulpverleningsorganisatie werken met chamicali&#235;npakken en/of spatpakken</question>
         <risk external-id="R-27994" type="policy">
           <title>Medewerkers zijn opgeleid om te werken met chemicali&#235;npakken en trainen hier regelmatig op</title>
@@ -14097,7 +14097,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         <question>Er komen fysiek belastende werkzaamheden voor.</question>
         <module external-id="M-356" optional="no">
           <title>Staan en lopen (BHV)</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1309" type="risk">
             <title>Veelvuldig of langdurig staan of lopen komt voor.</title>
             <description>&lt;p&gt;Voor langdurig staan wordt de norm van 4 uur per werkdag gehanteerd.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Veelvuldig lopen doet vooral een beroep op het uithoudingsvermogen. Met name longen, hart en de energiesystemen worden dan belast.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Deze vormen van fysieke belasting komen o.m. voor tijdens surveillance en het regelen van verkeer.&lt;/p&gt;</description>
@@ -14113,7 +14113,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-357" optional="no">
           <title>Ongunstige werkhoudingen (BHV)</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1311" type="risk">
             <title>Ongunstige werkhoudingen komen veelvuldig voor.</title>
             <description>&lt;p&gt;Onder ongunstige werkhoudingen wordt verstaan: knielen, bukken, draaien, reiken, hurken, buigen, voorovergebogen werken, nekflexie, werken boven schouderhoogte.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Het werken in een sterk voorovergebogen werkhouding langer dan een half uur per werkdag geeft een verhoogd risico op het ontstaan van rugklachten.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Deze vormen van fysieke belasting komen o.m. voor tijdens het aanbrengen van wielklemmen.&lt;/p&gt;</description>
@@ -14129,7 +14129,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-358" optional="no">
           <title>Repeterende handelingen (BHV)</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1313" type="risk">
             <title>Repeterende handelingen komen voor.</title>
             <description>&lt;p&gt;Onder repeterende bewegen wordt verstaan: herhaalde (of bijna dezelfde) bewegingen van de handen, vaker dan 2 keer per minuut, gedurende minimaal 1 uur achter elkaar of gedurende minimaal 2 uur per dag.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Repeterende handelingen kunnen voorkomen tijdens typen en muizen.&lt;/p&gt;</description>
@@ -14139,7 +14139,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-360" optional="no">
           <title>Tillen en dragen (BHV)</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1317" type="risk">
             <title>Tillen en dragen komen voor.</title>
             <description>&lt;p&gt;Het tillen van gewichten van 23 kilo of zwaarder moet zoveel mogelijk worden voorkomen. Indien de tilsituatie niet optimaal is, ligt het te tillen gewicht lager. Tillen en dragen komt onder andere voor tijdens het&#194;&#160; aanbrengen van wielklemmen.&lt;/p&gt;</description>
@@ -14160,7 +14160,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-362" optional="no">
           <title>Gedragsrichtlijnen (BHV)</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1321" type="risk">
             <title>Er zijn werkvoorschriften en protocollen gemaakt om fysiek belastende werkzaamheden te verminderen en deze zijn bij de medewerkers bekend.</title>
             <problem-description>11.7.6.1 Er zijn geen werkvoorschriften en protocollen aanwezig om fysiek belastende werkzaamheden te verminderen of deze zijn bij de medewerkers onvoldoende bekend.</problem-description>
@@ -14204,7 +14204,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-2453" optional="no">
         <title>Tot slot (BHV)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-12828" type="policy">
           <title>Alle relevante risico's zijn in het werkproces Bedrijfshulpverlening en Beveiliging aan de orde gekomen.</title>
           <problem-description>11.8.1 Nog niet alle relevante risico's zijn in het werkproces Bedrijfshulpverlening en Beveiliging aan de orde gekomen.</problem-description>
@@ -14217,10 +14217,10 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
     <profile-question external-id="KLV-12" type="optional">
       <title>Transport en logistiek? Het omvat vervoeren, opslaan en distribueren van materialen. Denk ook aan beddengoed, voedingsmiddelen, kantoorbenodigdheden en (ziekenhuis)afval.</title>
       <question>12 Transport en logistiek? Het omvat vervoeren, opslaan en distribueren van materialen. Denk ook aan beddengoed, voedingsmiddelen, kantoorbenodigdheden en (ziekenhuis)afval.</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-364" optional="no">
         <title>Werkruimtes (TenL)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <module external-id="M-365" optional="true">
           <title>Op- en overslagruimte/magazijnen</title>
           <description>&lt;p&gt;Het betreft hier magazijnruimten voor de logistieke afdelingen; de afdelingsmagazijnen worden behandeld in het proces Algemeen en Beleid.&lt;/p&gt;</description>
@@ -14496,7 +14496,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-366" optional="no">
         <title>Gevaarlijke stoffen en risicogeneesmiddelen (TenL)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <module external-id="M-367" optional="true">
           <title>Opslag gevaarlijke stoffen algemeen</title>
           <description>&lt;p&gt;Waar gevaarlijke stoffen opgeslagen zijn of vervoerd worden zijn er veiligheidsrisico's, met name bij het ongewild vrijkomen van stoffen. Daarom zijn hiervoor (wettelijke) regels opgesteld.&lt;/p&gt;</description>
@@ -14593,7 +14593,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-369" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1357" type="policy">
             <title>Alle medewerkers zijn op de hoogte van de veiligheids- en gezondheidsrisico's van (het werken met) gevaarlijke stoffen</title>
             <problem-description>12.2.3.1 Niet alle medewerkers zijn op de hoogte van alle veiligheids- en gezondheidsrisico's van (het werken met) gevaarlijke stoffen </problem-description>
@@ -14673,7 +14673,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-371" optional="no">
         <title>Transportmiddelen e.a. apparatuur (TenL)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-1365" type="policy">
           <title>De transportmiddelen, bv. vorkheftrucks, voldoen aan de wettelijke technische eisen.</title>
           <problem-description>12.4.1 Niet alle transportmiddelen voldoen aan alle de wettelijke technische eisen.</problem-description>
@@ -15083,7 +15083,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         <question>Er komen fysiek belastende werkzaamheden voor.</question>
         <module external-id="M-383" optional="no">
           <title>Staan en lopen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1407" type="risk">
             <title>Veelvuldig of langdurig staan of lopen komt voor.</title>
             <description>&lt;p&gt;Voor langdurig staan wordt de norm van 4 uur per werkdag gehanteerd.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Veelvuldig lopen doet vooral een beroep op het uithoudingsvermogen. Met name longen, hart en de energiesystemen worden dan belast.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Deze vormen van fysieke belasting komen o.m. voor tijdens werkzaamheden aan bed, behandel- of operatietafel, logistieke en bevoorradingswerkzaamheden, surveillance, werkzaamheden in de centrale keuken, onderhoudswerkzaamheden, het vervoeren van bedden, brancards en rolstoelen.&lt;/p&gt;</description>
@@ -15099,7 +15099,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-384" optional="no">
           <title>Ongunstige werkhoudingen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1409" type="risk">
             <title>Ongunstige werkhoudingen komen veelvuldig voor.</title>
             <description>&lt;p&gt;Onder ongunstige werkhoudingen wordt verstaan: knielen, bukken, draaien, reiken, hurken, buigen, voorovergebogen werken, nekflexie, werken boven schouderhoogte.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Het werken in een sterk voorovergebogen werkhouding langer dan een half uur per werkdag geeft een verhoogd risico op het ontstaan van rugklachten.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Deze vormen van fysieke belasting komen o.m. voor tijdens het werken met microscopen, aan de zuurkast, werken aan bed/behandel/operatietafel, bediening van bedbalken/consoles, onderhouds- en schoonmaakwerkzaamheden, bevoorrading van magazijnen, archiefwerk, werk in restaurant/keukens.&lt;/p&gt;</description>
@@ -15115,7 +15115,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-385" optional="no">
           <title>Repeterende handelingen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1411" type="risk">
             <title>Repeterende handelingen komen voor.</title>
             <description>&lt;p&gt;Onder repeterend bewegen wordt verstaan: herhaalde (of bijna dezelfde) bewegingen van de handen, vaker dan 2 keer per minuut, gedurende minimaal 1 uur achter elkaar of gedurende minimaal 2 uur per dag.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Repeterende handelingen kunnen voorkomen tijdens typen en muizen,&#194;&#160; pipeteerwerkzaamheden, coupes snijden, portioneren van maaltijden, schenken van koffie/thee/dranken, schroeven.&lt;/p&gt;</description>
@@ -15125,7 +15125,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-387" optional="no">
           <title>Tillen en dragen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1415" type="risk">
             <title>Tillen en dragen komen voor.</title>
             <problem-description>12.6.5.0 Tillen en dragen komen niet of nauwelijks voor.</problem-description>
@@ -15147,7 +15147,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-390" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1421" type="top5">
             <title>Er zijn werkvoorschriften en protocollen gemaakt om fysiek belastende werkzaamheden te verminderen en deze zijn bij de medewerkers bekend.</title>
             <problem-description>12.6.8.1 Er zijn geen werkvoorschriften en protocollen aanwezig om fysiek belastende werkzaamheden te verminderen of deze zijn bij de medewerkers onvoldoende bekend.</problem-description>
@@ -15251,7 +15251,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-2454" optional="no">
         <title>Tot slot (TenL)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-12829" type="policy">
           <title>Alle relevante risico's zijn in het werkproces Transport en Logistiek aan de orde gekomen.</title>
           <problem-description>12.8.1 Nog niet alle relevante risico's zijn in het werkproces Transport en Logistiek aan de orde gekomen.</problem-description>
@@ -15264,7 +15264,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
     <profile-question external-id="KLV-13" type="optional">
       <title>Techniek en onderhoud? Het betreft het repareren en preventief onderhouden van machines, installaties, gebouwen, leidingen, liften, bedden, medische apparatuur, transport- en overige arbeidsmiddelen.</title>
       <question>13 Techniek en onderhoud? Het betreft het repareren en preventief onderhouden van machines, installaties, gebouwen, leidingen, liften, bedden, medische apparatuur, transport- en overige arbeidsmiddelen.</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-393" optional="true">
         <title>Werkruimtes (Techn)</title>
         <description>&lt;p&gt;Onder werkplaats wordt verstaan een ruimte waarin met hout, metaal en andere stoffen technisch onderhoud, reparaties en constructiewerk plaatsvindt.&lt;/p&gt;</description>
@@ -15298,10 +15298,10 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-394" optional="no">
         <title>Arbobeleid bij techniek en onderhoud (Techn)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <module external-id="M-395" optional="no">
           <title>Contractors en ingehuurde derden</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1432" type="policy">
             <title>Er is een procedure voor het selecteren van contractors en derden.</title>
             <problem-description>13.2.1.1 Er ontbreekt een procedure voor het selecteren van contractors en derden.</problem-description>
@@ -15432,7 +15432,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       <module external-id="M-397" optional="true">
         <module optional="no">
           <title>Algemeen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1443" type="policy">
             <title>Er is een actuele registratie van alle gevaarlijke stoffen op de afdeling</title>
             <problem-description>13.4.1 Er is geen complete actuele registratie van alle gevaarlijke stoffen op de afdeling </problem-description>
@@ -15591,7 +15591,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-400" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1457" type="policy">
             <title>Alle medewerkers zijn op de hoogte van de veiligheids- en gezondheidsrisico's van (het werken met) gevaarlijke stoffen</title>
             <problem-description>13.4.3.1 Niet alle medewerkers zijn op de hoogte van alle veiligheids- en gezondheidsrisico's van (het werken met) gevaarlijke stoffen </problem-description>
@@ -15876,7 +15876,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-2455" optional="no">
         <title>Tot slot (Techn)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-12830" type="policy">
           <title>Alle relevante risico's zijn in het werkproces Techniek en Onderhoud aan de orde gekomen.</title>
           <problem-description>13.8.1 Nog niet alle relevante risico's zijn in het werkproces Techniek en Onderhoud aan de orde gekomen.</problem-description>
@@ -15891,7 +15891,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         <question>Er komen fysiek belastende werkzaamheden voor.</question>
         <module external-id="M-412" optional="no">
           <title>Staan en lopen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1488" type="risk">
             <title>Veelvuldig of langdurig staan of lopen komt voor.</title>
             <description>&lt;p&gt;Voor langdurig staan wordt de norm van 4 uur per werkdag gehanteerd.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Veelvuldig lopen doet vooral een beroep op het uithoudingsvermogen. Met name longen, hart en de energiesystemen worden dan belast.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Deze vormen van fysieke belasting komen o.m. voor tijdens werkzaamheden aan bed, behandel- of operatietafel, logistieke en bevoorradingswerkzaamheden, surveillance, werkzaamheden in de centrale keuken, onderhoudswerkzaamheden, het vervoeren van bedden, brancards en rolstoelen.&lt;/p&gt;</description>
@@ -15907,7 +15907,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-413" optional="no">
           <title>Ongunstige werkhoudingen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1490" type="risk">
             <title>Ongunstige werkhoudingen komen veelvuldig voor.</title>
             <problem-description>13.6.2.0 Ongunstige werkhoudingen komen niet of nauwelijks voor.</problem-description>
@@ -15924,7 +15924,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-414" optional="no">
           <title>Repeterende handelingen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1492" type="risk">
             <title>Repeterende handelingen komen voor.</title>
             <description>&lt;p&gt;Onder repeterend bewegen wordt verstaan: herhaalde (of bijna dezelfde) bewegingen van de handen, vaker dan 2 keer per minuut, gedurende minimaal 1 uur achter elkaar of gedurende minimaal 2 uur per dag.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Repeterende handelingen kunnen voorkomen tijdens typen en muizen,&#194;&#160; pipeteerwerkzaamheden, coupes snijden, portioneren van maaltijden, schenken van koffie/thee/dranken, schroeven.&lt;/p&gt;</description>
@@ -15934,7 +15934,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-416" optional="no">
           <title>Tillen en dragen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1496" type="risk">
             <title>Tillen en dragen komen voor.</title>
             <description>&lt;p&gt;Het tillen van gewichten van 23 kilo of zwaarder moet zoveel mogelijk worden voorkomen. Indien de tilsituatie niet optimaal is, ligt het te tillen gewicht lager. Tillen en dragen komt onder andere voor tijdens het verplaatsen van pati&#258;&#356;nten van bed/rolstoel naar de behandeltafel en vice versa, aanbrengen van positiemateriaal, fotoplaten, dienbladen, dossiers, tijdens bevoorrading en archiefwerk.&lt;/p&gt;</description>
@@ -15950,7 +15950,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-417" optional="no">
           <title>Duwen en trekken</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1498" type="risk">
             <title>Duwen en trekken komen veelvuldig voor.</title>
             <problem-description>13.6.6.0 Duwen en trekken komen niet of nauwelijks voor.</problem-description>
@@ -15967,7 +15967,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-419" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1502" type="top5">
             <title>Er zijn werkvoorschriften en protocollen gemaakt om fysiek belastende werkzaamheden te verminderen en deze zijn bij de medewerkers bekend.</title>
             <problem-description>13.6.8.1 Er zijn geen werkvoorschriften en protocollen aanwezig om fysiek belastende werkzaamheden te verminderen of deze zijn bij de medewerkers onvoldoende bekend.</problem-description>
@@ -16013,13 +16013,13 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
     <profile-question external-id="KLV-14" type="optional">
       <title>Bouw, verbouw en sloop? Dit proces omvat alle ontwerp- en uitvoeringsactiviteiten bij bouw en verbouw, alsmede de organisatie van deze activiteiten door derden.</title>
       <question>14 Bouw, verbouw en sloop? Dit proces omvat alle ontwerp- en uitvoeringsactiviteiten bij bouw en verbouw, alsmede de organisatie van deze activiteiten door derden.</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-421" optional="no">
         <title>Arbo-aspecten in de ontwerpfase (Bouw)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <module external-id="M-422" optional="no">
           <title>Arbo-inhoudelijke aspecten in de ontwerpfase</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1507" type="policy">
             <title>Bij ieder ontwerp van een bouw of verbouw van een gebouw of afdeling wordt in een vlekken- en wandelplan rekening gehouden met arbo-aspecten. Er is een compleet en eenduidig programma van eisen opgesteld waaraan het ontwerp moet voldoen</title>
             <problem-description>14.1.1.1 Niet bij ieder ontwerp van een (ver)bouw van een gebouw of afdeling wordt in een vlekken- en wandelplan rekening gehouden met arbo-aspecten en/of er is niet altijd een compleet en eenduidig programma van eisen opgesteld.</problem-description>
@@ -16167,7 +16167,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-423" optional="no">
           <title>Organisatie van het ontwerpproces</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1517" type="policy">
             <title>Bij het opstellen van ver- en nieuwbouwplannen worden de noodzakelijke disciplines betrokken.</title>
             <problem-description>14.1.2.1 Bij het opstellen van ver- en nieuwbouwplannen worden niet altijd alle noodzakelijke disciplines betrokken.</problem-description>
@@ -16276,10 +16276,10 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-424" optional="no">
         <title>Beleid bij voorbereiding uitvoering ver- en nieuwbouw (Bouw)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <module external-id="M-425" optional="no">
           <title>Communicatie met de te verbouwen en/of naburige afdelingen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1525" type="policy">
             <title>Met de te verbouwen afdeling worden tijdig afspraken gemaakt om hinder en overlast naar de afdeling of directe omgeving te voorkomen.</title>
             <problem-description>14.2.1.1 Met de te verbouwen afdeling worden niet altijd tijdig afspraken gemaakt om hinder en overlast naar de afdeling of directe omgeving te voorkomen.</problem-description>
@@ -16309,7 +16309,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-426" optional="no">
           <title>Contractors en ingehuurde derden</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1527" type="policy">
             <title>Er is een procedure voor het selecteren van contractors en derden.</title>
             <problem-description>14.2.2.1 Er ontbreekt een procedure voor het selecteren van contractors en derden.</problem-description>
@@ -16378,7 +16378,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-427" optional="no">
           <title>Veiligheids- en gezondheidsplannen (V&amp;G-plannen)</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1532" type="policy">
             <title>Er is een V&amp;G-plan voor de uitvoering van de geplande werkzaamheden.</title>
             <problem-description>14.2.3.1 Er is geen volledig V&amp;G-plan voor de uitvoering van de geplande werkzaamheden.</problem-description>
@@ -16421,7 +16421,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-428" optional="no">
           <title>Voorbereiden/organiseren van planmatig beheer en onderhoud van gebouwen en installaties</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1536" type="policy">
             <title>Er zijn vaste afspraken hoe de oplevering van de ver- en/of nieuwbouw plaatsvindt en door wie.</title>
             <problem-description>14.2.4.1 Er zijn niet altijd vaste afspraken hoe de oplevering van de ver- en/of nieuwbouw plaatsvindt en door wie.</problem-description>
@@ -16451,7 +16451,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-429" optional="no">
           <title>Up-to-date houden installatietekeningen en plattegronden</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1540" type="policy">
             <title>Bij oplevering worden up-to-date tekeningen verstrekt, en gearchiveerd.</title>
             <problem-description>14.2.5.1 Bij oplevering worden niet altijd up-to-date tekeningen verstrekt en gearchiveerd.</problem-description>
@@ -16494,7 +16494,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-430" optional="no">
           <title>Voorbereiding en uitvoering sloop</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1544" type="policy">
             <title>Voorafgaand aan de uitvoering van sloopwerkzaamheden zijn altijd de betreffende risico's en de benodigde veiligheidsmaatregelen bekend bij de projectleider.</title>
             <problem-description>14.2.6.1 Voorafgaand aan de uitvoering van sloopwerkzaamheden zijn altijd de betreffende risico's en de benodigde veiligheidsmaatregelen niet altijd bekend bij de projectleider.</problem-description>
@@ -16552,7 +16552,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       <module external-id="M-431" optional="no">
         <module optional="no">
           <title>Algemeen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1550" type="policy">
             <title>Bezoeken aan de bouwplaats worden van tevoren aangemeld of afgesproken en bezoekers worden aan het begin van de bouwplaats opgevangen.</title>
             <problem-description>14.3.1 Niet iedereen houdt zich bij het betreden van bouwlocaties aan alle bouwplaatsinstructies.</problem-description>
@@ -16593,7 +16593,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
           </risk>
         </module>
         <title>Bezoeken (bouw-)locaties (Bouw)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <module external-id="M-432" optional="true">
           <title>Werken in bijzondere omstandigheden</title>
           <description>&lt;p&gt;Er wordt gewerkt in ruimtes en situaties waarin sprake kan zijn van biologische agentia, (ioniserende) straling, elektrische storingen of gevaarlijke stoffen.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Bij ruimtes gaat het om ruimtes met specifieke risico's zoals besloten ruimtes (tanks en riolen), verlaagde ruimtes, technische ruimtes, koude kamers (diepvriesruimtes en koelingen), transportroutes, MRI, publieke ruimtes (aanwezigheid van derden, spelende kinderen), kooien en stallen van proefdieren, enz.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Bij bijzondere omstandigheden kunt u denken aan werken met stoom, hete apparatuur en producten, messen en ander (scherp) gereedschap, gasleidingen, trillingen en geluid.&lt;/p&gt;</description>
@@ -16889,7 +16889,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       </module>
       <module external-id="M-2456" optional="no">
         <title>Tot slot (Bouw)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-12831" type="policy">
           <title>Alle relevante risico's zijn in het werkproces Verbouw, Bouw, Beheer en Sloop aan de orde gekomen.</title>
           <problem-description>14.7.1 Nog niet alle relevante risico's zijn in het werkproces Verbouw, Bouw, Beheer en Sloop aan de orde gekomen.</problem-description>
@@ -16904,7 +16904,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         <question>Er komen fysiek belastende werkzaamheden voor.</question>
         <module external-id="M-444" optional="no">
           <title>Staan of lopen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1583" type="risk">
             <title>Veelvuldig of langdurig staan of lopen komt voor.</title>
             <description>&lt;p&gt;Voor langdurig staan wordt de norm van 4 uur per werkdag gehanteerd.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Veelvuldig lopen doet vooral een beroep op het uithoudingsvermogen. Met name longen, hart en de energiesystemen worden dan belast.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Deze vormen van fysieke belasting komen o.m. voor tijdens werkzaamheden aan bed, behandel- of operatietafel, logistieke en bevoorradingswerkzaamheden, surveillance, werkzaamheden in de centrale keuken, onderhoudswerkzaamheden, het vervoeren van bedden, brancards en rolstoelen.&lt;/p&gt;</description>
@@ -16920,7 +16920,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-445" optional="no">
           <title>Ongunstige werkhoudingen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1585" type="risk">
             <title>Ongunstige werkhoudingen komen veelvuldig voor.</title>
             <description>&lt;p&gt;Onder ongunstige werkhoudingen wordt verstaan: knielen, bukken, draaien, reiken, hurken, buigen, voorovergebogen werken, nekflexie, werken boven schouderhoogte.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Het werken in een sterk voorovergebogen werkhouding langer dan een half uur per werkdag geeft een verhoogd risico op het ontstaan van rugklachten.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Deze vormen van fysieke belasting komen o.m. voor tijdens het werken met microscopen, aan de zuurkast, werken aan bed/behandel/operatietafel, bediening van bedbalken/consoles, onderhouds- en schoonmaakwerkzaamheden, bevoorrading van magazijnen, archiefwerk, werk in restaurant/keukens.&lt;/p&gt;</description>
@@ -16936,7 +16936,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-446" optional="no">
           <title>Repeterende handelingen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1587" type="risk">
             <title>Repeterende handelingen komen voor.</title>
             <description>&lt;p&gt;Onder repeterend bewegen wordt verstaan: herhaalde (of bijna dezelfde) bewegingen van de handen, vaker dan 2 keer per minuut, gedurende minimaal 1 uur achter elkaar of gedurende minimaal 2 uur per dag.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Repeterende handelingen kunnen voorkomen tijdens typen en muizen,&#194;&#160; pipeteerwerkzaamheden, coupes snijden, portioneren van maaltijden, schenken van koffie/thee/dranken, schroeven.&lt;/p&gt;</description>
@@ -16946,7 +16946,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-448" optional="no">
           <title>Tillen en dragen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1591" type="risk">
             <title>Tillen en dragen komen voor.</title>
             <description>&lt;p&gt;Het tillen van gewichten van 23 kilo of zwaarder moet zoveel mogelijk worden voorkomen. Indien de tilsituatie niet optimaal is, ligt het te tillen gewicht lager. Tillen en dragen komt onder andere voor tijdens het verplaatsen van pati&#258;&#356;nten van bed/rolstoel naar de behandeltafel en vice versa, aanbrengen van positiemateriaal, fotoplaten, dienbladen, dossiers, tijdens bevoorrading en archiefwerk.&lt;/p&gt;</description>
@@ -16962,7 +16962,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-449" optional="no">
           <title>Duwen en trekken</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1593" type="risk">
             <title>Duwen en trekken komen veelvuldig voor.</title>
             <description>&lt;p&gt;Normen:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;20 kilo voor het in gang zetten en 10 kilo voor het in gang houden. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Duwen en trekken komen voor bij vervoer van bedden, rolstoelen of brancards, containers, regaalwagens, voedingswagens, afvalwagens, etc.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Duwen heeft de voorkeur boven trekken van bijvoorbeeld karren, bedden.&lt;/p&gt;</description>
@@ -16978,7 +16978,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </module>
         <module external-id="M-451" optional="no">
           <title>Gedragsrichtlijnen</title>
-          <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+          <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
           <risk external-id="R-1597" type="risk">
             <title>Er zijn werkvoorschriften en protocollen gemaakt om fysiek belastende werkzaamheden te verminderen en deze zijn bij de medewerkers bekend.</title>
             <problem-description>14.5.8.1 Er zijn geen werkvoorschriften en protocollen gemaakt om fysiek belastende werkzaamheden te verminderen of deze zijn onvoldoende bekend bij de medewerkers.</problem-description>

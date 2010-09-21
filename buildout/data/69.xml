@@ -377,7 +377,7 @@ vP7+/rz+/v68/v7+vP7+/rz+/v68/v7+vP7+/rz+/v68/v7+vP7+/rz+/v68/v7+vP7+/rz+/v68
     <profile-question external-id="KLV-456" type="optional">
       <title>Vindt in het bedrijf het volgende proces plaats: slachten (voorvoeten, achtervoeten, halve varkens)?</title>
       <question>Vindt in het bedrijf het volgende proces plaats: slachten (voorvoeten, achtervoeten, halve varkens)?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-4083" optional="no">
         <title>Slachten (voorvoeten, achtervoeten, halve varkens)</title>
         <description>&lt;p&gt;De belangrijkste risico's bij het slachtproces zijn fysieke belasting&#160;en snijgevaar.&#160;&lt;/p&gt;&lt;p&gt;Slijtage aan rug of ledematen zijn belangrijke oorzaken van arbeidsongeschiktheid. De oorzaak hiervan is vaak een verkeerde, gehaaste of overmatige belasting.&lt;/p&gt;&lt;p&gt;Tillen&lt;/p&gt;&lt;p&gt;Zwaar en verkeerd tillen kan leiden tot slijtage aan de rug. Rugklachten kunnen ontstaan bij:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;zwaarder tillen dan 23 kg. zoals kratten en zware bouten; &lt;/li&gt;&lt;li&gt;met gedraaide rug tillen vanwege gebrekkige ruimte of onhandige opstelling; &lt;/li&gt;&lt;li&gt;haastig en gespannen tillend werk verrichten.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Werkhouding&lt;/p&gt;&lt;p&gt;Werkhoudingen die lang moeten worden volgehouden kunnen leiden tot spier- en gewrichtsklachten. Dit komt voor bij:&lt;/p&gt;&lt;p&gt;langer dan 1 uur achtereen staan &lt;/p&gt;&lt;p&gt;werkhoogtes die niet zijn aangepast aan de lengte van de medewerker.&lt;/p&gt;&lt;p&gt;Duwen en trekken &lt;/p&gt;&lt;p&gt;Zwaar duwen en trekken kan leiden tot rug- en schouderklachten. Dit komt voor bij het verplaatsen van bakken met vleesproducten en rolcontainers.&lt;/p&gt;&lt;p&gt;Kortcyclische werkzaamheden&lt;/p&gt;&lt;p&gt;Kortcyclische handelingen komen o.a. voor bij&#160;inpakwerk, ontvliezen, snijden. &lt;/p&gt;</description>
@@ -555,7 +555,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;br/&gt;Voor staand 
     <profile-question external-id="KLV-457" type="optional">
       <title>Vindt in het bedrijf het volgende proces plaats: splitsen, afsnijden (technische delen in de been)?</title>
       <question>Vindt in het bedrijf het volgende proces plaats: splitsen, afsnijden (technische delen in de been)?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-4084" optional="no">
         <title>Splitsen, afsnijden (technische delen in de been)</title>
         <description>&lt;p&gt;De belangrijkste risico's bij het splitsen en afsnijden zijn fysieke belasting&#160;en snijgevaar.&#160;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Werkhouding&lt;/strong&gt;Werkhoudingen die lang moeten worden volgehouden kunnen leiden tot spier- en gewrichtsklachten. Dit komt voor bij:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;langer dan 1 uur achtereen staan aan de snijtafel of hakblok &lt;/li&gt;&lt;li&gt;ver reiken&#160;(&amp;gt; 40-50 cm) &lt;/li&gt;&lt;li&gt;werkhoogtes van de snijtafel niet aangepast aan de lengte van de medewerker.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Duwen en trekken &lt;/p&gt;&lt;p&gt;Zwaar duwen en trekken kan leiden tot rug- en schouderklachten. Dit komt voor bij het verplaatsen van bakken met vleesproducten en rolcontainers.&lt;/p&gt;&lt;p&gt;Kortcyclische werkzaamheden&lt;/p&gt;&lt;p&gt;Kortcyclische handelingen komen bij deze werkzaamheden ook voor. &lt;/p&gt;</description>
@@ -733,10 +733,10 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
     <profile-question external-id="KLV-458" type="optional">
       <title>Vindt in het bedrijf het volgende proces plaats: uitbenen, verdelen (technische delen uit de been)?</title>
       <question>Vindt in het bedrijf het volgende proces plaats: uitbenen, verdelen (technische delen uit de been)?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-4085" optional="no">
         <title>Uitbenen, verdelen (technische delen uit de been)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-20768" type="top5">
           <title>De medewerkers tillen delen vlees, kratjes, e.d. die lichter zijn dan 23 kg.</title>
           <description>&lt;p&gt;Voor te zwaar tillen wordt 23 kg vaak als richtlijn gebruikt. Het is overigens zwaarder om:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;15 kg in een voorover gebogen houding neer te moeten zetten;&lt;/li&gt;&lt;li&gt;met 15 kg het lichaam te moeten draaien;&lt;/li&gt;&lt;li&gt;deze handelingen ook nog heel vaak of de hele dag dat te moeten doen.&lt;/li&gt;&lt;/ul&gt;</description>
@@ -891,10 +891,10 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
     <profile-question external-id="KLV-459" type="optional">
       <title>Vindt in het bedrijf het volgende proces plaats: afvliezen (onderdelen)?</title>
       <question>Vindt in het bedrijf het volgende proces plaats: afvliezen (onderdelen)?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-4086" optional="no">
         <title>Afvliezen (onderdelen)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-20770" type="top5">
           <title>De medewerkers tillen delen vlees, kratten, e.d. die lichter zijn dan 23 kg.</title>
           <description>&lt;p&gt;Voor te zwaar tillen wordt 23 kg vaak als richtlijn gebruikt. Het is overigens zwaarder om:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;15 kg in een voorover gebogen houding neer te moeten zetten;&lt;/li&gt;&lt;li&gt;met 15 kg het lichaam te moeten draaien;&lt;/li&gt;&lt;li&gt;deze handelingen ook nog heel vaak of de hele dag dat te moeten doen.&lt;/li&gt;&lt;/ul&gt;</description>
@@ -1072,10 +1072,10 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
     <profile-question external-id="KLV-460" type="optional">
       <title>Vinden in het bedrijf volgende processen of &#233;&#233;n van de volgende processen plaats: winkelklaar maken, portioneren, verpakken?</title>
       <question>Vinden in het bedrijf volgende processen of &#233;&#233;n van de volgende processen plaats: winkelklaar maken, portioneren, verpakken?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-4087" optional="no">
         <title>Winkelklaar maken, portioneren, verpakken</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-20771" type="top5">
           <title>De medewerkers tillen kratjes, bakken, e.d. die lichter zijn dan 23 kg.</title>
           <description>&lt;p&gt;Voor te zwaar tillen wordt 23 kg vaak als richtlijn gebruikt. Het is overigens zwaarder om:- 15 kg in een voorover gebogen houding neer te moeten zetten;- met 15 kg het lichaam te moeten draaien;- deze handelingen ook nog heel vaak of de hele dag dat te moeten doen.&lt;/p&gt;</description>
@@ -1227,10 +1227,10 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
     <profile-question external-id="KLV-461" type="optional">
       <title>Vindt in het bedrijf het volgende proces plaats: hakken, zagen (bijv. karbonades, schenkels)?</title>
       <question>Vindt in het bedrijf het volgende proces plaats: hakken, zagen (bijv. karbonades, schenkels)?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-4088" optional="no">
         <title>Hakken, zagen (bijv. karbonades, schenkels)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-20849" type="top5">
           <title>De medewerkers tillen delen vlees, kratten, e.d. die lichter zijn dan 23 kg.</title>
           <description>&lt;p&gt;Voor te zwaar tillen wordt 23 kg vaak als richtlijn gebruikt. Het is overigens zwaarder om:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;15 kg in een voorover gebogen houding neer te moeten zetten;&lt;/li&gt;&lt;li&gt;met 15 kg het lichaam te moeten draaien;&lt;/li&gt;&lt;li&gt;deze handelingen ook nog heel vaak of de hele dag dat te moeten doen.&lt;/li&gt;&lt;/ul&gt;</description>
@@ -1388,10 +1388,10 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
     <profile-question external-id="KLV-462" type="optional">
       <title>Vindt in het bedrijf het volgende proces plaats: gehakt draaien, mengen?</title>
       <question>Vindt in het bedrijf het volgende proces plaats: gehakt draaien, mengen?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-4089" optional="no">
         <title>Gehakt draaien, mengen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-20853" type="top5">
           <title>De medewerkers hebben de beschikking over de juiste hulpmiddelen bij het vullen van de gehaktmolen.</title>
           <description>&lt;p&gt;Tijdens het handmatig vullen van de gehaktmachine is het tillen van&#160;bakken boven schouderhoogte&#160;belastend voor de rug. Automatisch vullen met behulp van een hefinrichting kan dit voorkomen. Ook het tillen met meerdere personen kan men zien als een "hulpmiddel".&lt;/p&gt;</description>
@@ -1505,10 +1505,10 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
     <profile-question external-id="KLV-463" type="optional">
       <title>Vindt in het bedrijf het volgende proces plaats: worst maken?</title>
       <question>Vindt in het bedrijf het volgende proces plaats: worst maken?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-4090" optional="no">
         <title>Worst maken</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-20857" type="top5">
           <title>Er zijn goede hulpmiddelen aanwezig om zwaar tillen te voorkomen.</title>
           <description>&lt;p&gt;Voorbeelden: steekkarren, palletwagens, heftruck&lt;/p&gt;</description>
@@ -1650,10 +1650,10 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
     <profile-question external-id="KLV-464" type="optional">
       <title>Vinden in het bedrijf de volgende processen of &#233;&#233;n van de volgende processen plaats: garen, roken?</title>
       <question>Vinden in het bedrijf de volgende processen of &#233;&#233;n van de volgende processen plaats: garen, roken?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-4091" optional="no">
         <title>Garen, roken</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-20862" type="top5">
           <title>Langdurig staan wordt zoveel mogelijk afgewisseld.</title>
           <description>&lt;p&gt;Langdurig staan (meer dan 1 uur aaneengesloten op 1 plek /vierkante meter) is een zware belasting voor het lichaam.&lt;/p&gt;</description>
@@ -1779,10 +1779,10 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
     <profile-question external-id="KLV-465" type="optional">
       <title>Vindt in het bedrijf het volgende proces plaats: bereiden van maaltijden?</title>
       <question>Vindt in het bedrijf het volgende proces plaats: bereiden van maaltijden?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-4092" optional="no">
         <title>Bereiden van maaltijden</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-20864" type="top5">
           <title>Staan, zitten, lopen worden zoveel mogelijk afgewisseld.</title>
           <description>&lt;p&gt;Het voortdurend in dezelfde houding werken tijdens het bereiden van maaltijden, is een zware belasting voor het lichaam. Langdurig staan kunt u beperken door:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;langdurig staan af te wisselen met (korte stukjes) lopen&lt;/li&gt;&lt;li&gt;staan af te wisselen met andere (niet staande) werkzaamheden&lt;/li&gt;&lt;li&gt;tijdens pauzes te gaan zitten&lt;/li&gt;&lt;/ul&gt;</description>
@@ -1868,10 +1868,10 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
     <profile-question external-id="KLV-466" type="optional">
       <title>Vindt in het bedrijf het volgende proces plaats: verkoop winkel (incl. verkoop op de weg)?</title>
       <question>Vindt in het bedrijf het volgende proces plaats: verkoop winkel (incl. verkoop op de weg)?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-4093" optional="no">
         <title>Verkoop winkel (incl. verkoop op de weg)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-20871" type="top5">
           <title>De medewerkers tillen kratten, bakken, etc. die lichter zijn dan 23 kg.</title>
           <description>&lt;p&gt;Zwaar en verkeerd tillen kan leiden tot slijtage aan de rug. Rugklachten kunnen ontstaan bij:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;regelmatig zwaarder tillen dan 23 kg, zoals kratten en verpakkingen; &lt;/li&gt;&lt;li&gt;met gedraaide rug tillen vanwege een gebrekkige ruimte of onhandige opstelling; &lt;/li&gt;&lt;li&gt;haastig en gespannen tillend werk verrichten.&lt;/li&gt;&lt;/ul&gt;</description>
@@ -2051,7 +2051,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
     <profile-question external-id="KLV-467" type="optional">
       <title>Vindt in het bedrijf het volgende proces plaats: bezorgen, distributie?</title>
       <question>Vindt in het bedrijf het volgende proces plaats: bezorgen, distributie?</question>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-4094" optional="no">
         <title>Bezorgen, distributie</title>
         <description>&lt;p&gt;Bij bezorging en distributie is het belangrijkste risico fysieke belasting m.b.t. tillen, sjouwen, duwen, trekken.&lt;/p&gt;</description>
@@ -2127,7 +2127,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
     </profile-question>
     <module external-id="M-172" optional="no">
       <title>Het gebouw</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-1133" type="risk">
         <title>Het gebouw wordt goed onderhouden.</title>
         <description>&lt;p&gt;Enkele voorbeelden. Er zijn geen kierende kozijnen en ramen, er is geen bladderende verf aan de muren en plafonds, en er is goed hang- en sluitwerk aanwezig.&lt;/p&gt;</description>
@@ -2599,7 +2599,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
     </module>
     <module external-id="M-188" optional="no">
       <title>Werk- en rusttijden</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-1269" type="policy">
         <title>Een werkdag is maximaal 9 uur.</title>
         <description>&lt;p&gt;In de CAO is afgesproken dat als meer dan 9 uur per dag gewerkt wordt, dit als overwerk wordt beschouwd voor iemand met een 38 urige en een vijfdaagse werkweek.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;In de CAO is ook afgesproken dat overwerk zoveel mogelijk wordt voorkomen en dat overwerk niet aan werknemers ouder dan 55 jaar kan worden opgedragen.&lt;/p&gt;</description>
@@ -2639,7 +2639,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
     </module>
     <module external-id="M-189" optional="no">
       <title>Taken / functies van medewerkers</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-1275" type="policy">
         <title>Medewerkers kunnen het werk in een redelijk tempo en zonder piekbelasting binnen de daarvoor beschikbare tijd afmaken.</title>
         <description></description>
@@ -2715,7 +2715,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
     </module>
     <module external-id="M-190" optional="no">
       <title>Ongewenst gedrag van medewerkers</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-1282" type="policy">
         <title>Er zijn afspraken gemaakt over ongewenste gedragingen van medewerkers onderling.</title>
         <description>&lt;p&gt;Ongewenst gedrag gaat over (seksuele) intimidatie, pesten, agressie en geweld, discriminatie, en gebruik van alcohol en drugs.&#160;&lt;/p&gt;</description>
@@ -2759,7 +2759,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
     </module>
     <module external-id="M-191" optional="no">
       <title>Basisafspraken over arbo</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-1286" type="policy">
         <title>Bij de inkoop van materialen wordt gelet op arbo-eisen.</title>
         <description>&lt;p&gt;Vooraf rekening houden met de arbo-eisen voorkomt in een later stadium kosten. Voorbeelden zijn:-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;geluidsarme machines zodat geen gehoorbescherming gekocht en gedragen hoeft te worden;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;makkelijk in hoogte verstelbaar bureaus, werktafels (snijtafels, hakblokken),&#160;zodat kortere en langere mensen er aan kunnen werken.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/p&gt;</description>
@@ -2805,7 +2805,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
     </module>
     <module external-id="M-192" optional="no">
       <title>Voorlichting</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-1293" type="policy">
         <title>Iedere werknemer kan het RI&amp;E-rapport inzien.</title>
         <description>&lt;p&gt;Door het rapport in te zien, kunnen werknemers&#160; leren met welke&#160; risico&#8217;s zij te maken hebben en daardoor veiliger gaan werken.&lt;/p&gt;</description>
@@ -2857,7 +2857,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
     </module>
     <module external-id="M-193" optional="no">
       <title>Afspraken over verzuim</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-1301" type="policy">
         <title>Er zijn afspraken gemaakt over hoe, wanneer en bij wie medewerkers zich ziek moeten melden.</title>
         <description>&lt;p&gt;Bijv. een medewerker moet zich telefonisch voor 9 uur bij de leidinggevende ziek melden.&#160;&#160;&#160;&lt;/p&gt;</description>
@@ -2903,7 +2903,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
     </module>
     <module external-id="M-196" optional="no">
       <title>Voortgang van het plan van aanpak</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-1316" type="policy">
         <title>Elk jaar wordt over de uitvoering van het plan van aanpak naar aanleiding van de RI&amp;E gerapporteerd.</title>
         <description>&lt;p&gt;Jaarlijks moet de voortgang van het plan van aanpak op schrift worden gezet. Die voortgang wordt besproken met de Ondernemingsraad, de Personeelsvertegenwoordiging of het personeel.&#160;&lt;/p&gt;</description>
@@ -2925,7 +2925,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
     </module>
     <module external-id="M-195" optional="no">
       <title>Ongevallen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-1313" type="policy">
         <title>Ongevallen worden geregistreerd en de oorzaken ond</title>
         <description>&lt;p&gt;Het registreren van ongevallen en het bekijken van de oorzaken vormen de&#160; basis voor het nemen van gerichte maatregelen om deze ongevallen in de toekomst te voorkomen.&lt;/p&gt;</description>
@@ -2947,10 +2947,10 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
     </module>
     <module external-id="M-2596" optional="no">
       <title>Organisatie van de preventie</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-2597" optional="no">
         <title>Preventietaken</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-13616" type="policy">
           <title>De organisatie heeft de preventietaken toegewezen.</title>
           <description>&lt;p&gt;Een werkgever met m&#233;&#233;r dan 15 medewerkers moet preventietaken toewijzen aan &#233;&#233;n of meer werknemers. Een werkgever met ten hoogste 15 medewerkers mag de preventietaken zelf uitvoeren. De werkgever hoeft geen speciale medewerker aan te trekken voor preventietaken. Preventie kan een onderdeel zijn van de taak van de werkgever zelf of van de taak van &#233;&#233;n of meer werknemers. &lt;em&gt;Voor het gemak wordt echter in dit instrument steeds gesproken over preventiemedewerker.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Preventietaken zijn: het meewerken aan of het opstellen van een RI&amp;amp;E; uitvoeren van de maatregelen uit het plan van aanpak; het geven van voorlichting; het signaleren van risico's en het treffen van maatregelen tegen die risico&#8217;s. &lt;/p&gt;&lt;p&gt;De preventiemedewerkers (het aantal hangt af van preventietaken en de gewenste organisatie) hebben de kennis en ervaring, de middelen en de tijd, zodat zij de werkgever goed kunnen bijstaan bij de preventietaken. De preventiemedewerker werkt hierbij samen met de OR, de Personeelsvertegenwoordiging of de medewerkers die het betreft. &lt;/p&gt;&lt;p&gt;Werkgevers die hun preventietaken goed uitvoeren besparen doorgaans aanzienlijk op de kosten van ongevallen, verzuim en stressproblemen. Investeringen in arbeidsomstandigheden en in het personeel renderen meestal goed als het gaat om de sfeer en productiviteit van het bedrijf.&lt;/p&gt;</description>
@@ -2984,7 +2984,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
       </module>
       <module external-id="M-2717" optional="no">
         <title>Maatwerkregeling/Vangnetregeling</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-14331" type="policy">
           <title>Het bedrijf laat zich bij uw preventietaken bijstaan door &#233;&#233;n of meer gecertificeerde deskundigen (maatwerkregeling) of door een gecertificeerde arbodienst (vangnetregeling)</title>
           <description>&lt;p&gt;Op grond van de Arbowet moet de werkgever zich bij de uitvoering van de volgende taken laten bijstaan door &#233;&#233;n of meer gecertificeerde deskundigen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;toetsing en advisering in het kader van de risico-inventarisatie en -evaluatie;&lt;/li&gt;&lt;li&gt;arbeidsgezondheidskundig onderzoek;&lt;/li&gt;&lt;li&gt;houden van arbeidsomstandighedenspreekuur (arbeidsomstandigheden spreekuur);&lt;/li&gt;&lt;li&gt;aanstellingskeuring;&lt;/li&gt;&lt;li&gt;verzuimbegeleiding. &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;De &#8216;maatwerkregeling&#8217; houdt in, dat de werkgever zelf bepaalt, op welke wijze gecertificeerde deskundigen bijstand verlenen. Concreet betekent dit dat er minimaal een contract met een gecertificeerde bedrijfsarts dient te zijn afgesloten en dat een gecertificeerde arbodeskundige de RI&amp;amp;E dient te toetsen, als toetsing van de RI&amp;amp;E noodzakelijk is. Als alternatief kan gebruik worden gemaakt van de &#8216;vangnetregeling&#8217;, de arbodienst verzorgt dan de bijstand.Zie ook het stroomschema op &lt;a href="http://www.arbo.nl/schema" rel="nofollow" target="_blank"&gt;www.arbo.nl/schema&lt;/a&gt; voor de keuze tussen beide regelingen.&lt;/p&gt;</description>
@@ -2994,7 +2994,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
       </module>
       <module external-id="M-2718" optional="no">
         <title>Maatwerkregeling</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-14332" type="policy">
           <title>Het bedrijf laat zich bijstaan door &#233;&#233;n of meer gecertificeerde deskundigen (maatwerkregeling) en heeft een overeenkomst met deze deskundigen(n)</title>
           <description>&lt;p&gt;Op grond van de Arbowet moet de werkgever zich bij de uitvoering van de volgende taken laten bijstaan door &#233;&#233;n of meer gecertificeerde deskundigen (bedrijfsarts, veiligheidskundige, arbeidshygi&#235;nist, arbeids- en organisatiedeskundige):&lt;/p&gt;&lt;ul&gt;&lt;li&gt;toetsing en advisering in het kader van de risico-inventarisatie en -evaluatie;&lt;/li&gt;&lt;li&gt;arbeidsgezondheidskundig onderzoek;&lt;/li&gt;&lt;li&gt;houden van arbeidsomstandighedenspreekuur;&lt;/li&gt;&lt;li&gt;aanstellingskeuring;&lt;/li&gt;&lt;li&gt;verzuimbegeleiding. &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Indien er op dit gebied geen CAO-afspraken zijn:&lt;/p&gt;&lt;p&gt;De &#8216;maatwerkregeling&#8217; houdt in dat de werkgever zelf bepaalt op welke wijze gecertificeerde deskundigen bijstand kunnen verlenen. &lt;/p&gt;&lt;p&gt;Concreet betekent dit dat er minimaal een contract met een gecertificeerde bedrijfsarts dient te zijn afgesloten en dat een gecertificeerde arbodeskundige de RI&amp;amp;E dient te toetsen als toetsing nodig is. Als alternatief kan gebruik worden gemaakt van de&#160; &#8216;vangnetregeling&#8217; (zie volgende module).&lt;/p&gt;</description>

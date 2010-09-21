@@ -15,10 +15,10 @@
     <evaluation-optional>yes</evaluation-optional>
     <module external-id="M-791" optional="no">
       <title>Organisatie van arbeidsomstandigheden, verzuim en bedrijfshulpverlening</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-5686" optional="no">
         <title>Arbeidsomstandigheden en verzuim</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-27593" type="policy">
           <title>Arbeidsomstandigheden worden in de organisatie op een structurele manier aangepakt.</title>
           <description>&lt;p&gt;Een structurele (beleidsmatige)&#160;aanpak zorgt ervoor dat alle knelpunten uiteindelijk worden aangepakt en niet alleen de knelpunten die op korte termijn risico's opleveren of&#160;de knelpunten die door `vaste klagers`worden aangekaart.&lt;/p&gt;&lt;p&gt;Een structurele aanpak begint met een inventarisatie van de knelpunten en de ernst van de knelpunten&#160;(risico-inventarisatie en -evaluatie), waarna je een plan opstelt hoe en wanneer de knelpunten opgelost moeten worden opgelost, controle of het plan wordt uitgevoerd en uiteindelijk weer inventariseren of de aanpak het gewenste effect heeft gehad en welke risico`s nog over zijn en of nieuwe risico`s zijn ge&#239;ntroduceerd.&lt;/p&gt;&lt;p&gt;Bij het zoeken naar oplossingen moet de zogenaamde bronaanpak of arbeidshygi&#235;nische aanpak wordne gevolgd. Dat wil zeggen in eerste instantie door het nemen van maatregelen aan de bron waardoor de bron wordt weggenomen. Als de bron niet kan worden voorkomen of beperkt, moeten doeltreffende maatregelen worden genomen waarbij collectieve (voor alle medewerkers) maatregelen de voorkeur verdienen boven individuele maatregelen. Denk aan maatregelen zoals afscherming, afzuiging ed. (waardoor mens en bron worden gescheiden) en verkorting van de blootstellingsduur (zodat minder blootstelling aan de schadelijke werking). Wanneer voornoemde maatregelen redelijkerwijs niet mogelijk blijken kan worden overgegaan tot het gebruik van persoonlijke beschermingsmiddelen.&lt;/p&gt;</description>
@@ -387,10 +387,10 @@
     </module>
     <module external-id="M-795" optional="no">
       <title>Werk- en rusttijden</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-796" optional="no">
         <title>Dienstroosters</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-4628" type="risk">
           <title>Het dienstrooster is minimaal 2 weken van tevoren bekend</title>
           <description></description>
@@ -949,7 +949,7 @@ houden.&lt;/p&gt;</action-plan>
       </module>
       <module external-id="M-803" optional="no">
         <title>Nooduitgangen, vluchtwegen, blusmiddelen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-4662" type="risk">
           <title>Er zijn voldoende nooduitgangen en vluchtwegen aanwezig</title>
           <description></description>
@@ -1187,10 +1187,10 @@ alleen op een niet brandbare, stabiel standaard.&lt;/p&gt;</action-plan>
     </module>
     <module external-id="M-805" optional="no">
       <title>Algemene voorzieningen: Gebouw, onderhoud, schoonmaak</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-806" optional="no">
         <title>Het gebouw</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-4675" type="risk">
           <title>De elektrische installatie is aangelegd en onderhouden door een erkende installateur</title>
           <description>&lt;p&gt;Voor het installeren en onderhouden van elektrische installaties zijn strikte eisen geformuleerd in de normen NEN 1010 en NEN 3140. Een belangrijke eis betreft de deskundigheid van degene die de elektrotechnische werkzaamheden verricht. Vaak stelt ook een verzekeraar eisen voor aanleg en inspectie van een elektrische installatie. Kleine elektrotechnische werkzaamheden mag u zelf uitvoeren. Bij een calamiteit kan het soms zeer wenselijk zijn snel de gastoevoer of de elektriciteit af te kunnen sluiten. Wijs de hoofdschakelaars daarom duidelijk zichtbaar aan.&lt;/p&gt;</description>
@@ -1445,7 +1445,7 @@ voetgangershekjes).&lt;/p&gt;</action-plan>
       </module>
       <module external-id="M-807" optional="no">
         <title>Sanitair, kleedruimte en pauzeruimte</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-4685" type="risk">
           <title>De medewerkers kunnen hun pauzes rustig zittend aan een tafel doorbrengen</title>
           <description>&lt;p&gt;In elk bedrijf moet een geschikte ruimte zijn, waar de werknemers (die aanwezig zijn in gebouw) de pauze door kunnen brengen.&lt;/p&gt;</description>
@@ -1507,7 +1507,7 @@ voetgangershekjes).&lt;/p&gt;</action-plan>
       </module>
       <module external-id="M-808" optional="no">
         <title>Verlichting / Daglicht</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-4689" type="risk">
           <title>De (spoel)keuken is goed verlicht. Bespreekpunt: Deze vraag is omgezet in allemaal losse stellingen (1 t/m 9). Oorspronkelijke opzet niet mogelijk bij digitalisering</title>
           <description>&lt;p&gt;De verlichting moet zo zijn dat de werkzaamheden goed zichtbaar zijn. Een minimum van 200 lux op de feitelijke werkplekken, waarbij geen hinderlijke schaduwen optreden, is noodzakelijk. Voor opslagruimtes wordt een minimum van 100 lux geadviseerd.&lt;/p&gt;</description>
@@ -1633,7 +1633,7 @@ aanbrengen. &lt;/p&gt;</action-plan>
       </module>
       <module external-id="M-809" optional="no">
         <title>Onderhoud</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-4702" type="risk">
           <title>De blusmiddelen worden regelmatig onderhouden en gekeurd (1 keer per jaar).</title>
           <description>&lt;p&gt;Voordelen van regelmatig onderhoud of inspecties zijn:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;veiligheid in het gebruik;&lt;/li&gt;&lt;li&gt;verhoogde bedrijfszekerheid van de apparatuur;&lt;/li&gt;&lt;li&gt;prettiger werken doordat de apparatuur in orde is;&lt;/li&gt;&lt;li&gt;betere indruk naar gasten.&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;&lt;p&gt;Regelmatige inspectie van veel voorzieningen is verplicht. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;46% van de branden in de Horeca wordt veroorzaakt door een technische storing of defect; onderhoud en inspectie zijn daarom essentieel.&lt;/p&gt;</description>
@@ -1988,7 +1988,7 @@ werkoverleg aandacht besteden aan de werkmethode en de werkverdeling. &lt;/p&gt;
     </module>
     <module external-id="M-811" optional="no">
       <title>Opslag: Magazijn / opslagkelder (tapinstallatie, goederenontvangst, koel- en vriescellen)</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-812" optional="true">
         <title>Het magazijn</title>
         <description>&lt;p&gt;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;</description>
@@ -2113,7 +2113,7 @@ de kelder te verplaatsen een fustenkatrol of veilige glijbaan gebruiken.&lt;/p&g
       </module>
       <module external-id="M-813" optional="no">
         <title>Gevaarlijke stoffen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-4746" type="risk">
           <title>De ruimte waar de kooldioxidecilinders (koolzuur) staan voldoen aan &#233;&#233;n van de eisen (zie wettelijk kader).</title>
           <description>&lt;p&gt;Kooldioxide (koolzuur) is zwaarder dan lucht en heeft een verstikkende werking op de mens. &lt;br/&gt;Sinds 1 maart 2001 zijn heldere eisen van kracht voor de opslag van kooldioxide. De ruimte moet voldoen aan &#258;&#352;&#258;&#352;n van onderstaande eisen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;volume van de ruimte groter dan 100 m3 en lucht in de ruimte minimaal 2 maal per uur ververst;&lt;/li&gt;&lt;li&gt;lucht in de ruimte minimaal 4 maal per uur ververst;&lt;/li&gt;&lt;li&gt;permanente kooldioxidemeting (koolzuurmeting) met een vooralarm bij 0,5 volume% (9.000 mg/m3) en een hoofdalarm bij 1,5 volume% (30.000 mg/m3).&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br/&gt;Ventilatie moet plaatsvinden door afzuiging vlak boven de grond (ca. 25 cm).&lt;/p&gt;</description>
@@ -2966,7 +2966,7 @@ werkverdeling. &lt;/p&gt;</action-plan>
       </module>
       <module external-id="M-820" optional="no">
         <title>Gevaarlijke stoffen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-4784" type="risk">
           <title>Afwasmiddel wordt in de vorm van automatische dosering of blokjes toegepast</title>
           <description>&lt;p&gt;Er zijn grofweg 3 manieren voor het toedienen van afwasmiddel:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;poeder;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;blokjes;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;automatisch doseersysteem.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br/&gt;Omdat afwasmiddel vaak corrosief is (2 reageerbuisjes op het oranje etiket) en dus snel brandwonden kan veroorzaken is het belangrijk contact met het afwasmiddel zo veel mogelijk te beperken. Bij gebruik van blokjes en met name bij automatisch doseren is de blootstelling minimaal. Bovendien kunnen kosten worden bespaard door een betere dosering.&lt;/p&gt;</description>
@@ -3132,7 +3132,7 @@ installeren.&lt;/p&gt;</action-plan>
       </module>
       <module external-id="M-822" optional="no">
         <title>Apparatuur</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-4791" type="risk">
           <title>Alle keukenapparatuur is voorzien van  CE-markering</title>
           <description>&lt;p&gt;Onder keukenapparatuur wordt verstaan: fornuis, grill, frituur, oven, steamer, snijmachine, softijsmachine, afwasmachine, afzuiging, etc.&lt;/p&gt;&lt;p&gt;Apparatuur die na 1-1-1995 is aangeschaft moet voorzien zijn van een CE-markering. Deze is terug te vinden op het typeplaatje van uw apparaat. Een CE-markering betekent dat u er vanuit mag gaan dat het apparaat veilig gebruikt kan worden. Als de CE-markering ontbreekt mag u daar niet vanuit gaan en moet een uitgebreide risicobeoordeling plaatsvinden.&lt;/p&gt;</description>
@@ -3330,7 +3330,7 @@ schoonmaakwerk. &lt;/p&gt;</action-plan>
       <question>Er zijn hotelkamers.</question>
       <module external-id="M-824" optional="no">
         <title>Gebouw</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-4802" type="risk">
           <title>In de hotelkamers zijn brandmelders aanwezig</title>
           <description>&lt;p&gt;Alarmering via een brandmelder verkort de ontdekkingstijd, zodat de schade beperkt kan blijven (in bedrijven met een detectiesysteem is de schade na een brand gemiddeld 47% minder). Plaats zeker brandmelders, wanneer ook bewoning in het pand plaatsvindt, omdat veel branden ontstaan tussen sluitingstijd en een uur na sluitingstijd. In gebouwen met meerdere of zeer grote ruimtes of etages kan het hebben van een brandmeldinstallatie en een ontruimingsalarminstallatie verplicht zijn. Dit geldt met name voor discotheken, hotels en zaalbedrijven. Vraag dit na bij de brandweer.&lt;/p&gt;</description>
@@ -3733,7 +3733,7 @@ lawaai.&lt;/p&gt;</action-plan>
     </module>
     <module external-id="M-1224" optional="no">
       <title>Andere onderzoeken en/of activiteiten</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-7369" type="risk">
         <title>Er zijn in het bedrijf reeds andere onderzoeken verricht</title>
         <description>&lt;p&gt;Denk hierbij aan de Veiligheidsscan Horeca, de quickscan werkdruk Horeca of de checklist preventie Legionella.&lt;/p&gt;</description>

@@ -193,7 +193,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       <description>&lt;p&gt;Basisafspraken over Arbo en verzuim.&lt;/p&gt;</description>
       <module external-id="M-5419" optional="no">
         <title>Basisafspraken over verzuim</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-25870" type="policy">
           <title>Arbo knelpunten</title>
           <problem-description>Arboknelpunten zo snel mogelijk oplossen. Daarbij nagaan wat de oorzaak van het knelpunt is.</problem-description>
@@ -339,7 +339,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5420" optional="no">
         <title>Afspraken over verzuim</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-25872" type="policy">
           <title>Verzuimbeleid</title>
           <problem-description>Verzuimbeleid opstellen en vastleggen.</problem-description>
@@ -443,7 +443,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5421" optional="no">
         <title>Preventiemedewerker</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-25889" type="policy">
           <title>Kennis preventiemedewerker</title>
           <description>&lt;p&gt;Van belang is dat de preventiemedewerker(s) voldoende deskundigheid hebben om de concrete maatregelen uit het Plan van Aanpak te kunnen (laten) uitvoeren. Hoewel de wet niet expliciet aangeeft waaraan een preventiemedewerker moet voldoen, lijkt het logisch dat een werknemer over de volgende minimale vaardigheden beschikt:&#160;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;het kunnen verstrekken van informatie en het geven van voorlichting;&lt;/li&gt;&lt;li&gt;de bekendste arbeidsrisico&#8217;s in de branche kennen en deze in het bedrijf kunnen herkennen;&lt;/li&gt;&lt;li&gt;het kennen van verbetermogelijkheden en deze in het bedrijf voorstellen;&lt;/li&gt;&lt;li&gt;arbomaatregelen kunnen (laten) uitvoeren.&lt;/li&gt;&lt;/ul&gt;</description>
@@ -471,7 +471,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5422" optional="no">
         <title>PAGO en arbeidsomstandighedenspreekuur</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-25891" type="policy">
           <title>PAGO en arbeidsomstandighedenspreekuur</title>
           <description>&lt;p&gt;Hier gaat het om de afspraken die u moet maken met een gecertificeerde deskundige of arbodienst en die u vastlegt in een contract.&lt;/p&gt;&lt;p&gt;PAGO wil zeggen dat medewerkers met een bepaalde regelmaat een gezondheidskundig onderzoek krijgen aangeboden. Het onderzoek houdt verband met de risico's tijdens het werk. Uit de RI&amp;amp;E volgt welke risico's er zijn. Hieruit kan volgen dat onderzoek naar fysieke belasting, werken in kou of vochtige ruimtes , RSI of werkdruk gewenst is, als dat een risico in het bedrijf is.&lt;br/&gt;&#160;&lt;br/&gt;Tijdens het arbeidsomstandighedenspreekuur kunnen de medewerkers op eigen initiatief de gecertificeerde deskundige of de arbodienst om advies vragen over hun gezondheidsklachten die mogelijk verband hebben met hun werk. Hierdoor kunnen zij ook zelf helpen voorkomen dat ze ziek worden en kunnen arbeidsomstandigheden verbeterd worden.&lt;/p&gt;</description>
@@ -499,7 +499,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5423" optional="no">
         <title>Persoonlijke Beschermingsmiddelen (PBM)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-25893" type="policy">
           <title>Aanpakken risico's bij de bron</title>
           <description>&lt;p&gt;Gevaren voor de veiligheid of de gezondheid van de werknemer moeten zoveel mogelijk bij de bron daarvan worden voorkomen of worden beperkt. Wanneer dit niet kan moeten andere maatregelen worden getroffen, waarbij maatregelen gericht op collectieve bescherming de voorrang hebben boven maatregelen gericht op individuele bescherming (zoals PBM). De werkgever is verplicht de nodige persoonlijke beschermingsmiddelen kosteloos ter beschikking te stellen aan de werknemers. Zie ook&#160; &lt;/p&gt;&lt;a href="http://www.arbo.nl/" rel="nofollow" target="_blank"&gt;www.arbo.nl&lt;/a&gt;</description>
@@ -541,7 +541,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5424" optional="no">
         <title>Ongevallen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-25896" type="policy">
           <title>Registratie bedrijfsongevallen</title>
           <description>&lt;p&gt;Het registreren van ongevallen en onderzoek naar de oorzaken vormen de basis voor het nemen van gerichte maatregelen om deze ongevallen in de toekomst te voorkomen. &lt;/p&gt;&lt;p&gt;Omdat er al ongevallen zijn gebeurd is het nodig maatregelen te treffen zodat ze niet weer&#160;kunnen gebeuren. Zie &lt;a href="http://www.arbo.nl/" rel="nofollow" target="_blank"&gt;www.arbo.nl&lt;/a&gt;&lt;/p&gt;</description>
@@ -581,7 +581,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5425" optional="no">
         <title>Werk- en rusttijden</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-25899" type="risk">
           <title>Wettelijke bepalingen</title>
           <description>&lt;p&gt;In de Arbeidstijdenwet en het Arbeidstijdenbesluit zijn de regels voor arbeidstijden vastgelegd. In de CAO hebben partijen afspraken gemaakt over de werktijden die voor de gehele branche bindend zijn.&lt;/p&gt;&lt;p&gt;Op 1 april 2007 is de nieuwe Arbeidstijdenwet van kracht, maar de CAO-afspraken blijven geldig. Te lange werktijden hebben gevolgen voor de gezondheid van de medewerker. Daarnaast is het waarschijnlijk dat de kwaliteit en de productiviteit afneemt.&lt;br/&gt;Zie ook de CAO&#160;Tuincentra en de brochure over de nieuwe arbeidstijdenwet. Beide kunt u vinden op de website van Tuinbranche Nederland: &lt;a href="http://www.tuinbranche.nl/" rel="nofollow" target="_blank"&gt;www.tuinbranche.nl&lt;/a&gt;. &lt;/p&gt;</description>
@@ -633,7 +633,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5426" optional="no">
         <title>Agressie, geweld, intimidatie door klanten</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-25903" type="policy">
           <title>Afspraken over wat te doen</title>
           <problem-description>Afspraken maken over wat te doen als een klant agressief reageert.</problem-description>
@@ -700,7 +700,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5427" optional="no">
         <title>Sexuele intimidatie, agressie en geweld en pesten</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-25908" type="risk">
           <title>Maatregelen ter voorkoming</title>
           <problem-description>Maatregelen nemen om seksuele intimidatie, pesten, agressie en geweld tegen te gaan.</problem-description>
@@ -753,7 +753,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5428" optional="no">
         <title>Voorlichting en instructie</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-25912" type="risk">
           <title>Regelmatig voorlichten en instrueren</title>
           <problem-description>Medewerkers regelmatig instructies geven over het veilig uitvoeren van hun werk.</problem-description>
@@ -807,7 +807,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5429" optional="no">
         <title>BHV en in geval van nood</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-25916" type="risk">
           <title>Voldoende BHV'ers en EHBO'ers</title>
           <description>&lt;p&gt;Op een vestiging tot 50 werknemers moet er altijd minimaal 1 bedrijfshulpverlener (BHV-er) aanwezig zijn. Dit betekent dat meerdere mensen tot BHV-er opgeleid moeten worden in verband met afwezigheid door vakantie of ziekte etc.&lt;br/&gt;&#160;&lt;br/&gt;Op een locatie tot 250 werknemers is er tenminste 1 per 50 werknemers aanwezig. Bij het aantal werknemers moet het aantal bezoekers/klanten worden opgeteld.&lt;/p&gt;&lt;p&gt;De bedrijfshulpverleners voeren de volgende taken uit:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;verlenen levens reddende eerste hulp bij ongevallen;&lt;/li&gt;&lt;li&gt;alarmeren de werknemers in noodsituaties en zorgen voor de evacuatie;&#160;&lt;/li&gt;&lt;li&gt;alarmeren de brandweer en andere hulpverleningsdiensten;&lt;/li&gt;&lt;li&gt;blussen beginnende brand.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Voor meer informatie rondom de BHV organisatie en ontruimingsoefeningen kunt u terecht bij de Arbo-dienst of de&#160; lokale brandweer. &lt;/p&gt;&lt;p&gt;De bezoldiging van de Bedrijfshulpverleners is geregeld in de&#160;cao Tuincentra.&lt;/p&gt;</description>
@@ -999,7 +999,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5431" optional="no">
         <title>Winkelcriminaliteit</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-25931" type="policy">
           <title>Veiligheidsprocedures</title>
           <problem-description>Veiligheidsprocedures opstellen.</problem-description>
@@ -1231,7 +1231,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5434" optional="no">
         <title>Gebouwen algemeen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-25950" type="risk">
           <title>Sanitaire voorzieningen</title>
           <description>&lt;p&gt;Het gaat hier&#160;om toiletten, wasbakken, zeep etc.&lt;/p&gt;&lt;p&gt;Indien werknemers bloot staan aan vuil, vocht of&#160;stof moeten er voldoende wasbakken aanwezig zijn. Indien de reiniging meer omvat dan de handen en gezicht is een doucheruimte met voldoende aantal douches verplicht. Voor zowel wasbakken als voor douches geldt dat deze voldoende ruim en doelmatig ingericht moeten zijn en moeten beschikken over warm en koud stromend water. De ruimtes moeten voor mannen en vrouwen gescheiden zijn.&lt;/p&gt;</description>
@@ -1368,7 +1368,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5435" optional="no">
         <title>Milieuzorg</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-25961" type="policy">
           <title>Handleiding Milieuzorg</title>
           <description>&lt;p&gt;Milieuzorg is belangrijk. Uitgebreide informatie over wet- en regelgeving op het gebied van milieuzorg vindt u in de Handleiding Milieuzorg van Tuinbranche Nederland. Leden&#160;van Tuinbranche Nederland kunnen deze downloaden&#160;via &lt;/p&gt;&lt;a href="http://www.tuinbranche.nl" rel="nofollow" target="_blank"&gt;www.tuinbranche.nl&lt;/a&gt;&lt;p&gt;. Niet-leden kunnen de handleiding aanvragen via &lt;/p&gt;&lt;a href="mailto:info@tuinbranche.nl" rel="nofollow" target="_blank"&gt;info@tuinbranche.nl&lt;/a&gt;&lt;p&gt;.&lt;/p&gt;</description>
@@ -1410,10 +1410,10 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
     </module>
     <module external-id="M-5410" optional="no">
       <title>Verkoop binnen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-5436" optional="no">
         <title>Lichamelijke belasting</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-25964" type="top5">
           <title>Tillen</title>
           <description>&lt;p&gt;Regelmatig zwaar tillen en dragen leidt tot overbelasting van rugspieren en tussenwervelgewrichten.&lt;/p&gt;&lt;p&gt;In een ideale situatie bedraagt het maximaal te tillen gewicht voor 1 persoon 23 kilo. Van de ideale tilsituatie is echter vrijwel nooit sprake. Dan moet de last namelijk recht voor het lichaam worden getild, op tafelhoogte staan, bijna tegen het lichaam aan getild worden en gemakkelijk vast te houden zijn. &lt;/p&gt;&lt;p&gt;Omdat dit vrijwel nooit voorkomt is in de meeste situaties het maximum tilgewicht al veel eerder bereikt. Zeker omdat ook het aantal keren dat gedragen of getild moet worden van invloed is. Twintig keer per dag een gewicht van meer dan 10 kilo moeten tillen of dragen kan evenzeer tot overbelasting leiden. &lt;/p&gt;&lt;p&gt;Werken met lichtere materialen en gereedschappen, zware lasten samen tillen of dragen, werken met tilhulpmiddelen en goede beschermingsmiddelen kunnen al gauw een groot verschil maken in de dagelijkse belasting. &lt;/p&gt;</description>
@@ -1525,7 +1525,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5437" optional="no">
         <title>Inrichting van de kas</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-25973" type="risk">
           <title>Looppaden</title>
           <problem-description>Doorgang in de looppaden bewaken.</problem-description>
@@ -1579,7 +1579,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5438" optional="no">
         <title>Klimaat</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-25977" type="top5">
           <title>Temperatuur</title>
           <description>&lt;p&gt;Bij het werken onder extreme kou kan het werk vaak niet meer goed worden uitgevoerd. De bloed-toevoer naar handen (vingers) of voeten (tenen) wordt tot een minimum teruggebracht. De Arbeidsinspectie spreekt in dit verband van 'fysiologische amputatie'. Handschoenen zijn noodzakelijk. Het werken onder extreme koude kan leiden tot onderkoeling. &lt;/p&gt;&lt;p&gt;Bij het werken onder extreme hitte moet het hart harder werken om de extra warmte in het lichaam af te voeren. De huid wordt roder en medewerkers gaan zweten. Door zweten wordt warmte onttrokken aan de huid: we koelen af. Bij te weinig luchtsnelheid en hoge temperatuur kunnen we onze warmte niet goed kwijt aan de buitenlucht. Gevolg is dat de lichaamstemperatuur stijgt. Dit kan grote gezondheidsrisico&#8217;s inhouden.&#160; Dit varieert van jeuk (uitslag) tot hitteuitputting tot een beroerte. Daarnaast leidt de warmte tot een lager concentratievermogen waardoor de kans op ongelukken bij het werken, toeneemt. &lt;br/&gt;Naast schade aan de gezondheid kan het werken in de kou of hitte ook gewoon hinderlijk zijn: het klimaat is niet meer behaaglijk. Ook dan moet de werkgever, indien mogelijk, maatregelen nemen.&lt;/p&gt;&lt;p&gt;Het binnenklimaat van met name de kassen is bij veel tuincentra in de branche een probleem. In het algemeen worden hier behoorlijk veel klachten over geuit. Daarnaast is soms in de winter de verwarmingscapaciteit onvoldoende. Het werken in te koude of te warme omstandigheden leidt tot vermoeidheid. &lt;/p&gt;&lt;p&gt;In de Arbo-wet en de beleidsregels wordt geen expliciete uitspraak gedaan, in de zin van: de temperatuur mag niet hoger of lager zijn dan..... In de Arbo-wet staat dat er sprake moet zijn van een behaaglijke temperatuur in relatie met de te verrichten arbeid en dat het klimaat niet tot schade van de gezondheid mag leiden. &lt;/p&gt;&lt;p&gt;Behaaglijkheid is een subjectief begrip, wat de ene werknemer als een prettige temperatuur ervaart kan voor de andere werknemer veel te warm zijn. Er is sprake van een behaaglijk klimaat als minder dan 20% van de werknemers over het klimaat klaagt.&lt;/p&gt;</description>
@@ -1607,7 +1607,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5439" optional="no">
         <title>Werken met gevaarlijke stoffen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-25979" type="top5">
           <title>Opslag</title>
           <description>&lt;p&gt;Te denken valt aan de volgende stoffen: bestrijdingsmiddelen, schoonmaakmiddelen, lampolie en gas, aanmaakmiddelen voor de BBQ. De hoeveelheid gevaarlijke en/of brandbare stof die op de werkplek aanwezig is, mag niet groter zijn dan voor de dagvoorraad nodig is.&lt;/p&gt;</description>
@@ -1683,7 +1683,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5441" optional="true">
         <title>Vuurwerk</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Verkoopt u vuurwerk?</question>
         <risk external-id="R-25989" type="risk">
           <title>Voldoen aan de regels</title>
@@ -1724,7 +1724,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5442" optional="no">
         <title>Arbeidsmiddelen en machines</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-25992" type="risk">
           <title>CE-markering</title>
           <description>&lt;p&gt;In de branche wordt gebruik gemaakt van apparaten en machines zoals de vijverfoliemachine en mobiele arbeidsmiddelen zoals heftrucks en gereedschappen. Aan het werken met machines zijn risico's verbonden. Te denken valt aan:&lt;br/&gt;&#8226;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Beknellingen;&lt;br/&gt;&#8226;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Lawaai (schadelijk geluid);&lt;br/&gt;&#8226;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Contact met hete delen;&lt;br/&gt;&#8226;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Snijden&lt;/p&gt;&lt;p&gt;Er gebeuren veel ongelukken met machines, ook in uw branche. Daarom is het van groot belang ervoor te zorgen dat uw machinepark veilig is en dat er veilig mee wordt gewerkt. &lt;/p&gt;</description>
@@ -1802,10 +1802,10 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
     </module>
     <module external-id="M-5411" optional="no">
       <title>Kassawerkplekken en baliewerk</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-5445" optional="no">
         <title>Kassa- en baliewerkplek</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-25998" type="risk">
           <title>Ergonomie</title>
           <description>&lt;p&gt;Kassawerkplekken vormen een risico op langdurig in een belastende werkhouding werken of frequent dezelfde bewegingen maken. Let&#160;op voldoende ruimte voor voeten en&#160;benen en&#160;een goede stoel die stabiel en veilig kan worden opgesteld. &lt;/p&gt;&lt;p&gt;Om dit te bereiken mag het werkblad ter hoogte van de benen niet dikker zijn dan 11 cm (inclusief eventuele steunen of uitstekende delen zoals apparatuur. Het werkblad/eventueel de lopende band,&#160; moet een goede werkhoogte hebben, zowel voor klant als kassamedewerker. De&#160;kassamedewerker moet goed zicht hebben op de producten en&#160;niet ver hoeven reiken. De stoel geeft goede ondersteuning en staat stabiel, glijdt niet weg. &lt;/p&gt;</description>
@@ -1905,7 +1905,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5448" optional="no">
         <title>Klimaat</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26007" type="top5">
           <title>Temperatuur</title>
           <problem-description>De temperatuur op de werkplek in de gaten houden.</problem-description>
@@ -1934,7 +1934,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5449" optional="no">
         <title>Winkelcriminaliteit</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26009" type="policy">
           <title>Veiligheidsprocedures</title>
           <description>&lt;p&gt;Het Hoofdbedrijfschap Detailhandel (HBD) heeft hier veel informatie over ontwikkeld. Deze is tevens verkrijgbaar via &lt;/p&gt;&lt;a href="http://www.tuinbranche.nl/" rel="nofollow" target="_blank"&gt;www.tuinbranche.nl&lt;/a&gt;</description>
@@ -2034,7 +2034,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5450" optional="no">
         <title>Agressieve klanten</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26017" type="policy">
           <title>Afspraken maken</title>
           <description>&lt;p&gt;Elk bedrijf heeft te maken met klanten. Bekijk of er situaties kunnen ontstaan waarin medewerkers geconfronteerd worden met ongewenst gedrag van klanten. Agressie en geweld zal echter niet in alle werksituaties het geval zijn.&lt;/p&gt;</description>
@@ -2123,7 +2123,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5451" optional="no">
         <title>Struikelgevaar</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26024" type="risk">
           <title>Vloerverhoging</title>
           <description></description>
@@ -2163,7 +2163,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5452" optional="no">
         <title>Werkdruk</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26295" type="top5">
           <title>Ervaren medewerkers werkdruk?</title>
           <description>&lt;p&gt;Werkdruk moet worden uitgevraagd bij de medewerkers. U kunt hiervoor de &lt;/p&gt;&lt;a href="http://www.tuinbranche.nl/documenten/Werknemersvragen%20over%20werkdruk%20behorende%20bij%20de%20Branche%20RI.doc/view?searchterm=medewerkersvragen" rel="nofollow" target="_blank"&gt;medewerkersraadpleging &lt;/a&gt;&lt;p&gt;gebruiken. Als hier uit blijkt dat werkdruk een risico-factor is dan zal een nadere inventarisatie met behulp van analysemethoden aan de orde zijn.&lt;/p&gt;</description>
@@ -2203,7 +2203,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5496" optional="no">
         <title>Toezicht</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26296" type="risk">
           <title>Leidinggevenden</title>
           <description>&lt;p&gt;Denk hierbij aan zaken als het gebruik van persoonlijke beschermingsmiddelen (PBM), veilig omgaan met apparatuur etc.&lt;/p&gt;</description>
@@ -2232,10 +2232,10 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
     </module>
     <module external-id="M-5412" optional="no">
       <title>Verkoop buiten</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-5453" optional="no">
         <title>Lichamelijke belasting</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26029" type="top5">
           <title>Tillen</title>
           <description>&lt;p&gt;Regelmatig zwaar tillen en dragen leidt tot overbelasting van rugspieren en tussenwervelgewrichten.&lt;/p&gt;&lt;p&gt;In een ideale situatie bedraagt het maximaal te tillen gewicht voor 1 persoon 23 kilo. Van de ideale tilsituatie is echter vrijwel nooit sprake. Dan moet de last namelijk recht voor het lichaam worden getild, op tafelhoogte staan, bijna tegen het lichaam aan getild worden en gemakkelijk vast te houden zijn. &lt;/p&gt;&lt;p&gt;Omdat dit vrijwel nooit voorkomt is in de meeste situaties het maximum tilgewicht al veel eerder bereikt. Zeker omdat ook het aantal keren dat gedragen of getild moet worden van invloed is. Twintig keer per dag een gewicht van meer dan 10 kilo moeten tillen of dragen kan evenzeer tot overbelasting leiden. &lt;/p&gt;&lt;p&gt;Werken met lichtere materialen en gereedschappen, zware lasten samen tillen of dragen, werken met tilhulpmiddelen en goede beschermingsmiddelen kunnen al gauw een groot verschil maken in de dagelijkse belasting. &lt;br/&gt;Zie ook de site &lt;a href="http://www.arbobondgenoten.nl/" rel="nofollow" target="_blank"&gt;www.arbobondgenoten.nl&lt;/a&gt; en de &#8216;interne instructie&#160; tillen&#8217;&#160; van de arbeidsinspectie op &lt;a href="http://www.arbeidsinspectie.nl" rel="nofollow" target="_blank"&gt;www.arbeidsinspectie.nl&lt;/a&gt; &lt;/p&gt;</description>
@@ -2348,7 +2348,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5454" optional="no">
         <title>Klimaat</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26039" type="top5">
           <title>Temperatuur</title>
           <description>&lt;p&gt;Bij het werken onder extreme kou kan het werk vaak niet meer goed worden uitgevoerd. De bloed-toevoer naar handen (vingers) of voeten (tenen) wordt tot een minimum teruggebracht. De Arbeidsinspectie spreekt in dit verband van 'fysiologische amputatie'. Handschoenen zijn noodzakelijk. Het werken onder extreme koude kan leiden tot onderkoeling. &lt;/p&gt;&lt;p&gt;Bij het werken onder extreme hitte moet het hart harder werken om de extra warmte in het lichaam af te voeren. De huid wordt roder en medewerkers gaan zweten. Door zweten wordt warmte onttrokken aan de huid: we koelen af. Bij te weinig luchtsnelheid en hoge temperatuur kunnen we onze warmte niet goed kwijt aan de buitenlucht. Gevolg is dat de lichaamstemperatuur stijgt. Dit kan grote gezondheidsrisico&#8217;s inhouden.&#160; Dit varieert van jeuk (uitslag) tot hitteuitputting tot een beroerte. Daarnaast leidt de warmte tot een lager concentratievermogen waardoor de kans op ongelukken bij het werken, toeneemt. &lt;br/&gt;Naast schade aan de gezondheid kan het werken in de kou of hitte ook gewoon hinderlijk zijn: het klimaat is niet meer behaaglijk. Ook dan moet de werkgever, indien mogelijk, maatregelen nemen.&lt;/p&gt;&lt;p&gt;In de Arbo-wet en de beleidsregels wordt geen expliciete uitspraak gedaan, in de zin van: de temperatuur mag niet hoger of lager zijn dan..... In de Arbo-wet staat dat er sprake moet zijn van een behaaglijke temperatuur in relatie met de te verrichten arbeid en dat het klimaat niet tot schade van de gezondheid mag leiden. &lt;/p&gt;&lt;p&gt;Behaaglijkheid is een subjectief begrip, wat de ene werknemer als een prettige temperatuur ervaart kan voor de andere werknemer veel te warm zijn. Er is sprake van een behaaglijk klimaat als minder dan 20% van de werknemers over het klimaat klaagt.&lt;/p&gt;</description>
@@ -2376,7 +2376,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5455" optional="no">
         <title>Werken met gevaarlijke stoffen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26041" type="top5">
           <title>Opslag</title>
           <description>&lt;p&gt;Te denken valt aan de volgende stoffen: bestrijdingsmiddelen, schoonmaakmiddelen, lampolie en gas, aanmaakmiddelen voor de BBQ. De hoeveelheid gevaarlijke en/of brandbare stof die op de werkplek aanwezig is, mag niet groter zijn dan voor de dagvoorraad nodig is.&lt;/p&gt;&lt;p&gt;Afhankelijk van het aantal stoffen en de hoeveelheid ervan kan uw arbodienst u hierbij helpen. &lt;/p&gt;&lt;p&gt;Zorg dat kleine kinderen niet bij de (verkoop)voorraad bestrijdingsmiddelen kunnen komen.&lt;/p&gt;</description>
@@ -2464,7 +2464,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5456" optional="no">
         <title>Agressieve klanten, winkelcriminaliteit</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26048" type="policy">
           <title>Afspraken maken</title>
           <description>&lt;p&gt;Elk bedrijf heeft te maken met klanten. Bekijk of er situaties kunnen ontstaan waarin medewerkers geconfronteerd worden met ongewenst gedrag van klanten. &lt;br/&gt;Agressie en geweld zal echter niet in alle werksituaties het geval zijn.&lt;/p&gt;&lt;p&gt;Stel vast welk gedrag niet toelaatbaar is en doe dit in overleg met het personeel of de personeelsvertegenwoordiging. Maak goede afspraken hoe te handelen bij klanten met ongewenst gedrag en maak afspraken over de opvang van medewerkers die daarmee geconfronteerd worden. Een gesprek met een collega is vaak al voldoende, maar regel indien nodig ook andere deskundige opvang (bijvoorbeeld een vertrouwenspersoon of iemand bij de arbodienst). Het is voor groepen die veel in aanraking komen met klanten zinvol om een training te volgen over hoe te handelen bij agressie en geweld.&#160;&lt;/p&gt;&lt;p&gt;Registreer alle incidenten, bekijk wat de oorzaken zijn en tref op basis daarvan aanvullende oplossingen die agressie en geweld voorkomen of verbeter bestaande oplossingen zoals een beter onderscheid tussen publieks- en werkruimte, een goede collegiale opvang bij incidenten. Afhankelijk van het type organisatie, kunt u ook denken aan het eventueel opnemen van het onderwerp gedrag in de huisregels. &lt;/p&gt;</description>
@@ -2540,7 +2540,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5457" optional="no">
         <title>Arbeidsmiddelen en machines</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26055" type="risk">
           <title>CE-markering</title>
           <description>&lt;p&gt;In de branche wordt gebruik gemaakt van apparaten en machines zoals de vijverfoliemachine en mobiele arbeidsmiddelen zoals heftrucks en gereedschappen. Aan het werken met machines zijn risico's verbonden. Te denken valt aan:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Beknellingen;&#160;&lt;/li&gt;&lt;li&gt;Lawaai (schadelijk geluid);&lt;/li&gt;&lt;li&gt;Contact met hete delen;&lt;/li&gt;&lt;li&gt;Snijden&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Er gebeuren veel ongelukken met machines, ook in uw branche. Daarom is het van groot belang ervoor te zorgen dat uw machinepark veilig is en dat er veilig mee wordt gewerkt. &lt;/p&gt;&lt;p&gt;De machines moeten jaarlijks gekeurd worden. Soms mag u dat zelf doen, dan noemen we dat inspecties.&#160;In bijzondere gevallen moet u een keuring laten verrichten door daarvoor bevoegde personen. Om te zien welke machines en gereedschappen u zelf mag inspecteren kunt u de handleiding van de Stichting Arbouw downloaden. &lt;/p&gt;&lt;p&gt;Naast keuringen of inspecties moeten gebruikers voor elk gebruik controleren of de machines en apparaten nog voldoen aan de eisen. &lt;/p&gt;</description>
@@ -2653,7 +2653,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5497" optional="no">
         <title>Persoonlijke Beschermingsmiddelen (PBM)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26298" type="risk">
           <title>Beschikbaarheid</title>
           <problem-description>Zorgen voor voldoende PBM.</problem-description>
@@ -2683,7 +2683,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5458" optional="true">
         <title>Heftrucks</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Gebruik heftrucks</question>
         <risk external-id="R-26065" type="risk">
           <title>Voldoen aan eisen</title>
@@ -2760,7 +2760,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5459" optional="no">
         <title>Toezicht</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26071" type="risk">
           <title>Leidinggevenden</title>
           <description>&lt;p&gt;Denk hierbij aan zaken als het gebruik van persoonlijke beschermingsmiddelen, het veilig omgaan met apparatuur etc.&lt;/p&gt;</description>
@@ -2789,7 +2789,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
     </module>
     <module external-id="M-5413" optional="no">
       <title>Magazijn</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-5460" optional="no">
         <title>Lichamelijke belasting</title>
         <description>&lt;p&gt;Voldoende afwisseling is cruciaal in het voorkomen van klachten aan het bewegingsapparaat. Langdurig of veelvuldig in &#233;&#233;n houding werken respectievelijke dezelfde handeling verrichten levert het grootste risico op. &lt;/p&gt;</description>
@@ -2868,7 +2868,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5461" optional="no">
         <title>Werkplekinrichting magazijn</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26079" type="risk">
           <title>Klanten</title>
           <description>&lt;p&gt;U bent geheel verantwoordelijk voor risico's die derden lopen of kunnen veroorzaken binnen uw bedrijf. Om deze reden is er voor gezorgd dat derden niet zonder begeleiding in uw werkruimtes kunnen komen.&lt;/p&gt;</description>
@@ -3076,7 +3076,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5462" optional="true">
         <title>Heftrucks</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Werken met heftrucks</question>
         <risk external-id="R-26096" type="risk">
           <title>Voldoen aan eisen</title>
@@ -3141,7 +3141,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5463" optional="no">
         <title>Klimaat</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26101" type="top5">
           <title>Temperatuur</title>
           <description>&lt;p&gt;Bij het werken onder extreme kou kan het werk vaak niet meer goed worden uitgevoerd. De bloed-toevoer naar handen (vingers) of voeten (tenen) wordt tot een minimum teruggebracht. De Arbeidsinspectie spreekt in dit verband van 'fysiologische amputatie'. Handschoenen zijn noodzakelijk. Het werken onder extreme koude kan leiden tot onderkoeling. &lt;/p&gt;&lt;p&gt;Bij het werken onder extreme hitte moet het hart harder werken om de extra warmte in het lichaam af te voeren. De huid wordt roder en medewerkers gaan zweten. Door zweten wordt warmte onttrokken aan de huid: we koelen af. Bij te weinig luchtsnelheid en hoge temperatuur kunnen we onze warmte niet goed kwijt aan de buitenlucht. Gevolg is dat de lichaamstemperatuur stijgt. Dit kan grote gezondheidsrisico&#8217;s inhouden.&#160; Dit varieert van jeuk (uitslag) tot hitteuitputting tot een beroerte. Daarnaast leidt de warmte tot een lager concentratievermogen waardoor de kans op ongelukken bij het werken, toeneemt. &lt;br/&gt;Naast schade aan de gezondheid kan het werken in de kou of hitte ook gewoon hinderlijk zijn: het klimaat is niet meer behaaglijk. Ook dan moet de werkgever, indien mogelijk, maatregelen nemen.&lt;/p&gt;&lt;p&gt;Het binnenklimaat van met name de kassen is bij veel tuincentra in de branche een probleem. In het algemeen worden hier behoorlijk veel klachten over geuit. Daarnaast is soms in de winter de verwarmingscapaciteit onvoldoende. Het werken in te koude of te warme omstandigheden leidt tot vermoeidheid. &lt;/p&gt;&lt;p&gt;In de Arbo-wet en de beleidsregels wordt geen expliciete uitspraak gedaan, in de zin van: de temperatuur mag niet hoger of lager zijn dan..... In de Arbo-wet staat dat er sprake moet zijn van een behaaglijke temperatuur in relatie met de te verrichten arbeid en dat het klimaat niet tot schade van de gezondheid mag leiden. &lt;/p&gt;&lt;p&gt;Behaaglijkheid is een subjectief begrip, wat de ene werknemer als een prettige temperatuur ervaart kan voor de andere werknemer veel te warm zijn. Er is sprake van een behaaglijk klimaat als minder dan 20% van de werknemers over het klimaat klaagt.&lt;/p&gt;</description>
@@ -3169,7 +3169,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5464" optional="no">
         <title>Werken met gevaarlijke stoffen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26103" type="top5">
           <title>Opslag</title>
           <description>&lt;p&gt;Afhankelijk van het aantal stoffen en de hoeveelheid ervan kan uw arbodienst u hierbij helpen. Te denken valt aan de volgende stoffen: bestrijdingsmiddelen, schoonmaakmiddelen, lampolie en gas, aanmaakmiddelen voor de BBQ. De hoeveelheid gevaarlijke en/of brandbare stof die op de werkplek aanwezig is, mag niet groter zijn dan voor de dagvoorraad nodig is.&lt;/p&gt;</description>
@@ -3233,7 +3233,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5465" optional="true">
         <title>Vuurwerk</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Opslag van vuurwerk</question>
         <risk external-id="R-26110" type="policy">
           <title>Voldoen aan de regels</title>
@@ -3262,7 +3262,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5466" optional="no">
         <title>Werkdruk</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26301" type="top5">
           <title>Wordt werkdruk ervaren</title>
           <description>&lt;p&gt;Werkdruk moet worden uitgevraagd bij de medewerkers. U kunt hiervoor de &lt;/p&gt;&lt;a href="http://www.tuinbranche.nl/documenten/Werknemersvragen%20over%20werkdruk%20behorende%20bij%20de%20Branche%20RI.doc/view?searchterm=medewerkersvragen" rel="nofollow" target="_blank"&gt;medewekersraadpleging &lt;/a&gt;&lt;p&gt;gebruiken. Als hieruit blijkt dat wekdruk een risicofactor is dan zal een nadere inventarisatie met behulp van analysemethoden aan de orde zijn. Zie ook het werkdruk instrument van het Hoofdbedrijfschap Detailhandel, &lt;/p&gt;&lt;a href="http://www.hbd.nl/" rel="nofollow" target="_blank"&gt;www.hbd.nl&lt;/a&gt;&lt;p&gt;.&lt;/p&gt;</description>
@@ -3387,10 +3387,10 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
     </module>
     <module external-id="M-5414" optional="no">
       <title>Laden en lossen: ophalen en bezorgen van goederen</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-5467" optional="no">
         <title>Lichamelijke belasting</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26121" type="risk">
           <title>Verantwoordelijkheid</title>
           <description>&lt;p&gt;Dit is vooral aan de orde bij zware of moeilijk te hanteren lasten. Door vooraf goed te bepalen wie de spullen moet gaan uitladen, transporteren en op de plaats van bestemming moet brengen, kan de belasting van medewerkers tot een minimum worden beperkt. Zorg dat dit vooraf bij leveranciers/transporteurs en klanten bekend is, zodat hierover op moment van levering geen discussie meer nodig is.&lt;/p&gt;&lt;p&gt;Bepaal hoe gezorgd wordt dat materialen zo hanteerbaar mogelijk verpakt worden. Bepaal ook welke hulpmiddelen/transportmiddelen beschikbaar zijn en of aan de deur wordt geleverd of de materialen tot in het bedrijf of op de bouw op de plaats van bestemming worden gebracht. Regel in de afspraken wie assistentie verleent. Maak ook afspraken over eventueel uitpakken en het afvoeren van het verpakkingsmateriaal. &lt;/p&gt;&lt;p&gt;Voor levering aan uw eigen bedrijf: zorg dat de spullen direct op de plaats van bestemming gezet kunnen worden, zodat deze niet nog een keer extra verplaatst moeten worden door de eigen medewerkers. Stel waar mogelijk eisen aan de verpakkingswijze, vervuiling en beschadiging van de verpakking, zodanig dat dit niet tot extra werkzaamheden en risico's leidt voor uw eigen medewerkers.&lt;/p&gt;</description>
@@ -3442,7 +3442,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5468" optional="no">
         <title>Hijs- en hefmiddelen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26125" type="risk">
           <title>Veilig gebruik</title>
           <description>&lt;p&gt;Er zijn goede hulpmiddelen te gebruiken om materialen in en uit de stellingen te halen, medewerkers klimmen niet op stelling of op transportmiddelen. De opstapjes die gebruikt worden als er handmatig zaken uit de hogere rekken gepakt worden zijn voldoende stabiel, hebben soepel lopende wielen, geen scherpe kanten of andere mogelijkheden om je aan te verwonden. &lt;/p&gt;&lt;p&gt;De gebruikers dragen veiligheidsschoeisel met stroeve zolen.&lt;/p&gt;</description>
@@ -3494,7 +3494,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5470" optional="no">
         <title>Persoonlijke Beschermingsmiddelen (PBM)</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26131" type="risk">
           <title>Weersinvloeden</title>
           <description>&lt;p&gt;Dit kan door een cabine, maar meestal zal er ook speciale werkkleding verstrekt worden.&lt;/p&gt;</description>
@@ -3623,7 +3623,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5472" optional="no">
         <title>Agressieve klanten</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26141" type="risk">
           <title>Afspraken</title>
           <description>&lt;p&gt;Elk bedrijf heeft te maken met klanten. Bekijk of er situaties kunnen ontstaan waarin medewerkers geconfronteerd worden met ongewenst gedrag van klanten.&lt;br/&gt;Agressie en geweld zal echter niet in alle werksituaties het geval zijn.&lt;/p&gt;&lt;p&gt;Stel vast welk gedrag niet toelaatbaar is en doe dit in overleg met het personeel of de personeelsvertegenwoordiging. Maak goede afspraken hoe te handelen bij klanten met ongewenst gedrag en maak afspraken over de opvang van medewerkers die daarmee geconfronteerd worden. &lt;/p&gt;&lt;p&gt;Een gesprek met een collega is vaak al voldoende, maar regel indien nodig ook andere deskundige opvang (bv. een vertrouwenspersoon of iemand bij de arbodienst). Het is voor groepen die veel in aanraking komen met klanten zinvol om een training te volgen over hoe te handelen bij agressie en geweld.&lt;br/&gt;&#160;&lt;br/&gt;Registreer alle incidenten, bekijk wat de oorzaken zijn en tref op basis daarvan aanvullende oplossingen die agressie en geweld voorkomen of verbeter bestaande oplossingen zoals een beter onderscheid tussen publieks- en werkruimte, een goede collegiale opvang bij incidenten. Afhankelijk van het type organisatie, kunt u ook denken aan het eventueel opnemen van het onderwerp gedrag in de huisregels. &lt;br/&gt;&#160;Zie ook de site van het &lt;a href="http://home.szw.nl/index.cfm?menu_item_id=13749&amp;amp;rubriek_id=391817&amp;amp;rubriek_item=391840&amp;amp;hoofdmenu_item_id=13825" rel="nofollow" target="_blank"&gt;ministerie van Sociale Zaken en Werkgelegenheid&lt;/a&gt;.&lt;/p&gt;</description>
@@ -3740,7 +3740,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5474" optional="no">
         <title>Toezicht</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26150" type="risk">
           <title>Leidinggevenden</title>
           <description>&lt;p&gt;Denk hierbij aan zaken zoals het gebruik van persoonlijke beschermingsmiddelen, het veilig omgaan met apparatuur etc.&lt;/p&gt;</description>
@@ -3769,7 +3769,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
     </module>
     <module external-id="M-5415" optional="no">
       <title>Kantoorwerkzaamheden</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-5475" optional="true">
         <title>Beeldschermwerk</title>
         <description>&lt;p&gt;Bij intensief computerwerk is er sprake van een eenzijdige lichamelijk belasting. Hierdoor kunnen fysieke klachten ontstaan, zoals tinteling, stijfheid, pijn en dergelijke aan polsen, armen, nek en schouders. Als een computerwerkplek langer dan 2 uur per dag wordt gebruikt, moet deze in de RI&amp;amp;E zijn opgenomen.&lt;/p&gt;</description>
@@ -3813,7 +3813,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5476" optional="no">
         <title>Werkplekinrichting beeldschermwerkplek</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26156" type="risk">
           <title>Ergonomie</title>
           <description>&lt;p&gt;Bij langdurig werken achter de computer is het van belang dat de medewerkers de juiste werkhouding kunnen aannemen. Hiervoor gelden richtlijnen. De tafel moet voldoende groot zijn. Voldoende groot is minimaal 120 cm bij 60 cm, maar het liefst dieper. Dieper omdat er meestal een beeldscherm en toetsenbord op staan. Daarnaast moet een beeldscherm weer op 60 cm afstand van een werknemer staan.&#160; In hoogte verstelbare tafels zijn geschikt voor medewerkers met verschillende lengtes.&lt;/p&gt;</description>
@@ -4051,7 +4051,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5478" optional="no">
         <title>Veiligheid</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26175" type="risk">
           <title>Wie komt binnen?</title>
           <description>&lt;p&gt;Om veiligheidsredenen is er voor gezorgd dat vanaf de werkplek er goed zicht is op wie het kantoor binnenkomt.&lt;/p&gt;</description>
@@ -4092,10 +4092,10 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
     </module>
     <module external-id="M-5416" optional="no">
       <title>Technische Dienst</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-5479" optional="no">
         <title>Lichamelijke belasting</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26178" type="top5">
           <title>Tillen</title>
           <description>&lt;p&gt;Regelmatig zwaar tillen en dragen leidt tot overbelasting van rugspieren en tussenwervelgewrichten. In een ideale situatie bedraagt het maximaal te tillen gewicht voor 1 persoon 23 kilo. Van de ideale tilsituatie is echter vrijwel nooit sprake. Dan moet de last namelijk recht voor het lichaam worden getild, op tafelhoogte staan, bijna tegen het lichaam aan getild worden en gemakkelijk vast te houden zijn. &lt;/p&gt;&lt;p&gt;Omdat dit vrijwel nooit voorkomt is in de meeste situaties het maximum tilgewicht al veel eerder bereikt. Zeker omdat ook het aantal keren dat gedragen of getild moet worden van invloed is. Twintig keer per dag een gewicht van meer dan 10 kilo moeten tillen of dragen kan evenzeer tot overbelasting leiden. &lt;/p&gt;&lt;p&gt;Werken met lichtere materialen en gereedschappen, zware lasten samen tillen of dragen, werken met tilhulpmiddelen en goede beschermingsmiddelen kunnen al gauw een groot verschil maken in de dagelijkse belasting. &lt;/p&gt;</description>
@@ -4208,7 +4208,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5480" optional="no">
         <title>Arbeidsmiddelen en machines</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26187" type="risk">
           <title>CE-markering</title>
           <description>&lt;p&gt;In de branche wordt gebruik gemaakt van apparaten, machines o.a. vijverfoliemachine en mobiele arbeidsmiddelen, zoals heftrucks en gereedschappen. Aan het werken met machines zijn risico's verbonden. Te denken valt aan:&#160;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Beknellingen;&#160;&lt;/li&gt;&lt;li&gt;Lawaai (schadelijk geluid);&lt;/li&gt;&lt;li&gt;Contact met hete delen;&lt;/li&gt;&lt;li&gt;Snijden.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Er gebeuren veel ongelukken met machines, ook in uw branche. Daarom is het van groot belang ervoor te zorgen dat uw machinepark veilig is en dat er veilig mee wordt gewerkt. &lt;/p&gt;&lt;p&gt;De machines moeten jaarlijks gekeurd worden. Soms mag u dat zelf doen, dan noemen we dat inspecties.&#160;In bijzondere gevallen moet u een keuring laten verrichten door daarvoor bevoegde personen. Om te zien welke machines en gereedschappen u zelf mag inspecteren kunt u de handleiding van de Stichting Arbouw downloaden. &lt;/p&gt;&lt;p&gt;Naast keuringen of inspecties moeten gebruikers voor elk gebruik controleren of de machines en apparaten nog voldoen aan de eisen. &lt;/p&gt;</description>
@@ -4297,7 +4297,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5481" optional="no">
         <title>Werkplaats</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26194" type="risk">
           <title>Opruimen</title>
           <description>&lt;p&gt;Verklein het risico op ongevallen door alle losliggende materialen op te bergen.&lt;/p&gt;</description>
@@ -4326,11 +4326,11 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
     </module>
     <module external-id="M-5417" optional="true">
       <title>Afdeling levende dieren</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <question>Levende dieren aanwezig</question>
       <module external-id="M-5482" optional="no">
         <title>Biologische factoren</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26196" type="policy">
           <title>Veilig omgaan met dierlijk materiaal</title>
           <description></description>
@@ -4394,7 +4394,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5484" optional="no">
         <title>Algemene Veiligheid</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26201" type="risk">
           <title>Snoeren en leidingen</title>
           <description></description>
@@ -4458,7 +4458,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5485" optional="no">
         <title>Voorlichting en instructie</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26206" type="top5">
           <title>Werkhouding</title>
           <description></description>
@@ -4511,11 +4511,11 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
     </module>
     <module external-id="M-5418" optional="true">
       <title>Horeca</title>
-      <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <question>Horeca aanwezig</question>
       <module external-id="M-5486" optional="true">
         <title>Lichamelijke belasting</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Medewerkers in tuincaf&#233;</question>
         <risk external-id="R-26210" type="top5">
           <title>Tillen</title>
@@ -4580,7 +4580,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5487" optional="no">
         <title>Klimaat en verlichting</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26215" type="top5">
           <title>Temperatuur</title>
           <description>&lt;p class="MsoNormal"&gt;Naast schade aan de gezondheid kan het werken in de kou of hitte ook gewoon hinderlijk zijn: het klimaat is niet meer behaaglijk. Ook dan moet de werkgever, indien mogelijk, maatregelen nemen. &lt;/p&gt;&lt;p class="MsoNormal"&gt;&lt;p class="MsoNormal"&gt;Het binnenklimaat van met name de kassen is bij veel tuincentra&#160;een probleem. In het algemeen worden hier behoorlijk veel klachten over geuit. Daarnaast is soms in de winter de verwarmingscapaciteit onvoldoende. Het werken in te koude of te warme omstandigheden leidt tot vermoeidheid. &lt;p&gt;&lt;p class="MsoNormal"&gt;In de Arbo-wet en de beleidsregels wordt geen expliciete uitspraak gedaan, in de zin van: de temperatuur mag niet hoger of lager zijn dan..... In de Arbo-wet staat dat er sprake moet zijn van een behaaglijke temperatuur in relatie met de te verrichten arbeid en dat het klimaat niet tot schade van de gezondheid mag leiden. Behaaglijkheid is een subjectief begrip, wat de ene werknemer als een prettige temperatuur ervaart kan voor de andere werknemer veel te warm zijn. Er is sprake van een behaaglijk klimaat als minder dan 20% van de werknemers over het klimaat klaagt.&lt;/p&gt;&lt;/p&gt;&lt;p class="MsoNormal"&gt;In de Arbo-wet en de beleidsregels wordt geen expliciete uitspraak gedaan, in de zin van: de temperatuur mag niet hoger of lager zijn dan..... In de Arbo-wet staat dat er sprake moet zijn van een behaaglijke temperatuur in relatie met de te verrichten arbeid en dat het klimaat niet tot schade van de gezondheid mag leiden. Behaaglijkheid is een subjectief begrip, wat de ene werknemer als een prettige temperatuur ervaart kan voor de andere werknemer veel te warm zijn. Er is sprake van een behaaglijk klimaat als minder dan 20% van de werknemers over het klimaat klaagt.&lt;/p&gt;&lt;/p&gt;&lt;p&gt;&lt;p class="MsoNormal"&gt;In de Arbo-wet en de beleidsregels wordt geen expliciete uitspraak gedaan, in de zin van: de temperatuur mag niet hoger of lager zijn dan..... In de Arbo-wet staat dat er sprake moet zijn van een behaaglijke temperatuur in relatie met de te verrichten arbeid en dat het klimaat niet tot schade van de gezondheid mag leiden. Behaaglijkheid is een subjectief begrip, wat de ene werknemer als een prettige temperatuur ervaart kan voor de andere werknemer veel te warm zijn. Er is sprake van een behaaglijk klimaat als minder dan 20% van de werknemers over het klimaat klaagt.&lt;/p&gt;&lt;/p&gt;&lt;p class="MsoNormal"&gt;In de Arbo-wet en de beleidsregels wordt geen expliciete uitspraak gedaan, in de zin van: de temperatuur mag niet hoger of lager zijn dan..... In de Arbo-wet staat dat er sprake moet zijn van een behaaglijke temperatuur in relatie met de te verrichten arbeid en dat het klimaat niet tot schade van de gezondheid mag leiden. Behaaglijkheid is een subjectief begrip, wat de ene werknemer als een prettige temperatuur ervaart kan voor de andere werknemer veel te warm zijn. Er is sprake van een behaaglijk klimaat als minder dan 20% van de werknemers over het klimaat klaagt.&lt;/p&gt;&lt;/p&gt;&lt;p class="MsoNormal"&gt;Het binnenklimaat van met name de kassen is bij veel tuincentra&#160;een probleem. In het algemeen worden hier behoorlijk veel klachten over geuit. Daarnaast is soms in de winter de verwarmingscapaciteit onvoldoende. Het werken in te koude of te warme omstandigheden leidt tot vermoeidheid. &lt;p&gt;&lt;p class="MsoNormal"&gt;In de Arbo-wet en de beleidsregels wordt geen expliciete uitspraak gedaan, in de zin van: de temperatuur mag niet hoger of lager zijn dan..... In de Arbo-wet staat dat er sprake moet zijn van een behaaglijke temperatuur in relatie met de te verrichten arbeid en dat het klimaat niet tot schade van de gezondheid mag leiden. Behaaglijkheid is een subjectief begrip, wat de ene werknemer als een prettige temperatuur ervaart kan voor de andere werknemer veel te warm zijn. Er is sprake van een behaaglijk klimaat als minder dan 20% van de werknemers over het klimaat klaagt.&lt;/p&gt;&lt;/p&gt;&lt;p class="MsoNormal"&gt;In de Arbo-wet en de beleidsregels wordt geen expliciete uitspraak gedaan, in de zin van: de temperatuur mag niet hoger of lager zijn dan..... In de Arbo-wet staat dat er sprake moet zijn van een behaaglijke temperatuur in relatie met de te verrichten arbeid en dat het klimaat niet tot schade van de gezondheid mag leiden. Behaaglijkheid is een subjectief begrip, wat de ene werknemer als een prettige temperatuur ervaart kan voor de andere werknemer veel te warm zijn. Er is sprake van een behaaglijk klimaat als minder dan 20% van de werknemers over het klimaat klaagt.&lt;/p&gt;&lt;/p&gt;&lt;p&gt;&lt;p class="MsoNormal"&gt;In de Arbo-wet en de beleidsregels wordt geen expliciete uitspraak gedaan, in de zin van: de temperatuur mag niet hoger of lager zijn dan..... In de Arbo-wet staat dat er sprake moet zijn van een behaaglijke temperatuur in relatie met de te verrichten arbeid en dat het klimaat niet tot schade van de gezondheid mag leiden. Behaaglijkheid is een subjectief begrip, wat de ene werknemer als een prettige temperatuur ervaart kan voor de andere werknemer veel te warm zijn. Er is sprake van een behaaglijk klimaat als minder dan 20% van de werknemers over het klimaat klaagt.&lt;/p&gt;&lt;/p&gt;&lt;p class="MsoNormal"&gt;In de Arbo-wet en de beleidsregels wordt geen expliciete uitspraak gedaan, in de zin van: de temperatuur mag niet hoger of lager zijn dan..... In de Arbo-wet staat dat er sprake moet zijn van een behaaglijke temperatuur in relatie met de te verrichten arbeid en dat het klimaat niet tot schade van de gezondheid mag leiden. Behaaglijkheid is een subjectief begrip, wat de ene werknemer als een prettige temperatuur ervaart kan voor de andere werknemer veel te warm zijn. Er is sprake van een behaaglijk klimaat als minder dan 20% van de werknemers over het klimaat klaagt.&lt;/p&gt;</description>
@@ -4644,7 +4644,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5488" optional="no">
         <title>Gevaarlijke stoffen</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26220" type="top5">
           <title>Aanduidingen</title>
           <description></description>
@@ -4696,7 +4696,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5489" optional="no">
         <title>Hygi&#235;ne</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26224" type="risk">
           <title>Dagelijkse reiniging</title>
           <description></description>
@@ -4724,7 +4724,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5490" optional="no">
         <title>Veiligheid</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26226" type="risk">
           <title>Preventief onderhoud</title>
           <description></description>
@@ -4848,7 +4848,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5491" optional="no">
         <title>Voorlichting en instructie</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26236" type="risk">
           <title>Persoonlijke Beschermingsmiddelen (PBM)</title>
           <description></description>
@@ -4888,7 +4888,7 @@ AAD/AAD/Bwf/+Pj/////////////////////////////////////////////////////////////
       </module>
       <module external-id="M-5492" optional="no">
         <title>Horecavergunning</title>
-        <description>&lt;p&gt;&lt;strong&gt;U kunt nu informatie opgeven over dit onderwerp.&lt;/strong&gt;&lt;/p&gt;</description>
+        <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-26239" type="policy">
           <title>Horecavergunning</title>
           <description>&lt;p class="MsoNormal"&gt;Zorg voor een horecavergunning. Vraag de vergunning aan bij de gemeente. Ook in het kader van de productaansprakelijkheid raden wij u aan te werken volgens de Hygi&#235;necode voor de horeca. Wanneer een gast ziek is geworden na een bezoek aan uw bedrijf en u daarvoor aansprakelijk stelt, moet u zich verantwoorden (Burgerlijk Wetboek). &lt;/p&gt;&lt;p class="MsoNormal"&gt;&lt;p class="MsoNormal"&gt;Met de toepassing van de hygi&#235;necode in uw bedrijf kunt u aantonen dat u volgens de wettelijke voorschriften heeft gewerkt. Dat kan alleen als u alle hygi&#235;negegevens heeft vastgelegd en bewaard. &lt;/p&gt;&lt;/p&gt;&lt;p class="MsoNormal"&gt;Met de toepassing van de hygi&#235;necode in uw bedrijf kunt u aantonen dat u volgens de wettelijke voorschriften heeft gewerkt. Dat kan alleen als u alle hygi&#235;negegevens heeft vastgelegd en bewaard. &lt;/p&gt;</description>

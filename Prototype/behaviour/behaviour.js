@@ -532,22 +532,6 @@ var mapal = {
         });
     },
 
-    // Replace text/html objects with iframes
-    initIframes: function(root) {
-        $("object[type=text/html]", root).each(function() {
-            var $object = $(this),
-                $iframe = $("<iframe/>");
-
-            $iframe
-                .attr("id", $object.attr("id"))
-                .attr("class", $object.attr("class"))
-                .attr("src", $object.attr("data"))
-                .attr("frameborder", "0")
-                .html($object.html());
-            $object.replaceWith($iframe);
-        });
-    },
-
     // Setup a DOM tree.
     initContent: function(root) {
         mapal.initAutofocus(root);

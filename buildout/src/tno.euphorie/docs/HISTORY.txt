@@ -4,8 +4,13 @@ Changelog
 1.1 - Unreleased
 ----------------
 
+* Correct test for existence of profile questions when parsing a session file.
+  This fixes part of `TNO ticket 114
+  http://code.simplon.biz/tracker/tno-euphorie/ticket/114>`_.
+  [wichert]
+
 * Gracefully handle risks listed in a session file which no longer exist in the
-  system. This fixes `TNO ticket 114
+  system. This fixes part of `TNO ticket 114
   http://code.simplon.biz/tracker/tno-euphorie/ticket/114>`_.
   [wichert]
 

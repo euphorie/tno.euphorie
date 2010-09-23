@@ -122,7 +122,7 @@ class Upload(form.SchemaForm):
         keuzemap={} # Map `keuze' to profile index
         for facet in input.profiel.facet:
             question=idmap.get(facet.attrib["vraag-id"])
-            if not id:
+            if question is None:
                 continue
             if question.type=="optional":
                 profile[question.id]=True

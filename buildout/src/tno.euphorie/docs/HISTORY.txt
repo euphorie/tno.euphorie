@@ -4,12 +4,17 @@ Changelog
 1.1 - Unreleased
 ----------------
 
-- Configure email settings for real site.
+* Gracefully handle risks listed in a session file which no longer exist in the
+  system. This fixes `TNO ticket 114
+  http://code.simplon.biz/tracker/tno-euphorie/ticket/114>`_.
+  [wichert]
+
+* Configure email settings for real site.
   [wichert]
 
 
 1.0 - September 17, 2010
 ------------------------
 
-- Initial release
+* Initial release
   [wichert]

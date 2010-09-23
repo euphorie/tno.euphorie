@@ -164,8 +164,12 @@ class Upload(form.SchemaForm):
                       "hoog": "high"}
 
         for antwoord in input.antwoorden.antwoord:
+            risk_id=idmap.get(antwoord.attrib["risk-id"])
+            if risk_id is None:
+                continue
+
             risk=query\
-                .filter(model.Risk.zodb_path==idmap[antwoord.attrib["risk-id"]])\
+                .filter(model.Risk.zodb_path==risk_id)\
                 .filter(model.Risk.profile_index==keuzemap.get(antwoord.attrib["keuze"], 0))\
                 .first()
             if risk is None:

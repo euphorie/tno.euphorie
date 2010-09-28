@@ -2638,7 +2638,11 @@ sup.required {
 	z-index: 1000;
 	position: absolute;
 	left: 100%;
-	top: 0;
+	margin-top: 3px;
+}
+
+.concise .infoPanel.open {
+	margin-top: 27px;
 }
 
 .comprehensive .infoPanel {

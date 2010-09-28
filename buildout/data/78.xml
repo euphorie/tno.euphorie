@@ -428,7 +428,7 @@
             </solution>
             <solution external-id="O-45">
               <description>&lt;p&gt;Nog meer informatie over lassen kunt u vinden in de publicatie 'Arbo- en milieuzorg bij het lassen en snijden'. Deze is onder meer op te verkrijgen bij de Metaalunie en FME.&lt;/p&gt;</description>
-              <action-plan>Nog meer informatie over lassen kunt u vinden in de publicatie 'Arbo- en milieuzorg bij het lassen en snijden'. Deze is onder meer op te verkrijgen bij de Metaalunie en FME.&lt;a href="http://www.fme.nl/Smartsite.shtml?id=51640&amp;amp;pubid=604" rel="nofollow" target="_blank"&gt;http://www.fme.nl/Smartsite.shtml?id=51640&amp;amp;pubid=604&#160; Zie ook de handhavingsinstructie van de Arbeidsinspectie.&#160; http://docs.minszw.nl/pdf//75/2006/75_2006_6_15785.pdf</action-plan>
+              <action-plan>Nog meer informatie over lassen kunt u vinden in de publicatie 'Arbo- en milieuzorg bij het lassen en snijden'. Deze is onder meer op te verkrijgen bij de Metaalunie en FME.http://www.fme.nl/Smartsite.shtml?id=51640&amp;amp;pubid=604&#160; Zie ook de handhavingsinstructie van de Arbeidsinspectie.&#160; http://docs.minszw.nl/pdf//75/2006/75_2006_6_15785.pdf</action-plan>
             </solution>
           </solutions>
         </risk>
@@ -691,7 +691,7 @@
           </solutions>
         </risk>
         <risk external-id="R-44" type="risk">
-          <title>Per werkplek is minimaal 6 m2ruimte aanwezig.</title>
+          <title>Per werkplek is minimaal 6 m2 ruimte aanwezig.</title>
           <description>&lt;p&gt;Voor kantoorwerkplekken gelden de volgende minimum oppervlakten. Uitgangspunt is een basiswerkplek per persoon. De minimaal benodigde oppervlakte wordt aangevuld afhankelijk van de situatie.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;De basiswerkplek bestaat uit een kantoorstoel, werktafel, een PC/monitoropstelling met lees/schrijfvlak, en bergruimte onder werktafel en is minimaal 7 m2.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;De aanpassing van de minimum oppervlakte voor de basiswerkplekken is als volgt:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;zonder lees/schrijfvlak: - 1 m2;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;bij gebruik van een modern plat (TFT-)beeldscherm: - 1 m2;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;voor een staande of verrijdbare (lade)kast: + 1 m2;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;voor een overlegmogelijkheid: + 2 m2per persoon;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;voor een toegang van het vertrek: + 1 m2;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;voor het overige meubilair en apparatuur (printer e.d., archiefkasten): + eigen oppervlakte + gebruiksoppervlakte.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;De norm voor de basiswerkplek geldt alleen voor administratieve werkplekken die grote delen van de dag in gebruik zijn. Werkplekken die slechts &#233;&#233;n of twee uur per dag of slechts &#233;&#233;n dag per week in gebruik zijn, hoeven niet aan de normen te voldoen. Als voor &#233;&#233;n of meerdere kantoorwerkplekken geldt dat u niet aan de normen voldoet, moet u op deze stelling een "nee" invullen.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -917,7 +917,7 @@
           </solutions>
         </risk>
         <risk external-id="R-61" type="risk">
-          <title>Er zijn maatregelen genomen om besmetting met de legionella bacterie te voorkomen.</title>
+          <title>Er zijn maatregelen genomen om besmetting met de legionellabacterie te voorkomen.</title>
           <description>&lt;p&gt;Als u een truckwasplaats, een hogedrukreiniger en/of doucheruimten heeft,&#160;vindt verneveling van water plaats. De aerosolen die hierbij vrijkomen kunnen legionella bevatten. Daarvoor moet u preventieve maatregelen nemen. Indien u te maken heeft met douches of andere tappunten die aerosolen (verneveling van water) verspreiden, dan is een risicoanalyse nodig. Dat is natuurlijk het geval bij douches, maar kan ook bij andere activiteiten waarbij water wordt gesproeid of verneveld. Voor deze analyse moet de hele waterinstallatie worden gecontroleerd. Alleen op die manier kunnen eventuele risico's op legionellagroei in kaart worden gebracht.In een beheersplan moeten de periodieke maatregelen worden beschreven, zoals het doorspoelen van leidingen met water boven de 60 graden Celsius. Dit soort maatregelen moet in een logboek worden bijgehouden voor de toezichthouder.Zie voor meer informatie op de website vanVROMof neemt u contact op met de BOVAG.&lt;/p&gt;</description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -1399,7 +1399,7 @@
             </solution>
             <solution external-id="O-156">
               <description>&lt;p&gt;Wijs in overleg een mentor toe (een ervaren collega, of iemand van P&amp;amp;O) die af en toe eens met de medewerker praat over dit knelpunt.&lt;/p&gt;</description>
-              <action-plan>Wijs in overleg een mentor toe (een ervaren collega, of iemand van P&amp;amp;O) die af en toe eens met de medewerker praat over dit knelpunt.</action-plan>
+              <action-plan>Wijs in overleg een mentor toe (een ervaren collega, of iemand van P&amp;O) die af en toe eens met de medewerker praat over dit knelpunt.</action-plan>
             </solution>
           </solutions>
         </risk>
@@ -1489,7 +1489,7 @@
             </solution>
             <solution external-id="O-166">
               <description>&lt;p&gt;Wijs in overleg een mentor toe (een ervaren collega die het leuk vindt om mensen te begeleiden of iemand van P&amp;amp;O). De mentor kan met de medewerker spreken over mogelijkheden voor andersoortig werk (binnen of buiten het bedrijf) of over opleidingsmogelijkh&lt;/p&gt;</description>
-              <action-plan>Wijs in overleg een mentor toe (een ervaren collega die het leuk vindt om mensen te begeleiden of iemand van P&amp;amp;O). De mentor kan met de medewerker spreken over mogelijkheden voor andersoortig werk (binnen of buiten het bedrijf) of over opleidingsmogelijkheden om in de toekomst andersoortig werk te gaan doen.</action-plan>
+              <action-plan>Wijs in overleg een mentor toe (een ervaren collega die het leuk vindt om mensen te begeleiden of iemand van P&amp;O). De mentor kan met de medewerker spreken over mogelijkheden voor andersoortig werk (binnen of buiten het bedrijf) of over opleidingsmogelijkheden om in de toekomst andersoortig werk te gaan doen.</action-plan>
             </solution>
           </solutions>
         </risk>
@@ -2809,7 +2809,7 @@
           <solutions>
             <solution external-id="O-301">
               <description>&lt;p&gt;Geef werkgevers van personeel dat u inhuurt een kopie van de relevante delen van de RI&amp;amp;E.&lt;/p&gt;</description>
-              <action-plan>Geef werkgevers van personeel dat u inhuurt een kopie van de relevante delen van de RI&amp;amp;E.</action-plan>
+              <action-plan>Geef werkgevers van personeel dat u inhuurt een kopie van de relevante delen van de RI&amp;E.</action-plan>
             </solution>
           </solutions>
         </risk>
@@ -2938,7 +2938,7 @@
           </solutions>
         </risk>
         <risk external-id="R-197" type="risk">
-          <title>Voor werknemers die langer dan 8 weken ziek zijn wordt een re&#239;ntegratieplan gemaakt.</title>
+          <title>Voor werknemers die langer dan 8 weken ziek zijn wordt een re-integratieplan gemaakt.</title>
           <description>&lt;p&gt;Als uit de probleemanalyse van de arbodienst blijkt dat er terugkeermogelijkheden voor de zieke werknemer zijn, dan is het management verplicht om samen met de zieke werknemer binnen 2 weken een (schriftelijk) Plan van Aanpak op te stellen. In het Plan van Aanpak worden afspraken over activiteiten voor herstel en werkhervatting vastgelegd. Ook de afgesproken doelstellingen bijbehorende termijnen worden in het plan opgenomen. Er wordt een 'casemanager' aangesteld die erop toeziet dat het plan uitgevoerd wordt. De werknemer moet het eens zijn met het plan, anders heeft het plan feitelijk geen betekenis. Het Plan van Aanpak moet uiterlijk 8 weken na de eerste ziektedag gereed zijn en door zowel de werknemer als het management ondertekend zijn. Het management is verplicht een kopie naar de werknemer en naar de arbodienst te sturen.&lt;br/&gt;&#160;&lt;br/&gt;Een voorbeeld verzuimprotocol is te vinden op &lt;a href="http://www.arbobondgenoten.nl" rel="nofollow" target="_blank"&gt;http://www.arbobondgenoten.nl&lt;/a&gt;&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -3013,7 +3013,7 @@
           <solutions>
             <solution external-id="O-319">
               <description>&lt;p&gt;Het bedrijf moet uiteraard zoveel mogelijk de risico's op beroepsziekten voorkomen. Dat begint met inzicht krijgen in de risico's van het werk. Daarvoor is deze RI&amp;amp;E. Heeft een werknemer toch een beroepsziekte zoals RSI? Dan moet het bedrijf dat melden op&lt;/p&gt;</description>
-              <action-plan>Het bedrijf moet uiteraard zoveel mogelijk de risico's op beroepsziekten voorkomen. Dat begint met inzicht krijgen in de risico's van het werk. Daarvoor is deze RI&amp;amp;E. Heeft een werknemer toch een beroepsziekte zoals RSI? Dan moet het bedrijf dat melden op het hoofdkantoor. Het bedrijf meldt dit door aan de arbodienst. De arbodienst is verplicht de beroepsziekte te melden bij het Nederlands Centrum voor Beroepsziekten. Mocht een medewerker een beroepsziekte krijgen, overleg dan met de arbodienst of bedrijfsarts op welke wijze de zieke werknemer begeleid kan worden met een terugkeer naar het werk.</action-plan>
+              <action-plan>Het bedrijf moet uiteraard zoveel mogelijk de risico's op beroepsziekten voorkomen. Dat begint met inzicht krijgen in de risico's van het werk. Daarvoor is deze RI&amp;E. Heeft een werknemer toch een beroepsziekte zoals RSI? Dan moet het bedrijf dat melden op het hoofdkantoor. Het bedrijf meldt dit door aan de arbodienst. De arbodienst is verplicht de beroepsziekte te melden bij het Nederlands Centrum voor Beroepsziekten. Mocht een medewerker een beroepsziekte krijgen, overleg dan met de arbodienst of bedrijfsarts op welke wijze de zieke werknemer begeleid kan worden met een terugkeer naar het werk.</action-plan>
             </solution>
           </solutions>
         </risk>
@@ -3045,7 +3045,7 @@
           <solutions>
             <solution external-id="O-321">
               <description>&lt;p&gt;Zorg ervoor dat de preventiemedewerker voldoende deskundigheid heeft over risico's van het bedrijf. &#160; De ingevulde RI&amp;amp;E kan hier aanwijzingen over geven. Voor inhoudelijke aanvullende ondersteuning kan de medewerker met preventietaken het management advis&lt;/p&gt;</description>
-              <action-plan>Zorg ervoor dat de preventiemedewerker voldoende deskundigheid heeft over risico's van het bedrijf. &#160; De ingevulde RI&amp;amp;E kan hier aanwijzingen over geven. Voor inhoudelijke aanvullende ondersteuning kan de medewerker met preventietaken het management adviseren interne dan wel externe een arbodeskundige in te huren. &#160; U kunt preventiemedewerkers een specifieke opleiding laten volgen. Dit is niet verplicht.</action-plan>
+              <action-plan>Zorg ervoor dat de preventiemedewerker voldoende deskundigheid heeft over risico's van het bedrijf. &#160; De ingevulde RI&amp;E kan hier aanwijzingen over geven. Voor inhoudelijke aanvullende ondersteuning kan de medewerker met preventietaken het management adviseren interne dan wel externe een arbodeskundige in te huren. &#160; U kunt preventiemedewerkers een specifieke opleiding laten volgen. Dit is niet verplicht.</action-plan>
             </solution>
           </solutions>
         </risk>

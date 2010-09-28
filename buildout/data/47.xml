@@ -99,7 +99,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
         </risk>
         <risk external-id="R-2" type="top5">
-          <title>1.1.2.&#160; Het ontruimingsplan is in alle accommodaties die u gebruikt zichtbaar opgehangen.</title>
+          <title>1.1.2.&#160; Het ontruimingsplan&#160;is in alle accommodaties die u gebruikt zichtbaar opgehangen.</title>
           <description>&lt;p&gt;Het gaat hierbij om een plattegrond van de accommodatie met de vluchtwegen.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
@@ -147,7 +147,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-9" type="top5">
-          <title>1.1.9.&#160; Er zijn altijd voldoende mensen aanwezig die:&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Een opleiding hebben gevolgd in het omgaan met blusmiddelen&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Een ontruiming kunnen begeleiden&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;Recent een (herhalings) cursus levensreddende handelingen hebben gevolgd.</title>
+          <title>1.1.9.&#160; Er zijn altijd voldoende mensen aanwezig die: een opleiding hebben gevolgd in het omgaan met blusmiddelen; een ontruiming kunnen begeleiden; recent een (herhalings) cursus levensreddende handelingen hebben gevolgd.</title>
           <description>&lt;p&gt;Vaak worden deze drie functies verenigd in &#233;&#233;n persoon: de Bedrijfshulpverlener (BHV&#8217;er). Dit is echter niet verplicht.&lt;/p&gt;&lt;p&gt;Er moet minimaal 1 BHV&#8217;er per 50 aanwezigen beschikbaar zijn en 2&#160;vanaf 51 aanwezigen. De BHV&#8217;er moet binnen 3&#160;&#225; 4&#160;minuten aanwezig kunnen zijn op de plaats van de calamiteit.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
@@ -214,7 +214,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
         <title>Werktijden</title>
         <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-17" type="risk">
-          <title>De vrijwilligers werken  gemiddeld minder dan 40 uur  per week voor uw organistie.</title>
+          <title>Vrijwilligers werken gemiddeld minder dan 40 uur per week voor uw organisatie.</title>
           <description>&lt;p&gt;Een incidentele &#8216;drukke&#8217; week is natuurlijk geen probleem, maar gemiddeld is een werkweek van 40 uur toegestaan.&#160;&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -500,13 +500,13 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
           </solutions>
         </risk>
         <risk external-id="R-51" type="risk">
-          <title>Liften, trapliften, roltrappen en elektrische deuren hebben noodvoorzieningen bij calamiteiten.</title>
+          <title>Liften, trapliften, roltrappen en elektrische deuren hebben noodvoorzieningen in geval van calamiteiten.</title>
           <description>&lt;p&gt;Het gaat hier om twee dingen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;De basisverlichting moet op een sterkte zijn dat niemand er zich onveilig voelt. Dit geldt met name in trappenhuizen.&lt;/li&gt;&lt;li&gt;Het licht moet aan kunnen op het moment dat het nodig is.&lt;br/&gt;&#160;&lt;/li&gt;&lt;/ul&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-52" type="top5">
-          <title>Looppaden tussen tafels rijenstoelen en achter de bar zijn dusdanig breed dat twee personen elkaar zonder al te veel moeite kunnen passeren .</title>
+          <title>Looppaden tussen tafels, rijenstoelen en achter de bar zijn dusdanig breed dat twee personen elkaar zonder al te veel moeite kunnen passeren.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
@@ -559,7 +559,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
           </solutions>
         </risk>
         <risk external-id="R-59" type="risk">
-          <title>De opslagruimte voor biervaten en andere drank is goedtoegankelijk zodat het verplaatsen van kratten en vaten op een verantwoorde wijze kan plaatsvinden.</title>
+          <title>De opslagruimte voor biervaten en andere drank is goed toegankelijk zodat het verplaatsen van kratten en vaten op een verantwoorde wijze kan plaatsvinden.</title>
           <description>&lt;p&gt;Voor het verantwoord tillen van zware voorwerpen (tot 25 kg) moet dit met een rechte rug en door de knie&#235;n kunnen. Een te nauwe doorgang van de drank opslag belemmert&#160; een goede tilhouding.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -582,7 +582,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
         <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <question>Binnen het gebouw of tijdens de activiteiten wordt gebruik gemaakt van een keuken.</question>
         <risk external-id="R-62" type="risk">
-          <title>De keuken is zo ingericht dat de materialen gebruikt voor de wanden, vloeren en werkoppervlakken goed zijn schoon te maken.</title>
+          <title>De keuken is zo ingericht dat de wanden, vloeren en werkoppervlakken goed zijn schoon te maken.</title>
           <description>&lt;p&gt;In de regel worden gladde oppervlakken aangeraden, maar let wel op dat uitglijden wordt vermeden. Voor de horeca gelden speciale richtlijnen.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -736,7 +736,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-82" type="risk">
-          <title>Als er op hoogte wordt gewerkt, zijn er voldoende geschikte stijg en til middelen beschikbaar.</title>
+          <title>Als er op hoogte wordt gewerkt, zijn er voldoende geschikte stijg- en tilmiddelen beschikbaar.</title>
           <description>&lt;p&gt;In een kleine opslagruimte, zoals een archief bij een kantoor, is het werken met een trap vaak afdoende. In andere gevallen kan een takel of een heftruck noodzakelijk zijn.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -781,7 +781,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
           </solutions>
         </risk>
         <risk external-id="R-88" type="risk">
-          <title>Er is geen sprake van hinderlijke spiegeling in het beeldscherm van zonlicht of kunstverlichting.</title>
+          <title>Er is geen sprake van hinderlijke spiegeling van zonlicht of kunstverlichting in het beeldscherm.</title>
           <description>&lt;p&gt;Onbeschermde t.l.-buizen spiegelen altijd. Plaats beschermde t.l.-verlichting in de lengterichting op het beeldscherm: er ontstaat als het ware een kruis tussen verlichting en bureaulengte. Zorg ook voor voldoende zonwering.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -834,7 +834,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-95" type="top5">
-          <title>Voor alle evenementen e.d. wordt een speciaal arbo-plan opgesteld waarin ook aandacht wordt besteed aan alle aspecten die ook bij Bedrijfshulpverlening aan bod komen (noodplan).</title>
+          <title>Voor alle evenementen wordt een speciaal arbo-plan opgesteld waarin ook aandacht wordt besteed aan alle aspecten die ook bij Bedrijfshulpverlening aan bod komen (noodplan).</title>
           <description>&lt;p&gt;Wanneer er eenmaal een goed arbo-plan gemaakt is, kan deze bij ieder evenement opnieuw gebruikt worden.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
@@ -1120,7 +1120,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-135" type="risk">
-          <title>Als er onweer is voorspeld, worden er geen activiteiten ondernemen.</title>
+          <title>Als er onweer is voorspeld, worden er geen activiteiten ondernomen.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -1154,7 +1154,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
         <description>&lt;p&gt;Dit kan bijvoorbeeld het geval zijn als &#8216;huisbezoek&#8217; onderdeel is van uw werkzaamheden of als u met leden van de organisatie op reis gaat.&lt;/p&gt;</description>
         <question>Uw organisatie maakt gebruik van (eigen) auto&#8217;s, busjes en / of vrachtwagens.</question>
         <risk external-id="R-141" type="risk">
-          <title>4.11.1.&#160;In alle voertuigen die voor uw organisatie onderweg zijn, bevindt zich een werkende / opgeladen telefoon.</title>
+          <title>In alle voertuigen die voor uw organisatie onderweg zijn, bevindt zich een werkende / opgeladen telefoon.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -1553,7 +1553,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
           </solutions>
         </risk>
         <risk external-id="R-199" type="risk">
-          <title>Snoeren zijn goed ge&#239;soleerd, onbeschadigde en liggen niet los over de vloer.</title>
+          <title>Snoeren zijn goed ge&#239;soleerd, onbeschadigd en liggen niet los over de vloer.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -1906,7 +1906,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-240" type="policy">
-          <title>Bij de inkoop van materialen wordt gelet op arbo-eisen.</title>
+          <title>Bij de inkoop van materialen&#160;wordt gelet op arbo-eisen.</title>
           <description>&lt;p&gt;Bijvoorbeeld bij die plekken in het gebouw waar het aantal ongevallen hoog is, worden de oorzaken meteen meegenomen in de verbouwingsplannen zodat die situaties niet meer kunnen ontstaan.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -1918,7 +1918,7 @@ AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-242" type="policy">
-          <title>Arbo-knelpunten worden zo goed mogelijk opgelost en de oorzaak bekeken.</title>
+          <title>Arbo-knelpunten worden zo goed mogelijk opgelost&#160;en de oorzaak bekeken.</title>
           <description>&lt;p&gt;Het is belangrijk voor&#160;iedere vrijwilliger om veilig te werken. Door zijn eigen werkomstandigheden en die van anderen te bespreken kunnen deze verbeteren.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>

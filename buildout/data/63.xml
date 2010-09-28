@@ -276,7 +276,7 @@ zPXv3fj8/N3+/f7d/f393f39/d39/f3d/f393f39/d39/f3d/f393f39/d39/f3d/f393f39/d39
         <title>Algemeen</title>
         <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-30879" type="risk">
-          <title>Een werknemer plukt maximaal 6 uur per dag.</title>
+          <title>Dagelijks wordt minimaal 4 uur en maximaal 6 uur per persoon geplukt (zie ook toelichting)</title>
           <description>&lt;p&gt;Langdurig plukken (dag in, dag uit) plukken leiden tot&#160;hand-, pols-, arm- of schouderklachten.&lt;/p&gt;&lt;p&gt;Afwisseling van werkzaamheden kan dit voorkomen. Op de paddestoelenteelt bedrijven zal dit niet of nauwelijks mogelijk zijn. Het beste is dan om zoveel mogelijk het fust zelf te laten wegbrengen (afwissling in werkhoudingen), kortdurende pauzes te nemen en de maximale plukuren niet&#160;te overschrijden.&#160;&lt;/p&gt;&lt;p&gt;Advies: Maximaal 4 - 6 uur.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -318,7 +318,7 @@ zPXv3fj8/N3+/f7d/f393f39/d39/f3d/f393f39/d39/f3d/f393f39/d39/f3d/f393f39/d39
           </solutions>
         </risk>
         <risk external-id="R-30950" type="risk">
-          <title>Er wordt met een hand/arm geplukt en met de ander hand afgesneden</title>
+          <title>Er wordt met een hand/arm geplukt en met de ander hand afgesneden.</title>
           <description>&lt;p&gt;Afhandelijk of men links of rechtshandig is wordt er traditioneel met &#233;&#233;n hand/arm geplukt. Meestal de linker arm. Met de rechterhand houdt men het mesje vast om de voetjes af te snijden. Door de repeterende beweging wordt deze arm (en schouder) extra belast.&#160;&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -356,7 +356,7 @@ zPXv3fj8/N3+/f7d/f393f39/d39/f3d/f393f39/d39/f3d/f393f39/d39/f3d/f393f39/d39
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-30939" type="risk">
-          <title>De zelfrijdende hydraulische pluklorrie is voorzien van een hekwerk rondom de pluklorrie</title>
+          <title>De zelfrijdende hydraulische pluklorrie is voorzien van een hekwerk rondom de pluklorrie.</title>
           <description>&lt;p&gt;Om valgevaar te voorkomen is noodzakelijk dat de zelfrijdende hydraulische plukloorie vorozien is van een hekwerk. Zelfs het poortje waardoor de medewerker de pluklorie moet betreden is voorzien van een beveiliging. zodra dit poorteje open bijft staan kan de zelfrijdende hydraulische plukorrie zich niet voortbewegen of is hij niet in&#160;hoogte ite verstellen.&lt;/p&gt;&lt;p&gt;Deze voorziening is een onderdeel van de CE-markering.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -417,7 +417,7 @@ hoofdstuk.&lt;/p&gt;</description>
           </solution>
           <solution external-id="O-19929">
             <description>&lt;p&gt;Micropauzes&lt;/p&gt;</description>
-            <action-plan>Micropauzes:Voer in 2-3 minuten per half uur ontspanningsoefeningen uit van de nek, schouder, armen en benen. Hoofd en schouders rolbeweging maken en schouders optrekken en laten terugzakken, armen, handen en benen &#8220;losschudden&#8221;.</action-plan>
+            <action-plan>Micropauzes:Voer in 2-3 minuten per half uur ontspanningsoefeningen uit van de nek, schouder, armen en benen. Hoofd en schouders rolbeweging maken en schouders optrekken en laten terugzakken, armen, handen en benen &amp;ldquo;losschudden&amp;rdquo;.</action-plan>
           </solution>
         </solutions>
       </risk>
@@ -478,13 +478,13 @@ hoofdstuk.&lt;/p&gt;</description>
       <title>Teeltverzorging, vullen en leeghalen</title>
       <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-30897" type="risk">
-        <title>Inzicht in de diverse werkzaamheden</title>
+        <title>Het is bekend hoeveel per week medewerkers gemiddeld bezig zijn met vullen, teeltverzorging, ziektebestrijding en leeghalen</title>
         <description>&lt;p&gt;Om te of werkzaamheden belastend zijn en of het eventueel zinvol en mogelijk is om taakroulatie toe te passen moet bekend zijn welke medewerkers welke taken verrichten.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-30898" type="risk">
-        <title>Watersysteem</title>
+        <title>Het water wordt met behulp van een automatische sproeilorrie gegeven.</title>
         <description>&lt;p&gt;De watertoediening geschiedt met behulp van een automatische sproeilorrie in de cellen.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
@@ -951,7 +951,7 @@ hoofdstuk.&lt;/p&gt;</description>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-30751" type="risk">
-          <title>Regelmatig wordt werkoverleg gehouden. Medewerkers worden ge&amp;iuml;nformeerd over belangrijke gebeurtenissen en ontwikkelingen in het bedrijf.</title>
+          <title>Jaarlijks wordt met de medewerkers een functionerings- en beoordelingsgesprek gehouden.</title>
           <description>&lt;p&gt;Door gestructureerd werkoverleg te houden kunnen medewerkers worden ge&#239;nformeerd over belangrijke ontwikkelingen en gebeurtenissen in het bedrijf. Hiermee kan&#160;ook voorkomen worden dat de ene medewerker wel en de andere niet goed ge&#239;nformeerd wordt, roddels een eigen leven gaan leiden en de sfeer in het bedrijf verpest.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -987,7 +987,6 @@ hoofdstuk.&lt;/p&gt;</description>
           <evaluation-method>direct</evaluation-method>
         </risk>
       </module>
-      <!-- Not published, and makes nesting too deep
       <module external-id="M-6317" optional="no">
         <title>Werk- en rusttijden</title>
         <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
@@ -1062,7 +1061,6 @@ hoofdstuk.&lt;/p&gt;</description>
           </risk>
         </module>
       </module>
--->
     </module>
     <module external-id="M-6325" optional="no">
       <title>Organisatie van bedrijfshulpverlening, arbeidsomstandigheden en verzuim</title>
@@ -1138,7 +1136,7 @@ hoofdstuk.&lt;/p&gt;</description>
           <solutions>
             <solution external-id="O-19904">
               <description>&lt;p&gt;Verbandtrommel regelmatig aanvullen en steriel materiaal dat verlopen is (na 5 jaar) vervangen. &lt;/p&gt;</description>
-              <action-plan>Verbandtrommel regelmatig aanvullen en steriel materiaal dat verlopen is (na 5 jaar)&#160;vervangen. </action-plan>
+              <action-plan>Verbandtrommel regelmatig aanvullen en steriel materiaal dat verlopen is (na 5 jaar)&amp;nbsp;vervangen. </action-plan>
             </solution>
           </solutions>
         </risk>
@@ -1169,7 +1167,7 @@ hoofdstuk.&lt;/p&gt;</description>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-30834" type="risk">
-          <title>In het bedrijf zijn &amp;eacute;&amp;eacute;n of meerdere personen aangewezen als preventiemedewerker</title>
+          <title>In het bedrijf zijn &amp;eacute;&amp;eacute;n of meerdere personen aangewezen als preventiemedewerker.</title>
           <description>&lt;p&gt;Elk bederijf moet zogenaamde preventiemedewerkers aanwijzen. Bij minder dan 25 werknemers mag dit ook de werkgever zelf zijn. De preventiemedewerker moet de spil en aanjager zijn in de organisatie rond arbeidsomstandigheden en verzuim en gemakkelijk toegankelijk zijn voor de medewerkers.&lt;/p&gt;&lt;p&gt;Taken van een preventiemedewerker zijn o.a.:&lt;/p&gt;&lt;p&gt;- meeweken aan het opstellen van de risico-inventarisatie en -evaluatie;&lt;/p&gt;&lt;p&gt;- meewerken aan de uitvoering van het plan van aanpak;&lt;/p&gt;&lt;p&gt;- het geven van voorlichting;&lt;/p&gt;&lt;p&gt;- vraagbaak over arbeidsomstandigheden enn verzuim voor werknemers en werkgever.&lt;/p&gt;&lt;p&gt;De preventiemedewerker(s) moet(en) in elk geval kennis hebben van de belangrijkste aandachtsgebieden uit de risico-inventarisatie.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1301,7 +1299,7 @@ hoofdstuk.&lt;/p&gt;</description>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-30856" type="risk">
-          <title>Deze risisco-inventrarisatie wordt indien noodzakelijk getoetst door een deskundige.</title>
+          <title></title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>

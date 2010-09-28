@@ -161,7 +161,7 @@ qUxnStOa2vQR/1PpSiMAADs=
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
         </risk>
         <risk external-id="R-19" type="policy">
-          <title>Werkzaamheden waarbij blootstelling aan lawaai plaatsvinden wordt zoveel mogelijk verspreid over de medewerkers.</title>
+          <title>Werkzaamheden waarbij blootstelling aan lawaai plaatsvindt wordt zoveel mogelijk verspreid over de medewerkers.</title>
           <description>&lt;p&gt;Denk hierbij aan het werken bij de honden en aan het schoonmaken met behulp van de hogedrukspuit.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>

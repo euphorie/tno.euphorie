@@ -382,7 +382,7 @@ vP7+/rz+/v68/v7+vP7+/rz+/v68/v7+vP7+/rz+/v68/v7+vP7+/rz+/v68/v7+vP7+/rz+/v68
         <title>Slachten (voorvoeten, achtervoeten, halve varkens)</title>
         <description>&lt;p&gt;De belangrijkste risico's bij het slachtproces zijn fysieke belasting&#160;en snijgevaar.&#160;&lt;/p&gt;&lt;p&gt;Slijtage aan rug of ledematen zijn belangrijke oorzaken van arbeidsongeschiktheid. De oorzaak hiervan is vaak een verkeerde, gehaaste of overmatige belasting.&lt;/p&gt;&lt;p&gt;Tillen&lt;/p&gt;&lt;p&gt;Zwaar en verkeerd tillen kan leiden tot slijtage aan de rug. Rugklachten kunnen ontstaan bij:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;zwaarder tillen dan 23 kg. zoals kratten en zware bouten; &lt;/li&gt;&lt;li&gt;met gedraaide rug tillen vanwege gebrekkige ruimte of onhandige opstelling; &lt;/li&gt;&lt;li&gt;haastig en gespannen tillend werk verrichten.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Werkhouding&lt;/p&gt;&lt;p&gt;Werkhoudingen die lang moeten worden volgehouden kunnen leiden tot spier- en gewrichtsklachten. Dit komt voor bij:&lt;/p&gt;&lt;p&gt;langer dan 1 uur achtereen staan &lt;/p&gt;&lt;p&gt;werkhoogtes die niet zijn aangepast aan de lengte van de medewerker.&lt;/p&gt;&lt;p&gt;Duwen en trekken &lt;/p&gt;&lt;p&gt;Zwaar duwen en trekken kan leiden tot rug- en schouderklachten. Dit komt voor bij het verplaatsen van bakken met vleesproducten en rolcontainers.&lt;/p&gt;&lt;p&gt;Kortcyclische werkzaamheden&lt;/p&gt;&lt;p&gt;Kortcyclische handelingen komen o.a. voor bij&#160;inpakwerk, ontvliezen, snijden. &lt;/p&gt;</description>
         <risk external-id="R-20764" type="top5">
-          <title>De medewerkers tillen delen vlees, kratjes, etc. die lichter zijn dan 23 kg.</title>
+          <title>De medewerkers werken met delen vlees, kratjes, etc. die lichter zijn dan 23 kg.</title>
           <description>&lt;p&gt;Voor te zwaar tillen wordt 23 kg vaak als richtlijn gebruikt. Het is overigens zwaarder om:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;15 kg in een voorover gebogen houding neer te moeten zetten;&lt;/li&gt;&lt;li&gt;met 15 kg het lichaam te moeten draaien;&lt;/li&gt;&lt;li&gt;deze handelingen ook nog heel vaak of de hele dag&#160;te moeten doen.&lt;/li&gt;&lt;/ul&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -408,7 +408,7 @@ vP7+/rz+/v68/v7+vP7+/rz+/v68/v7+vP7+/rz+/v68/v7+vP7+/rz+/v68/v7+vP7+/rz+/v68
           </solutions>
         </risk>
         <risk external-id="R-20766" type="top5">
-          <title>Langdurig staan wordt zo veel mogelijk voorkomen.</title>
+          <title>Langdurig staan wordt zoveel mogelijk voorkomen.</title>
           <description>&lt;p&gt;Langdurig staan (meer dan 1 uur aaneengesloten op 1 plek /vierkante meter) is&#160;een zware belasting voor het lichaam. Een stasteun is hierbij een goed hulpmiddel.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -464,7 +464,7 @@ vP7+/rz+/v68/v7+vP7+/rz+/v68/v7+vP7+/rz+/v68/v7+vP7+/rz+/v68/v7+vP7+/rz+/v68
           </solutions>
         </risk>
         <risk external-id="R-20782" type="top5">
-          <title>Duwen en trekken van zware containers, bakken e.d. wordt voorkomen.</title>
+          <title>Duwen en trekken van zware containers, bakken, e.d. wordt voorkomen.</title>
           <description>&lt;p&gt;Veelvuldig zwaar duwen en trekken (&amp;gt; 50 kg. duw- of trekkracht) kan leiden tot rug- en schouderklachten. Dit komt o.a. voor bij het verplaatsen van bakken en containers met vleesproducten.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -476,7 +476,7 @@ vP7+/rz+/v68/v7+vP7+/rz+/v68/v7+vP7+/rz+/v68/v7+vP7+/rz+/v68/v7+vP7+/rz+/v68
           </solutions>
         </risk>
         <risk external-id="R-20783" type="top5">
-          <title>Ver reiken (&gt; 40-50 cm) wordt voorkomen.</title>
+          <title>Ver reiken ( &gt; 40 - 50 cm) wordt voorkomen.</title>
           <description>&lt;p&gt;Ver reiken leidt er toe dat men in een gebogen houding gaat werken. Langdurig &amp;#13;
 werken in een gebogen houding kan leiden tot rugklachten.&lt;br/&gt;Voor staand reiken kan een iets groter reikwijdte worden gehanteerd (60 cm).&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
@@ -499,7 +499,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;br/&gt;Voor staand 
           </solutions>
         </risk>
         <risk external-id="R-20787" type="top5">
-          <title>Elke medewerker kent de risico's  van biologische stoffen.</title>
+          <title>Elke medewerker kent de risico's van biologische stoffen.</title>
           <description>&lt;p&gt;Het in contact komen met vlees en bloed hoort bij het slagersvak. De risico's op infecties en de gevolgen worden vaak onderschat. Eventueel optredende ziekten worden niet in verband gebracht met het contact in het werk. &lt;/p&gt;&lt;p&gt;Dieren die gebruikt worden voor consumptie worden streng gecontroleerd. Toch kunnen dieren ziekteverwekkers bevatten zonder dat er sprake is van waarneembare ziekteverschijnselen.&lt;/p&gt;&lt;p&gt;Vooral tijdens het slachten kunnen ziekteverwekkers worden overgedragen van dier naar mens. Dit kunnen bacteri&#235;n, virussen, schimmels en parasieten zijn. Bekende ziekteverwekkers die overgedragen kunnen worden zijn o.a.: salmonella, tetanus en wratten.&lt;/p&gt;&lt;p&gt;Ziekteverwekkers komen vooral voor in darmen, bloed en ander lichaamsvocht. Naast het contact met besmette delen lichaamsdelen of -vocht, kan besmetting plaatsvinden via botsplinters of verontreinigde instrumenten (bijv. messen).&lt;/p&gt;&lt;p&gt;Contact met mogelijk besmette delen moet zoveel mogelijk worden voorkomen. Standaard hygi&#235;nemaatregelen om overdracht van besmettingen van mens naar het vlees te voorkomen zijn meestal afdoende om ook besmetting van het vlees naar de slager te voorkomen.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -560,7 +560,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;br/&gt;Voor staand 
         <title>Splitsen, afsnijden (technische delen in de been)</title>
         <description>&lt;p&gt;De belangrijkste risico's bij het splitsen en afsnijden zijn fysieke belasting&#160;en snijgevaar.&#160;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Werkhouding&lt;/strong&gt;Werkhoudingen die lang moeten worden volgehouden kunnen leiden tot spier- en gewrichtsklachten. Dit komt voor bij:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;langer dan 1 uur achtereen staan aan de snijtafel of hakblok &lt;/li&gt;&lt;li&gt;ver reiken&#160;(&amp;gt; 40-50 cm) &lt;/li&gt;&lt;li&gt;werkhoogtes van de snijtafel niet aangepast aan de lengte van de medewerker.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Duwen en trekken &lt;/p&gt;&lt;p&gt;Zwaar duwen en trekken kan leiden tot rug- en schouderklachten. Dit komt voor bij het verplaatsen van bakken met vleesproducten en rolcontainers.&lt;/p&gt;&lt;p&gt;Kortcyclische werkzaamheden&lt;/p&gt;&lt;p&gt;Kortcyclische handelingen komen bij deze werkzaamheden ook voor. &lt;/p&gt;</description>
         <risk external-id="R-20767" type="top5">
-          <title>De medewerkers tillen delen vlees, kratten, e.d. die lichter zijn dan 23 kg.</title>
+          <title>De medewerkers werken met delen vlees, kratten, e.d. die lichter zijn dan 23 kg.</title>
           <description>&lt;p&gt;Voor te zwaar tillen wordt 23 kg vaak als richtlijn gebruikt. Het is overigens zwaarder om:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;15 kg in een voorover gebogen houding neer te moeten zetten;&lt;/li&gt;&lt;li&gt;met 15 kg het lichaam te moeten draaien;&lt;/li&gt;&lt;li&gt;deze handelingen ook nog heel vaak of de hele dag dat te moeten doen.&lt;/li&gt;&lt;/ul&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -602,7 +602,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;br/&gt;Voor staand 
           </solutions>
         </risk>
         <risk external-id="R-20791" type="top5">
-          <title>Tijdens het splitsen, afsnijden en ontvliezen slachten zijn werkzaamheden waarbij boven schouderhoogte moet worden gewerkt, afwezig.</title>
+          <title>Tijdens het splitsen, afsnijden en ontvliezen zijn werkzaamheden waarbij boven schouderhoogte moet worden gewerkt, afwezig.</title>
           <description>&lt;p&gt;Werkzaamheden waarbij men met opgeheven armen moet werken kan o.a. leiden tot arm- en schouderklachten.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -780,7 +780,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
           </solutions>
         </risk>
         <risk external-id="R-20826" type="top5">
-          <title>Tijdens het uitbenen, verdelen zijn werkzaamheden waarbij boven schouderhoogte moet worden gewerkt, afwezig.</title>
+          <title>Tijdens het uitbenen en verdelen zijn werkzaamheden waarbij boven schouderhoogte moet worden gewerkt, afwezig.</title>
           <description>&lt;p&gt;Werkzaamheden waarbij men met opgeheven armen moet werken kan o.a. leiden tot arm- en schouderklachten&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -896,7 +896,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
         <title>Afvliezen (onderdelen)</title>
         <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-20770" type="top5">
-          <title>De medewerkers tillen delen vlees, kratten, e.d. die lichter zijn dan 23 kg.</title>
+          <title>De medewerkers werken met delen vlees, kratten, e.d. die lichter zijn dan 23 kg.</title>
           <description>&lt;p&gt;Voor te zwaar tillen wordt 23 kg vaak als richtlijn gebruikt. Het is overigens zwaarder om:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;15 kg in een voorover gebogen houding neer te moeten zetten;&lt;/li&gt;&lt;li&gt;met 15 kg het lichaam te moeten draaien;&lt;/li&gt;&lt;li&gt;deze handelingen ook nog heel vaak of de hele dag dat te moeten doen.&lt;/li&gt;&lt;/ul&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
@@ -1008,7 +1008,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
           </solutions>
         </risk>
         <risk external-id="R-20847" type="top5">
-          <title>De medewerkers zijn geinstrueerd om veilig met de vliesmachine te werken.</title>
+          <title>De medewerkers zijn ge&#239;nstrueerd om de vliesmachine veilig te gebruiken.</title>
           <description>&lt;p&gt;Enkele veiligheidsmaatregelen bij het werken met de&#160;vliesmachine:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;de onderdelen van de machine moeten goed gemonteerd zijn;&lt;/li&gt;&lt;li&gt;de gebruiker moet altijd geconcentreerd werken;&lt;/li&gt;&lt;li&gt;mouwen van jassen moeten gesloten en liefst opgerold zijn;&lt;/li&gt;&lt;li&gt;er zijn speciale handschoenen die het werken met de machine veiliger maken.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Verder moet de machine zijn voorzien van de volgende veiligheidsvoorzieningen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;afschermkappen van draaiende delen;&lt;/li&gt;&lt;li&gt;buik- of voetschakelaar. Dit is een extra schakelaar die de machine uitschakelt als deze wordt losgelaten (noodstopschakelaar).&lt;/li&gt;&lt;/ul&gt;</description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1056,7 +1056,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
           </solutions>
         </risk>
         <risk external-id="R-21687" type="risk">
-          <title>Bij het schoonmaken van de machine met water is de elektriciteit uitgeschakeld.</title>
+          <title>Bij het schoonmaken van de afvliesmachine met water is de elektriciteit uitgeschakeld.</title>
           <description>&lt;p&gt;Tijdens het schoonmaken is het veiliger om de stekker uit het stopcontact te doen. Elektriciteit en water is erg gevaarlijk.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1171,7 +1171,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
           </solutions>
         </risk>
         <risk external-id="R-20846" type="top5">
-          <title>De medewerkers zijn geinstrueerd om de inpakmachines veilig te gebruiken.</title>
+          <title>De medewerkers zijn ge&#239;nstrueerd om de inpakmachine veilig te gebruiken.</title>
           <description>&lt;p&gt;Duidelijke&#160;afspraken&#160;over het verhelpen van storingen en het veilig schoonmaken van de machine kunnen ongevallen voorkomen.&#160;&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1183,7 +1183,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
           </solutions>
         </risk>
         <risk external-id="R-20944" type="risk">
-          <title>Indien de machine schadelijk geluid veroozaakt, is dit aangegeven.</title>
+          <title>Indien de machine schadelijk geluid veroorzaakt, is dit aangegeven.</title>
           <description>&lt;p&gt;Het voorkomen van hard geluid is de beste oplossing. Medewerkers kunnen elkaar tijdens het werk goed verstaan en kunnen zonder gehoorbescherming makkelijker werken.&#160;Probeer bij een nieuwe aanschaf schadelijk geluid te voorkomen. Als dat niet kan, probeer dan geluidsoverlast te verminderen door bijv. een kast met geluiddempend materiaal om de geluidsbron te zetten.&lt;/p&gt;&lt;p&gt;Als ook dit niet kan, of niet voldoende is, ga dan pas over tot&#160; het verstrekken van beschermingsmiddelen aan de medewerkers.&lt;/p&gt;</description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1258,7 +1258,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
           </solutions>
         </risk>
         <risk external-id="R-20851" type="top5">
-          <title>De werktafel en het hakblok zijn aangepast aan de lengte van de medeweker.</title>
+          <title>De werktafel en het hakblok zijn aangepast aan de lengte van de medewerker.</title>
           <description>&lt;p&gt;Vaak staan alle machines op hetzelfde werkblad. Elke machine heeft echter zijn eigen werkhoogte. Kies daarom voor aparte werkbladen waarop de machines komen te staan. Bepaal de hoogte van het werkblad zo, dat de medewerker niet voorovergebogen hoeft te staan of boven schouderhoogte moet werken.&lt;/p&gt;&lt;p&gt;Het werken met een verstelbaar werkblad is ergonomisch gezien het meest ideaal. De hoogte van het werkblad dient minimaal te vari&#235;ren van 90 tot 110 cm. Bij het werken met zware en grote delen vlees, moet de werkhoogte verminderd worden met de gemiddelde objectgrootte. Ideale sta-werkhoogte is ca. 5-10 cm onder ellebooghoogte.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1292,7 +1292,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-20799" type="risk">
-          <title>Indien de electrische zagen schadelijk geluid veroorzaken, is dit aangegeven met een waarschuwingssticker.</title>
+          <title>Indien de elektrische zagen schadelijk geluid veroorzaken, is dit aangegeven met een waarschuwingssticker.</title>
           <description>&lt;p&gt;Door een waarschuwingssticker op de machine aan te brengen worden de medewerkers extra geattendeerd op het dragen van gehoorbescherming.&lt;/p&gt;</description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1328,7 +1328,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
           </solutions>
         </risk>
         <risk external-id="R-20816" type="risk">
-          <title>De electrische zagen worden bij het onderhoud beoordeeld op trillingsbelasting.</title>
+          <title>De elektrische zagen worden bij het onderhoud beoordeeld op trillingsbelasting.</title>
           <description>&lt;p&gt;Goed onderhoud voorkomt onnodige speling en extra trillingen. Hand- en armtrillingen kunnen bijv. "dode vingers" en gewrichtsklachten veroorzaken.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1485,7 +1485,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
           </solutions>
         </risk>
         <risk external-id="R-22010" type="risk">
-          <title>Bij het schoonmaken van de machine met water is de elektriciteit uitgeschakeld.</title>
+          <title>Bij het schoonmaken van de gehaktmachines met water is de elektriciteit uitgeschakeld.</title>
           <description>&lt;p&gt;Tijdens het schoonmaken is het veiliger om de stekker uit het stopcontact te doen. Elektriciteit en water is erg gevaarlijk.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1566,7 +1566,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
           </solutions>
         </risk>
         <risk external-id="R-20812" type="top5">
-          <title>De medewerkers kennen de risico's van de gebruikte chemische midddelen.</title>
+          <title>De medewerkers kennen de risico's van de gebruikte chemische middelen.</title>
           <description>&lt;p&gt;Hierbij kan men denken aan schoonmaakmiddelen (desinfectiemiddelen) en kruidenmengsels die allergie&#235;n&#160;kunnen veroorzaken.&lt;/p&gt;&lt;p&gt;Via het etiket en productinformatiebladen worden de gevaren op het gebied van veiligheid, gezondheid en milieu door middel van symbolen en de daarbij behorende R(=gevaar) en S(=veiligheid) zinnen aangegeven.&lt;/p&gt;&lt;p&gt;Blootstelling aan chemische middelen kan plaatsvinden via:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Inademing van dampen, gassen, nevels, stof, kruidenmengsels&lt;/li&gt;&lt;li&gt;huid- en slijmvlies blootstelling (veelal handen, onderarmen en gezicht)&lt;/li&gt;&lt;li&gt;mond (spijsverteringskanaal) eten en drinken op de werkplek&lt;/li&gt;&lt;/ul&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1606,7 +1606,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
           </solutions>
         </risk>
         <risk external-id="R-20860" type="top5">
-          <title>De medewerkers zijn voorgelicht om de cutter, de stopmachine, etc. veilig te gebruiken.</title>
+          <title>De medewerkers zijn voorgelicht om de cutter, de stopmachine etc. veilig te gebruiken.</title>
           <description>&lt;p&gt;Duidelijke&#160;afspraken&#160;over het verhelpen van storingen en het veilig schoonmaken van de machine kunnen ongevallen voorkomen. &lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1655,7 +1655,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
         <title>Garen, roken</title>
         <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-20862" type="top5">
-          <title>Langdurig staan wordt zoveel mogelijk afgewisseld.</title>
+          <title>Langdurig staande werkzaamheden worden zoveel mogelijk afgewisseld met andere (niet staande) werkzaamheden.</title>
           <description>&lt;p&gt;Langdurig staan (meer dan 1 uur aaneengesloten op 1 plek /vierkante meter) is een zware belasting voor het lichaam.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1687,7 +1687,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
           </solutions>
         </risk>
         <risk external-id="R-20869" type="risk">
-          <title>De apparatuur is schoon, wordt goed onderhouden en bevat een deugdelijke thermostaat</title>
+          <title>De apparatuur is schoon, wordt goed onderhouden en bevat een deugdelijke thermostaat.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1703,7 +1703,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
           </solutions>
         </risk>
         <risk external-id="R-20814" type="risk">
-          <title>Het wordt voorkomen dat medewerkers worden blootgesteld aan rookgassen.</title>
+          <title>Voorkomen wordt dat medewerkers worden blootgesteld aan rookgassen.</title>
           <description>&lt;p&gt;Soms kan men worden blootgesteld aan rookgassen vanwege:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;slecht sluitende deur&lt;/li&gt;&lt;li&gt;te vroeg openen van de rookkast&lt;/li&gt;&lt;li&gt;lekkage bij de rookpot&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Over het algemeen kan goed onderhoud en kennis van zaken veel ongemak voorkomen. Vooral de rookafvoer verdient aandacht, omdat deze meestal slecht wordt onderhouden. Als de kast wordt geopend dan komt er veel rook, dat normaal afgevoerd had moeten zijn, de werkruimte in.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1718,12 +1718,12 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
             </solution>
             <solution external-id="O-10771">
               <description>&lt;p&gt;Extra afzuiging installeren&lt;/p&gt;</description>
-              <action-plan>Extra afzuiging installeren</action-plan>
+              <action-plan>Extra afzuiging installeren </action-plan>
             </solution>
           </solutions>
         </risk>
         <risk external-id="R-20815" type="risk">
-          <title>Hete delen zijn geisoleerd.</title>
+          <title>Hete delen zijn ge&#239;soleerd.</title>
           <description>&lt;p&gt;Hete delen dienen ge&#239;soleerd te zijn tot handwarmte. Indien dit niet mogelijk is wordt geadviseerd om persoonlijke beschermingsmiddelen te gebruiken. Met name tijdens het openen van de steamer zijn er risico's op verbranding van gezicht en handen.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1784,7 +1784,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
         <title>Bereiden van maaltijden</title>
         <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-20864" type="top5">
-          <title>Staan, zitten, lopen worden zoveel mogelijk afgewisseld.</title>
+          <title>Staan, zitten en lopen worden zoveel mogelijk afgewisseld.</title>
           <description>&lt;p&gt;Het voortdurend in dezelfde houding werken tijdens het bereiden van maaltijden, is een zware belasting voor het lichaam. Langdurig staan kunt u beperken door:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;langdurig staan af te wisselen met (korte stukjes) lopen&lt;/li&gt;&lt;li&gt;staan af te wisselen met andere (niet staande) werkzaamheden&lt;/li&gt;&lt;li&gt;tijdens pauzes te gaan zitten&lt;/li&gt;&lt;/ul&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1796,7 +1796,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
           </solutions>
         </risk>
         <risk external-id="R-20865" type="top5">
-          <title>Voorwerpen die veel gebruikt worden, liggen voorraan.</title>
+          <title>Voorwerpen die veel gebruikt worden, liggen vooraan en binnen handbereik.</title>
           <description>&lt;p&gt;Als veelgebruikte voorwerpen ver weg liggen moet een medewerker ver reiken.&#160;Dit belast het lichaam extra waardoor slijtage optreedt.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1889,7 +1889,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
           </solutions>
         </risk>
         <risk external-id="R-20872" type="top5">
-          <title>langdurig staan wordt zoveel mogelijk voorkomen.</title>
+          <title>Langdurig staan wordt zoveel mogelijk voorkomen.</title>
           <description>&lt;p&gt;Langdurig staan (meer dan 1 uur aaneengesloten op 1 plek /vierkante meter) is een zware belasting voor het lichaam.&#160;&lt;/p&gt;&lt;p&gt;Zorg voor zitgelegenheid indien de werkzaamheden dit toelaten. Wissel staand werk af met andere werkzaamheden.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1921,7 +1921,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
           </solutions>
         </risk>
         <risk external-id="R-20874" type="top5">
-          <title>De werkhoogte van de toonbank is aangeapst aan de lengte van de medewerker.</title>
+          <title>De werkhoogte is aangepast aan de lengte van de medewerker.</title>
           <description>&lt;p&gt;Als het gaat om mensen met ongeveer dezelfde lengte dan is het aanpassen van de werkhoogte van de toonbank niet zo moeilijk. Bij mensen met sterk uiteenlopende lichaamslengte is de situatie moeilijker aan te passen. Hieronder volgen enkele gemiddelden en dienen per situatie met enige flexibiliteit te worden gehanteerd:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;werkbladhoogte: ca. 87 cm&lt;/li&gt;&lt;li&gt;werkblad steekt max. 8 cm uit&lt;/li&gt;&lt;li&gt;beenruimte onder toonbank: ca. 10 cm&lt;/li&gt;&lt;li&gt;voetruimte onder toonbank: ca. 25 cm&lt;/li&gt;&lt;li&gt;bovenblad op max. 120 cm hoogte en max. 45 cm afstand&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Op de toonbank bevindt zich alleen een weegschaal en kassa. Verder dient het werkvlak en ruimte onder de toonbank vrij te zijn van obstakels.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1945,7 +1945,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
           </solutions>
         </risk>
         <risk external-id="R-20876" type="top5">
-          <title>Alleen goed geinstrueerd medewerkers werken met de snijmachine.</title>
+          <title>Alleen goed ge&#239;nstrueerde medewerkers werken met de snijmachine.</title>
           <description>&lt;p&gt;Medewerkers jonger dan 18 jaar mogen volgens de Arbowet niet met snijmachines werken, behalve wanneer zij voldoende ge&#239;nstrueerd zijn door de werkgever over de veiligheid en de omgang met de machine.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -2056,13 +2056,13 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
         <title>Bezorgen, distributie</title>
         <description>&lt;p&gt;Bij bezorging en distributie is het belangrijkste risico fysieke belasting m.b.t. tillen, sjouwen, duwen, trekken.&lt;/p&gt;</description>
         <risk external-id="R-20883" type="top5">
-          <title>De bezorgers en magazijnmedewerkers tillen kratten, bakken, etc. die lichter zijn dan 23 kg.</title>
+          <title>De bezorgers en magazijnmedewerkers tillen kratten, bakken, e.d. die lichter zijn dan 23 kg.</title>
           <description>&lt;p&gt;Zwaar en verkeerd tillen kan leiden tot slijtage aan de rug. Rugklachten kunnen ontstaan bij:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;regelmatig zwaarder tillen dan 23 kg, zoals kratten en verpakkingen; &lt;/li&gt;&lt;li&gt;met gedraaide rug tillen vanwege een gebrekkige ruimte of onhandige opstelling; &lt;/li&gt;&lt;li&gt;haastig en gespannen tillend werk verrichten.&lt;/li&gt;&lt;/ul&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-20884" type="top5">
-          <title>Er zijn goede hulpmiddelen aanwezig om de kratten, bakken, e.d. te tillen en te transporteren</title>
+          <title>Er zijn goede hulpmiddelen aanwezig om de kratten , bakken e.d. te tillen en te transporteren.</title>
           <description>&lt;p&gt;Zorg bij transport op wielen voor een vlakke ondergrond. Gebruik rijplaten bij drempels. Gebruik vrachtwagens met een laadklep, zodat lasten makkelijk in en uit de vrachtwagen gerold kunnen worden. Beperk de stapelhoogte tot 175 cm, want reikend tillen kan rugklachten veroorzaken.&lt;/p&gt;&lt;p&gt;Volg een training fysieke belasting.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -2135,7 +2135,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-1135" type="risk">
-        <title>De elektrische-, gas- en watervoorzieningen zijn i</title>
+        <title>De elektrische-, gas- en watervoorzieningen zijn in orde en worden goed onderhouden.</title>
         <description>&lt;p&gt;Stopcontacten moeten voorzien zijn van waterdichte afsluitkleppen. Vermijd het gebruik van verlengsnoeren door te zorgen&#160;voor stopcontacten bij elke machine. Vervang beschadigde snoeren onmiddellijk.&#160;&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
@@ -2147,13 +2147,13 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
         </solutions>
       </risk>
       <risk external-id="R-1136" type="risk">
-        <title>Er zijn sanitaire voorzieningen aanwezig.</title>
+        <title>Er zijn voldoende sanitaire voorzieningen aanwezig.</title>
         <description>&lt;p&gt;Er zijn toiletten aanwezig met in de buurt een wasbak voorzien van zeep en een schone handdoek.&#160; Als er gemiddeld meer dan 10 personen aanwezig zijn, moet er per 15 medewerkers minimaal 1 toilet zijn en moeten de toiletten voor mannen en vrouwen gescheiden zijn. Voor mannen mogen de toiletten vervangen worden door urinoirs, mits er nog een toilet per 25 mannen aanwezig is. Wanneer medewerkers worden blootgesteld aan vuil en stof moet een wasruimte met voldoende wasbakken aanwezig zijn (voor mannen en vrouwen gescheiden). Voor werknemers die werkkleding dragen (bedrijfskleding, overall) moet een kleedruimte aanwezig zijn.&lt;/p&gt;&lt;p&gt;Afhankelijk van het soort werk zijn er ook douches aanwezig. &lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-1138" type="risk">
-        <title>Er is pauzeruimte aanwezig, met voldoende zitgeleg</title>
+        <title>In de directe omgeving van het bedrijf moet een gemakkelijk toegankelijke ruimte zijn voor het doorbrengen van de pauzes.</title>
         <description>&lt;p&gt;De kantine mag niet gebruikt worden als opslagruimte. Een schaftruimte moet schoon zijn, voldoende ruim en uitgerust met tafels en stoelen zijn.&#160;Indien men veel in koele of koude ruimtes werkt is het belangrijk dat de temperatuur in de schaftruimte behaaglijk is.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
@@ -2177,7 +2177,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-1141" type="risk">
-        <title>Op plaatsen waar gewerkt wordt is goede verlichting aanwezig</title>
+        <title>Op plaatsen waar gewerkt wordt is goede verlichting aanwezig.</title>
         <description>&lt;p&gt;Iedereen moet goed kunnen lezen en zien, zonder extra inspanning. Voor werkplekken moet het minimale verlichtingsniveau 700 lux bedragen (TNO-Richtlijn). &lt;/p&gt;&lt;p&gt;Hoewel uitzicht naar buiten niet verplicht is, is het wenselijk dat uitzicht naar buiten mogelijk is, als langdurig&#160; (meer dan 2 uur) op een plek gewerkt wordt. Daglichttoetreding is wel verplicht. Het gezamenlijke oppervlak aan lichtopeningen moet minimaal 5% van het vloeroppervlak bedragen.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
@@ -2302,25 +2302,25 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
       <description/>
       <question>Er wordt meer dan twee uur per dag kantoorwerk gedaan.</question>
       <risk external-id="R-1161" type="risk">
-        <title>Na 2 uur computerwerk kan er minimaal 15 minuten g</title>
+        <title>Na 2 uur computerwerk kan er minimaal 15 minuten gepauzeerd worden of kan er tijdelijk ander werk worden gedaan.</title>
         <description>&lt;p&gt;Voor het voorkomen van eenzijdige lichamelijke belasting (RSI) is pauzeren een mogelijkheid. Maar afwisseling tussen verschillende taken is beter, zoals telefoneren of kopi&#235;ren.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-1162" type="risk">
-        <title>Bij minimaal 2 uur aaneengesloten computerwerk kan</title>
+        <title>Bij minimaal 2 uur aaneengesloten computerwerk kan de werkplek aan de lengte van de medewerker worden aangepast.</title>
         <description>&lt;p&gt;Als iemand langer dan 2 uur in dezelfde houding werkt, dan geldt dat:&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/p&gt;&lt;p&gt;- de stoel instelbaar is en eventueel het werkblad.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/p&gt;&lt;p&gt;- dat het beeldscherm op 60 cm afstand gezet kan worden.&#160;&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
       </risk>
       <risk external-id="R-1163" type="risk">
-        <title>Spiegeling van verlichting in beeldschermen is afw</title>
+        <title>Spiegeling van verlichting in beeldschermen is afwezig (wordt voorkomen).</title>
         <description>&lt;p&gt;Onbeschermde t.l.-buizen spiegelen altijd. Plaats beschermde t.l.-verlichting in de lengterichting op het beeldscherm: er ontstaat als het ware een kruis tussen verlichting en bureaulengte.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
       </risk>
       <risk external-id="R-1164" type="risk">
-        <title>Het beeldscherm staat haaks op het raam en zo moge</title>
+        <title>Het beeldscherm staat haaks op het raam en zo mogelijk 3 meter van het raam af.</title>
         <description>&lt;p&gt;Dit heeft&#160;te maken met de spiegeling in het beeldscherm. Dat kost extra inspanning.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -2332,19 +2332,19 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
       </risk>
       <risk external-id="R-1166" type="risk">
-        <title>Er is een voldoende grote werktafel aanwezig.</title>
+        <title>Er is een voldoende grote werktafel aanwezig en deze is eventueel in hoogte verstelbaar.</title>
         <description>&lt;p&gt;Voldoende groot is minimaal 120 cm bij 60 cm, maar het liefst dieper. Dieper omdat er meestal een beeldscherm en toetsenbord op staat en een beeldscherm moet weer op 60 cm. afstand van een werknemer staan.&#160; In hoogte verstelbare tafels zijn geschikt voor medewerkers met verschillende lengtes. Zorg er voor dat in hoogte verstelbare tafels door de medewerker zelf kunnen worden bijgesteld, door bijvoorbeeld een handeltje. Anders moet telkens de technische dienst worden ingeschakeld.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
       </risk>
       <risk external-id="R-1167" type="risk">
-        <title>Er is voor kleinere mensen een in hoogte verstelba</title>
+        <title>Er is voor kleinere mensen een in hoogte verstelbaar voetenbankje aanwezig.</title>
         <description>&lt;p&gt;&#160;Een goede voetensteun voldoet aan DIN 4556. De specificaties daarvan zijn:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Het steunvlak moet ongeveer 45 cm breed en 35 cm diep zijn.&lt;/li&gt;&lt;li&gt;De hoogte van het steunvlak moet instelbaar zijn en aan de voorzijde liggen tussen 5 en 11 cm.&lt;/li&gt;&lt;li&gt;De hellingshoek moet tussen 5 en 15 &#176; liggen of de hellingshoek moet instelbaar zijn.&lt;/li&gt;&lt;li&gt;De verstellingen moeten eenvoudig kunnen worden uitgevoerd en goed gefixeerd kunnen worden.&lt;/li&gt;&lt;li&gt;Het steunvlak moet slipvrij zijn uitgevoerd.&lt;/li&gt;&lt;/ul&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
       </risk>
       <risk external-id="R-1168" type="risk">
-        <title>Iedereen weet hoe hij zijn werkplek op de goede ho</title>
+        <title>Iedereen weet hoe hij zijn werkplek op de goede hoogte moet instellen.</title>
         <description>&lt;p&gt;Voor een goede werkhouding kan minimaal de stoel worden ingesteld en kan (indien aanwezig) het werkblad en het voetenbakje in hoogte worden ingesteld.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -2362,7 +2362,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
       </risk>
       <risk external-id="R-1171" type="risk">
-        <title>Printers en kopieermachines staan uit de buurt van</title>
+        <title>Printers en kopieermachines staan uit de buurt van de medewerkers.</title>
         <description>&lt;p&gt;In verband met geluid (en bij oudere typen ook ozon) en de opwarming van de werkruimte. Het liefst staan deze apparaten in een andere ruimte, met als voordeel dat er voor printen en kopi&#235;ren gelopen moet worden. Dit lopen onderbreekt het langdurig in dezelfde houding werken en zorgt voor een goede doorbloeding van het lichaam.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -2380,7 +2380,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
       </risk>
       <risk external-id="R-1174" type="risk">
-        <title>In het kantoor zijn ramen aanwezig waardoor het da</title>
+        <title>In het kantoor zijn ramen aanwezig waardoor het daglicht naar binnenkomt.</title>
         <description></description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -2397,7 +2397,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
       <description/>
       <question>Er worden machines, gereedschappen en transportmiddelen gebruikt.</question>
       <risk external-id="R-1245" type="policy">
-        <title>Alle machines en gereedschappen zijn voorzien van Ce-markering</title>
+        <title>Alle machines en gereedschappen zijn voorzien van CE-markering.</title>
         <description>&lt;p&gt;De machines en apparatuur (van na 1995) die in het bedrijf aanwezig zijn moeten voorzien zijn van een CE-markering.&#160;&lt;/p&gt;&lt;p&gt;Bij machineveiligheid spelen een aantal aspecten een rol. Zo is onder andere van belang dat draaiende delen zijn afgeschermd en de machines voorzien zijn van een noodstopvoorziening.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
@@ -2451,7 +2451,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-1253" type="risk">
-        <title>Medewerkers hebben voorlichting gekregen over het</title>
+        <title>Medewerkers hebben voorlichting gekregen over het werken met de machines, gereedschappen of transportmiddelen.</title>
         <description>&lt;p&gt;Voorlichting is niet altijd voldoende om goed met de middelen te kunnen werken. Instructies zoals het leren werken met het hulpmiddel is soms nodig. Of diploma&#8217;s zoals heftruckchauffeur.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
@@ -2491,13 +2491,13 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
         </solutions>
       </risk>
       <risk external-id="R-1256" type="policy">
-        <title>Bij grotere gebouwen is met een plattegrond aangegeven waar men zich bevindt.</title>
+        <title>Bij grotere gebouwen is met een plattegrond aangegeven waar men zich bevindt en welke vluchtroutes gebruikt kunnen worden.</title>
         <description>&lt;p&gt;Op diverse plekken is goed zichtbaar een plattegrond opgehangen waar medewerkers kunnen zien waar ze nu zijn en waar&#160;de nooduitgangen zich bevinden. Er wordt een wenselijke looproute naar de uitgang aangegeven.&lt;/p&gt;</description>
         <show-not-applicable>yes</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-1257" type="risk">
-        <title>Alle medewerkers kennen de vluchtroutes en nooduitgangen.</title>
+        <title>Alle medewerkers kennen de vluchtroutes en nooduitgangen</title>
         <description>&lt;p&gt;Dit geldt zowel voor de vaste werklocatie als voor de locatie waarop op dat moment gewerkt wordt. Doordat medewerkers zichzelf kunnen redden, kunnen de gevolgen bij calamiteiten beperkt blijven.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
@@ -2527,7 +2527,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
         </solutions>
       </risk>
       <risk external-id="R-1260" type="policy">
-        <title>Er wordt minstens &#233;&#233;n keer per jaar een ontruiming</title>
+        <title>Er wordt minstens &#233;&#233;n keer per jaar een ontruimingsoefening gehouden.</title>
         <description>&lt;p&gt;Hiermee controleert u of de afspraken, zoals het verzamelen van alle medewerkers op de afgesproken plek, bekend zijn en of deze worden opgevolgd.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;In kleine bedrijven (qua oppervlak) wordt dit vaak als overdreven beschouwd. Toch kan het goed zijn om tijdens een werkoverleg te bespreken wat er gedaan moet worden in geval van nood.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
@@ -2601,7 +2601,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
       <title>Werk- en rusttijden</title>
       <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-1269" type="policy">
-        <title>Een werkdag is maximaal 9 uur.</title>
+        <title>Een werkdag is in de regel niet lager dan 9 uur.</title>
         <description>&lt;p&gt;In de CAO is afgesproken dat als meer dan 9 uur per dag gewerkt wordt, dit als overwerk wordt beschouwd voor iemand met een 38 urige en een vijfdaagse werkweek.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;In de CAO is ook afgesproken dat overwerk zoveel mogelijk wordt voorkomen en dat overwerk niet aan werknemers ouder dan 55 jaar kan worden opgedragen.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
@@ -2619,7 +2619,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-1272" type="policy">
-        <title>De afwijkende regels voor  jongeren onder 18 jaar</title>
+        <title>De afwijkende regels voor  jongeren onder 18 jaar worden toegepast.</title>
         <description>&lt;p&gt;Jongeren mogen bijv. niet &#8217;s nachts werken en niet overwerken.&lt;/p&gt;&lt;p&gt;&lt;a href="http://jongerenloket.szw.nl/" rel="nofollow" target="_blank"&gt;Zie ook deze website&lt;/a&gt;&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
@@ -2631,7 +2631,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-1274" type="policy">
-        <title>Als er in ploegendienst wordt gewerkt, dan wordt een ploegensysteem gebruikt dat zo min mogelijk gezondheidschade toebrengt.</title>
+        <title>Als er in ploegendienst wordt gewerkt, dan wordt een ploegensysteem gebruikt dat zo min mogelijk schade voor de gezondheid toebrengt.</title>
         <description>&lt;p&gt;Vaak zullen er in de CAO al afspraken staan om gezondheidsschade zoals hartritmestoornissen en slaapstoornissen te voorkomen. Belangrijke regels voor een goed ploegensysteem zijn:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;het draaien van voorwaartse diensten: van de ochtend, naar de middag, naar de avond, naar de nacht, naar de ochtend, etc.;&lt;/li&gt;&lt;li&gt;het niet te lang draaien van &#233;&#233;n soort dienst: bijv. niet een week lang een nachtdienst.&#160;&lt;/li&gt;&lt;/ul&gt;</description>
         <show-not-applicable>yes</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
@@ -2671,13 +2671,13 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-1279" type="policy">
-        <title>Als er problemen zijn in het werk, kunnen medewerkers dit in overleg met collega's of met de leidinggevende oplossen</title>
+        <title>Als er problemen zijn in het werk, kunnen medewerkers dit in overleg met collega&#8217;s of met de leidinggevende oplossen.</title>
         <description>&lt;p&gt;Het is uitdagend om zelf of in overleg met de leiding initiatief te kunnen nemen voor het oplossen van problemen en leert medewerkers verantwoordelijk en zelfstandig te werken.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-1281" type="policy">
-        <title>Medewerkers krijgen informatie over hun functionen en wat hun werk voor het bedrijf oplevert.</title>
+        <title>Medewerkers krijgen informatie over hun functioneren en wat hun werk voor het bedrijf oplevert.</title>
         <description>&lt;p&gt;Het motiveert om te weten wat de bijdrage is van de werkzaamheden aan het totaalresultaat.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
@@ -2707,7 +2707,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-21706" type="policy">
-        <title>Er zijn maatregelen getroffen om medewerkers te beschermen bij solistisch werken.</title>
+        <title>Er zijn maatregelen genomen om medewerkers te beschermen als zij alleen in het bedrijf werken.</title>
         <description></description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
@@ -2751,7 +2751,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
         </solutions>
       </risk>
       <risk external-id="R-1285" type="policy">
-        <title>Er is naast de vertrouwenspersoon een tweede persoon aangewezen.</title>
+        <title>Er is naast de vertrouwenspersoon een tweede persoon aangewezen om iemand te helpen een klacht in te dienen als het ongewenste gedrag blijft doorgaan.</title>
         <description>&lt;p&gt;Als ongewenst gedrag niet stopt, dan is er een klachtenregeling. Het &#8216;slachtoffer&#8217; kan zijn beklag doen, de &#8216;dader&#8217; wordt gehoord en de regeling leidt tot maatregelen. Een maatregel kan zijn dat bij gegronde klachten de &#8216;dader&#8217; wordt ontslagen. Die tweede persoon mag ook iemand buiten het eigen bedrijf zijn, bijv. iemand van de Arbodienst.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
@@ -2797,7 +2797,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
         </solutions>
       </risk>
       <risk external-id="R-1291" type="policy">
-        <title>Over arbeidsomstandigheden wordt gesproken met het personeel,&#160; de Personeelsvertegenwoordiging of de Ondernemingsraad.</title>
+        <title>Over arbeidsomstandigheden wordt gesproken met het personeel,&#160;de Personeelsvertegenwoordiging of de Ondernemingsraad.</title>
         <description>&lt;p&gt;In de Arbowet en de Wet op de Ondernemingsraden staat dat afspraken gemaakt moeten worden over onder meer:-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;de risico-inventarisatie en -evaluatie, de rapportage en het plan van aanpak;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;de verzuimregels;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;de inschakeling van de Arbodienst;-&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;de inschakeling van bedrijfshulpverleners.&lt;/p&gt;&lt;p&gt;Een ondernemingsraad is verplicht vanaf 50 werknemers. Tussen 10 en 50 werknemers kan de werkgever&#160;een Personeelsvertegenwoordiging instellen. Als de meerderheid van de werknemers dat wil, dan moet de werkgever een personeelsvertegenwoordiging instellen.Bij minder dan 10 werknemers kan de werkgever uit vrije wil een personeelsvertegenwoordiging instellen.Als er geen medezeggenschapsorgaan is, dan wordt het overleg met de belanghebbende werknemers gevoerd.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
@@ -2819,7 +2819,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-1295" type="policy">
-        <title>Kwetsbare groepen krijgen extra aandacht.</title>
+        <title>Kwetsbare groepen krijgen extra aandacht bij de voorlichting en instructies.</title>
         <description>&lt;p&gt;Onder kwetsbare groepen vallen oproepkrachten, uitzendkrachten, onervaren krachten (nieuwkomers), gehandicapten, jongeren onder de 18 jaar, zwangere vrouwen en medewerkers die de Nederlandse taal niet beheersen. Deze groepen zijn kwetsbaar omdat ze of minder goed op de hoogte zijn van de regels of door bijv. zwangerschap bepaald soort werk niet kunnen doen. De voorlichting geldt voor iedereen dus ook voor diegenen die werkzaamheden verrichten als schoonmaak- en schilderwerk.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
@@ -2889,7 +2889,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-1307" type="policy">
-        <title>Alle afspraken zijn vastgelegd, zodat iedereen weet wat hij moet doen.</title>
+        <title>Alle afspraken zijn vastgelegd, zodat iedereen weet wat hij wanneer moet doen.</title>
         <description>&lt;p&gt;Het vastleggen van afspraken voorkomt onduidelijkheden en is verplicht bij bijv. re-integratie.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
@@ -2927,7 +2927,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
       <title>Ongevallen</title>
       <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-1313" type="policy">
-        <title>Ongevallen worden geregistreerd en de oorzaken ond</title>
+        <title>Ongevallen worden geregistreerd en de oorzaken onderzocht.</title>
         <description>&lt;p&gt;Het registreren van ongevallen en het bekijken van de oorzaken vormen de&#160; basis voor het nemen van gerichte maatregelen om deze ongevallen in de toekomst te voorkomen.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
@@ -2986,7 +2986,7 @@ werken in een gebogen houding kan leiden tot rugklachten.&lt;/p&gt;&lt;br/&gt;&l
         <title>Maatwerkregeling/Vangnetregeling</title>
         <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-14331" type="policy">
-          <title>Het bedrijf laat zich bij uw preventietaken bijstaan door &#233;&#233;n of meer gecertificeerde deskundigen (maatwerkregeling) of door een gecertificeerde arbodienst (vangnetregeling)</title>
+          <title>Het bedrijf laat zich bij preventietaken bijstaan door &#233;&#233;n of meer gecertificeerde deskundigen (maatwerkregeling) of door een gecertificeerde arbodienst (vangnetregeling)</title>
           <description>&lt;p&gt;Op grond van de Arbowet moet de werkgever zich bij de uitvoering van de volgende taken laten bijstaan door &#233;&#233;n of meer gecertificeerde deskundigen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;toetsing en advisering in het kader van de risico-inventarisatie en -evaluatie;&lt;/li&gt;&lt;li&gt;arbeidsgezondheidskundig onderzoek;&lt;/li&gt;&lt;li&gt;houden van arbeidsomstandighedenspreekuur (arbeidsomstandigheden spreekuur);&lt;/li&gt;&lt;li&gt;aanstellingskeuring;&lt;/li&gt;&lt;li&gt;verzuimbegeleiding. &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;De &#8216;maatwerkregeling&#8217; houdt in, dat de werkgever zelf bepaalt, op welke wijze gecertificeerde deskundigen bijstand verlenen. Concreet betekent dit dat er minimaal een contract met een gecertificeerde bedrijfsarts dient te zijn afgesloten en dat een gecertificeerde arbodeskundige de RI&amp;amp;E dient te toetsen, als toetsing van de RI&amp;amp;E noodzakelijk is. Als alternatief kan gebruik worden gemaakt van de &#8216;vangnetregeling&#8217;, de arbodienst verzorgt dan de bijstand.Zie ook het stroomschema op &lt;a href="http://www.arbo.nl/schema" rel="nofollow" target="_blank"&gt;www.arbo.nl/schema&lt;/a&gt; voor de keuze tussen beide regelingen.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>

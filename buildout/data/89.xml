@@ -195,7 +195,7 @@
         <title>Milieu</title>
         <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-24866" type="risk">
-          <title>Afval wordt gescheiden.</title>
+          <title>Afval wordt gescheiden</title>
           <description>&lt;p&gt;Scheid afval bijv. in metaal, papier, afgewerkte olie, poetslappen, e.d. Doe dit op kantoor, bij de installatie(s) en in de werkplaats.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -401,7 +401,7 @@
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-24928" type="risk">
-          <title>Er is een vervangingstreglement  voor de PBM's aanwezig.</title>
+          <title>Er is een vervangingstreglement voor de PBM's aanwezig.</title>
           <description>&lt;p&gt;Vermissing, tekortkomingen of beschadigingen dienen onmiddelijk aan de leidinggevende gemeld te worden.&lt;/p&gt;&lt;p&gt;&#160;Slechts voor enkele middelen geldt een maximale levensduur of een termijn voor tussentijdse inspectie. Dit zijn onder andere de veiligheidshelm, persoonlijke valbescherming, otoplastieken, sommige adembeschermingsmiddelen.&lt;/p&gt;&lt;p&gt;&#160;Maak aantekening van opnieuw verstrekte middelen.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>

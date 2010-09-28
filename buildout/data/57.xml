@@ -636,7 +636,7 @@
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-97" type="risk">
-          <title>Spiegeling van verlichting in beeldschermen is afwezig.</title>
+          <title>Is er spiegeling van verlichting in beeldschermen?</title>
           <description>&lt;p&gt;Onbeschermde t.l.-buizen spiegelen altijd. Plaats beschermde t.l.-verlichting in de lengterichting op het beeldscherm: er ontstaat als het ware een kruis tussen verlichting en bureaulengte.&lt;/p&gt;</description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -781,7 +781,7 @@
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-123" type="risk">
-          <title>Spiegeling van verlichting in beeldschermen is afwezig.</title>
+          <title>Is er spiegeling van verlichting in beeldschermen</title>
           <description>&lt;p&gt;Onbeschermde t.l.-buizen spiegelen altijd. Plaats beschermde t.l.-verlichting in de lengterichting op het beeldscherm: er ontstaat als het ware een kruis tussen verlichting en bureaulengte.&lt;/p&gt;</description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -974,7 +974,7 @@
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-156" type="risk">
-          <title>In de taak- en functieomschrijving is op genomen dat de medewerker kan en mag optreden als V&amp;G-co&#246;rdinator</title>
+          <title>In de taak- en functieomschrijving is op genomen dat de medewerker kan en mag optreden als Preventiemedewerker</title>
           <description>&lt;p&gt;De taken van de preventiemedewerker zijn besproken met de medewerker en vastgelegd in de functieomschrijving. Opleiding en begeleiding worden aangeboden&lt;/p&gt;</description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -986,13 +986,13 @@
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-158" type="risk">
-          <title>Er is kennis en/of middelen aanwezig voor het ingrijpen en/of beheersen bij onverwachte situaties</title>
+          <title>Er is kennis en/of er zijn middelen aanwezig voor het ingrijpen en/of beheersen bij onverwachte situaties</title>
           <description>&lt;p&gt;Een actief beleid m.b.t. onverwachte situaties in de uitvoering van de functie is onderdeel van het beleid.&lt;/p&gt;</description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-159" type="risk">
-          <title>Bij een te hoge of oplopende tijdsdruk is ondersteuning aanwezig</title>
+          <title>Bij een te hoge of oplopende tijd- en/of werkdruk is ondersteuning aanwezig</title>
           <description>&lt;p&gt;Problemen met tijdsdruk&#160; worden periodiek besproken met de directie. Bij calamiteiten is een directe toegang tot de directie mogelijk&lt;/p&gt;</description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -1099,7 +1099,7 @@
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-179" type="risk">
-          <title>Voor het uitvoeren van werkplekbezoeken is beschermende kleding beschikbaar</title>
+          <title>Voor het uitvoeren van werkzaamheden is beschermende kleding beschikbaar</title>
           <description>&lt;p&gt;Tijdens de werkplekbezoeken kan er een verschil zijn in klimaatomstandigheden, zoals kou, regen, wind, hitte. Eveneens dient aandacht te worden besteed aan veiligheidsvoorzieningen zoals helm, schoeisel, verkeersvest enz&#8230;&lt;/p&gt;</description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -1147,7 +1147,7 @@
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-187" type="risk">
-          <title>De medewerker beschikt over een goede werkomgeving en kan de werkzaamheden afwisselen</title>
+          <title>De medewerker beschikt over een veilige werkomgeving en kan de werkzaamheden afwisselen</title>
           <description>&lt;p&gt;Het werk is geestelijk inspannend en er is voldoende afwisseling aanwezig om de functie interessant te maken en te houden&lt;/p&gt;</description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -1171,7 +1171,7 @@
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-191" type="risk">
-          <title>Bij een te hoge of oplopende tijdsdruk is ondersteuning aanwezig</title>
+          <title>Bij een te hoge of oplopende tijd- en/of werkdruk is ondersteuning aanwezig</title>
           <description>&lt;p&gt;Problemen met tijdsdruk&#160; worden periodiek besproken met directie. Bij calamiteiten is een directe toegang tot directie mogelijk&lt;/p&gt;</description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -1315,7 +1315,7 @@
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-218" type="risk">
-          <title>Werknemers komen niet in contact met kankerverwekkende stoffen</title>
+          <title>Komen werknemers in contact met kankerverwekkende stoffen</title>
           <description>&lt;p&gt;Voorafgaande aan de werkzaamheden wordt een inventarisatie uitgevoerd in combinatie met een registratie van alle aanwezige gassen, dampen en stoffen. Hieronder vallen: kwarts, asbest, kankerverwekkende-, mutagene-, en vruchtbeschadigende gassen, dampen en stoffen.&lt;/p&gt;</description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -1446,7 +1446,7 @@
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-241" type="risk">
-          <title>Bij een te hoge of oplopende tijdsdruk is ondersteuning aanwezig</title>
+          <title>Bij een te hoge of oplopende tijd- en/of werkdruk is ondersteuning aanwezig</title>
           <description>&lt;p&gt;Problemen met tijdsdruk &#160;worden periodiek besproken met directie. Bij calamiteiten is een directe toegang tot directie mogelijk&lt;/p&gt;</description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -1590,7 +1590,7 @@
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-267" type="risk">
-          <title>Werknemers komen niet in contact met kankerverwekkende stoffen</title>
+          <title>komen werknemers in contact met kankerverwekkende stoffen</title>
           <description>&lt;p&gt;Voorafgaand aan de werkzaamheden wordt een inventarisatie uitgevoerd in combinatie met een registratie van alle aanwezige gassen, dampen en stoffen. Hieronder vallen: kwarts, asbest, kankerverwekkende-, mutagene-, en vruchtbeschadigende gassen, dampen en stoffen.&lt;/p&gt;</description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -1649,7 +1649,7 @@
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-278" type="risk">
-          <title>Voor het uitvoeren van werkplekbezoeken is beschermende kleding beschikbaar</title>
+          <title>Voor het uitvoeren van werkzaamheden is beschermende kleding beschikbaar</title>
           <description>&lt;p&gt;Tijdens de werkzaamheden kan er een verschil aanwezig zijn in klimaatomstandigheden, zoals kou, regen, wind, hitte. Eveneens dient aandacht te worden besteed aan veiligheidsvoorzieningen zoals helm, schoeisel, verkeersvest enz&#8230;&lt;/p&gt;</description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -1721,7 +1721,7 @@
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-290" type="risk">
-          <title>Bij een te hoge of oplopende tijdsdruk is ondersteuning aanwezig</title>
+          <title>Bij een te hoge of oplopende tijd- en/of werkdruk is ondersteuning aanwezig</title>
           <description>&lt;p&gt;Problemen met tijdsdruk worden periodiek besproken met de directie. Bij calamiteiten is een directe toegang tot de directie mogelijk&lt;/p&gt;</description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -1865,7 +1865,7 @@
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-317" type="risk">
-          <title>Werknemers komen niet in contact met kankerverwekkende stoffen</title>
+          <title>Komen  werknemers in contact met kankerverwekkende stoffen</title>
           <description>&lt;p&gt;Voorafgaande aan de werkzaamheden wordt een inventarisatie uitgevoerd in combinatie met een registratie van alle aanwezige gassen, dampen en stoffen. Hieronder vallen kwarts, asbest, kankerverwekkende-, mutagene-, en vruchtbeschadigende gassen, dampen en stoffen.&lt;/p&gt;</description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -1930,7 +1930,7 @@
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-329" type="risk">
-          <title>Voor het uitvoeren van werkplekbezoeken is beschermende kleding beschikbaar</title>
+          <title>Voor het uitvoeren van werkzaamheden is beschermende kleding beschikbaar</title>
           <description>&lt;p&gt;Tijdens de werkzaamheden kan er een verschil zijn in klimaatomstandigheden, zoals kou, regen, wind, hitte. Eveneens dient aandacht te worden besteed aan veiligheidsvoorzieningen zoals helm, schoeisel, verkeersvest enz&#8230;&lt;/p&gt;</description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -2158,7 +2158,7 @@
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-368" type="risk">
-          <title>Werknemers komen niet in contact met kankerverwekkende stoffen</title>
+          <title>Komen werknemers in contact met kankerverwekkende stoffen</title>
           <description>&lt;p&gt;Voorafgaand aan de werkzaamheden wordt een inventarisatie uitgevoerd in combinatie met een registratie van alle aanwezige gassen, dampen en stoffen. Hieronder vallen: kwarts, asbest, kankerverwekkende-, mutagene-, en vruchtbeschadigende gassen, dampen en stoffen.&lt;/p&gt;</description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -2254,7 +2254,7 @@
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-383" type="risk">
-          <title>De directe omgeving is niet&#160; verkeersgevaarlijk</title>
+          <title>Het verkeer in de omgeving levert direct gevaar op</title>
           <description>&lt;p&gt;Denk bij verkeersgevaarlijke situaties aan drukke wegen, dichtbevolkt, veel kinderen&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -2272,7 +2272,7 @@
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-386" type="risk">
-          <title>De aard van de constructie en de sloopmethode geven geen overlast</title>
+          <title>leveren de aard van de constructie en de sloopmethode overlast op</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -2312,7 +2312,7 @@
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-392" type="risk">
-          <title>Werkzaamheden met hoogspanning komen niet voor</title>
+          <title>Er zijn werkzaamheden waarbij hoogspanning voorkomt</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -2442,7 +2442,7 @@
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-413" type="risk">
-          <title>Werkzaamheden op grote hoogte komen niet voor</title>
+          <title>Er komen werkzaamheden op grote hoogte voor</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -2472,7 +2472,7 @@
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-418" type="risk">
-          <title>Deskundig onderzoek is niet noodzakelijk</title>
+          <title>Is er deskundig onderzoek noodzakelijk</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -2484,19 +2484,19 @@
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-420" type="risk">
-          <title>Het sloopobject is niet ontbrandingsgevoelig</title>
+          <title>Is het sloopobject ontbrandingsgevoelig</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-421" type="risk">
-          <title>Werknemers worden niet blootgesteld aan kankerverwekkende stoffen</title>
+          <title>Worden werknemers blootgesteld aan kankerverwekkende stoffen</title>
           <description>&lt;p&gt;Denk bij kankerverwekkende stoffen aan asbest, kwartstof, teer of teerhoudende producten&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-422" type="risk">
-          <title>De sloopmethode leidt niet tot brandgevaar</title>
+          <title>Leidt de sloopmethode tot brandgevaar</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -2524,7 +2524,7 @@
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-426" type="risk">
-          <title>Er is geen gevaar dat slangen van pneumatische apparatuur losschieten</title>
+          <title>Bestaat er gevaar dat slangen van pneumatische apparatuur losschieten</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -2566,7 +2566,7 @@
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-433" type="risk">
-          <title>De sloopmethode is zo georganiseerd dat het beknellings- of overrijdingsgevaar tot een minimum beperkt isDenk ook aan markeren van routes of instructies voor het werken om en bij machines</title>
+          <title>Is de sloopmethode zo georganiseerd dat het beknellings- of overrijdingsgevaar tot een minimum is beperkt</title>
           <description>&lt;p&gt;Denk aan markeren van routes of instructies voor het werken om en bij machines&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -2620,7 +2620,7 @@
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-442" type="risk">
-          <title>Er zijn geen slopers die in een onnatuurlijke houding moeten werken</title>
+          <title>Slopers werken in een natuurlijke houding</title>
           <description>&lt;p&gt;Getordeerde wervelkolom, gebukt en liggend werk vormt een extra fysieke belasting. Ook het voortdurend tillen en dragen alsook trillngen zijn extar belastend.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>

@@ -12,7 +12,7 @@
         <title>Algemeen</title>
         <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-7816" type="risk">
-          <title>vraag 1</title>
+          <title></title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -24,7 +24,7 @@
         <title>submodule 1</title>
         <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-7817" type="risk">
-          <title>vraag a</title>
+          <title></title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -34,13 +34,13 @@
         <title>risico A op de werkplek</title>
         <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-7813" type="risk">
-          <title>Vraag 1</title>
+          <title>het meubilair voldoet aan de arbo-eisen</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-7812" type="risk">
-          <title>Risico AA is goed afdekt</title>
+          <title></title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>

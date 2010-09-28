@@ -121,7 +121,7 @@
           </solutions>
         </risk>
         <risk external-id="R-22088" type="policy">
-          <title>Er zijn instructies opgesteld, waarop op eenvoudige wijze is aangegeven wat te doen indien zich een ongeval of brand voordoet.</title>
+          <title>Er zijn instructies opgesteld, waarop op eenvoudige wijze is aangegeven wat een ieder moet doen bij ongeval of brand.</title>
           <description>&lt;p&gt;Het is belangrijk dat alle medewerkers weten hoe te handelen in geval van een ongeval of brand. &#201;&#233;n A4-tje met daarop de belangrijkste aandachtspunten is veelal voldoende.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -157,7 +157,7 @@
           </solutions>
         </risk>
         <risk external-id="R-22091" type="policy">
-          <title>Bij verhoogde kans op brandgevaar, (geldt in ieder geval bij bakken en braden) is in de marktkraam of marktwagen een brandblusser (geen water!) aanwezig.</title>
+          <title>Bij verhoogde kans op brandgevaar (geldt in ieder geval bij bakken en braden) is in de marktkraam of marktwagen een brandblusser (geen water!) aanwezig.</title>
           <description></description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -240,7 +240,7 @@
           </solutions>
         </risk>
         <risk external-id="R-22096" type="policy">
-          <title>Bij verhoogde kans op brandgevaar, (geldt in ieder geval bij bakken en braden) is in de marktkraam of markt wagen een brandblusser (geen water!) aanwezig.</title>
+          <title>Bij verhoogde kans op brandgevaar (geldt in ieder geval bij bakken en braden) is in de marktkraam of marktwagen een brandblusser (geen water!) aanwezig.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -686,7 +686,7 @@
         </solutions>
       </risk>
       <risk external-id="R-22123" type="policy">
-        <title>Over een periode van 6 maanden is de gemiddelde arbeidstijd maximaal 38 uur.</title>
+        <title>Over een periode van 6 maanden is de gemiddelde arbeidstijd maximaal 38 uur per week.</title>
         <problem-description>In de periode van 6 maanden (= 26 weken) wordt er in totaal niet meer dan 988 uur (26x38) gewerkt.</problem-description>
         <description></description>
         <show-not-applicable>no</show-not-applicable>
@@ -742,7 +742,7 @@
         <solutions>
           <solution external-id="O-12286">
             <description>&lt;p&gt;Oplossing 1 Afwijkende regels voor jeugdigen toepassen.&lt;/p&gt;</description>
-            <action-plan>Oplossing 1 &lt;a href="http://arbeidsinspectie.szw.nl/index.cfm?fuseaction=dsp_rubriek&amp;amp;rubriek_id=20043&amp;amp;menu_item=749" rel="nofollow" target="_blank"&gt;Afwijkende regels voor jeugdigen toepassen.</action-plan>
+            <action-plan>Oplossing 1 Afwijkende regels voor jeugdigen toepassen.</action-plan>
           </solution>
         </solutions>
       </risk>
@@ -754,7 +754,7 @@
         <solutions>
           <solution external-id="O-12287">
             <description>&lt;p&gt;Oplossing 1 Afwijkende regels voor zwangeren en pas bevallen vrouwen regelen conform wetgeving.&lt;/p&gt;</description>
-            <action-plan>Oplossing 1 Afwijkende regels voor zwangeren en pas bevallen vrouwen regelen conform &lt;a href="http://home.szw.nl/navigatie/rubriek/dsp_rubriek.cfm?link_id=2105&amp;amp;doctype_id=15" rel="nofollow" target="_blank"&gt;wetgeving.</action-plan>
+            <action-plan>Oplossing 1 Afwijkende regels voor zwangeren en pas bevallen vrouwen regelen conform wetgeving.</action-plan>
           </solution>
         </solutions>
       </risk>
@@ -875,7 +875,7 @@
         </solutions>
       </risk>
       <risk external-id="R-22137" type="top5">
-        <title>Er zijn afspraken gemaakt over de begeleiding van de arbeidsongeschikte medewerker binnen de onderneming en de wijze waarop dit gebeurt.</title>
+        <title>Er zijn afspraken gemaakt over de begeleiding van de zieke/arbeidsongeschikte medewerker binnen de onderneming en de wijze waarop dit gebeurt.</title>
         <description>&lt;p&gt;Het is bekend wie er wanneer, binnen de onderneming, contact opneemt met de zieke/arbeidsongeschikte medewerker, en hoe de terugkeer wordt geregeld. In de &lt;/p&gt;&lt;a href="http://toolkit.typotycoon.nl/fileadmin/formulieren/downloads/Instructiewaaier_Ambulante_handel.pdf" rel="nofollow" target="_blank"&gt;instructiewaaier&lt;/a&gt;&lt;p&gt; staan tips.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
@@ -887,7 +887,7 @@
         </solutions>
       </risk>
       <risk external-id="R-22138" type="top5">
-        <title>Vanuit de onderneming wordt minimaal &#233;&#233;n keer per week contact gehouden met de arbeidsongeschikte medewerker.</title>
+        <title>Vanuit de onderneming wordt minimaal &#233;&#233;n keer per week contact gehouden met de zieke/arbeidsongeschikte medewerker.</title>
         <description>&lt;p&gt;Een goede begeleiding van zieke/arbeidsongeschikte medewerkers is van belang om de verzuimduur te bekorten en om medewerkers weer aan het werk te helpen in het eigen of in aangepast werk.&lt;br/&gt;Per 1-1-2003 geldt de "Wet structuur uitvoeringsorganisatie werk en inkomen" (Wet SUWI), waarin bepaald is dat wanneer binnen het eigen bedrijf geen passend werk mogelijk is, er gezocht moeten worden naar mogelijkheden buiten het eigen bedrijf. &lt;/p&gt;&lt;p&gt;Leg deze zaken vast in het verzuimreglement en maak uw medewerkers hierop attent. Meer informatie hierover kunt u vinden op &lt;a href="http://www.uwv.nl/" rel="nofollow" target="_blank"&gt;www.uwv.nl&lt;/a&gt;&lt;br/&gt;Ook op de site &lt;a href="http://www.handigopjewerk.nl/" rel="nofollow" target="_blank"&gt;www.handigopjewerk.nl&lt;/a&gt; is veel informatie te vinden.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>

@@ -250,49 +250,49 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
       <title>Het gebouw</title>
       <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-5408" type="risk">
-        <title>Het gebouw waarin de afdeling is gehuisvest wordt</title>
+        <title>Het gebouw waarin de afdeling is gehuisvest wordt goed onderhouden.</title>
         <description>&lt;p&gt;Enkele voorbeelden: er zijn geen kierende kozijnen en ramen, er is geen bladderende verf aan de muren en plafonds, en er is goed hang- en sluitwerk aanwezig.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5409" type="risk">
-        <title>Het interieur van de afdeling  wordt goed schoonge</title>
+        <title>Het interieur van de afdeling wordt goed schoongemaakt.</title>
         <description></description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5410" type="risk">
-        <title>De elektrische-, gas- en watervoorzieningen zijn i</title>
+        <title>De elektrische-, gas- en watervoorzieningen zijn in orde en worden goed onderhouden.</title>
         <description></description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5411" type="risk">
-        <title>De zuurstof- en vacu&#252;m  voorzieningen zijn in orde</title>
+        <title>De zuurstof- en vacu&#252;m voorzieningen zijn in orde en goed onderhouden.</title>
         <description></description>
         <show-not-applicable>yes</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5412" type="risk">
-        <title>Opslag van medische gassen  (stikstof)  op verplee</title>
+        <title>Opslag van medische gassen (stikstof) op verpleegeenheden voldoet aan de eisen.</title>
         <description></description>
         <show-not-applicable>yes</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5413" type="risk">
-        <title>Er zijn voldoende en goede naar sekse gescheiden s</title>
+        <title>Er zijn voldoende en goede naar sekse gescheiden sanitaire voorzieningen voor het personeel aanwezig.</title>
         <description>&lt;p&gt;Er zijn toiletten aanwezig met in de buurt een wasbak voorzien van zeep en een schone handdoek. Afhankelijk van het soort werk zijn er ook douches aanwezig.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5414" type="risk">
-        <title>Het sanitair wordt regelmatig schoongemaakt en goe</title>
+        <title>Het sanitair wordt regelmatig schoongemaakt en goed onderhouden.</title>
         <description></description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5415" type="risk">
-        <title>Er is pauzeruimte aanwezig, met voldoende zitgeleg</title>
+        <title>Er is pauzeruimte aanwezig, met voldoende zitgelegenheid.</title>
         <description></description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -310,19 +310,19 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5418" type="risk">
-        <title>In ruimten waar langer dan 2 uur per dag gewerkt w</title>
+        <title>In ruimten waar langer dan 2 uur per dag gewerkt wordt is daglicht aanwezig.</title>
         <description></description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5419" type="risk">
-        <title>Op plaatsen waar gewerkt wordt is goede verlichtin</title>
+        <title>Op plaatsen waar gewerkt wordt is goede verlichting aanwezig.</title>
         <description>&lt;p&gt;Iedereen moet goed kunnen lezen en zien, zonder extra inspanning.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5420" type="risk">
-        <title>Op plaatsen waar niet gewerkt wordt, zoals een tra</title>
+        <title>Op plaatsen waar niet gewerkt wordt, zoals een trappenhuis,  is verlichting aanwezig.</title>
         <description>&lt;p&gt;Het gaat hier om twee dingen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;de basisverlichting moet op een sterkte zijn dat niemand er zich onveilig voelt. Dit geldt met name in trappenhuizen;&lt;/li&gt;&lt;li&gt;het licht moet aan kunnen op het moment dat het nodig is.&lt;/li&gt;&lt;/ul&gt;</description>
         <show-not-applicable>yes</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -334,13 +334,13 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5422" type="risk">
-        <title>Het klimaatbeheersingssysteem heeft voldoende verw</title>
+        <title>Het klimaatbeheersingssysteem heeft voldoende verwarmcapaciteit.</title>
         <description>&lt;p&gt;Het klimaatbeheersingssysteem omvat alle (mechanische) systemen zoals ventilatie, &#8216;airco&#8217;, koeling, radiatoren e.a. verwarmingselementen, te openen ramen etc.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5423" type="risk">
-        <title>Het klimaatbeheersingssysteem heeft voldoende koel</title>
+        <title>Het klimaatbeheersingssysteem heeft voldoende koelcapaciteit.</title>
         <description>&lt;p&gt;Aanwezige personen en aanwezig apparatuur in de ruimte produceren warmte. Het klimaatbeheersingssysteem dient voldoende capaciteit te hebben deze warmte voldoende snel af te voeren.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -352,49 +352,49 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         </solutions>
       </risk>
       <risk external-id="R-5424" type="risk">
-        <title>Het klimaatbeheersingssysteem regelt op voldoende</title>
+        <title>Het klimaatbeheersingssysteem regelt op voldoende wijze de relatieve luchtvochtigheid.</title>
         <description></description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5425" type="risk">
-        <title>Het klimaatbeheersingssysteem zorgt voor voldoende</title>
+        <title>Het klimaatbeheersingssysteem zorgt voor voldoende verse lucht.</title>
         <description>&lt;p&gt;Aanwezige personen ademen CO2 uit. Indien dit uitgeademde CO2 onvoldoende snel wordt afgevoerd en vervangen door verse lucht, ontstaat een bedompte atmosfeer en kunnen onder andere hoofdpijnklachten ontstaan.&#160;&#160;&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5426" type="risk">
-        <title>Er is een ruimte geschikt voor kolven en het geven</title>
+        <title>Er is een ruimte geschikt voor kolven en het geven van borstvoeding voor werkneemsters.</title>
         <description></description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5427" type="risk">
-        <title>Er is een ruimte waar het personeel zich kan omkle</title>
+        <title>Er is een ruimte waar het personeel zich kan omkleden en eigen kleding kan opbergen.</title>
         <description>&lt;p&gt;Een verkleedruimte hoeft niet in elk gebouw aanwezig te zijn. In sommige situaties zijn aparte kleedruimten voor mannen en vrouwen nodig. Er zijn kluisjes nodig voor kleding en andere persoonlijke zaken.&lt;/p&gt;</description>
         <show-not-applicable>yes</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5428" type="risk">
-        <title>Er is een duidelijk onderscheid tussen publieksrui</title>
+        <title>Er is een duidelijk onderscheid tussen publieksruimte en werkruimte.</title>
         <description>&lt;p&gt;Dit is van belang voor de veiligheid. Denk hierbij ook aan het onderscheid tussen verkeersroutes voor voertuigen en wandelroutes voor voetgangers.&lt;/p&gt;</description>
         <show-not-applicable>yes</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5429" type="risk">
-        <title>Liften, roltrappen en elektrische deuren zijn in g</title>
+        <title>Liften, roltrappen en elektrische deuren zijn in goede staat en worden goed onderhouden.</title>
         <description></description>
         <show-not-applicable>yes</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5430" type="risk">
-        <title>De liften, roltrappen en elektrische deuren hebben</title>
+        <title>De liften, roltrappen en elektrische deuren hebben noodvoorzieningen bij calamiteiten.</title>
         <description>&lt;p&gt;Een voorbeeld daarvan is een noodknop voor elektrische deuren voor het geval de stroom uitvalt.&lt;/p&gt;</description>
         <show-not-applicable>yes</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5431" type="risk">
-        <title>Trappen en bordessen zijn goed onderhouden en hebb</title>
+        <title>Trappen en bordessen zijn goed onderhouden en hebben leuningen.</title>
         <description>&lt;p&gt;Er liggen geen loszittende delen op de traptreden en de bordessen en de leuningen zitten goed vast.&lt;/p&gt;</description>
         <show-not-applicable>yes</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -414,7 +414,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5434" type="risk">
-          <title>De opslag van medische hulpmiddelen voldoet aan de</title>
+          <title>De opslag van medische hulpmiddelen voldoet aan de wet medische hulpmiddelen.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -426,19 +426,19 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
           </solutions>
         </risk>
         <risk external-id="R-5435" type="risk">
-          <title>Stellingen en kasten worden volgens de voorschrift</title>
+          <title>Stellingen en kasten worden volgens de voorschriften ingepakt.</title>
           <description>&lt;p&gt;De leverancier van de stellingen en kasten kan informatie verstrekken over de maximale belasting van de legborden en over eventuele aanvullende voorschriften. Richt de stellingen en kasten zo in dat frequent gebruikte en de zwaardere middelen tussen heup- en borsthoogte liggen.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5436" type="risk">
-          <title>Er zijn hulpmiddelen aanwezig om goederen van hoog</title>
+          <title>Er zijn hulpmiddelen aanwezig om goederen van hoogte te pakken.</title>
           <description>&lt;p&gt;In een kleine opslagruimte, zoals een archief bij een kantoor,&#160; is het werken met een trap of een opstapje (olifantenpoot) vaak afdoende.&#160;&lt;/p&gt;</description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5437" type="risk">
-          <title>Als er transportmiddelen of hulpmiddelen worden ge</title>
+          <title>Als er transportmiddelen of hulpmiddelen worden gebruikt voor het laden en lossen van goederen, dan zijn de gangpaden voldoende breed.</title>
           <description>&lt;p&gt;Magazijnheftrucks en andere typen transportmiddelen moeten de ruimte hebben om te kunnen rijden en draaien. Die ruimte betreft de omvang van het transportmiddel plus de omvang van het te verplaatsen materiaal.&lt;/p&gt;</description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -455,13 +455,13 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5440" type="risk">
-          <title>In de keuken worden dranken en etenswaren op de ju</title>
+          <title>In de keuken worden dranken en etenswaren op de juiste manier bereid en bewaard.</title>
           <description>&lt;p&gt;Voedsel staat afgedekt in een goed werkende koelkast; mogelijk lekkend voedsel staat in een schaal onderin. Er wordt gewerkt met schoon materiaal. Voedsel waarvan de datum verlopen is wordt weggegooid. Voedsel wordt gescheiden van schoonmaakmiddelen bewaard. Er is &#233;&#233;n medewerker verantwoordelijk voor het beheer.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5441" type="risk">
-          <title>De keuken is zo ingericht dat er gladde wanden, vl</title>
+          <title>De keuken is zo ingericht dat er gladde wanden, vloeren en werkoppervlakten zijn die goed kunnen worden schoongemaakt.</title>
           <description>&lt;p&gt;Als de vloeren zijn betegeld is dat gebeurd met speciale vloertegels, waardoor het gevaar van uitglijden beperkt wordt.&#160;&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -478,61 +478,61 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         <description>&lt;p&gt;Bijvoorbeeld het maken van werkroosters, verslagen, bijwerken pati&#235;ntendossiers.&lt;/p&gt;</description>
         <question>Er wordt administratief werk verricht.</question>
         <risk external-id="R-5445" type="risk">
-          <title>De balie is functioneel ingericht en ontworpen vol</title>
+          <title>De balie is functioneel ingericht en ontworpen volgens ergonomische principes.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5446" type="risk">
-          <title>Bij minimaal 2 uur aaneengesloten computerwerk kan</title>
+          <title>Bij minimaal 2 uur aaneengesloten computerwerk kan de werkplek aan de lengte van de medewerker worden aangepast.</title>
           <description>&lt;p&gt;Als iemand langer dan 2 uur in dezelfde houding werkt, dan geldt dat:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;de stoel instelbaar is en eventueel het werkblad;&lt;/li&gt;&lt;li&gt;dat het beeldscherm op 50 cm afstand gezet kan worden.&lt;/li&gt;&lt;/ul&gt;&lt;a href="http://www.arboconvenantacademischeziekenhuizen.nl" rel="nofollow" target="_blank"&gt;www.arboconvenantacademischeziekenhuizen.nl&lt;/a&gt;&lt;br/&gt;&lt;p&gt;Klik dan op RSI&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5447" type="risk">
-          <title>Bij minimaal 2 uur aaneengesloten computerwerk kan</title>
+          <title>Bij minimaal 2 uur aaneengesloten computerwerk kan de medewerker regelmatig het werk onderbreken met andere taken of regelmatig (mini)pauzes nemen.</title>
           <description>&lt;p&gt;Regelmatige verandering van houding en lichamelijke belasting is nodig. Voor het nemen van (mini-)pauzes bij langdurig beeldschermwerk kan een pauzeprogramma op de PC ge&#239;nstalleerd worden.&lt;/p&gt;&lt;a href="http://www.arboconvenantacademischeziekenhuizen.nl" rel="nofollow" target="_blank"&gt;www.arboconvenantacademischeziekenhuizen.nl&lt;/a&gt;&lt;br/&gt;&lt;p&gt;Klik dan op RSI&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5448" type="risk">
-          <title>Spiegeling van verlichting in beeldschermen is afw</title>
+          <title>Spiegeling van verlichting in beeldschermen is afwezig.</title>
           <description>&lt;p&gt;Onbeschermde tl-buizen spiegelen altijd. Plaats beschermde tl-verlichting in de lengterichting op het beeldscherm: er ontstaat als het ware een kruis tussen verlichting en bureaulengte.&#160;&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5449" type="risk">
-          <title>Het beeldscherm staat haaks op het raam en zo moge</title>
+          <title>Het beeldscherm staat haaks op het raam en zo mogelijk 3 meter van het raam af.</title>
           <description>&lt;p&gt;Dit heeft onder meer te maken met de spiegeling in het beeldscherm. Dat kost extra inspanning.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5450" type="risk">
-          <title>Alle kantoorstoelen zijn instelbaar en bieden het</title>
+          <title>Alle kantoorstoelen zijn instelbaar en bieden het lichaam voldoende ondersteuning.</title>
           <description>&lt;p&gt;De hoogte, het zitvlak en de rugleuning zijn instelbaar en de rugleuning heeft een lendensteun. De armleuningen zijn instelbaar en hebben een korte armsteun.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5451" type="risk">
-          <title>Er is een voldoende grote werktafel aanwezig en de</title>
+          <title>Er is een voldoende grote werktafel aanwezig en deze is eventueel in hoogte verstelbaar.</title>
           <description>&lt;p&gt;Voldoende groot is minimaal 120 cm bij 60 cm, maar het liefst dieper. Dieper omdat er meestal een beeldscherm en toetsenbord op staat en een beeldscherm moet weer op 60 cm. afstand van een werknemer staan. In hoogte verstelbare tafels zijn geschikt voor medewerkers met verschillende lengtes. Zorg er voor dat in hoogte verstelbare tafels door de medewerker zelf kunnen worden bijgesteld, door bijvoorbeeld een hendeltje. Anders moet telkens de technische dienst worden ingeschakeld.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5452" type="risk">
-          <title>Er is voor kleinere mensen een in hoogte verstelba</title>
+          <title>Er is voor kleinere mensen een in hoogte verstelbaar voetenbankje aanwezig.</title>
           <description></description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5453" type="risk">
-          <title>Per medewerker is voldoende werkruimte  aanwezig.</title>
+          <title>Per medewerker is voldoende werkruimte aanwezig.</title>
           <description>&lt;p&gt;De hoeveelheid werkoppervlakte per medewerker voldoet aan de NEN 1824.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5454" type="risk">
-          <title>Medewerkers weten hoe een goede werkhouding aan te</title>
+          <title>Medewerkers weten hoe een goede werkhouding aan te nemen en hoe het meubilair (tafels, stoelen, voetenbanken, beeldscherm, toetsenbord en muis) goed in te stellen, neer te zetten en te gebruiken.</title>
           <description>&lt;p&gt;Naast de aanwezigheid van goed meubilair en goede hulpmiddelen is een juist gebruik ervan ook belangrijk in het voorkomen van lichamelijke klachten waaronder RSI. Besteed regelmatig aandacht hieraan. Denk ook aan inwerken van nieuwe medewerkers, stagiaires, uitzendkrachten, etc.&#160;&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
@@ -544,7 +544,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5456" type="risk">
-          <title>Printers en kopieermachines staan uit de buurt van</title>
+          <title>Printers en kopieermachines staan uit de buurt van de medewerkers.</title>
           <description>&lt;p&gt;In verband met geluid (en bij oudere typen ook ozon) en de opwarming van de werkruimte. Het liefst staan deze apparaten in een andere ruimte, met als voordeel dat er voor printen en kopi&#235;ren gelopen moet worden. Dit lopen onderbreekt het langdurig in dezelfde houding werken en zorgt voor een goede doorbloeding van het lichaam.&lt;/p&gt;</description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
@@ -556,13 +556,13 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5458" type="risk">
-          <title>Bij frequent contact met bezoekers bij een balie z</title>
+          <title>Bij frequent contact met bezoekers bij een balie zijn baliemedewerker en bezoeker op ongeveer ooghoogte met elkaar.</title>
           <description>&lt;p&gt;Dit betekent bij overwegend staande bezoekers en zittende baliemedewerkers dat ofwel de vloer achter de balie verhoogd is, ofwel de stoel van de baliemedewerker een verlengde gasveer is en er voldoende hoge voetenbanken zijn. Uiteraard is de werkbladhoogte aangepast (verhoogd).&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5459" type="risk">
-          <title>Bij frequent overhandigen van documenten tussen ba</title>
+          <title>Bij frequent overhandigen van documenten tussen baliemedewerker en bezoeker is het baliewerkblad smal genoeg om overmatig reiken van de baliemedewerker te voorkomen.</title>
           <description>&lt;p&gt;Het regelmatig naar voren moeten buigen kan schouder-, nek- en/of rugklachten veroorzaken, helemaal wanneer daarbij ook de arm op of boven schouderhoogte geheven moet worden.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
@@ -572,7 +572,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         <title>Spoelkeuken / medicijnkamer / behandelkamer</title>
         <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-5460" type="risk">
-          <title>De spoelkeuken is adequaat ingericht voor het gebr</title>
+          <title>De spoelkeuken is adequaat ingericht voor het gebruik.</title>
           <description>&lt;p&gt;De apparatuur is goed bereikbaar en kan bediend worden in goede werkhoudingen (niet gebogen of met ver of hoog reiken).&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
@@ -584,13 +584,13 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5462" type="risk">
-          <title>De medicijn kamer is adequaat ingericht voor het g</title>
+          <title>De medicijn kamer is adequaat ingericht voor het gebruik.</title>
           <description>&lt;p&gt;In sommige situaties is afzuiging gewenst. Medicatie (bijv opium) moet opgeslagen zijn achter slot en grendel.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5463" type="risk">
-          <title>De verlichting boven het werkblad waar medicijnen</title>
+          <title>De verlichting boven het werkblad waar medicijnen worden klaargemaakt is voldoende.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
@@ -608,7 +608,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5466" type="risk">
-          <title>Behandelkamer is adequaat ingericht voor het gebru</title>
+          <title>Behandelkamer is adequaat ingericht voor het gebruik.</title>
           <description>&lt;p&gt;In sommige situaties is afzuiging gewenst.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
@@ -624,13 +624,13 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         <title>Sanitaire voorzieningen voor pati&#235;nten</title>
         <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-5469" type="risk">
-          <title>Het invalidentoilet is adequaat ingericht voor het</title>
+          <title>Het invalidentoilet is adequaat ingericht voor het gebruik voor minder-validen.</title>
           <description>&lt;p&gt;Er zijn geen drempels aanwezig. Het toilet is voorzien van steunbeugels en is van 2 zijden benaderbaar. Uitglijden op een natte vloer wordt voorkomen door een stroeve vloer.&#160;&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5470" type="risk">
-          <title>Toiletten en douches zijn adequaat ingericht voor</title>
+          <title>Toiletten en douches zijn adequaat ingericht voor het gebruik.</title>
           <description>&lt;p&gt;Drempels en te kleine werkruimte kunnen leiden tot ongemakkelijke werkhoudingen.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
@@ -640,7 +640,7 @@ UgDfZh3j3Mz4tZPxVQTgUgDgUgDgUgDgUgDgUgHgdzfmuJfy9vL9/v7+////////////////////
         <title>Pati&#235;ntenkamers</title>
         <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-5472" type="risk">
-          <title>Pati&#235;ntenkamers zijn adequaat ingericht voor het g</title>
+          <title>Pati&#235;ntenkamers zijn adequaat ingericht voor het gebruik.</title>
           <description>&lt;p&gt;Knelpunten kunnen zijn de bedbalken, te weinig ruimte rond het bed, bijvoorbeeld voor de tillift.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
@@ -660,7 +660,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <description/>
         <question>Veelvuldig staan of lopen komt voor.</question>
         <risk external-id="R-5475" type="risk">
-          <title>Er zijn technische maatregelen getroffen om het ri</title>
+          <title>Er zijn technische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Te denken valt aan geautomatiseerd of gemechaniseerd transport, gebruik van stoelen en stahulpmiddelen en aanpassingen aan de werkplek (bijv. werkbladhoogte).&lt;/p&gt;</description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -672,7 +672,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5476" type="risk">
-          <title>Er zijn organisatorische maatregelen getroffen om</title>
+          <title>Er zijn organisatorische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Bijvoorbeeld taakroulatie, veranderingen in planning van werkzaamheden, wijzigingen in werkproces.&lt;/p&gt;</description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -696,7 +696,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5478" type="risk">
-          <title>Alle maatregelen, werkvoorschriften en protocollen</title>
+          <title>Alle maatregelen, werkvoorschriften en protocollen zijn bij de medewerkers bekend.</title>
           <description>&lt;p&gt;De informatie moet herhaald worden aangeboden bijvoorbeeld in het werkoverleg of tijdens een klinische les. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Denk ook aan inwerken van nieuwe medewerkers, stagiaires, uitzendkrachten, etc.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -714,7 +714,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5480" type="risk">
-          <title>Medewerkers worden aangesproken als zij zich niet</title>
+          <title>Medewerkers worden aangesproken als zij zich niet aan de voorschriften houden.</title>
           <description>&lt;p&gt;Medewerkers worden aangesproken op hun gedrag. Bij herhaald niet nakomen van afspraken wordt dit vastgelegd in verslagen van gesprekken over het functioneren. Tref zonodig corrigerende maatregelen of sancties.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -731,7 +731,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <description>&lt;p&gt;Onder ongunstige werkhoudingen wordt verstaan: knielen, bukken, draaien, reiken, hurken, buigen, voorovergebogen werken.&lt;/p&gt;</description>
         <question>Ongunstige werkhoudingen komen veelvuldig voor.</question>
         <risk external-id="R-5482" type="risk">
-          <title>Er zijn technische maatregelen getroffen om het ri</title>
+          <title>Er zijn technische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Te denken valt aan het gebruik van stoelen en stahulpmiddelen, aanpassingen of herinrichten van de werkplek (bijv. werkbladhoogte, bedbalken of magazijnen).&lt;/p&gt;</description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -743,7 +743,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5483" type="risk">
-          <title>Er zijn organisatorische maatregelen getroffen om</title>
+          <title>Er zijn organisatorische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Bijvoorbeeld taakroulatie, veranderingen in planning van werkzaamheden, wijzigingen in werkproces.&lt;/p&gt;</description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -767,7 +767,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5485" type="risk">
-          <title>Alle maatregelen, werkvoorschriften en protocollen</title>
+          <title>Alle maatregelen, werkvoorschriften en protocollen zijn bij de medewerkers bekend.</title>
           <description>&lt;p&gt;De informatie moet herhaald worden aangeboden bijvoorbeeld in het werkoverleg of tijdens een klinische les. Denk ook aan inwerken van nieuwe medewerkers, stagiaires, uitzendkrachten, etc.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Artikel 8 Arbowet&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -787,7 +787,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5487" type="risk">
-          <title>Medewerkers worden aangesproken als zij zich niet</title>
+          <title>Medewerkers worden aangesproken als zij zich niet aan de voorschriften houden.</title>
           <description>&lt;p&gt;Medewerkers worden aangesproken op hun gedrag. Bij herhaald niet nakomen van afspraken wordt dit vastgelegd in verslagen van gesprekken over het functioneren. Tref zonodig corrigerende maatregelen of sancties.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -804,7 +804,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <description>&lt;p&gt;Onder repeterende bewegen wordt verstaan: herhaalde bewegingen van de handen. Repeterende handelingen kunnen zijn: typen en muizen, schoonmaken, schenken, handmatig sinaasappels persen, reiken en aanpakken bij baliewerk. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Het is niet toegestaan langer dan 5 uur per dag beeldschermwerk te verrichten.&#160;&lt;/p&gt;</description>
         <question>Repeterende handelingen komen voor.</question>
         <risk external-id="R-5489" type="risk">
-          <title>Er zijn technische maatregelen getroffen om het ri</title>
+          <title>Er zijn technische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;In eerste instantie kan het repeterende karakter voorkomen worden door bijv. automatisering of mechanisering (pers). Indien dit buiten de mogelijkheden valt moet aandacht besteed worden aan zo gunstig mogelijke werkhoudingen door aanpassingen of herinrichten van de werkplek (bijv. werkbladhoogte of magazijnen) en aanschaf van geschikte middelen.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -816,7 +816,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5490" type="risk">
-          <title>Er zijn organisatorische maatregelen getroffen om</title>
+          <title>Er zijn organisatorische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Bijvoorbeeld taakroulatie, - verrijking, veranderingen in planning van werkzaamheden, wijzigingen in werkproces, onderbreken van werk door (mini)pauzes.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -840,7 +840,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5492" type="risk">
-          <title>Alle maatregelen, werkvoorschriften en protocollen</title>
+          <title>Alle maatregelen, werkvoorschriften en protocollen zijn bij de medewerkers bekend.</title>
           <description>&lt;p&gt;De informatie moet herhaald worden aangeboden bijvoorbeeld in het werkoverleg of tijdens een klinische les. Denk ook aan inwerken van nieuwe medewerkers, stagiaires, uitzendkrachten, etc.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Artikel 8 Arbowet&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -859,7 +859,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5494" type="risk">
-          <title>Medewerkers worden aangesproken als zij zich niet</title>
+          <title>Medewerkers worden aangesproken als zij zich niet aan de voorschriften houden.</title>
           <description>&lt;p&gt;Medewerkers worden aangesproken op hun gedrag. Bij herhaald niet nakomen van afspraken wordt dit vastgelegd in verslagen van gesprekken over het functioneren. Tref zonodig corrigerende maatregelen of sancties.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -876,7 +876,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <description>&lt;p&gt;Tillen en dragen komt o.a. voor tijdens het uitvoeren van basiszorg (mobiliseren) en voedingszorg (voedingsbladen). Het tillen van gewichten van 25 kilo of zwaarder moet zoveel mogelijk worden voorkomen.&lt;/p&gt;</description>
         <question>Tillen en dragen komen  voor.</question>
         <risk external-id="R-5496" type="risk">
-          <title>Er zijn technische maatregelen getroffen om het ri</title>
+          <title>Er zijn technische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Te denken valt aan het gebruik van (til)hulpmiddelen (glijmatjes, actieve en passieve liften),&#160; hoog-laagmechanisme bed, karretjes voor transport van zware goederen.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -888,7 +888,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5497" type="risk">
-          <title>Er zijn organisatorische maatregelen getroffen om</title>
+          <title>Er zijn organisatorische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Bijvoorbeeld taakroulatie, - verrijking, veranderingen in planning van werkzaamheden, wijzigingen in werkproces.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -912,7 +912,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5499" type="risk">
-          <title>Alle maatregelen, werkvoorschriften en protocollen</title>
+          <title>Alle maatregelen, werkvoorschriften en protocollen zijn bij de medewerkers bekend.</title>
           <description>&lt;p&gt;De informatie moet herhaald worden aangeboden bijvoorbeeld in het werkoverleg of tijdens een klinische les. Denk ook aan inwerken van nieuwe medewerkers, stagiaires, uitzendkrachten, etc.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Artikel 8 Arbowet&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -932,7 +932,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5501" type="risk">
-          <title>Medewerkers worden aangesproken als zij zich niet</title>
+          <title>Medewerkers worden aangesproken als zij zich niet aan de voorschriften houden.</title>
           <description>&lt;p&gt;Medewerkers worden aangesproken op hun gedrag. Bij herhaald niet nakomen van afspraken wordt dit vastgelegd in verslagen van gesprekken over het functioneren. Tref zonodig corrigerende maatregelen of sancties.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -949,7 +949,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <description>&lt;p&gt;Duwen en trekken komen voor bij uitvoeren van basiszorg (tijdens het transporteren van bedden of rolstoelen) en voedingzorg (voedingskarren, servieswagens) &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Normen:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;20 kilo voor het ingang zetten en 10 kilo voor het in gang houden van een bed, kar of container.&lt;/p&gt;</description>
         <question>Duwen en trekken komen veelvuldig voor.</question>
         <risk external-id="R-5503" type="risk">
-          <title>Er zijn technische maatregelen getroffen om het ri</title>
+          <title>Er zijn technische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Te denken valt aan aanpassing van de hoogte of plaatsing van duw- en trekstangen, wielen en wielonderhoud, bok- en zwenkwielen, hoogte kar. (Deels) geautomatiseerd transport is ook een mogelijkheid. Zorg voor voldoende doorrijdruimte en automatische deuren.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -961,7 +961,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5504" type="risk">
-          <title>Er zijn organisatorische maatregelen getroffen om</title>
+          <title>Er zijn organisatorische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Bijvoorbeeld taakroulatie, - verrijking, veranderingen in planning van werkzaamheden, wijzigingen in werkproces, uitvoeren beddentransport met 2 medewerkers en afspraken over de belading van transportkarren.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -985,7 +985,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5506" type="risk">
-          <title>Alle maatregelen, werkvoorschriften en protocollen</title>
+          <title>Alle maatregelen, werkvoorschriften en protocollen zijn bij de medewerkers bekend.</title>
           <description>&lt;p&gt;De informatie moet herhaald worden aangeboden bijvoorbeeld in het werkoverleg of tijdens een klinische les. Denk ook aan inwerken van nieuwe medewerkers, stagiaires, uitzendkrachten, etc.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Artikel 8 Arbowet&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -1005,7 +1005,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5508" type="risk">
-          <title>Medewerkers worden aangesproken als zij zich niet</title>
+          <title>Medewerkers worden aangesproken als zij zich niet aan de voorschriften houden.</title>
           <description>&lt;p&gt;Medewerkers worden aangesproken op hun gedrag. Bij herhaald niet nakomen van afspraken wordt dit vastgelegd in verslagen van gesprekken over het functioneren. Tref zonodig corrigerende maatregelen of sancties.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1027,7 +1027,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <description>&lt;p&gt;Het gaat hierbij om allerlei vormen van ongewenst gedrag; denk hierbij ook aan roddelen&#160; en kwaadspreken, aan uitsluiten en negeren, het vernielen en laten verdwijnen van werk en eigendommen. De bron kan zowel bij collega&#8217;s als bij pati&#235;nten liggen.&lt;/p&gt;</description>
         <question>Er wordt melding gemaakt van verbale of fysieke  a</question>
         <risk external-id="R-5512" type="risk">
-          <title>Er zijn technische maatregelen getroffen om het ri</title>
+          <title>Er zijn technische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Technische infrastructuur als camera&#8217;s, communicatieapparatuur, alarmvoorzieningen, aanpassingen in gebouwen.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art 3.1 Arbowet&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -1040,7 +1040,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5513" type="risk">
-          <title>Er zijn organisatorische maatregelen getroffen om</title>
+          <title>Er zijn organisatorische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Het gaat om overleg en steun van zowel collega&#8217;s en leiding als van speciale (interne) afdelingen en functionarissen, zoals beveiliging, vertrouwenspersonen e.d.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art 3.1 Arbowet&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -1053,7 +1053,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5514" type="risk">
-          <title>Er zijn werkvoorschriften en protocollen inzake on</title>
+          <title>Er zijn werkvoorschriften en protocollen inzake ongewenste gedrag gemaakt.</title>
           <description>&lt;p&gt;Bijvoorbeeld gedragscodes en afspraken zoals geadviseerd in &#8220;Veilige zorg&#8221; .&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1065,7 +1065,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5515" type="risk">
-          <title>Alle maatregelen, werkvoorschriften en protocollen</title>
+          <title>Alle maatregelen, werkvoorschriften en protocollen zijn bij de medewerkers bekend.</title>
           <description>&lt;p&gt;De informatie moet herhaald worden aangeboden bijvoorbeeld in het werkoverleg of tijdens een klinische les. Denk ook aan inwerken van nieuwe medewerkers, stagiaires, uitzendkrachten.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art. 8 Arbowet&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -1091,7 +1091,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5517" type="risk">
-          <title>Medewerkers worden aangesproken als zij zich niet</title>
+          <title>Medewerkers worden aangesproken als zij zich niet aan de voorschriften houden.</title>
           <description>&lt;p&gt;Medewerkers worden aangesproken op hun gedrag. Bij herhaald niet nakomen van afspraken wordt dit vastgelegd in verslagen van gesprekken over het functioneren. Tref zonodig corrigerende maatregelen of sancties.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1108,7 +1108,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <description>&lt;p&gt;Onder goede werkrelatie wordt verstaan: regelmatig werkoverleg, gesprekken rond functioneren, open communicatie, eerlijke opdrachten en beoordeling e.d.&lt;/p&gt;</description>
         <question>De werkrelatie tussen leiding en medewerkers is ni</question>
         <risk external-id="R-5519" type="risk">
-          <title>Er zijn organisatorische maatregelen getroffen om</title>
+          <title>Er zijn organisatorische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Bijvoorbeeld coaching, werkoverleg, mediation, werkbelevingsonderzoek.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art 3.1 Arbowet&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -1134,7 +1134,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5521" type="risk">
-          <title>Alle maatregelen, werkvoorschriften en protocollen</title>
+          <title>Alle maatregelen, werkvoorschriften en protocollen zijn bij de medewerkers bekend.</title>
           <description>&lt;p&gt;De informatie moet herhaald worden aangeboden bijvoorbeeld in het werkoverleg. Denk ook aan inwerken van nieuwe medewerkers, stagiaires, uitzendkrachten, etc&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art. 8 Arbowet&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -1147,7 +1147,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5522" type="risk">
-          <title>Iedereen werkt volgens de gemaakte afspraken</title>
+          <title>Iedereen werkt volgens de gemaakte afspraken.</title>
           <description>&lt;p&gt;Er is regelmatig controle op de werkwijze.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet art. 11&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -1160,7 +1160,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5523" type="risk">
-          <title>Medewerkers worden aangesproken als zij zich niet</title>
+          <title>Medewerkers worden aangesproken als zij zich niet aan de voorschriften houden.</title>
           <description>&lt;p&gt;Medewerkers worden aangesproken op hun gedrag. Bij herhaald niet nakomen van afspraken wordt dit vastgelegd in verslagen van gesprekken over het functioneren. Tref zonodig corrigerende maatregelen of sancties.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1177,7 +1177,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <description>&lt;p&gt;Het hoeft niet altijd te gaan om een handgemeen; ook niet uitgesproken gedachten of meningen kunnen leiden tot een slechte sfeer. Een snelle en open aanpak van conflicten kan veel ellende als bijv. pesten voorkomen.&lt;/p&gt;</description>
         <question>Er zijn regelmatig conflicten op de afdeling waard</question>
         <risk external-id="R-5525" type="risk">
-          <title>Er zijn organisatorische maatregelen getroffen om</title>
+          <title>Er zijn organisatorische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Bijvoorbeeld taakroulatie, - verrijking, veranderingen in planning van werkzaamheden, wijzigingen in werkproces.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art 3.1 Arbowet&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -1197,12 +1197,12 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           <solutions>
             <solution external-id="O-2159">
               <description>&lt;p&gt;Overleg met P&amp;amp;O of met de Arbo-dienst.&lt;/p&gt;</description>
-              <action-plan>Overleg met P&amp;amp;O of met de Arbo-dienst.</action-plan>
+              <action-plan>Overleg met P&amp;O of met de Arbo-dienst.</action-plan>
             </solution>
           </solutions>
         </risk>
         <risk external-id="R-5527" type="risk">
-          <title>Alle maatregelen, werkvoorschriften en protocollen</title>
+          <title>Alle maatregelen, werkvoorschriften en protocollen zijn bij de medewerkers bekend.</title>
           <description>&lt;p&gt;De informatie moet herhaald worden aangeboden bijvoorbeeld in het werkoverleg. Denk ook aan inwerken van nieuwe medewerkers, stagiaires, uitzendkrachten, etc.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet art. 8&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -1228,7 +1228,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5529" type="risk">
-          <title>Medewerkers wordenaangesproken als zij zich niet a</title>
+          <title>Medewerkers worden aangesproken als zij zich niet aan de voorschriften houden.</title>
           <description>&lt;p&gt;Medewerkers worden aangesproken op hun gedrag. Bij herhaald niet nakomen van afspraken wordt dit vastgelegd in verslagen van gesprekken over het functioneren. Tref zonodig corrigerende maatregelen of sancties.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1245,7 +1245,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <description>&lt;p&gt;Denk hierbij aan pati&#235;nten die agressief zijn door hun aandoening of medicatie, aan kinderen, traumazorg e.d.&lt;/p&gt;</description>
         <question>Er zijn pati&#235;nten die een extra mentale of emotion</question>
         <risk external-id="R-5531" type="risk">
-          <title>Er zijn technische maatregelen getroffen om het ri</title>
+          <title>Er zijn technische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Zorg voor cameratoezicht en alarmvoorzieningen, als dit vaker voorkomt.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art 3.1 Arbowet&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -1258,7 +1258,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5532" type="risk">
-          <title>Er zijn organisatorische maatregelen getroffen om</title>
+          <title>Er zijn organisatorische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Bijvoorbeeld taakroulatie, - verrijking, veranderingen in planning van werkzaamheden, wijzigingen in werkproces.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art 3.1 Arbowet&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -1277,7 +1277,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5534" type="risk">
-          <title>Alle maatregelen, werkvoorschriften en protocollen</title>
+          <title>Alle maatregelen, werkvoorschriften en protocollen zijn bij de medewerkers bekend.</title>
           <description>&lt;p&gt;De informatie moet herhaald worden aangeboden bijvoorbeeld in het werkoverleg of tijdens een klinische les. Denk ook aan inwerken van nieuwe medewerkers, stagiaires, uitzendkrachten, etc.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet art.8&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -1303,7 +1303,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5536" type="risk">
-          <title>Medewerkers worden aangesproken als zij zich niet</title>
+          <title>Medewerkers worden aangesproken als zij zich niet aan de voorschriften houden.</title>
           <description>&lt;p&gt;Medewerkers worden aangesproken op hun gedrag. Bij herhaald niet nakomen van afspraken wordt dit vastgelegd in verslagen van gesprekken over het functioneren. Tref zonodig corrigerende maatregelen of sancties.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1320,7 +1320,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <description>&lt;p&gt;Denk hierbij aan indirecte communicatie, samenwerking met andere disciplines, werkverstoringen etc.&lt;/p&gt;</description>
         <question>Knelpunten worden vaak niet uitgesproken en/of wor</question>
         <risk external-id="R-5538" type="risk">
-          <title>Er zijn organisatorische maatregelen getroffen om</title>
+          <title>Er zijn organisatorische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Bijvoorbeeld taakroulatie, - verrijking, veranderingen in planning van werkzaamheden, wijzigingen in werkproces, invoering van multidisciplinair overleg.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art 3.1 Arbowet&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -1339,7 +1339,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5540" type="risk">
-          <title>Alle maatregelen, werkvoorschriften en protocollen</title>
+          <title>Alle maatregelen, werkvoorschriften en protocollen zijn bij de medewerkers bekend.</title>
           <description>&lt;p&gt;De informatie moet herhaald worden aangeboden bijvoorbeeld in het werkoverleg of tijdens een klinische les. Denk ook aan inwerken van nieuwe medewerkers, stagiaires, uitzendkrachten, etc.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet art. 8&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -1352,7 +1352,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5541" type="risk">
-          <title>Iedereen werkt volgens de gemaakte afspraken .</title>
+          <title>Iedereen werkt volgens de gemaakte afspraken.</title>
           <description>&lt;p&gt;Er is regelmatig controle op de werkwijze.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet art.11&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -1365,7 +1365,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5542" type="risk">
-          <title>Medewerkers worden aangesproken als zij zich niet</title>
+          <title>Medewerkers worden aangesproken als zij zich niet aan de voorschriften houden.</title>
           <description>&lt;p&gt;Medewerkers worden aangesproken op hun gedrag. Bij herhaald niet nakomen van afspraken wordt dit vastgelegd in verslagen van gesprekken over het functioneren. Tref zonodig corrigerende maatregelen of sancties.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1382,7 +1382,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <description/>
         <question>Medewerkers ervaren onvoldoende mogelijkheden om p</question>
         <risk external-id="R-5544" type="risk">
-          <title>Er zijn technische maatregelen getroffen om het ri</title>
+          <title>Er zijn technische maatregelen getroffen om het risico te beheersen.</title>
           <description></description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art. 3.1 Arbowet&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -1395,7 +1395,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5545" type="risk">
-          <title>Er zijn organisatorische maatregelen getroffen om</title>
+          <title>Er zijn organisatorische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Bijvoorbeeld taakroulatie, - verrijking, veranderingen in planning van werkzaamheden, wijzigingen in werkproces, overleg.&#160;&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art 3.1 Arbowet&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -1408,7 +1408,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5547" type="risk">
-          <title>Alle maatregelen, werkvoorschriften en protocollen</title>
+          <title>Alle maatregelen, werkvoorschriften en protocollen zijn bij de medewerkers bekend.</title>
           <description>&lt;p&gt;De informatie moet herhaald worden aangeboden bijvoorbeeld in het werkoverleg of tijdens een klinische les. Denk ook aan inwerken van nieuwe medewerkers, stagiaires, uitzendkrachten, etc.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet art. 8&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -1434,7 +1434,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5549" type="risk">
-          <title>Medewerkers worden aangesproken als zij zich niet</title>
+          <title>Medewerkers worden aangesproken als zij zich niet aan de voorschriften houden.</title>
           <description>&lt;p&gt;Medewerkers worden aangesproken op hun gedrag. Bij herhaald niet nakomen van afspraken wordt dit vastgelegd in verslagen van gesprekken over het functioneren. Tref zonodig corrigerende maatregelen of sancties.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1451,7 +1451,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <description>&lt;p&gt;Het (al dan niet door gebrek aan eigen competenties) over een langere periode niet kunnen voldoen aan de eisen van het werk, heeft een sterk ziekmakend effect.&lt;/p&gt;</description>
         <question>Groepen medewerkers geven aan regelmatig te veel w</question>
         <risk external-id="R-5551" type="risk">
-          <title>Er zijn technische maatregelen getroffen om het ri</title>
+          <title>Er zijn technische maatregelen getroffen om het risico te beheersen.</title>
           <description></description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art 3.1 Arbowet&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -1464,7 +1464,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5552" type="risk">
-          <title>Er zijn organisatorische maatregelen getroffen om</title>
+          <title>Er zijn organisatorische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Bijvoorbeeld taakroulatie, - verrijking, veranderingen in planning van werkzaamheden, wijzigingen in werkproces.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art 3.1 Arbowet&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -1483,7 +1483,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5554" type="risk">
-          <title>Alle maatregelen, werkvoorschriften en protocollen</title>
+          <title>Alle maatregelen, werkvoorschriften en protocollen zijn bij de medewerkers bekend.</title>
           <description>&lt;p&gt;De informatie moet herhaald worden aangeboden bijvoorbeeld in het werkoverleg. Denk ook aan inwerken van nieuwe medewerkers, stagiaires, uitzendkrachten, etc.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet art. 8&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -1509,7 +1509,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5556" type="risk">
-          <title>Medewerkers worden aangesproken als zij zich niet</title>
+          <title>Medewerkers worden aangesproken als zij zich niet aan de voorschriften houden.</title>
           <description>&lt;p&gt;Medewerkers worden aangesproken op hun gedrag. Bij herhaald niet nakomen van afspraken wordt dit vastgelegd in verslagen van gesprekken over het functioneren. Tref zonodig corrigerende maatregelen of sancties.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1526,7 +1526,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <description>&lt;p&gt;Er treden regelmatig rolconflicten op en er komt dubbel werk voor of taken worden niet uitgevoerd.&lt;/p&gt;</description>
         <question>Medewerkers weten niet altijd wat zij moeten doen</question>
         <risk external-id="R-5558" type="risk">
-          <title>Er zijn organisatorische maatregelen getroffen om</title>
+          <title>Er zijn organisatorische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Bijvoorbeeld taakroulatie, - verrijking, veranderingen in planning van werkzaamheden, wijzigingen in werkproces.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art 3.1 Arbowet&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -1539,7 +1539,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5560" type="risk">
-          <title>Alle maatregelen, werkvoorschriften en protocollen</title>
+          <title>Alle maatregelen, werkvoorschriften en protocollen zijn bij de medewerkers bekend.</title>
           <description>&lt;p&gt;De informatie moet herhaald worden aangeboden bijvoorbeeld in het werkoverleg of tijdens een klinische les. Denk ook aan inwerken van nieuwe medewerkers, stagiaires, uitzendkrachten, etc.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet art. 8&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -1565,7 +1565,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5562" type="risk">
-          <title>Medewerkers worden aangesproken als zij zich niet</title>
+          <title>Medewerkers worden aangesproken als zij zich niet aan de voorschriften houden.</title>
           <description>&lt;p&gt;Medewerkers worden aangesproken op hun gedrag. Bij herhaald niet nakomen van afspraken wordt dit vastgelegd in verslagen van gesprekken over het functioneren. Tref zonodig corrigerende maatregelen of sancties.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1619,7 +1619,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         </solutions>
       </risk>
       <risk external-id="R-5568" type="risk">
-        <title>Medewerkers kennen de protocollen rond biologische</title>
+        <title>Medewerkers kennen de protocollen rond biologische agentia.</title>
         <description>&lt;p&gt;De informatie moet herhaald worden aangeboden bijvoorbeeld in het werkoverleg of tijdens een klinische les. Denk ook aan inwerken van nieuwe medewerkers, stagiaires, uitzendkrachten, etc.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;zie website: &lt;/p&gt;&lt;a href="http://www.wip.nl/" rel="nofollow" target="_blank"&gt;www.wip.nl&lt;/a&gt;&lt;p&gt; en &lt;/p&gt;&lt;a href="http://www.hepatitis.nl/" rel="nofollow" target="_blank"&gt;www.hepatitis..nl&lt;/a&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
@@ -1643,7 +1643,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         </solutions>
       </risk>
       <risk external-id="R-5570" type="risk">
-        <title>Alle medewerkers weten wat te doen bijaccidenteel</title>
+        <title>Alle medewerkers weten wat te doen bij accidenteel bloedcontact.</title>
         <description>&lt;p&gt;Het betreft hier de melding en de direct te nemen maatregelen. Ook is in sommige gevallen de bepaling van een titer en de therapie noodzakelijk.&#160;&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
@@ -1655,7 +1655,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         </solutions>
       </risk>
       <risk external-id="R-5571" type="risk">
-        <title>Er zijn technische hulpmiddelen om het risico te b</title>
+        <title>Er zijn technische hulpmiddelen om het risico te beheersen.</title>
         <description>&lt;p&gt;Denk daarbij aan bijv. elleboogkranen, alcohol- en zeepdispensers.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
@@ -1667,7 +1667,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         </solutions>
       </risk>
       <risk external-id="R-5572" type="risk">
-        <title>Medewerkers zijn op de hoogte van het gebruik en d</title>
+        <title>Medewerkers zijn op de hoogte van het gebruik en de voorschriften van persoonlijke beschermingsmiddelen.</title>
         <description>&lt;p&gt;Denk hierbij wanneer de volgende persoonlijke beschermingsmiddelen moeten worden ingezet:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;Handschoenen&lt;/li&gt;&lt;li&gt;Mondneusmasker&lt;/li&gt;&lt;li&gt;Bescherm&lt;/li&gt;&lt;li&gt;of spatbril&lt;/li&gt;&lt;li&gt;(plastic) schort&lt;/li&gt;&lt;li&gt;(beschermende) kleding&lt;/li&gt;&lt;/ul&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
@@ -1679,13 +1679,13 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         </solutions>
       </risk>
       <risk external-id="R-5573" type="risk">
-        <title>Persoonlijke beschermingsmiddelen zijn in voldoend</title>
+        <title>Persoonlijke beschermingsmiddelen zijn in voldoende mate beschikbaar en voor de doelgroep goed te vinden.</title>
         <description></description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-5574" type="risk">
-        <title>De leiding weet welke  medewerkers extra gevoelig</title>
+        <title>De leiding weet welke medewerkers extra gevoelig zijn voor bepaalde biologische agentia.</title>
         <description>&lt;p&gt;Denk hierbij aan medicijngebruikers, zwangeren, zogende moeders of medewerkers met huidaandoeningen.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
@@ -1702,14 +1702,14 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <title>Algemeen</title>
         <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-5604" type="risk">
-          <title>Alle gevaarlijke stoffen en risicogeneesmiddelen z</title>
+          <title>Alle gevaarlijke stoffen en risicogeneesmiddelen zijn op afdelingsniveau opgenomen in een registratiesysteem.</title>
           <description>&lt;p&gt;In het registratiesysteem en/of een rapportage van een (verdiepende) RI&amp;amp;E moet zijn opgenomen aan welke gevaarlijke stoffen werknemers kunnen worden blootgesteld, wat de gevaren zijn die aan die stoffen zijn verbonden, in welke situaties en op welke wijze blootstelling kan plaatsvinden.&#160;&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art. 4.2 Arbobesluit&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5605" type="risk">
-          <title>Er is veiligheids- en gezondheidsinformatie aanwez</title>
+          <title>Er is veiligheids- en gezondheidsinformatie aanwezig over alle gevaarlijke stoffen.</title>
           <description>&lt;p&gt;Deze informatie kan aanwezig zijn in het registratiesysteem of op losse veiligheidsinformatiebladen.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art. 4.2 Arbobesluit&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -1724,42 +1724,42 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <description/>
         <question>Er wordt gewerkt met cytostatica.</question>
         <risk external-id="R-5576" type="risk">
-          <title>Er wordt voldaan aan alle eisen met betrekking tot</title>
+          <title>Er wordt voldaan aan alle eisen met betrekking tot het toedienen van cytostatica.</title>
           <description>&lt;p&gt;De eisen staan beschreven in de toetsingscriteria opgesteld in het kader van het arboconvenant academische ziekenhuizen 2001 &#8211; 2003 of in eigen interne regels. Belangrijk is te zorgen voor zo veel mogelijk gesloten toedieningssystemen.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Zie website: &lt;/p&gt;&lt;a href="http://www.arboconvenantacademischeziekenhuizen.nl/" rel="nofollow" target="_blank"&gt;www.arboconvenantacademischeziekenhuizen.nl&lt;/a&gt;&lt;br/&gt;&lt;p&gt;klik op cytostatica&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Beleidsregel 4.18-5&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5577" type="risk">
-          <title>Er wordt voldaan aan alle eisen met betrekking tot</title>
+          <title>Er wordt voldaan aan alle eisen met betrekking tot het verzorgen en verplegen van cytostatica-kuurpatienten.</title>
           <description>&lt;p&gt;De eisen staan beschreven in de toetsingscriteria opgesteld in het kader van het arboconvenant academische ziekenhuizen 2001 &#8211; 2003 of in eigen interne regels. Pati&#235;nten kunnen tot een week na het stoppen van de kuur cytostatica uitscheiden via urine en feces maar ook zweet. Extra maatregelen bij de verpleging en verzorging van pati&#235;nten is dus noodzakelijk.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Zie website: &lt;/p&gt;&lt;a href="http://www.arboconvenantacademischeziekenhuizen.nl/" rel="nofollow" target="_blank"&gt;www.arboconvenantacademischeziekenhuizen.nl&lt;/a&gt;&lt;br/&gt;&lt;p&gt;klik op cytostatica&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Beleidsregel 4.18-5&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5578" type="risk">
-          <title>Er wordt voldaan aan alle eisen met betrekking tot</title>
+          <title>Er wordt voldaan aan alle eisen met betrekking tot hantering van afval en bedlinnen.</title>
           <description>&lt;p&gt;De eisen staan beschreven in de toetsingscriteria opgesteld in het kader van het arboconvenant academische ziekenhuizen 2001 &#8211; 2003 of in eigen interne regels. Omdat pati&#235;nten tot een week na het stoppen van de kuur cytostatica kunnen uitscheiden, onder andere via zweet, is ook beddengoed besmet met cytostatica &#8211; aparte voorzorgsmaatregelen gelden. Afval van bijvoorbeeld het toedienen van cytostatica met afgevoerd worden als specifiek ziekenhuisafval in SZA-vaten met voetpedaal.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Zie website: &lt;/p&gt;&lt;a href="http://www.arboconvenantacademischeziekenhuizen.nl/" rel="nofollow" target="_blank"&gt;www.arboconvenantacademischeziekenhuizen.nl&lt;/a&gt;&lt;br/&gt;&lt;p&gt;klik op cytostatica&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Beleidsregel 4.18-5&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5579" type="risk">
-          <title>Er wordt voldaan aan alle eisen met betrekking tot</title>
+          <title>Er wordt voldaan aan alle eisen met betrekking tot calamiteitenbestrijding.</title>
           <description>&lt;p&gt;De eisen staan beschreven in de toetsingscriteria opgesteld in het kader van het arboconvenant academische ziekenhuizen 2001 &#8211; 2003 of in eigen interne regels. Hierbij zijn zowel maatregelen bij extravasatie van belang, als maatregelen bij het morsen van cytostatica. Een noodkit met voldoende voorzieningen moet op de afdeling beschikbaar zijn.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Zie website: &lt;/p&gt;&lt;a href="http://www.arboconvenantacademischeziekenhuizen.nl/" rel="nofollow" target="_blank"&gt;www.arboconvenantacademischeziekenhuizen.nl&lt;/a&gt;&lt;br/&gt;&lt;p&gt;klik op cytostatica&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Beleidsregel 4.18-5&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5580" type="risk">
-          <title>Er wordt voldaan aan alle eisen met betrekking tot</title>
+          <title>Er wordt voldaan aan alle eisen met betrekking tot het schoonmaken van de afdeling en het uitvoeren van periodieke controles hierop.</title>
           <description>&lt;p&gt;De eisen staan beschreven in de toetsingscriteria opgesteld in het kader van het arboconvenant academische ziekenhuizen 2001 &#8211; 2003 of in eigen interne regels. Omdat pati&#235;nten tijdens en na een kuur zelf bron van besmetting zijn, is een strak schoonmaakregime met goede protocollen nodig om verspreiding van cytostatica over de afdeling te voorkomen. De effectiviteit van de schoonmaak moet periodiek worden getoetst middels veegproeven. Hiervoor zijn speciale kits te verkrijgen.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Zie website: &lt;/p&gt;&lt;a href="http://www.arboconvenantacademischeziekenhuizen.nl/" rel="nofollow" target="_blank"&gt;www.arboconvenantacademischeziekenhuizen.nl&lt;/a&gt;&lt;br/&gt;&lt;p&gt;klik op cytostatica&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Beleidsregel 4.18-5&lt;/h3&gt;&lt;p&gt;Beleidsregel 4.18-5&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5581" type="risk">
-          <title>Alle maatregelen, werkvoorschriften en protocollen</title>
+          <title>Alle maatregelen, werkvoorschriften en protocollen zijn bij de medewerkers bekend.</title>
           <description>&lt;p&gt;De informatie moet herhaald worden aangeboden bijvoorbeeld in het werkoverleg, tijdens een klinische les of middels het e-learningprogramma van het arboconvenant academische ziekenhuizen. Hier loopt men via internet alle relevante hoofdstukken na.Denk ook aan inwerken van nieuwe medewerkers, stagiaires, uitzendkrachten, etc.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Zie website: &lt;/p&gt;&lt;a href="http://www.arboconvenantacademischeziekenhuizen.nl/" rel="nofollow" target="_blank"&gt;www.arboconvenantacademischeziekenhuizen.nl&lt;/a&gt;&lt;br/&gt;&lt;p&gt;klik op cytostatica&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art. 4.10 e ArbobesluitArt. 8 Arbowet&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -1773,7 +1773,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5583" type="risk">
-          <title>Medewerkers worden aangesproken als zij zich niet</title>
+          <title>Medewerkers worden aangesproken als zij zich niet aan de voorschriften houden.</title>
           <description>&lt;p&gt;Medewerkers worden aangesproken op hun gedrag. Bij herhaald niet nakomen van afspraken wordt dit vastgelegd in verslagen van gesprekken over het functioneren. Tref zonodig corrigerende maatregelen of sancties.&#160;&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1784,35 +1784,35 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <description>&lt;p&gt;Het ministerie SZW publiceert regelmatig lijsten met deze stoffen. Vraag ook uw arbodienst.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Zie website: &lt;/p&gt;&lt;a href="http://www.arbo.nl/legislation" rel="nofollow" target="_blank"&gt;www.arbo.nl/legislation&lt;/a&gt;</description>
         <question>Er wordt gewerkt met kankerverwekkende en/of voor</question>
         <risk external-id="R-5585" type="risk">
-          <title>De aanvullende registratie van deze stoffen is op</title>
+          <title>De aanvullende registratie van deze stoffen is op afdelings- en persoonsniveau aanwezig.</title>
           <description>&lt;p&gt;Naast gegevens over de aard en gevaren van de stof moeten onder meer geregistreerd zijn: het nut van de aanwezigheid van de stof, de hoeveelheid aanwezige stof, de aard, mate en duur van de blootstelling en welke medewerkers bij welke taken blootgesteld kunnen worden.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art. 4.13 en 4.15 Arbobesluit&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5586" type="risk">
-          <title>Het gebruik van deze stof(fen) wordt aantoonbaar g</title>
+          <title>Het gebruik van deze stof(fen) wordt aantoonbaar geminimaliseerd.</title>
           <description>&lt;p&gt;Het gebruik van een kankerverwekkende of mutagene stof wordt alleen toegestaan indien vervanging niet mogelijk is. Verder begint het voorkomen of beperken van de risico&#8217;s bij het zo min mogelijk aanwezig zijn van deze stoffen.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art. 4.17 en 4.19 Arbobesluit&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5587" type="risk">
-          <title>Er is een schatting of meting gedaan naar de hoogt</title>
+          <title>Er is een schatting of meting gedaan naar de hoogte van de blootstelling van medewerkers.</title>
           <description>&lt;p&gt;Om te bepalen of de medewerkers daadwerkelijk een risico lopen is de hoogte van de blootstelling van belang.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art. 4.14 Arbobesluit&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5588" type="risk">
-          <title>Er zijn technische maatregelen getroffen om het ri</title>
+          <title>Er zijn technische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Te denken valt aan de juiste opslag, ventilatie en plaatselijke afzuiging, het gebruik van persoonlijke beschermingsmiddelen (handschoenen, maskers, schorten)&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art. 4.18 en 4.19 Arbobesluit&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5589" type="risk">
-          <title>Er zijn organisatorische maatregelen getroffen om</title>
+          <title>Er zijn organisatorische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Bijvoorbeeld zorgen dat zomin mogelijk personen aanwezig zijn bij deze werkzaamheden en maatregelen om de frequentie en blootstellingsduur te beperken.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art. 4.18 en 4.19 Arbobesluit&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -1825,7 +1825,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5591" type="risk">
-          <title>Alle maatregelen, werkvoorschriften en protocollen</title>
+          <title>Alle maatregelen, werkvoorschriften en protocollen zijn bij de medewerkers bekend.</title>
           <description>&lt;p&gt;De informatie moet herhaald worden aangeboden bijvoorbeeld in het werkoverleg of tijdens een klinische les. Denk ook aan inwerken van nieuwe medewerkers, stagiaires, uitzendkrachten, etc.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art. 4.10 e Arbobesluit en art. 8 Arbowet&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -1839,7 +1839,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5593" type="risk">
-          <title>Medewerkers worden aangesproken als zij zich niet</title>
+          <title>Medewerkers worden aangesproken als zij zich niet aan de voorschriften houden.</title>
           <description>&lt;p&gt;Medewerkers worden aangesproken op hun gedrag. Bij herhaald niet nakomen van afspraken wordt dit vastgelegd in verslagen van gesprekken over het functioneren. Tref zonodig corrigerende maatregelen of sancties.&#160;&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1850,21 +1850,21 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <description>&lt;p&gt;Gevaarlijke stoffen zijn te herkennen aan een oranje met zwart pictogram op het etiket. Te denken valt aan agressieve schoonmaakmiddelen en chloortabletten.&#160; Een lijst van alle risicogeneesmiddelen is op te vragen bij de apotheek. Het werken met gevaarlijke stoffen komt onder andere voor bij verpleegtechnische handelingen (desinfectantia, geneesmiddelen) en bij schoonmaak.&#160;&lt;/p&gt;</description>
         <question>Er wordt gewerkt met andere gevaarlijke stoffen da</question>
         <risk external-id="R-5596" type="risk">
-          <title>Er is een schatting of meting gedaan naar de hoogt</title>
+          <title>Er is een schatting of meting gedaan naar de hoogte van de blootstelling van medewerkers.</title>
           <description>&lt;p&gt;Om te bepalen of de medewerkers daadwerkelijk een risico lopen is de hoogte van de blootstelling van belang.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art. 4.2 Arbobesluit&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5597" type="risk">
-          <title>Er zijn technische maatregelen getroffen om het ri</title>
+          <title>Er zijn technische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Te denken valt aan de juiste opslag, ventilatie en plaatselijke afzuiging, het gebruik van persoonlijke beschermingsmiddelen (handschoenen, maskers, schorten).&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art. 4.3 a en 4.9 Arbobesluit&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5598" type="risk">
-          <title>Er zijn organisatorische maatregelen getroffen om</title>
+          <title>Er zijn organisatorische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Bijvoorbeeld zorgen dat zomin mogelijk personen aanwezig zijn bij deze werkzaamheden en maatregelen om de frequentie en blootstellingsduur te beperken.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art. 4.9 Arbobesluit&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -1878,7 +1878,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5600" type="risk">
-          <title>Alle maatregelen, werkvoorschriften en protocollen</title>
+          <title>Alle maatregelen, werkvoorschriften en protocollen zijn bij de medewerkers bekend.</title>
           <description>&lt;p&gt;De informatie moet herhaald worden aangeboden bijvoorbeeld in het werkoverleg of tijdens een klinische les. Denk ook aan inwerken van nieuwe medewerkers, stagiaires, uitzendkrachten, etc.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art. 4.10 e Arbobesluit en art. 8 Arbowet&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -1892,7 +1892,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5602" type="risk">
-          <title>Medewerkers worden aangesproken als zij zich niet</title>
+          <title>Medewerkers worden aangesproken als zij zich niet aan de voorschriften houden.</title>
           <description>&lt;p&gt;Medewerkers worden aangesproken op hun gedrag. Bij herhaald niet nakomen van afspraken wordt dit vastgelegd in verslagen van gesprekken over het functioneren. Tref zonodig corrigerende maatregelen of sancties.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1908,7 +1908,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <description>&lt;p&gt;Als schadelijk wordt gezien: een frequentie van 20 maal per dag of een duur van 25% van de werktijd, waarbij nadrukkelijk wordt aangegeven dat uit meerdere onderzieken in de zorg is gebleken dat de duur consequent wordt overschat en de frequentie consequent wordt onderschat.&#160;&lt;/p&gt;</description>
         <question>Medewerkers moeten veel nat werk doen.</question>
         <risk external-id="R-5607" type="risk">
-          <title>Er zijn technische maatregelen getroffen om het ri</title>
+          <title>Er zijn technische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Gebruik van microvezeldoekjes, waarbij deze doekjes overigens ook onder de irriterende stoffen vallen. Afwisseling is dus noodzakelijk.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1920,7 +1920,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5608" type="risk">
-          <title>Er zijn organisatorische maatregelen getroffen om</title>
+          <title>Er zijn organisatorische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Denk aan veranderingen in het werkproces, taakroulatie en planning van de werkzaamheden.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1944,7 +1944,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5610" type="risk">
-          <title>Alle maatregelen, werkvoorschriften en protocollen</title>
+          <title>Alle maatregelen, werkvoorschriften en protocollen inzake nat werk zijn bij iedereen bekend.</title>
           <description>&lt;p&gt;De informatie moet herhaald worden aangeboden bijvoorbeeld in het werkoverleg of tijdens een klinische les. Denk ook aan het inwerken van nieuwe medewerkers, stagiaires, uitzendkrachten etc.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Zie website:&#160; &lt;/p&gt;&lt;a href="http://www.arboconvenantacademischeziekenhuizen.nl/" rel="nofollow" target="_blank"&gt;www.arboconvenantacademischeziekenhuizen.nl&lt;/a&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Artikel 8 Arbowet&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -1964,7 +1964,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5612" type="risk">
-          <title>Medewerkers worden aangesproken als zij zich niet</title>
+          <title>Medewerkers worden aangesproken als zij zich niet aan de voorschriften houden.</title>
           <description>&lt;p&gt;Medewerkers worden aangesproken op hun gedrag. Bij herhaald niet nakomen van afspraken wordt dit vastgelegd in verslagen van gesprekken over het functioneren. Tref zonodig corrigerende maatregelen of sancties.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1981,7 +1981,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <description>&lt;p&gt;Door het transpireren in handschoenen ontstaat bij langdurig gebruik hetzelfde effect als bij nat werk. Omdat het kort (minder dan 10 minuten) dragen van handschoenen niet direct tot natte handen leidt, kan het frequent kort (= tot het moment van transpireren) gebruik niet veel kwaad. Als schadelijk wordt gezien: een frequentie van 20 maal per dag of een duur van 25% van de werktijd, waarbij nadrukkelijk wordt aangegeven dat uit meerdere onderzieken in de zorg is gebleken dat de duur consequent wordt overschat en de frequentie consequent wordt onderschat.&#160;&lt;/p&gt;</description>
         <question>Medewerkers moeten veelvuldig of langdurig handsch</question>
         <risk external-id="R-5614" type="risk">
-          <title>Er zijn technische maatregelen getroffen om het ri</title>
+          <title>Er zijn technische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Is er een beleid waarin voorzien is minder belastende handschoenen te gebruiken, zoals latexvrij, latexarm, poedervrij, het gebruik van katoenen onderhandschoenen etc.&#160;&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -1993,7 +1993,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5615" type="risk">
-          <title>Er zijn organisatorische maatregelen getroffen om</title>
+          <title>Er zijn organisatorische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Denk aan taakroulatie, veranderingen in het werkproces en planning van de werkzaamheden.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -2017,7 +2017,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5617" type="risk">
-          <title>Alle maatregelen, werkvoorschriften en protocollen</title>
+          <title>Alle maatregelen, werkvoorschriften en protocollen inzake nat werk zijn bij iedereen bekend.</title>
           <description>&lt;p&gt;De informatie moet herhaald worden aangeboden bijvoorbeeld in het werkoverleg of tijdens een klinische les. Denk ook aan het inwerken van nieuwe medewerkers, stagiaires, uitzendkrachten etc.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Artikel 8 Arbowet&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -2037,7 +2037,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5619" type="risk">
-          <title>Medewerkers worden aangesproken als zij zich niet</title>
+          <title>Medewerkers worden aangesproken als zij zich niet aan de voorschriften houden.</title>
           <description>&lt;p&gt;Medewerkers worden aangesproken op hun gedrag. Bij herhaald niet nakomen van afspraken wordt dit vastgelegd in verslagen van gesprekken over het functioneren. Tref zonodig corrigerende maatregelen of sancties.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -2054,7 +2054,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <description>&lt;p&gt;Desinfectie met handenalcohol is minder schadelijk dan het wassen met water en zeep. Als schadelijk wordt gezien een frequentie van 20 maal per dag of een duur van 25% van de werktijd, waarbij nadrukkelijk wordt aangegeven dat uit meerdere onderzieken in de zorg is gebleken dat de duur consequent wordt overschat en de frequentie consequent wordt onderschat.&lt;/p&gt;</description>
         <question>Medewerkers moeten veelvuldig de handen reinigen o</question>
         <risk external-id="R-5621" type="risk">
-          <title>Er zijn technische maatregelen getroffen om het ri</title>
+          <title>Er zijn technische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Denk aan gebruik van handalcohol waarbij een terugvettend bestanddeel is toegevoegd, zachte handdoekjes.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -2066,7 +2066,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5622" type="risk">
-          <title>Er zijn organisatorische maatregelen getroffen om</title>
+          <title>Er zijn organisatorische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Is er kritisch gekeken wanneer handwassen met water en zeepnodig is of andere methoden ook ingezet kunnen worden. Het is bekend dat het gebruik van handalcohol minder schadelijk is dan handenwassen met water en zeep.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -2090,7 +2090,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5624" type="risk">
-          <title>Alle maatregelen, werkvoorschriften en protocollen</title>
+          <title>Alle maatregelen, werkvoorschriften en protocollen inzake nat werk zijn bij iedereen bekend.</title>
           <description>&lt;p&gt;De informatie moet herhaald worden aangeboden bijvoorbeeld in het werkoverleg of tijdens een klinische les. Denk ook aan het inwerken van nieuwe medewerkers, stagiaires, uitzendkrachten etc.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Artikel 8 Arbowet&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -2110,7 +2110,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5626" type="risk">
-          <title>Medewerkers worden aangesproken als zij zich niet</title>
+          <title>Medewerkers worden aangesproken als zij zich niet aan de voorschriften houden.</title>
           <description>&lt;p&gt;Medewerkers worden aangesproken op hun gedrag. Bij herhaald niet nakomen van afspraken wordt dit vastgelegd in verslagen van gesprekken over het functioneren. Tref zonodig corrigerende maatregelen of sancties.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -2127,7 +2127,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <description>&lt;p&gt;Onder irriterende stoffen worden onder meer verstaan zeep en andere schoonmaakmiddelen, chloor, maar ook water. Als schadelijk wordt gezien: een frequentie van 20 maal per dag of een duur van 25% van de werktijd, waarbij nadrukkelijk wordt aangegeven dat uit meerdere onderzieken in de zorg is gebleken dat de duur consequent wordt overschat (100% te hoog) en de frequentie consequent wordt onderschat (50% te laag).&lt;/p&gt;</description>
         <question>Medewerkers komen regelmatig in aanraking met irri</question>
         <risk external-id="R-5628" type="risk">
-          <title>Er zijn technische maatregelen getroffen om het ri</title>
+          <title>Er zijn technische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Handschoenen aandoen, gebruik van handlotion achteraf om de huid te laten herstellen.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -2139,7 +2139,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5629" type="risk">
-          <title>Er zijn organisatorische maatregelen getroffen om</title>
+          <title>Er zijn organisatorische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Denk aan veranderingen in het werkproces, taakroulatie en planning van de werkzaamheden maar ook de mogelijkheid van vervanging van de stoffen.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -2163,7 +2163,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           </solutions>
         </risk>
         <risk external-id="R-5631" type="risk">
-          <title>Alle maatregelen, werkvoorschriften en protocollen</title>
+          <title>Alle maatregelen, werkvoorschriften en protocollen inzake nat werk zijn bij iedereen bekend.</title>
           <description>&lt;p&gt;De informatie moet herhaald worden aangeboden bijvoorbeeld in het werkoverleg of tijdens een klinische les. Denk ook aan het inwerken van nieuwe medewerkers, stagiaires, uitzendkrachten etc.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Artikel 8 Arbowet&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -2183,7 +2183,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5633" type="risk">
-          <title>Medewerkers worden aangesproken als zij zich niet</title>
+          <title>Medewerkers worden aangesproken als zij zich niet aan de voorschriften houden.</title>
           <description>&lt;p&gt;Medewerkers worden aangesproken op hun gedrag. Bij herhaald niet nakomen van afspraken wordt dit vastgelegd in verslagen van gesprekken over het functioneren. Tref zonodig corrigerende maatregelen of sancties.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -2201,42 +2201,42 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <title>Algemeen</title>
         <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-5654" type="risk">
-          <title>De centrale stralingbeschermings-organisatie is be</title>
+          <title>De centrale stralingbeschermings-organisatie is bekend.</title>
           <description>&lt;p&gt;Er is een complexvergunning, een intern zorgsysteem, een kernenergiewetdossier wordt bijgehouden, keuringen en onderhoud vindt plaats.Er zijn stralingsdeskundigen, lokale deskundigen, klinische fysici etc.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art. 23, 24, 25 en 37 besluit stralingsbescherming&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5655" type="risk">
-          <title>Bij therapeutische nucleairgeneeskundige verrichti</title>
+          <title>Bij therapeutische nucleairgeneeskundige verrichtingen is altijd een klinisch fysicus betrokken.</title>
           <description></description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art. 66 besluit stralingsbescherming&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5656" type="risk">
-          <title>Alle radiologisch werkers dragen een persoonlijk d</title>
+          <title>Alle radiologisch werkers dragen een persoonlijk dosiscontrolemiddel.</title>
           <description>&lt;p&gt;Denk onder andere aan verpleegkundigen op nucleaire geneeskunde en bij brachytherapie.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art. 87 besluit stralingsbescherming&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5657" type="risk">
-          <title>Alle medewerkers weten wat te doen bij een stralin</title>
+          <title>Alle medewerkers weten wat te doen bij een stralingsincident of &#8211;calamiteit.</title>
           <description>&lt;p&gt;Het betreft hier de interne melding en de direct te nemen maatregelen. Ook is in sommige gevallen bepaling van de opgelopen dosis per persoon nodig en/of een medisch onderzoek van een stralingsarts.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art 89, 93, 99 en 115 besluit stralingsbescherming&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5658" type="risk">
-          <title>Er zijn technische maatregelen getroffen om het ri</title>
+          <title>Er zijn technische maatregelen getroffen om het risico te beheersen volgens het ALARA-principe.</title>
           <description>&lt;p&gt;ALARA is As Low As Reasonably Achievable &#8211; dat wil zeggen: een blootstelling die zo laag als redelijkerwijs mogelijk is. Denk bij technische maatregelen aan onder andere een juiste opslag, het gebruik van afschermingsmiddelen en persoonlijke beschermingsmiddelen (handschoenen, loodschorten).&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art. 5 en 6 besluit stralingsbescherming&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5659" type="risk">
-          <title>Er zijn organisatorische maatregelen getroffen om</title>
+          <title>Er zijn organisatorische maatregelen getroffen om het risico te beheersen.</title>
           <description>&lt;p&gt;Denk hierbij aan een beleid voor de bescherming van zwangeren en vrouwen die borstvoeding geven, het voorkomen dat medewerkers jonger dan 18 jaar met straling in aanraking komen, het markeren van ruimten met pictogrammen en onderborden. Ook valt hieronder het zorgen dat zomin mogelijk personen aanwezig zijn bij deze werkzaamheden en maatregelen om de frequentie en blootstellingsduur te beperken.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art. 16, 80, 78, besluit stralingsbescherming, Regeling waarschuwingssignalering ioniserende straling&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -2250,7 +2250,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5661" type="risk">
-          <title>Alle maatregelen, werkvoorschriften en protocollen</title>
+          <title>Alle maatregelen, werkvoorschriften en protocollen zijn bij de medewerkers bekend.</title>
           <description>&lt;p&gt;De informatie moet herhaald worden aangeboden bijvoorbeeld in het werkoverleg of tijdens een klinische les. Voordat met radioactiviteit gewerkt gaat worden moet een opleiding gevolgd zijn.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art 15 besluit stralingsbescherming&lt;/h3&gt;&lt;p&gt;0.&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -2264,13 +2264,13 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5663" type="risk">
-          <title>Medewerkers worden aangesproken als zij zich niet</title>
+          <title>Medewerkers worden aangesproken als zij zich niet aan de voorschriften houden.</title>
           <description>&lt;p&gt;Medewerkers worden aangesproken op hun gedrag. Bij herhaald niet nakomen van afspraken wordt dit vastgelegd in verslagen van gesprekken over het functioneren. Tref zonodig corrigerende maatregelen of sancties.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5664" type="risk">
-          <title>Andere medewerkers dan de radiologisch werkers, di</title>
+          <title>Andere medewerkers dan de radiologisch werkers, die ook op de afdeling werkzaamheden verrichten, zijn ge&#239;nformeerd en ge&#239;nstrueerd over de stralingsrisico&#8217;s.</title>
           <description>&lt;p&gt;Denk hierbij aan technisch, administratief en schoonmaakpersoneel, maar ook aan artsen en verpleegkundigen bij bijvoorbeeld bedfoto&#180;s.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -2284,21 +2284,21 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <description>&lt;p&gt;Het belangrijkste criterium dat bepaalt of een medewerker een A- of B-radiologisch werker is, is de effectieve dosis in een kalenderjaar. Voor een A-werker is deze groter dan 6 mSv. Andere selectiecriteria zijn de equivalente dosis op de ooglens, de huid of de extremiteiten (zie voor de grenswaarden de genoemde artikelen uit het besluit stralingsbescherming).&lt;/p&gt;</description>
         <question>Er zijn radiologisch A-werkers op de afdeling</question>
         <risk external-id="R-5637" type="risk">
-          <title>Er vindt keuring van de medewerkers plaats voor aa</title>
+          <title>Er vindt keuring van de medewerkers plaats voor aanvang van de radiologische A-werkzaamheden.</title>
           <description></description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art. 96 besluit stralingsbescherming&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5638" type="risk">
-          <title>Er vindt een jaarlijkse keuring van de radiologisc</title>
+          <title>Er vindt een jaarlijkse keuring van de radiologisch A-medewerkers plaats.</title>
           <description></description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art. 96 besluit stralingsbescherming&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5639" type="risk">
-          <title>Er vindt keuring van de radiologisch A-medewerkers</title>
+          <title>Er vindt keuring van de radiologisch A-medewerkers plaats na be&#235;indigen van de radiologisch  A-werkzaamheden.</title>
           <description></description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art. 96 besluit stralingsbescherming&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -2310,14 +2310,14 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <description>&lt;p&gt;Het belangrijkste criterium dat bepaalt of sprake is van een bewaakte zone is de effectieve dosis in een kalenderjaar. Deze ligt in een bewaakte zone tussen de 1 en 6 mSv per jaar. Andere selectiecriteria zijn de equivalente dosis op de ooglens, de huid of de extremiteiten (zie voor de grenswaarden het besluit stralingsbescherming).&lt;/p&gt;</description>
         <question>Er is sprake van een bewaakte zone op de afdeling.</question>
         <risk external-id="R-5641" type="risk">
-          <title>De bewaakte zone  wordt  periodiek gemonitord door</title>
+          <title>De bewaakte zone wordt  periodiek gemonitord door metingen.</title>
           <description></description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art. 84 besluit stralingsbescherming&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5642" type="risk">
-          <title>De bewaakte zone is voorzien van de juiste pictogr</title>
+          <title>De bewaakte zone is voorzien van de juiste pictogrammen en onderborden.</title>
           <description></description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art. 84 besluit stralingsbescherming. Regeling waarschuwingssignalering.&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -2329,21 +2329,21 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <description>&lt;p&gt;Het belangrijkste criterium dat bepaalt of sprake is van een gecontroleerde zone is de effectieve dosis in een kalenderjaar. Deze ligt in een gecontroleerde zone boven de 6 mSv per jaar. Andere selectiecriteria zijn de equivalente dosis op de ooglens, de huid of de extremiteiten (zie voor de grenswaarden het besluit stralingsbescherming).&lt;/p&gt;</description>
         <question>Er is sprake van een gecontroleerde zone op de afd</question>
         <risk external-id="R-5644" type="risk">
-          <title>De gecontroleerde zone is alleen te betreden door</title>
+          <title>De gecontroleerde zone is alleen te betreden door bevoegde personen.</title>
           <description></description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art. 84 besluit&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5645" type="risk">
-          <title>De gecontroleerde zone  wordt  periodiek gemonitor</title>
+          <title>De gecontroleerde zone wordt periodiek gemonitord door metingen.</title>
           <description></description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art. 84 besluit stralingsbescherming&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5646" type="risk">
-          <title>De gecontroleerde zone is voorzien van de juiste p</title>
+          <title>De gecontroleerde zone is voorzien van de juiste pictogrammen en onderborden.</title>
           <description></description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art. 84 besluit stralingsbescherming. Regeling waarschuwingssignalering.&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -2355,7 +2355,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <description/>
         <question>Er worden radioactieve stoffen aan pati&#235;nten toege</question>
         <risk external-id="R-5648" type="risk">
-          <title>Bij brachytherapie wordt zo veel mogelijk gewerkt</title>
+          <title>Bij brachytherapie wordt zo veel mogelijk gewerkt met een afterloader of een specifiek toepassingssysteem.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -2366,19 +2366,19 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <description>&lt;p&gt;Pati&#235;nten die voor diagnostische of therapeutische doeleinden radioactieve stoffen toegediend hebben gekregen vormen zelf een zeker stralingsrisico voor medewerkers. Ook urine, feces en andere lichaamsvloeistoffen kunnen tot enige tijd na het onderzoek of de therapie radioactieve stoffen bevatten.&lt;/p&gt;</description>
         <question>Er worden pati&#235;nten verpleegd die radioactieve sto</question>
         <risk external-id="R-5650" type="risk">
-          <title>Pati&#235;nten krijgen altijd voorlichting en instructi</title>
+          <title>Pati&#235;nten krijgen altijd voorlichting en instructies betreffende de risico&#8217;s van de straling voor anderen.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5651" type="risk">
-          <title>Met excreta, bloed en andere lichaamsvloeistoffen</title>
+          <title>Met excreta, bloed en andere lichaamsvloeistoffen van pati&#235;nten die radioactieve stoffen toegediend hebben gekregen wordt voldoende veilig omgegaan.</title>
           <description>&lt;p&gt;Hierbij wordt rekening gehouden met de halfwaarde tijd van de radioactieve stoffen en met de bestaande werkvoorschriften en protocollen. Sommige afvalstoffen kunnen niet direct afgevoerd worden. Voor het uitvoeren van de werkzaamheden zijn over het algemeen de normale hygi&#235;nische maatregelen voldoende.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5652" type="risk">
-          <title>Medewerkers zijn bij het verplegen en verzorgen va</title>
+          <title>Medewerkers zijn bij het verplegen en verzorgen van pati&#235;nten die brachytherapie ondergaan beschermd door het gebruik van een afterloader of specifiek toedieningsysteem.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
@@ -2393,25 +2393,25 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <description>&lt;p&gt;Als dat het geval is, dan kunt u er van uitgaan dat het geluid schadelijk is.&lt;/p&gt;</description>
         <question>Medewerkers ondervinden hinder van geluiden uit de</question>
         <risk external-id="R-5666" type="risk">
-          <title>Op werkplekken waar schadelijk geluid is, is dat a</title>
+          <title>Op werkplekken waar schadelijk geluid is, is dat aangegeven.</title>
           <description>&lt;p&gt;Dit wordt aangegeven met een rond blauw gebodsbord voor gehoorbescherming.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5667" type="risk">
-          <title>Op plekken waar schadelijk geluid is draagt iedere</title>
+          <title>Op plekken waar schadelijk geluid is draagt iedereen gehoorbescherming.</title>
           <description>&lt;p&gt;Op deze plekken mag niemand zonder gehoorbescherming komen.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5668" type="risk">
-          <title>Bij calamiteiten merken de mensen met gehoorbesche</title>
+          <title>Bij calamiteiten merken de mensen met gehoorbescherming het noodsignaal op.</title>
           <description>&lt;p&gt;Bij het dragen van gehoorbescherming valt het geluidssignaal niet altijd op. Lichtsignalen of geluidssignalen via de intercomfunctie van gehoorbescherming, maken ook aan hen duidelijk dat er een noodsituatie is.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5669" type="risk">
-          <title>Medewerkers die te maken hebben met schadelijk gel</title>
+          <title>Medewerkers die te maken hebben met schadelijk geluid ondergaan regelmatig een periodiek arbeidsgezondheidskundig onderzoek.</title>
           <description>&lt;p&gt;De Arbodienst voert dit onderzoek uit en kijkt of uw medewerkers schade hebben ondervonden en of er aanvullende maatregelen nodig zijn ter voorkoming van gehoorschade.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
@@ -2422,87 +2422,87 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
       <title>Algemene afspraken over arbo en voorlichting</title>
       <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-5670" type="risk">
-        <title>Bij nieuwbouw en verbouw en bij de (her)inrichting</title>
+        <title>Bij nieuwbouw en verbouw en bij de (her)inrichting van werkplekken wordt rekening gehouden met arbo-eisen.</title>
         <description>&lt;p&gt;Bijvoorbeeld bij die plekken in het bedrijf waar het aantal ongevallen hoog is, worden de oorzaken meteen meegenomen in de verbouwingsplannen zodat die situaties niet meer kunnen ontstaan.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5671" type="risk">
-        <title>In werkbesprekingen wordt regelmatig gesproken ove</title>
+        <title>In werkbesprekingen wordt regelmatig gesproken over arbeidsomstandigheden en verzuim.</title>
         <description>&lt;p&gt;Door arbo en verzuim regelmatig te bespreken kunnen er gericht oplossingen gezocht worden en wordt er voortdurend gewerkt aan de verbetering van arbo.&lt;/p&gt;</description>
         <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet, artikel 12 lid 1 en artikel 13&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5672" type="risk">
-        <title>In het jaargesprek wordt gesproken over arbeidsoms</title>
+        <title>In het jaargesprek wordt gesproken over arbeidsomstandigheden en verzuim.</title>
         <description>&lt;p&gt;Door arbo en verzuim regelmatig te bespreken kunnen er gericht oplossingen gezocht worden en wordt er voortdurend gewerkt aan de verbetering van arbo.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5673" type="risk">
-        <title>Over arbo wordt gesproken met het medezeggenschaps</title>
+        <title>Over arbo wordt gesproken met het medezeggenschapsorgaan.</title>
         <description>&lt;p&gt;In de Arbowet en de Wet op de Ondernemingsraden staat dat afspraken gemaakt moeten worden over onder meer:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;de risico-inventarisatie en -evaluatie, de rapportage en het plan van aanpak;&lt;/li&gt;&lt;li&gt;de verzuimregels.&lt;/li&gt;&lt;/ul&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5674" type="risk">
-        <title>Medewerkers ontvangen regelmatig voorlichting en i</title>
+        <title>Medewerkers ontvangen regelmatig voorlichting en instructie over het (veilig) uitvoeren van hun werk.</title>
         <description>&lt;p&gt;Per functie is vastgesteld hoe het werk gedaan moet worden en met welke hulpmiddelen. Daarbij wordt ook ingegaan op persoonlijke beschermingsmiddelen.&lt;/p&gt;</description>
         <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet, artikel 8&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5675" type="risk">
-        <title>Kwetsbare groepen krijgen extra aandacht bij de vo</title>
+        <title>Kwetsbare groepen krijgen extra aandacht bij de voorlichting en instructies.</title>
         <description>&lt;p&gt;Onder kwetsbare groepen vallen oproepkrachten, uitzendkrachten, onervaren krachten (nieuwkomers), gehandicapten, jongeren onder de 18 jaar, zwangere vrouwen en medewerkers die de Nederlandse taal niet beheersen. Deze groepen zijn kwetsbaar omdat ze of minder goed op de hoogte zijn van de regels of door bijv. zwangerschap bepaald soort werk niet kunnen doen. De voorlichting geldt voor iedereen dus ook voor diegenen die werkzaamheden verrichten als schoonmaak- en schilderwerk.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5676" type="risk">
-        <title>Jongeren beneden de 18 jaar, uitzendkrachten en st</title>
+        <title>Jongeren beneden de 18 jaar, uitzendkrachten en stagiaires krijgen voldoende begeleiding.</title>
         <description></description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5677" type="risk">
-        <title>Er wordt voldoende rekening gehouden met mogelijke</title>
+        <title>Er wordt voldoende rekening gehouden met mogelijke taalproblemen en cultuurverschillen bij allochtonen.</title>
         <description></description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5678" type="risk">
-        <title>Voor wat betreft alle medewerkers wordt rekening g</title>
+        <title>Voor wat betreft alle medewerkers wordt rekening gehouden met de (geestelijke en/of lichamelijke) beperkingen.</title>
         <description></description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5679" type="risk">
-        <title>Bij zwangere vrouwen wordt rekening gehouden met v</title>
+        <title>Bij zwangere vrouwen wordt rekening gehouden met verminderde fysieke belastbaarheid.</title>
         <description></description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5680" type="risk">
-        <title>Rekening wordt gehouden met de belastbaarheid van</title>
+        <title>Rekening wordt gehouden met de belastbaarheid van de oudere medewerker.</title>
         <description></description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5681" type="risk">
-        <title>Er wordt op toegezien dat iedereen zijn werk op ee</title>
+        <title>Er wordt op toegezien dat iedereen zijn werk op een juiste en veilige manier doet.</title>
         <description>&lt;p&gt;Dat kan de leidinggevende doen, maar ook collega's kunnen elkaar daarbij helpen. Het toezicht houden gaat ver. Om aansprakelijkheid te kunnen ontlopen moet een werkgever kunnen aantonen dat hij er alles aangedaan heeft om een ongeval te voorkomen. Dit betekent dat de medewerkers weten wat de risico&#8217;s zijn, hoe ze daarmee moeten omgaan en dat ze verplicht zijn (arbo)instructies op te volgen.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5682" type="risk">
-        <title>De leidinggevende geeft zelf het goede voorbeeld e</title>
+        <title>De leidinggevende geeft zelf het goede voorbeeld en spreekt werknemers aan op onveilig gedrag.</title>
         <description></description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5683" type="risk">
-        <title>Er zijn afspraken gemaakt over wat te doen als iem</title>
+        <title>Er zijn afspraken gemaakt over wat te doen als iemand zich niet aan de arboregels houdt.</title>
         <description>&lt;p&gt;Als iemand zijn taken niet goed uitvoert zijn er (sanctie)maatregelen afgesproken. Het opvolgen van arbo-instructies is in het belang van de medewerker zelf (bescherming), in het belang van zijn omgeving, en in het belang van de werkgever (o.a. aansprakelijkheid).&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
@@ -2512,26 +2512,26 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
       <title>Afspraken over verzuim</title>
       <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-5685" type="risk">
-        <title>Er zijn afspraken gemaakt over hoe, wanneer en bij</title>
+        <title>Er zijn afspraken gemaakt over hoe, wanneer en bij wie medewerkers zich ziek moeten melden.</title>
         <description></description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5686" type="risk">
-        <title>Er zijn met de Arbodienst afspraken gemaakt over d</title>
+        <title>Er zijn met de Arbodienst afspraken gemaakt over de verzuimbegeleiding.</title>
         <description></description>
         <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet, artikel 14&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5687" type="risk">
-        <title>De medewerkers zijn bekend met het arbeidsgezondhe</title>
+        <title>De medewerkers zijn bekend met het arbeidsgezondheidskundig onderzoek en het preventiespreekuur.</title>
         <description></description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5688" type="risk">
-        <title>Het verzuim of verloop is voor alle werkplekken en</title>
+        <title>Het verzuim of verloop is voor alle werkplekken en functies gemiddeld of lager dan het gemiddelde.</title>
         <description></description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
@@ -2543,13 +2543,13 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5690" type="risk">
-        <title>De direct leidinggevende heeft regelmatig contact</title>
+        <title>De direct leidinggevende heeft regelmatig contact met zieke collega&#8217;s.</title>
         <description></description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5691" type="risk">
-        <title>De leidinggevende beschikt over actuele verzuimcij</title>
+        <title>De leidinggevende beschikt over actuele verzuimcijfers.</title>
         <description></description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
@@ -2559,20 +2559,20 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
       <title>Ongevallen</title>
       <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-5692" type="risk">
-        <title>Ongevallen worden geregistreerd en de oorzaken ond</title>
+        <title>Ongevallen worden geregistreerd en de oorzaken onderzocht.</title>
         <description>&lt;p&gt;Het registreren van ongevallen en het bekijken van de oorzaken vormen de&#160; basis voor het nemen van gerichte maatregelen om deze ongevallen in de toekomst te voorkomen.&lt;/p&gt;</description>
         <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet, artikel 1 lid 3, artikel 5, lid 1&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5693" type="risk">
-        <title>Er worden maatregelen getroffen om opgetreden onge</title>
+        <title>Er worden maatregelen getroffen om opgetreden ongevallen te voorkomen.</title>
         <description>&lt;p&gt;Omdat er al ongevallen zijn gebeurd is het nodig maatregelen te treffen zodat ze niet weer kunnen gebeuren.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5694" type="risk">
-        <title>Ongevallen met ernstige gevolgen worden meteen gem</title>
+        <title>Ongevallen met ernstige gevolgen worden meteen gemeld.</title>
         <description>&lt;p&gt;Over waar er wordt gemeld, gelden lokale afspraken. Onder een &#8220;ernstig ongeval&#8221; wordt verstaan lichamelijk of geestelijk letsel dat binnen 24 uur leidt tot opname in een ziekenhuis of letsel dat de dood tot gevolg heeft. De Arbeidsinspectie verricht dan een ongevalsonderzoek.&#160;&lt;/p&gt;</description>
         <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet, artikel 1, lid 3&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
         <show-not-applicable>no</show-not-applicable>
@@ -2583,19 +2583,19 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
       <title>In geval van nood</title>
       <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-5695" type="risk">
-        <title>Nooduitgangen zijn duidelijk aangegeven en zijn vr</title>
+        <title>Nooduitgangen zijn duidelijk aangegeven en zijn vrij toegankelijk.</title>
         <description>&lt;p&gt;Zonder dat er iets verschoven hoeft te worden of zonder dat er een sleutel gehaald hoeft te worden, kan de nooduitgang meteen geopend worden.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5696" type="risk">
-        <title>Er is een plattegrond aangegeven waar men zich bev</title>
+        <title>Er is een plattegrond aangegeven waar men zich bevindt en welke vluchtroutes gebruikt kunnen worden.</title>
         <description>&lt;p&gt;Op diverse plekken is goed zichtbaar een plattegrond opgehangen waar medewerkers kunnen zien waar ze nu zijn en waar in geval van nood de nooduitgangen zich bevinden. Er wordt een wenselijke looproute naar de uitgang aangegeven.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5697" type="risk">
-        <title>Alle medewerkers kennen de vluchtroutes en nooduit</title>
+        <title>Alle medewerkers kennen de vluchtroutes en nooduitgangen.</title>
         <description>&lt;p&gt;Dit geldt zowel voor de vaste werklocatie als voor de locatie waarop op dat moment gewerkt wordt. Doordat medewerkers zichzelf kunnen redden, kunnen de gevolgen bij calamiteiten beperkt blijven.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
@@ -2613,19 +2613,19 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5700" type="risk">
-        <title>Medewerkers weten hoe ze moeten handelen bij calam</title>
+        <title>Medewerkers weten hoe ze moeten handelen bij calamiteiten.</title>
         <description></description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5701" type="risk">
-        <title>Medewerkers weten hoe ze met de blusmiddelen om mo</title>
+        <title>Medewerkers weten hoe ze met de blusmiddelen om moeten gaan.</title>
         <description></description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5702" type="risk">
-        <title>Er is een onderhoudscontract met de leverancier va</title>
+        <title>Er is een onderhoudscontract met de leverancier van blusmiddelen.</title>
         <description>&lt;p&gt;Vraag de leverancier hoe vaak bijv. het blusapparaat moet worden gecontroleerd op juiste werking.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
@@ -2641,7 +2641,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5704" type="risk">
-        <title>Een werkweek is maximaal 45 uur en de gemiddelde w</title>
+        <title>Een werkweek is maximaal 45 uur en de gemiddelde werktijd binnen 13 weken is maximaal 40 uur per week.</title>
         <description></description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
@@ -2665,19 +2665,19 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5708" type="risk">
-        <title>De afwijkende regels voor  jongeren onder 18 jaar</title>
+        <title>De afwijkende regels voor  jongeren onder 18 jaar worden toegepast.</title>
         <description>&lt;p&gt;Jongeren mogen bijv. niet &#8217;s nachts werken en niet overwerken.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5709" type="risk">
-        <title>De afwijkende regels voor zwangeren en pas bevalle</title>
+        <title>De afwijkende regels voor zwangeren en pas bevallen vrouwen worden toegepast.</title>
         <description>&lt;p&gt;Deze regels gaan over niet &#8217;s nachts werken, niet overwerken en tijd krijgen om te zogen.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5710" type="risk">
-        <title>Als er in ploegendienst wordt gewerkt, dan wordt e</title>
+        <title>Als er in ploegendienst wordt gewerkt, dan wordt een ploegensysteem gebruikt dat zo min mogelijk gezondheidsschade toebrengt.</title>
         <description>&lt;p&gt;Vaak zullen er in de CAO al afspraken staan om gezondheidsschade zoals hartritmestoornissen en slaapstoornissen te voorkomen. Belangrijke regels voor een goed ploegensysteem zijn:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;het draaien van voorwaartse diensten: van de ochtend, naar de middag, naar de avond, naar de nacht, naar de ochtend, etc.;&lt;/li&gt;&lt;li&gt;het niet te lang draaien van &#233;&#233;n soort dienst: bijv. niet een week lang een nachtdienst.&#160;&lt;/li&gt;&lt;/ul&gt;</description>
         <show-not-applicable>yes</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
@@ -2687,27 +2687,27 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
       <title>Machines, transportmiddelen, arbeidsmiddelen</title>
       <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-5711" type="risk">
-        <title>Bij de inkoop van medische apparatuur wordt een pr</title>
+        <title>Bij de inkoop van medische apparatuur wordt een programma van eisen opgeteld.</title>
         <description>&lt;p&gt;Vooraf rekening houden met de arbo-eisen voorkomt in een later stadium kosten.&lt;/p&gt;</description>
         <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet, artikel 3 lid 1&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5712" type="risk">
-        <title>Bij de inkoop van niet medische apparatuur wordt e</title>
+        <title>Bij de inkoop van niet medische apparatuur wordt een programma van eisen opgeteld.</title>
         <description>&lt;p&gt;Niet medische apparatuur betreft bijvoorbeeld ook tilhulpmiddelen. Vooraf rekening houden met de arbo-eisen voorkomt in een later stadium kosten.&lt;/p&gt;</description>
         <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet, artikel 3 lid 1 Besluit medische hulpmiddelen&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5713" type="risk">
-        <title>Elektrische apparatuur is aangesloten op een aardl</title>
+        <title>Elektrische apparatuur is aangesloten op een aardlekschakelaar.</title>
         <description></description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5714" type="risk">
-        <title>Snoeren zijn goed ge&#239;soleerd, zijn onbeschadigd en</title>
+        <title>Snoeren zijn goed ge&#239;soleerd, zijn onbeschadigd en liggen niet op de grond.</title>
         <description></description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
@@ -2719,7 +2719,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5716" type="risk">
-        <title>Er is een onderhoudslogboek van alle  gereedschapp</title>
+        <title>Er is een onderhoudslogboek van alle gereedschappen, machines en transportmiddelen.</title>
         <description>&lt;p&gt;Op elk hulpmiddel zijn keuringsvoorschriften van toepassing. Deze voorschriften worden in een logboek opgetekend en uitgevoerd.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
@@ -2737,13 +2737,13 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5719" type="risk">
-        <title>Medewerkers hebben voorlichting gekregen over het</title>
+        <title>Medewerkers hebben voorlichting gekregen over het werken met de apparatuur.</title>
         <description>&lt;p&gt;Voorlichting is niet altijd voldoende om goed met de middelen te kunnen werken. Instructies zoals het leren werken met het hulpmiddel is soms nodig.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5720" type="risk">
-        <title>De medewerkers volgen de instructies ten aanzien v</title>
+        <title>De medewerkers volgen de instructies ten aanzien van gebruik en onderhoud.</title>
         <description></description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
@@ -2753,14 +2753,14 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
       <title>Voortgang van het plan van aanpak</title>
       <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <risk external-id="R-5721" type="risk">
-        <title>Elk jaar wordt over de uitvoering van het plan van</title>
+        <title>Elk jaar wordt over de uitvoering van het plan van aanpak gerapporteerd.</title>
         <description>&lt;p&gt;Jaarlijks moet de voortgang van het plan van aanpak op schrift worden gezet. Die voortgang wordt besproken met de ondernemingsraad, de personeelsvertegenwoordiging of het personeel.&#160;&lt;/p&gt;</description>
         <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet, artikel 5&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5722" type="risk">
-        <title>Oorzaken van verzuim en ongevallen worden betrokke</title>
+        <title>Oorzaken van verzuim en ongevallen worden betrokken bij de voortgangsbespreking meegenomen.</title>
         <description>&lt;p&gt;Het is handig om dat te doen, want deze oorzaken kunnen van invloed zijn op de volgorde van onderwerpen of leiden tot nieuwe onderwerpen.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
@@ -2773,7 +2773,7 @@ aanspreken van elkaar op gehanteerde werkwijze.&lt;/p&gt;</description>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-5724" type="risk">
-        <title>De voortgang van het Plan van Aanpak wordt tenmins</title>
+        <title>De voortgang van het Plan van Aanpak wordt tenminste eenmaal per jaar met het medezeggenschapsorgaan besproken.</title>
         <description></description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>

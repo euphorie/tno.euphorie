@@ -1208,7 +1208,7 @@
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
         </risk>
         <risk external-id="R-184" type="top5">
-          <title>De werkplek is&#160; voldoende groot voorde benodigde bewegingsruimte.</title>
+          <title>De werkplek is&#160;voldoende groot voor de benodigde bewegingsruimte.</title>
           <description>&lt;p&gt;De afmetingen van de arbeidsplaats zijn zodanig dat de werknemer bij het verrichten van zijn arbeid over voldoende&#160; bewegingsruimte beschikt.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;(131)&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
@@ -3333,31 +3333,31 @@
         <title>Algemeen</title>
         <description>&lt;p&gt;15.1 Algemeen&lt;/p&gt;</description>
         <risk external-id="R-12833" type="risk">
-          <title>U werkt alleen ambulant als de klant de woning niet mag of kan verlaten</title>
+          <title>U werkt alleen ambulant als de klant de woning niet mag of kan verlaten.</title>
           <description>&lt;p&gt;De omstandigheden bij ambulant werken zijn in vergelijking met het werken in de praktijk veelal minder. Daarom is aan te bevelen de klant in de praktijk te behandelen. Alleen wanneer de klant de kamer of de woning niet&#160; mag of kan verlaten, mag de behandeling bij de klant thuis plaatsvinden met inachtneming van de normen uit de code. Indien de klant op eigen initiatief thuis behandeld wil worden, wordt de klant uitdrukkelijk gewezen op de omstandigheden van een thuisbehandeling. Bij de thuisbehandeling dient de behandelaar de normen van deze code optimaal na te leven.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;(990)&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-12834" type="risk">
-          <title>U zorgt voor een inactiveringsvloeistof indien instrumenten niet onmiddellijk kunnen worden gereinigd en gedesinfecteerd</title>
+          <title>U zorgt voor een inactiveringsvloeistof indien instrumenten niet onmiddellijk kunnen worden gereinigd en gedesinfecteerd.</title>
           <description>&lt;p&gt;Een inactiveringsvloeistof is een desinfectiemiddel dat het vuil&#160; losweekt en de groei van micro-organismen tegengaat.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;(1697)&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-12835" type="risk">
-          <title>De wijze waarop u met de instrumenten omgaat na de behandelingvoldoet aan de eisen</title>
+          <title>De wijze waarop u met de instrumenten omgaat na de behandelingvoldoet aan de eisen.</title>
           <description>&lt;p&gt;Behandel de instrumenten na de behandeling bij voorkeur als volgt:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;plaats de instrumenten voor vervoer in een inactiveringsvloeistof&lt;/li&gt;&lt;li&gt;reinig en desinfecteer de instrumenten&lt;br/&gt;direct na terugkeer&lt;/li&gt;&lt;li&gt;zorg voor voldoende instrumentensets bij het afleggen van meerdere bezoeken achter elkaar.&lt;br/&gt;(1434)&lt;/li&gt;&lt;/ul&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-12836" type="risk">
-          <title>Indien bij het ambulant werken de instrumenten direct na de behandeling bij de klant kunnen worden gereinigd, voldoet dit aan de eisen</title>
+          <title>Indien bij het ambulant werken de instrumenten direct na de behandeling bij de klant kunnen worden gereinigd, voldoet dit aan de eisen.</title>
           <description>&lt;p&gt;Eisen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;reinig de instrumenten handmatig met instrumentenreiniger of met een vloeibaar biologisch huishoudelijk reinigingsmiddel (draag hierbij wegwerphandschoenen)&lt;/li&gt;&lt;li&gt;spoel de instrumenten af met voldoende koud leidingwater&lt;/li&gt;&lt;li&gt;spoel kort na met heet water&lt;/li&gt;&lt;li&gt;droog de instrumenten af met een disposable doek&lt;/li&gt;&lt;li&gt;plaats de instrumenten hierna voor desinfectie en voor vervoer in een goed afsluitbare desinfectiebak met alcohol 70-80%&lt;/li&gt;&lt;li&gt;gebruik een pincet of wegwerphandschoenen om de&lt;br/&gt;gedesinfecteerde instrumenten voor hergebruik uit de desinfectiebak te halen&lt;/li&gt;&lt;li&gt;laat de instrumenten aan de lucht drogen op een (disposable) doek&lt;/li&gt;&lt;li&gt;vervang dagelijks de gebruikte alcohol in de desinfectiebak of vaker bij intensief gebruik (meer dan 8 maal)&lt;/li&gt;&lt;li&gt;voer de afgewerkte alcohol af als gevaarlijk afval.&lt;br/&gt;(456)&lt;/li&gt;&lt;/ul&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-12837" type="risk">
-          <title>U gooit een disposable mesje direct weg en legt de meshouder (of een ander instrument) in de inactiveringsvloeistof, indien het instrument in aanraking is geweest met bloed, pus, wondvocht en ander mogelijk besmet materiaal</title>
+          <title>U gooit een disposable mesje direct weg en legt de meshouder (of een ander instrument) in de inactiveringsvloeistof, indien het instrument  in aanraking is geweest met bloed, pus, wondvocht en ander mogelijk besmet materiaal.</title>
           <description>&lt;p&gt;Het instrument wordt in dit geval niet in een desinfectiebak gedeponeerd voor gebruik bij een volgende klant, maar zal eerst na terugkeer volgens de normen moeten worden gereinigd en gedesinfecteerd.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;(458)&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -3369,13 +3369,13 @@
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-12839" type="risk">
-          <title>Arbeidsmiddelen (apparaten en instrumenten)zijn voorzien van CE-markering en verklaring</title>
+          <title>Arbeidsmiddelen (apparaten en instrumenten)zijn voorzien van CE-markering en verklaring.</title>
           <description>&lt;p&gt;Geef niet-CE-gemarkeerde arbeidsmiddelen extra aandacht in de risico-inventarisatie.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-12840" type="risk">
-          <title>Bij ambulante voetverzorging neemt u de voorgeschreven middelen/materialen mee</title>
+          <title>Bij ambulante voetverzorging neemt u de voorgeschreven middelen/materialen mee.</title>
           <description>&lt;p&gt;Neem bij ambulante voetverzorging mee:&#160;&#160;&#160;&#160;&#160; &lt;/p&gt;&lt;ul&gt;&lt;li&gt;koffer of tas&lt;/li&gt;&lt;li&gt;mobiele freesmotor&lt;/li&gt;&lt;li&gt;gereinigde en gedesinfecteerde instrumenten en freesjes&lt;/li&gt;&lt;li&gt;inactiveringsvloeistof en -bak met afsluitbare deksel voor het vervoer van gebruikte instrumenten en freesjes&lt;/li&gt;&lt;li&gt;alcohol 70-80% en desinfectiebak voor het vervoer en desinfectie van gebruikte instrumenten en freesjes ingeval de instrumenten bij de klant worden gereinigd&lt;/li&gt;&lt;li&gt;huid- en wonddesinfectiemiddel&lt;/li&gt;&lt;li&gt;handalcohol&lt;/li&gt;&lt;li&gt;verbanddoos&lt;/li&gt;&lt;li&gt;hulpmiddelen (disposable doeken, tissues, watten, spatels, enz.)&lt;/li&gt;&lt;li&gt;(houder met) wegwerphandschoenen&lt;/li&gt;&lt;li&gt;persoonlijke beschermingsmiddelen (afhankelijk van droog- of nattechniek)&lt;/li&gt;&lt;li&gt;(loep)lamp (inklapbaar)&lt;/li&gt;&lt;li&gt;beensteun (inklapbaar)&lt;/li&gt;&lt;li&gt;eventueel werkstoeltje (inklapbaar)&lt;/li&gt;&lt;li&gt;wegwerpmesjes en messencontainertje&lt;/li&gt;&lt;li&gt;cosmetica (cr&#232;mes, pasta's, enz.)&lt;/li&gt;&lt;li&gt;klantenkaarten.&lt;br/&gt;(991)&lt;/li&gt;&lt;/ul&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -3385,7 +3385,7 @@
         <title>De werkplek</title>
         <description>&lt;p&gt;15.2 De werkplek&lt;/p&gt;</description>
         <risk external-id="R-12841" type="risk">
-          <title>U zorgt ervoor dat de werkplek veilig, toegankelijk en schoon is</title>
+          <title>U zorgt ervoor dat de werkplek veilig, toegankelijk en schoon is.</title>
           <description>&lt;p&gt;Streef naar een zo optimaal mogelijk resultaat.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;(127)&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -3397,7 +3397,7 @@
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-12843" type="risk">
-          <title>Voorwerpen op de werkplek worden stabiel en stevig neergezet</title>
+          <title>Voorwerpen op de werkplek worden stabiel en stevig neergezet.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -3415,7 +3415,7 @@
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
         </risk>
         <risk external-id="R-12846" type="top5">
-          <title>De werkplek is zo ingericht dat er geen gevaar is voor de fysieke belasting</title>
+          <title>De werkplek is zo ingericht dat er geen gevaar is voor de fysieke belasting.</title>
           <description>&lt;p&gt;Streef naar een zo optimaal mogelijk resultaat.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;(132)&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
@@ -3425,109 +3425,109 @@
         <title>Arbeidsomstandigheden</title>
         <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-12847" type="risk">
-          <title>Werk- en onderhoudspunten zijn goed verlicht</title>
+          <title>Werk- en onderhoudspunten zijn goed verlicht.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-12848" type="top5">
-          <title>Er is een ergonomisch verantwoorde werkplek</title>
+          <title>Er is een ergonomisch verantwoorde werkplek.</title>
           <description>&lt;p&gt;Voorwaarden aan een ergonomisch verantwoorde werkplek:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;werkplek is aangepast aan de lichaamsmaten&lt;/li&gt;&lt;li&gt;er is voldoende bewegingsruimte&lt;/li&gt;&lt;li&gt;materialen zijn binnen handbereik.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;(552, 423)&lt;br/&gt;Streef naar een zo optimaal mogelijk resultaat.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
         </risk>
         <risk external-id="R-12849" type="top5">
-          <title>U gebruikt bij zittend werk een goede werkstoel en neemt daarbij een goede werkhouding aan</title>
+          <title>U gebruikt bij zittend werk een goede werkstoel en neemt daarbij een goede werkhouding aan.</title>
           <description>&lt;p&gt;Zorg voor een optimale zithouding door:&#160;&#160;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;het hoofd lichtjes voorovergebogen te houden ter ontlasting van de halswervelkolom en van de nekspieren&lt;/li&gt;&lt;li&gt;de werkstoel zo in te stellen dat deze steun biedt ter hoogte van het bekken en de lendenen (zonder druk uit te oefenen)&lt;/li&gt;&lt;li&gt;druk op aders en spieren te voorkomen. Voorkom het belasten van slechts &#233;&#233;n heupgewricht. Voorkom langdurig voorover buigen.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;(431,446,592,1247)&lt;br/&gt;Streef naar een zo optimaal mogelijk resultaat.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
         </risk>
         <risk external-id="R-12850" type="top5">
-          <title>U draagt bij het werken met arbeidsmiddelen geen losse sieraden</title>
+          <title>U draagt bij het werken met arbeidsmiddelen geen losse sieraden.</title>
           <description>&lt;p&gt;Draag bij het werken met arbeidsmiddelen geen losse sieraden, zoals armbanden en kettingen. Verwijder eventueel ook andere sieraden wanneer die een gevaar kunnen opleveren.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;(549)&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
         </risk>
         <risk external-id="R-12851" type="risk">
-          <title>Arbeidsmiddelen worden na gebruik schoon en droog opgeruimd</title>
+          <title>Arbeidsmiddelen worden na gebruik schoon en droog opgeruimd.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-12852" type="risk">
-          <title>U voorkomt struikelgevaar over snoeren</title>
+          <title>U voorkomt struikelgevaar over snoeren.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-12853" type="top5">
-          <title>U werkt zorgvuldig met gevaarlijke (afval)stoffen (herkenbaar aan het gevaarssymbool)</title>
+          <title>U werkt zorgvuldig met gevaarlijke (afval)stoffen (herkenbaar aan het gevaarssymbool).</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
         </risk>
         <risk external-id="R-12854" type="top5">
-          <title>U voorkomt ongewilde gebeurtenissen met gevaarlijke (afval)stoffen</title>
+          <title>U voorkomt ongewilde gebeurtenissen met gevaarlijke (afval)stoffen.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
         </risk>
         <risk external-id="R-12855" type="risk">
-          <title>Er wordt niet gegeten, gedronken en/of gerookt in ruimten waar ontvlambare en/of gevaarlijke (afval)stoffen worden opgeslagen of gebruikt</title>
+          <title>Er wordt niet gegeten, gedronken en/of gerookt in ruimten waar ontvlambare en/of gevaarlijke (afval)stoffen worden opgeslagen of gebruikt.</title>
           <description>&lt;p&gt;Vraag de cli&#235;nt en eventuele andere aanwezigen om tijdens de behandeling niet te roken.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;(110, 299, 374)&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-12856" type="top5">
-          <title>U werkt met gevaarlijke (afval)stoffen volgens de waarschuwingen en gegevens op de verpakking en het veiligheidsinformatieblad</title>
+          <title>U werkt met gevaarlijke (afval)stoffen volgens de waarschuwingen en gegevens op de verpakking en het veiligheidsinformatieblad.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
         </risk>
         <risk external-id="R-12857" type="top5">
-          <title>Op plaatsen waar met gevaarlijke (afval)stoffen wordt gewerkt wordt gezorgd voor goede oogbeschermingsmiddelen en een noodvoorziening, bijvoorbeeld een oogspoeldouche/fles</title>
+          <title>Op plaatsen waar met gevaarlijke (afval)stoffen wordt gewerkt wordt gezorgd voor goede oogbeschermingsmiddelen en een noodvoorziening, bijvoorbeeld een oogspoeldouche/fles.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
         </risk>
         <risk external-id="R-12858" type="top5">
-          <title>In de werkruimte zijn niet meer gevaarlijke (afval)stoffen aanwezig dan strikt noodzakelijk</title>
+          <title>In de werkruimte zijn niet meer gevaarlijke (afval)stoffen aanwezig dan strikt noodzakelijk.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
         </risk>
         <risk external-id="R-12859" type="risk">
-          <title>Gemorste gevaarlijke (afval)stoffen worden direct opgeruimd met absorptie- of neutralisatiemiddel</title>
+          <title>Gemorste gevaarlijke (afval)stoffen worden direct opgeruimd met absorptie- of neutralisatiemiddel.</title>
           <description>&lt;p&gt;Gemorste gevaarlijke stoffen in de opvangbak moeten zo snel mogelijk worden opgeruimd. Op andere plaatsen gemorste gevaarlijke stoffen moeten zo snel mogelijk worden geneutraliseerd of geabsorbeerd. Hiertoe moeten in of nabij de opslagplaats voldoende absorptie- of neutralisatiemiddel aanwezig zijn. Gebruikte absorptie- of neutralisatiemiddelen moeten als gevaarlijk afval worden behandeld.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;(181,1817)&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-12860" type="top5">
-          <title>U zorgt voor een kleine verbruikshoeveelheid gevaarlijke stoffen op de werkplek, voorzien van de juiste etikettering</title>
+          <title>U zorgt voor een kleine verbruikshoeveelheid gevaarlijke stoffen op de werkplek, voorzien van de juiste etikettering.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
         </risk>
         <risk external-id="R-12861" type="top5">
-          <title>U zorgt voor een optimale hygi&#235;ne bij het werken met gevaarlijke (afval)stoffen</title>
+          <title>U zorgt voor een optimale hygi&#235;ne bij het werken met gevaarlijke (afval)stoffen.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
         </risk>
         <risk external-id="R-12862" type="top5">
-          <title>U zorgt bij gebruik van gevaarlijke stoffen voor extra ventilatie/afzuiging</title>
+          <title>U zorgt bij gebruik van gevaarlijke stoffen voor extra ventilatie/afzuiging.</title>
           <description>&lt;p&gt;Bij afzuiging is er geen sprake van recirculatie van lucht.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;(382)&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Streef naar een zo optimaal mogelijk resultaat.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
         </risk>
         <risk external-id="R-12863" type="top5">
-          <title>Verspreiding of verdamping van vluchtige-, ontvlambare en/of gevaarlijke (afval)stoffen wordt voorkomen</title>
+          <title>Verspreiding of verdamping van vluchtige-, ontvlambare en/of gevaarlijke (afval)stoffen wordt voorkomen.</title>
           <description>&lt;p&gt;Sluit de verpakking na gebruik zo snel mogelijk.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;(300)&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
         </risk>
         <risk external-id="R-12864" type="top5">
-          <title>U houdt rekening met het gevaar van vocht bij het werken met elektriciteit</title>
+          <title>U houdt rekening met het gevaar van vocht bij het werken met elektriciteit.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
@@ -3537,37 +3537,37 @@
         <title>Hygi&#235;ne</title>
         <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-12865" type="risk">
-          <title>U reinigt en desinfecteert bij bloed, pus, wondvocht of ander mogelijk besmet materiaal</title>
+          <title>U reinigt en desinfecteert bij bloed, pus, wondvocht of ander mogelijk besmet materiaal.</title>
           <description>&lt;p&gt;V&#243;&#243;r desinfectie altijd reinigen (zonder reinigen werkt desinfectie niet).&lt;/p&gt;&lt;br/&gt;&lt;p&gt;(452,454)&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-12866" type="risk">
-          <title>U gebruikt reinigings- en desinfectie-middelen volgens gebruiksvoorschrift</title>
+          <title>U gebruikt reinigings- en desinfectie-middelen volgens gebruiksvoorschrift.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-12867" type="risk">
-          <title>Tijdens reinigen en desinfecteren wordt gezorgd voor voldoende ventilatie</title>
+          <title>Tijdens reinigen en desinfecteren wordt gezorgd voor voldoende ventilatie.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-12868" type="risk">
-          <title>Huisdieren zijn afwezig</title>
+          <title>Huisdieren zijn afwezig.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-12869" type="risk">
-          <title>Er wordt niet gegeten, gedronken en/of gerookt in de werkruimtes</title>
+          <title>Er wordt niet gegeten, gedronken en/of gerookt in de werkruimtes.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-12870" type="risk">
-          <title>Arbeidsmiddelen worden zo schoon mogelijk gehouden</title>
+          <title>Arbeidsmiddelen worden zo schoon mogelijk gehouden.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>

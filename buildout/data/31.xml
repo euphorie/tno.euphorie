@@ -393,7 +393,7 @@ uL6c/93n2f//////////////////////////////////////////////////////////////////
     <epilogue>&lt;p&gt;U heeft de risico-inventarisatie nu afgerond. Als er grote wijzigingen zijn in het bedrijf moet de risico-inventarisatie en het plan van aanpak geactualiseerd worden. Als er geen grote wijzigingn zijn is het zinvol om de risico-inventarisatie eens in de vier &#224; vijf jaar te actualiseren. Vaak zijn er dan zoveel kleine wijzigingen geweest en bovendien is de wet vaak weer veranderd dat de risico-inventarisatie verouderd is en opnieuw opgesteld moet worden.&lt;/p&gt;&lt;p&gt;Deze RIE is erkend door sociale partners. Dit betekent dat bedrijven met 25 werknemers of minder hun RIE niet meer hoeven laten toetsen door middel van een bedrijfsbezoek, maar kunnen volstaan met een lichtere schriftelijke toetsing.&lt;/p&gt;&lt;p&gt;Door de KNGF zijn afspraken gemaakt met Commit over hetuitvoeren van de toetsingen.&lt;/p&gt;&lt;p&gt;Neem contact op met Commit (030-6693712 - afdeling RIE-planning) voor de meest actuele tarieven en voor het maken van afspaken.&lt;/p&gt;&lt;p&gt;U kunt u RI&amp;amp;E natuurlijk ook laten toetsen door uw eigen arbodienst of 'geregistreeerde arbodeskundige'.&lt;/p&gt;&lt;p&gt;N.B. Bedrijven waar in de regel meer dan 25 werknemers werken, komen niet aanmerking voor een lichtere toets.&lt;/p&gt;</epilogue>
     <evaluation-optional>yes</evaluation-optional>
     <profile-question external-id="KLV-199" type="optional">
-      <title>1 op 1 behandelingen?</title>
+      <title>op 1 behandelingen?</title>
       <question>1 op 1 behandelingen?</question>
       <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1385" optional="true">
@@ -874,7 +874,7 @@ dit tot gezondheidsklachten leiden.&lt;/p&gt;</description>
       </module>
     </profile-question>
     <profile-question external-id="KLV-202" type="optional">
-      <title>1 op 1 instructies?</title>
+      <title>op 1 instructies?</title>
       <question>1 op 1 instructies?</question>
       <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
       <module external-id="M-1393" optional="no">
@@ -944,7 +944,7 @@ telefoneren of kopi&#235;ren is beter.&lt;/p&gt;</description>
         </solutions>
       </risk>
       <risk external-id="R-8000" type="risk">
-        <title>Spiegeling van verlichting in beeldschermen is afwezig</title>
+        <title>Spiegeling van verlichting in beeldschermen is afwezig.</title>
         <description>&lt;p&gt;Onbeschermde t.l.-buizen spiegelen altijd. Plaats beschermde t.l.-verlichting in &amp;#13;
 de lengterichting op het beeldscherm: er ontstaat als het ware een kruis tussen &amp;#13;
 verlichting en bureaulengte.&lt;/p&gt;</description>
@@ -1206,7 +1206,7 @@ regelmatig gekeurd worden (ongeveer 1 keer per 5 &#224; 6 jaar voor de doorsnee 
         </solutions>
       </risk>
       <risk external-id="R-8012" type="policy">
-        <title>Vloeren, muren, plafonds, ramen en deuren zijn goed onderhouden en veilig te onderhouden.</title>
+        <title>Vloeren, muren, plafonds, ramen en deuren zijn goed te onderhouden en veilig.</title>
         <description>&lt;p&gt;Schoonmakers moeten overal (al dan niet met hulpmiddelen zoals trappen) er gemakkelijk bij kunnen.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Ramen en deuren moeten gemakkelijk te openen en te sluiten zijn.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Glazen deuren en afscheidingen moeten duidelijk gemarkeerd zijn op ooghoogte, om te voorkomen dat iemand door of tegen het glas loopt.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
@@ -1218,7 +1218,7 @@ regelmatig gekeurd worden (ongeveer 1 keer per 5 &#224; 6 jaar voor de doorsnee 
         </solutions>
       </risk>
       <risk external-id="R-8013" type="policy">
-        <title>Voor rokers is een aparte rookruimte beschikbaar.</title>
+        <title>Er wordt gewerkt en gepauzeerd op rookvrije (werk)plekken.</title>
         <description>&lt;p&gt;Per 1 januari 2004 moet elke medewerker op een rookvrije werkplek kunnen werken &amp;#13;
 en pauzeren.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
@@ -1275,7 +1275,7 @@ douchekop bijv. in emmer onder water.)&lt;/p&gt;</description>
         </solutions>
       </risk>
       <risk external-id="R-8019" type="risk">
-        <title>Het is bekend hoe veilig en gezond met de schoonmaak en desinfectiemiddelen gewerkt moet worden.</title>
+        <title>Het is bekend hoe veilig en gezond met schoonmaak- en desinfectiemiddelen gewerkt moet worden.</title>
         <description>&lt;p&gt;Bij het werken met schoonmaak- en desinfectiemiddelen is het belangrijk om te weten of en zo ja, welk beschermingsmaatregelen genomen moeten worden. (bijv. dragen van handschoenen of niet mengen met zuren of basen). Deze informatie is te vinden in de zogenaamde veiligheidsinformatiebladen. De leverancier is verplicht om deze bladen bij de producten te leveren.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="regular" default-effect="high">calculated</evaluation-method>
@@ -1378,7 +1378,7 @@ bestrijden en een ontruiming kunnen begeleiden. &lt;/p&gt;</description>
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-8026" type="policy">
-        <title>Jaarlijks worden functionerings en beoordelingsgesprekken gehouden.</title>
+        <title>Jaarlijks worden functionerings- en beoordelingsgesprekken gehouden.</title>
         <description>&lt;p&gt;Door het houden van functionerings- en beoordelingsgesprekken weet personeel wat er van hun verwacht wordt en waar ze op beoordeeld worden. &lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
@@ -1468,7 +1468,7 @@ van de belangrijkste oorzaken van arbeidsongeschiktheid.&lt;br/&gt;Stress wordt 
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-25498" type="policy">
-        <title>De praktijk heeft een of meerdere preventiemedewerkers.</title>
+        <title>De praktijk heeft &#233;&#233;n of meerdere preventiemedewerkers.</title>
         <description>&lt;p&gt;Elke praktijk moet &#233;&#233;n of meerdere preventiemedewerkers aanstellen. De preventiemedewerker is het aanspreekpunt voor zowel de werkgever als werknemers in het bedrijf.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Belangrijke taken van de preventiemedewerker zijn het organiseren 'arbobeleid' in de praktijk, meewerken aan de risico-inventarisatie, het voorlichten van werkgever en werknemer over arbeidsomstandigheden.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Tot 25 werknemers mag de werkgever zelf de preventiemedewerker zijn.&lt;/p&gt;</description>
         <show-not-applicable>no</show-not-applicable>
         <evaluation-method>direct</evaluation-method>

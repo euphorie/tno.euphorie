@@ -509,7 +509,7 @@ yatK1b1x49Sj9vHj////////////////////////////////////////////////////////////
             <evaluation-method>direct</evaluation-method>
           </risk>
           <risk external-id="R-8403.a" type="policy">
-            <title>Oorzaken van ongevallen worden bij de voortgangsbespreking. meegenomen.</title>
+            <title>Oorzaken van ongevallen worden bij de voortgangsbespreking meegenomen.</title>
             <description>&lt;p&gt;Het is handig om dat te doen, want deze oorzaken kunnen van invloed zijn op de volgorde van onderwerpen of leiden tot nieuwe onderwerpen.&lt;/p&gt;</description>
             <show-not-applicable>no</show-not-applicable>
             <evaluation-method>direct</evaluation-method>
@@ -696,7 +696,7 @@ yatK1b1x49Sj9vHj////////////////////////////////////////////////////////////
             <evaluation-method default-probability="medium" default-frequency="regular" default-effect="high">calculated</evaluation-method>
           </risk>
           <risk external-id="R-9789" type="policy">
-            <title>Er is een CFK logboek aanwezig</title>
+            <title>Er is een CFK logboek aanwezig.</title>
             <description>&lt;p&gt;Controle op invulling van het logboek wordt uitgevoerd door de Scheepvaartinspectie.&lt;/p&gt;</description>
             <show-not-applicable>yes</show-not-applicable>
             <evaluation-method>direct</evaluation-method>
@@ -1052,7 +1052,7 @@ yatK1b1x49Sj9vHj////////////////////////////////////////////////////////////
             <evaluation-method>direct</evaluation-method>
           </risk>
           <risk external-id="R-13230" type="risk">
-            <title>De nooduitgangen zijn aangegeven d.m.v. pictogrammen.</title>
+            <title></title>
             <description></description>
             <show-not-applicable>no</show-not-applicable>
             <evaluation-method>direct</evaluation-method>
@@ -1434,7 +1434,7 @@ yatK1b1x49Sj9vHj////////////////////////////////////////////////////////////
             <evaluation-method>direct</evaluation-method>
           </risk>
           <risk external-id="R-8398.b" type="policy">
-            <title>Voor maatschapsleden die langer dan 6 weken ziek zijn wordt een re&#239;ntegratieplan gemaakt.</title>
+            <title>De maatschapsleden die langer dan 6 weken ziek worden opnieuw gekeurd en eventueel overgedragen aan een re&#239;ntegratie bureau.</title>
             <description>&lt;p&gt;SFM&#160; (Sociaal Fonds Maatschapvissers) stelt plan voor re&#239;ntegratie op.&lt;/p&gt;</description>
             <show-not-applicable>no</show-not-applicable>
             <evaluation-method>direct</evaluation-method>
@@ -1463,7 +1463,7 @@ yatK1b1x49Sj9vHj////////////////////////////////////////////////////////////
             <evaluation-method>direct</evaluation-method>
           </risk>
           <risk external-id="R-8403.b" type="policy">
-            <title>Oorzaken van ongevallen worden bij de voortgangsbespreking. meegenomen.</title>
+            <title>Oorzaken van ongevallen worden bij de voortgangsbespreking meegenomen.</title>
             <description>&lt;p&gt;Het is handig om dat te doen, want deze oorzaken kunnen van invloed zijn op de volgorde van onderwerpen of leiden tot nieuwe onderwerpen.&lt;/p&gt;</description>
             <show-not-applicable>no</show-not-applicable>
             <evaluation-method>direct</evaluation-method>
@@ -1548,7 +1548,7 @@ yatK1b1x49Sj9vHj////////////////////////////////////////////////////////////
             <evaluation-method default-probability="medium" default-frequency="regular" default-effect="high">calculated</evaluation-method>
           </risk>
           <risk external-id="R-39.b" type="risk">
-            <title>Men staat op een vlakke ondergrond bij het verwerken van de vangst</title>
+            <title>Men staat op een vlakke ondergrond bij het verwerken van de vangst.</title>
             <description>&lt;p class="BodyText2"&gt;Tref voorzieningen, bijvoorbeeld in de vorm van een kunststof of ijzeren schot, waardoor de werkzaamheden op een vlakke en stroeve ondergrond uitgevoerd kunnen worden. Dit voorkomt o.a. rugklachten.&#160; &lt;/p&gt;</description>
             <show-not-applicable>no</show-not-applicable>
             <evaluation-method default-probability="medium" default-frequency="regular" default-effect="significant">calculated</evaluation-method>
@@ -1700,7 +1700,7 @@ yatK1b1x49Sj9vHj////////////////////////////////////////////////////////////
             <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="high">calculated</evaluation-method>
           </risk>
           <risk external-id="R-58.b" type="risk">
-            <title>De werknemers weten wat ze moeten doen als zij met gevaarlijke stoffen in aanraking komen of er gevaarlijke stoffen kunnen ontstaan.</title>
+            <title>De maatschapsleden weten wat ze moeten doen als zij met gevaarlijke stoffen in aanraking komen of er gevaarlijke stoffen kunnen ontstaan.</title>
             <description>&lt;p class="MsoNormal"&gt;Gevaarlijke stoffen zijn herkenbaar aan het etiket op de verpakking. Veelal betreft het een oranjekleurig etiket met gevaarssymbool zoals een kruis, een doodshoofd, een vlam.&lt;/p&gt;&lt;p class="MsoNormal"&gt;Bij de toepassing van stoffen en producten verdient de opslag daarvan voldoende aandacht. Zowel bij kleinschalige opslag van enkele flessen als bij grootschalige opslag in vaten moeten maatregelen worden getroffen om ongevallen, morsen of lekkage te voorkomen.&lt;/p&gt;&lt;p class="MsoNormal"&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Inventariseer de hoeveelheid en aard van de gevaarlijke stoffen die aanwezig zijn, zoals schoonmaakmiddelen, smeermiddelen en oli&#235;n;&lt;/p&gt;&lt;p class="MsoNormal"&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Kijk wat voor deze hoeveelheid stoffen de juiste opslagplaats aan boord is;&lt;/p&gt;&lt;p class="MsoNormal"&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Plaats lekbakken om gemorste stoffen op te vangen en gemakkelijk te verwijderen;&lt;/p&gt;&lt;p class="MsoNormal"&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Verwijder producten die niet meer worden gebruikt, of waarvan de samenstelling niet duidelijk is. Deze producten moeten worden ingeleverd bij een daarvoor erkende (milieu) instantie.&lt;/p&gt;&lt;p class="MsoNormal"&gt;&#183;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; De leverancier dient een veiligheids-informatieblad te leveren bij levering van gevaarlijke stoffen. Hierop staat o.a. vermeldt de gevaren en de te nemen maatregelen bij ongevallen. De opvarenden dienen door de schipper op de hoogte te worden gebracht van de gevaren.&lt;/p&gt;</description>
             <show-not-applicable>no</show-not-applicable>
             <evaluation-method default-probability="small" default-frequency="regular" default-effect="significant">calculated</evaluation-method>
@@ -1752,7 +1752,7 @@ yatK1b1x49Sj9vHj////////////////////////////////////////////////////////////
             <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
           </risk>
           <risk external-id="R-8459.b" type="risk">
-            <title>De alarmering is overal goed hoor- en/of zichtbaar en wordt regelmatig gecontroleerd.</title>
+            <title>De alarmering is overal goed hoor- en zichtbaar en/of wordt regelmatig gecontroleerd.</title>
             <description>&lt;p&gt;Zorg ervoor dat in alle werkruimten de het alarm goed hoorbaar os zichtbaar is zodat in geval van calamiteit direct actie ondernomen kan worden&#160; &lt;/p&gt;</description>
             <show-not-applicable>no</show-not-applicable>
             <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="high">calculated</evaluation-method>

@@ -93,7 +93,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
         <title>arbobeleidsvoering</title>
         <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-1" type="risk">
-          <title>Uw organisatie heeft het beleid en de doelstellingen ten aanzien van de zorg voorarbeidsomstandigheden schriftelijk vastgelegd.</title>
+          <title>Uw organisatie heeft het beleid en de doelstellingen ten aanzien van de zorg voor arbeidsomstandigheden schriftelijk vastgelegd.</title>
           <description>&lt;p&gt;Een organisatie dient een zo goed mogelijk arbeidsomstandighedenbeleid te voeren. Een organisatie dient dit te kunnen aantonen. Aantoonbaar betekent in de praktijk: schriftelijk.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Bij de voorbereiding van het beleid is het goed de Arbocatalogus Openbare Bibliotheken te betrekken.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet artikel 3&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -134,7 +134,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
         <title>Verzuimbeleid</title>
         <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-4" type="risk">
-          <title>Uw organisatie heeft een op schrift gesteld verzuimbeleid dat gericht is op het zoveelmogelijk voorkomen of beperken van ziekte van medewerkers.</title>
+          <title>Uw organisatie heeft een op schrift gesteld verzuimbeleid dat gericht is op het zoveel mogelijk voorkomen of beperken van ziekte van medewerkers.</title>
           <description>&lt;p&gt;Het voeren van een verzuimbeleid is binnen het algemene arbeidsomstandig-hedenbeleid wettelijk verplicht.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Dit beleid moet gericht zijn op:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- het zoveel mogelijk voorkomen of beperken van ziekte van werknemers;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- het begeleiden van medewerkers die door ziekte niet in staat zijn hun werk te verrichten.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Een organisatie dient te kunnen aantonen een verzuimbeleid te voeren. Aantoonbaar betekent in de praktijk: schriftelijk. Een op schrift gesteld verzuimbeleid is meer dan de op schrift gestelde "spelregels" rond verzuim.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -210,7 +210,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
           </solutions>
         </risk>
         <risk external-id="R-10" type="risk">
-          <title>De medewerkers zijn op de hoogte gesteld van hun taken, bevoegdheden enverantwoordelijkheden op het gebied van arbeidsomstandigheden.</title>
+          <title>De medewerkers zijn op de hoogte gesteld van hun taken, bevoegdheden en verantwoordelijkheden op het gebied van arbeidsomstandigheden.</title>
           <description>&lt;p&gt;De medewerkers dienen te worden voorgelicht over de aan hen opgedragen taken, bevoegdheden en verantwoordelijkheden.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;De medewerkers dienen op de hoogte te zijn gebracht van inhoud en doel van de Arbocatalogus Openbare Bibliotheken.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet artikel 11&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -223,7 +223,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
           </solutions>
         </risk>
         <risk external-id="R-11" type="risk">
-          <title>Er is vastgelegd welke middelen de medewerkers ter beschikking staan, om ten aanzien vanarbeidsomstandigheden, de hun opgedragen taken te kunnen uitvoeren, respectievelijk de daarbij behorende verantwoordelijkheden te kunnen dragen.</title>
+          <title>Er is vastgelegd welke middelen de medewerkers ter beschikking staan, om ten aanzien van arbeidsomstandigheden, de hun opgedragen taken te kunnen uitvoeren, respectievelijk de daarbij behorende verantwoordelijkheden te kunnen dragen.</title>
           <description>&lt;p&gt;De medewerkers kunnen alleen de hun opgedragen taken uitvoeren en verantwoordelijkheden dragen wanneer hun voldoende middelen ter beschikking staan zoals tijd, geld en hulpmiddelen.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -247,7 +247,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
           </solutions>
         </risk>
         <risk external-id="R-13" type="risk">
-          <title>Alle medewerkers zijn op de hoogte gesteld van de plicht om gevaarlijke situaties temelden.</title>
+          <title>Alle medewerkers zijn op de hoogte gesteld van de plicht om gevaarlijke situaties te melden.</title>
           <description>&lt;p&gt;De medewerkers zijn verplicht de door hen opgemerkte gevaren voor de veiligheid of de gezondheid direct te melden aan de werkgever, de direct leidinggevende of een daartoe&lt;/p&gt;&lt;br/&gt;&lt;p&gt;ingesteld meldpunt.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet artikel 11&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -312,7 +312,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
           </solutions>
         </risk>
         <risk external-id="R-18" type="risk">
-          <title>Arbo staat als vast punt op de agenda van de overlegvergadering of depersoneelsvergadering.</title>
+          <title>Arbo staat als vast punt op de agenda van de overlegvergadering of de personeelsvergadering.</title>
           <description>&lt;p&gt;Door arbeidsomstandigheden als vast punt op de agenda te plaatsen wordt gewaarborgd dat aan dit onderwerp aandacht wordt besteed.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet artikel 12, WOR artikel 23, 35B en 35C&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
           <show-not-applicable>no</show-not-applicable>
@@ -384,7 +384,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
           <solutions>
             <solution external-id="O-23">
               <description>&lt;p&gt;Actualiteit van de RI&amp;amp;E bespreken in het overleg met de werknemersvertegenwoordiging&lt;/p&gt;</description>
-              <action-plan>Actualiteit van de RI&amp;amp;E bespreken in het overleg met de werknemersvertegenwoordiging</action-plan>
+              <action-plan>Actualiteit van de RI&amp;E bespreken in het overleg met de werknemersvertegenwoordiging</action-plan>
             </solution>
           </solutions>
         </risk>
@@ -405,7 +405,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
           </solutions>
         </risk>
         <risk external-id="R-25" type="risk">
-          <title>Degenen die voorlichting en onderricht geven hebben daarvoor een gerichte opleidinggevolgd.</title>
+          <title>Degenen die voorlichting en onderricht geven hebben daarvoor een gerichte opleiding gevolgd.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -481,7 +481,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
           </solutions>
         </risk>
         <risk external-id="R-31" type="risk">
-          <title>Leidinggevenden hebben sancties ter beschikking om de medewerkers te dwingenveiliger te werken.</title>
+          <title>Leidinggevenden hebben sancties ter beschikking om de medewerkers te dwingen veiliger te werken.</title>
           <description>&lt;p&gt;Het houden van toezicht is alleen mogelijk als de leidinggevenden voldoende middelen hebben om de medewerkers te sturen tot het gewenste gedrag. Als uiterste middel is het toepassen van sancties mogelijk.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -665,7 +665,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
         <title>Bedrijfshulpverlening</title>
         <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-45" type="risk">
-          <title>In uw organisatie zijn bedrijfshulpverleners (BHV&#8217;ers) door de werkgever schriftelijkaangewezen.</title>
+          <title>In uw organisatie zijn bedrijfshulpverleners (BHV&#8217;ers) door de werkgever schriftelijk aangewezen.</title>
           <description>&lt;p&gt;Onder bedrijfshulpverleners wordt verstaan, medewerkers die zijn aangewezen om in geval van ongeval, brand of in noodsituaties snel en doeltreffend op te treden.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -761,7 +761,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
           </solutions>
         </risk>
         <risk external-id="R-53" type="risk">
-          <title>Uw organisatie beschikt over een opleidings- en trainingsprogramma voor debedrijfshulpverlening.</title>
+          <title>Uw organisatie beschikt over een opleidings- en trainingsprogramma voor de bedrijfshulpverlening.</title>
           <description>&lt;p&gt;In dit programma dient de opleiding en training van nieuwe leden van de&lt;/p&gt;&lt;br/&gt;&lt;p&gt;bedrijfshulpverlening te worden geregeld. Tevens moet een regeling met betrekking tot&lt;/p&gt;&lt;br/&gt;&lt;p&gt;herhalingstrainingen zijn opgenomen. In de opleiding dienen de vier onderwerpen van de bedrijfshulpverlening aan de orde te komen, te weten:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- eerste hulp bij ongevallen;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- het bestrijden van brand;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- het in noodsituaties evacueren van werknemers;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- de communicatie met externe hulpverleners.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -825,7 +825,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
           </solutions>
         </risk>
         <risk external-id="R-58" type="risk">
-          <title>De op de werkplek aanwezige (veiligheids)voorzieningen en genomenmaatregelen worden regelmatig gecontroleerd.</title>
+          <title>De op de werkplek aanwezige (veiligheids)voorzieningen en genomen maatregelen worden regelmatig gecontroleerd.</title>
           <description>&lt;p&gt;Te denken valt aan alarmsystemen, vrijhouden van vluchtwegen en nooduitgangen, etc.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -849,7 +849,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
           </solutions>
         </risk>
         <risk external-id="R-60" type="risk">
-          <title>Werkzaamheden aan en met elektrische installaties, waarbij de kans op aanraking met spanning aanwezig is, worden alleen door speciaal opgeleide en bevoegde medewerkersuitgevoerd.</title>
+          <title>Werkzaamheden aan en met elektrische installaties, waarbij de kans op aanraking met spanning aanwezig is, worden alleen door speciaal opgeleide en bevoegde medewerkers uitgevoerd.</title>
           <description>&lt;p&gt;Naast eigen medewerkers kunnen ook deskundige derden worden ingeschakeld. Een voorbeeld van een bevoegdheidsregeling staat omschreven in NEN 3140.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -901,7 +901,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
         <title>Voorzieningen in noodsituaties</title>
         <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-64" type="risk">
-          <title>Er zijn voldoende blusmiddelen aanwezig waarmee de aanwezige medewerkers eenbeginnende brand kunnen blussen.</title>
+          <title>Er zijn voldoende blusmiddelen aanwezig waarmee de aanwezige medewerkers een beginnende brand kunnen blussen.</title>
           <description>&lt;p&gt;Met blusmiddelen worden bedoeld handblustoestellen, brandslangen en branddekens. Bij de gemeentebrandweer of arbodienst kunt u over plaatsing en aantallen advies vragen. Bedenk dat er verschillende type branden zijn en ook verschillende typen blusmiddelen. De&lt;/p&gt;&lt;br/&gt;&lt;p&gt;middelen moeten op het type brand zijn afgestemd.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -937,7 +937,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
           </solutions>
         </risk>
         <risk external-id="R-67" type="risk">
-          <title>De plaats van alle geplaatste blusmiddelen is door middel van de voorgeschrevenpictogrammen aangegeven.</title>
+          <title>De plaats van alle geplaatste blusmiddelen is door middel van de voorgeschreven pictogrammen aangegeven.</title>
           <description>&lt;p&gt;Deze aanduiding moet plaatsvinden met behulp van rechthoekige of vierkante rode borden (verbodsbord), met daarop het symbool van het betreffende blusmiddel.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -961,7 +961,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
           </solutions>
         </risk>
         <risk external-id="R-69" type="risk">
-          <title>Vluchtwegen en nooduitgangen worden vrijgehouden en kunnen nooduitgangen te allentijde worden geopend.</title>
+          <title>Vluchtwegen en nooduitgangen worden vrijgehouden en kunnen nooduitgangen te allen tijde worden geopend.</title>
           <description>&lt;p&gt;Vrijhouden betekent dat geen opslag op de vluchtwegen en voor de deuren plaatsvindt. Nooduitgangen zijn te allen tijde te openen als de deuren zijn voorzien van een zodanige sluiting dat deze eenvoudig te openen zijn van binnenuit naar buiten. Schuif- en draaideuren kunnen belemmerend werken in vluchtwegen en dienen daarom niet in een vluchtweg te zijn opgenomen. Op automatische deuren en/of hekken moet een markering zijn aangegeven waaruit blijkt dat het openen en sluiten automatisch plaatsvindt, moet aangegeven zijn op welke wijze in geval van nood het openen met de hand kan geschieden en een voorziening zijn die zorg draagt dat in geval van stroomstoring het openen automatisch plaatsvindt.&lt;/p&gt;</description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -973,7 +973,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
           </solutions>
         </risk>
         <risk external-id="R-70" type="risk">
-          <title>De vluchtwegen en alle (nood)uitgangen zijn door middel van voorgeschrevenpictogrammen aangegeven en voorzien van adequate noodverlichting.</title>
+          <title>De vluchtwegen en alle (nood)uitgangen zijn door middel van voorgeschreven pictogrammen aangegeven en voorzien van adequate noodverlichting.</title>
           <description>&lt;p&gt;De aanduiding van (nood)uitgangen moet plaatsvinden met behulp van rechthoekige of vierkante groene borden waarop met behulp van een pijl de (loop)richting is aangegeven. Bij nooduitgangen dient tevens een (vluchtende) figuur te zijn aangegeven.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Werkplekken met bijzondere gevaren (voor het verlaten van de werkplek moet men via een trap de uitgang bereiken of op of nabij de werkplek is meer dan normaal gevaar voor struikelen of bekneld raken tussen bewegende delen aanwezig) moeten zijn voorzien van adequate noodverlichting.&lt;/p&gt;</description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -989,7 +989,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
         <title>Ontspanningsruimten en andere voorzieningen</title>
         <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-71" type="risk">
-          <title>Uw organisatie heeft &#233;&#233;n of meerdere pauzeruimten die voldoen aan de in de toelichtinggenoemde eisen.</title>
+          <title>Uw organisatie heeft &#233;&#233;n of meerdere pauzeruimten die voldoen aan de in de toelichting genoemde eisen.</title>
           <description>&lt;p&gt;Een pauzeruimte moet beschikken over:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- voldoende ruimte voor het aantal normaal daarvan gebruikmakende personen;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- voldoende tafels en stoelen.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -1193,7 +1193,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
           </solutions>
         </risk>
         <risk external-id="R-86" type="risk">
-          <title>Uw organisatie informeert uw medewerkers tijdig over de voor hen geldendewerktijdenregeling(en) en/of dienstroosters.</title>
+          <title>Uw organisatie informeert uw medewerkers tijdig over de voor hen geldende werktijdenregeling(en) en/of dienstroosters.</title>
           <description></description>
           <show-not-applicable>yes</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -1240,7 +1240,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
           <solutions>
             <solution external-id="O-89">
               <description>&lt;p&gt;Preventiemedewerker laten meewerken aan het opstellen van de RI&amp;amp;E&lt;/p&gt;</description>
-              <action-plan>Preventiemedewerker laten meewerken aan het opstellen van de RI&amp;amp;E</action-plan>
+              <action-plan>Preventiemedewerker laten meewerken aan het opstellen van de RI&amp;E</action-plan>
             </solution>
           </solutions>
         </risk>
@@ -1303,7 +1303,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
           </solutions>
         </risk>
         <risk external-id="R-96" type="risk">
-          <title>Er zijn afspraken gemaakt met een gecertificeerde bedrijfsarts over de begeleiding bij verzuim en re&#239;ntegratie.</title>
+          <title>Er zijn afspraken gemaakt met een gecertificeerde bedrijfsarts over de begeleiding bij verzuim en re-integratie.</title>
           <description>&lt;p&gt;De belangrijkste vragen over verzuim en re-integratie zijn bij het onderdeel &#226;&#8364;&#732;Afspraken over verzuim&#226;&#8364;&#8482; behandeld. Hier gaat het om de afspraken die u moet maken met een gecertificeerde deskundige en die u vastlegt in een contract.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -1315,7 +1315,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
           </solutions>
         </risk>
         <risk external-id="R-97" type="risk">
-          <title>Er zijn afspraken gemaakt met een gecertificeerde bedrijfsarts over hetperiodiek arbeidsgezondheidskundig onderzoek (PAGO).</title>
+          <title>Er zijn afspraken gemaakt met een gecertificeerde bedrijfsarts over het periodiek arbeidsgezondheidskundig onderzoek (PAGO).</title>
           <description>&lt;p&gt;PAGO wil zeggen dat medewerkers met een bepaalde regelmaat een onderzoek krijgen. Het onderzoek houdt verband met de risico's tijdens het werk. Uit de RI&amp;amp;E volgt welke risico's er zijn. Een voorbeeld is gehooronderzoek bij hard geluid op de werkplek. Maar ook onderzoek naar RSI of werkdruk is mogelijk, als dat een risico is in een bedrijf.&lt;/p&gt;</description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -1358,7 +1358,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
           <solutions>
             <solution external-id="O-99">
               <description>&lt;p&gt;Inschakelen gecertificeerde deskundige bij toetsing RI&amp;amp;E&lt;/p&gt;</description>
-              <action-plan>Inschakelen gecertificeerde deskundige bij toetsing RI&amp;amp;E</action-plan>
+              <action-plan>Inschakelen gecertificeerde deskundige bij toetsing RI&amp;E</action-plan>
             </solution>
           </solutions>
         </risk>
@@ -1399,7 +1399,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
           <solutions>
             <solution external-id="O-102">
               <description>&lt;p&gt;Inschakelen arbodienst voor de toetsing van de RI&amp;amp;E&lt;/p&gt;</description>
-              <action-plan>Inschakelen arbodienst voor de toetsing van de RI&amp;amp;E</action-plan>
+              <action-plan>Inschakelen arbodienst voor de toetsing van de RI&amp;E</action-plan>
             </solution>
           </solutions>
         </risk>
@@ -1701,7 +1701,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
           </solutions>
         </risk>
         <risk external-id="R-128" type="risk">
-          <title>Iedere kantoormedewerker heeft voor de basiswerkplek een oppervlakte van minimaal 8 m&#178; ter beschikking (uitgaande van een kantoorstoel, een werktafel, een bergruimte onder de werktafel, een staande kast en een beeldschermopstelling met CRT beeldsche</title>
+          <title>Iedere kantoormedewerker heeft voor de basiswerkplek een oppervlakte van minimaal 8 m&#178; ter beschikking (uitgaande van een kantoorstoel, een werktafel, een bergruimte onder de werktafel, een staande kast en een beeldschermopstelling met CRT beeldscherm).</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -3089,7 +3089,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
         <title>Wegzetten en opruimen van boeken in kasten</title>
         <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-235" type="risk">
-          <title>Er wordt korter dan4 minutenachtereen gehurkt, geknield of gebukt.</title>
+          <title>Er wordt korter dan 4 minuten achtereen gehurkt, geknield of gebukt.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -3101,7 +3101,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
           </solutions>
         </risk>
         <risk external-id="R-236" type="risk">
-          <title>Er wordt korter dan8 minutenper uur gehurkt, geknield of gebukt.</title>
+          <title>Er wordt korter dan 8 minuten per uur gehurkt, geknield of gebukt.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -3113,7 +3113,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
           </solutions>
         </risk>
         <risk external-id="R-237" type="risk">
-          <title>Er wordt minder dan40 keerper uur gehurkt, geknield of gebukt.</title>
+          <title>Er wordt minder dan 40 keer per uur gehurkt, geknield of gebukt.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -3125,7 +3125,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
           </solutions>
         </risk>
         <risk external-id="R-238" type="risk">
-          <title>Er wordt korter dan8 minutenper uur boven schouderhoogte gewerkt.</title>
+          <title>Er wordt korter dan 8 minuten per uur boven schouderhoogte gewerkt.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -3137,7 +3137,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
           </solutions>
         </risk>
         <risk external-id="R-239" type="risk">
-          <title>Er wordt minder dan40 keerper uur boven schouderhoogte gewerkt.</title>
+          <title>Er wordt minder dan 40 keer per uur boven schouderhoogte gewerkt.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -3209,7 +3209,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
           </solutions>
         </risk>
         <risk external-id="R-245" type="risk">
-          <title>De boeken op de onderste plank zijn onder een hoek van 5 graden of met de rug naar bovengeplaatst.</title>
+          <title>De boeken op de onderste plank zijn onder een hoek van 5 graden of met de rug naar boven geplaatst.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -4063,7 +4063,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
         <title>Wegzetten en opruimen van boeken in kasten</title>
         <description>&lt;p&gt;De branche kan hier informatie geven over dit onderwerp.&lt;/p&gt;</description>
         <risk external-id="R-314" type="risk">
-          <title>Er wordt korter dan4 minutenachtereen gehurkt, geknield of gebukt.</title>
+          <title>Er wordt korter dan 4 minutenachtereen gehurkt, geknield of gebukt.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -4075,7 +4075,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
           </solutions>
         </risk>
         <risk external-id="R-315" type="risk">
-          <title>Er wordt korter dan8 minutenper uur gehurkt, geknield of gebukt.</title>
+          <title>Er wordt korter dan 8 minuten per uur gehurkt, geknield of gebukt.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -4087,7 +4087,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
           </solutions>
         </risk>
         <risk external-id="R-316" type="risk">
-          <title>Er wordt minder dan40 keerper uur gehurkt, geknield of gebukt.</title>
+          <title>Er wordt minder dan 40 keer per uur gehurkt, geknield of gebukt.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -4099,7 +4099,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
           </solutions>
         </risk>
         <risk external-id="R-317" type="risk">
-          <title>Er wordt korter dan8 minutenper uur boven schouderhoogte gewerkt.</title>
+          <title>Er wordt korter dan 8 minuten per uur boven schouderhoogte gewerkt.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -4111,7 +4111,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
           </solutions>
         </risk>
         <risk external-id="R-318" type="risk">
-          <title>Er wordt minder dan40 keerper uur boven schouderhoogte gewerkt.</title>
+          <title>Er wordt minder dan 40 keer per uur boven schouderhoogte gewerkt.</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
@@ -4613,7 +4613,7 @@ AgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIA
           </solutions>
         </risk>
         <risk external-id="R-358" type="risk">
-          <title>Iedere kantoormedewerker heeft voor de basiswerkplek een oppervlakte van minimaal 8 m&#178; ter beschikking (uitgaande van een kantoorstoel, een werktafel, een bergruimte onder de werktafel, een staande kast en een beeldschermopstelling met CRT beeldsch</title>
+          <title>Iedere kantoormedewerker heeft voor de basiswerkplek een oppervlakte van minimaal 8 m&#178; ter beschikking (uitgaande van een kantoorstoel, een werktafel, een bergruimte onder de werktafel, een staande kast en een beeldschermopstelling met CRT beeldscherm).</title>
           <description></description>
           <show-not-applicable>no</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>

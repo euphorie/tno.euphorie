@@ -2661,6 +2661,10 @@ html.gecko .comprehensive .infoPanel {
 	left: 65%;
 }
 
+fieldset.richInput .infoPanel {
+	top: -1px;
+}
+
 
 
 /* @end */

@@ -314,56 +314,56 @@ Dan sta ik er helemaal alleen voor. Daar baal ik goed van." &lt;/p&gt;</descript
         <title>Er is een goede werkplanning.</title>
         <description>&lt;p&gt;Een goede werkplanning is niet te krap, maar tegelijkertijd ook niet te ruim. Er is ook tijd ingepland voor &#8220;onverwachte&#8221; activiteiten die altijd "tussendoor" komen.&lt;/p&gt;&lt;a href="http://home.szw.nl/navigatie/rubriek/dsp_rubriek.cfm?rubriek_id=2&amp;amp;subrubriek_id=208&amp;amp;link_id=2106" rel="nofollow" target="_blank"&gt;Werkdruk:&amp;#13;
 algemene informatie voor werkgevers.&lt;/a&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3663" type="risk">
         <title>We kunnen zelf invloed uitoefenen op het werktempo.</title>
         <description></description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3664" type="risk">
         <title>Het werktempo is niet te hoog en niet te laag.</title>
         <description></description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3665" type="risk">
         <title>We kunnen ons werk redelijk ongestoord doen, want we worden er niet vaak "uit gehaald".</title>
         <description></description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3666" type="risk">
         <title>Er is een goede werksfeer.</title>
         <description></description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3667" type="risk">
         <title>Er wordt weinig overgewerkt.</title>
         <description></description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3668" type="risk">
         <title>Lastige klanten komen amper voor.</title>
         <description>&lt;p&gt;&#160;&lt;/p&gt;&lt;a href="http://home.szw.nl/navigatie/rubriek/dsp_rubriek.cfm?rubriek_id=2&amp;amp;subrubriek_id=209#1734" rel="nofollow" target="_blank"&gt;SZW:&amp;#13;
 Agressie en geweld&lt;/a&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3669" type="risk">
         <title>De afgesproken pauzes kunnen in de meeste gevallen worden genomen.</title>
         <description></description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3670" type="risk">
         <title>We hebben een goede nachtrust.</title>
         <description></description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3671" type="risk">
@@ -375,7 +375,7 @@ arbeids- en rusttijden van werknemers&lt;/a&gt;&lt;/p&gt;&lt;p class="MsoNormal"
 kinderarbeid&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;#13;
 &amp;#13;
 &lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
     </module>
@@ -385,56 +385,56 @@ kinderarbeid&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&amp;#13;
       <risk external-id="R-3672" type="risk">
         <title>Staan en zitten langer dan twee uur aaneen wordt vermeden.</title>
         <description>&lt;p&gt;Het voortdurend in dezelfde houding werken is een zware belasting voor het lichaam.&lt;/p&gt;&lt;a href="http://home.szw.nl/navigatie/rubriek/dsp_rubriek.cfm?rubriek_id=2&amp;amp;subrubriek_id=208&amp;amp;link_id=1667" rel="nofollow" target="_blank"&gt;SZW: RSI: algemene informatie voor werkgevers&lt;/a&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3673" type="risk">
         <title>Beeldschermmeubilair is instelbaar op de lengte van diegene die ermee werkt.</title>
         <description>&lt;p&gt;Een instelbare stoel, eventueel een in hoogte instelbaar werkblad of voor kleinere mensen een voetenbankje helpt daarbij.&lt;/p&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3674" type="risk">
         <title>Langdurige eenzijdige bewegingen die alsmaar herhaald worden, zijn afwezig.</title>
         <description>&lt;p&gt;Bij dat soort werk kan slijtage van spieren, pezen en gewrichten ontstaan.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3675" type="risk">
         <title>We kunnen regelmatig variatie in de werkzaamheden aanbrengen.</title>
         <description></description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3676" type="risk">
         <title>Zwaar tillen (meer dan 25 kg.), duwen of trekken, komt weinig voor.</title>
         <description>&lt;p&gt;Voor te zwaar tillen wordt 25 kg. vaak als richtlijn gebruikt. Het is overigens zwaarder om:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;15 kg. in een voorover gebogen houding neer te zetten;&lt;/li&gt;&lt;li&gt;met 15 kg. het lichaam te moeten draaien;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;of tilhandelingen heel vaak of de hele dag te moeten doen.&#160;&lt;/li&gt;&lt;/ul&gt;&lt;p class="MsoNormal"&gt;&lt;a href="http://home.szw.nl/navigatie/rubriek/dsp_rubriek.cfm?rubriek_id=2&amp;amp;subrubriek_id=207&amp;amp;link_id=11347" rel="nofollow" target="_blank"&gt;SZW:&amp;#13;
 Tillen: algemene informatie voor werkgevers&lt;/a&gt;&lt;/p&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3677" type="risk">
         <title>Bij zwaar werk worden tilhulpmiddelen gebruikt.</title>
         <description>&lt;p&gt;Het met twee mensen tegelijk werken kan ook "als hulpmiddel" worden gezien.&lt;/p&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3678" type="risk">
         <title>Werken in een vermoeiende of pijnlijke houding is afwezig.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3679" type="risk">
         <title>We hebben geen rugklachten door ons werk.</title>
         <description></description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3680" type="risk">
         <title>Trillingen of schokken tijdens het werk is vermeden.</title>
         <description>&lt;p&gt;Trillingen of schokken kunnen komen van trillend of stotend gereedschap of machines zoals heftrucks.Dat kan onder meer leiden tot rugaandoeningen of bewegingsziekten.&lt;/p&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
     </module>
@@ -445,25 +445,25 @@ Tillen: algemene informatie voor werkgevers&lt;/a&gt;&lt;/p&gt;</description>
         <title>We werken amper in een omgeving met dampen, stof of rook.</title>
         <description>&lt;p&gt;Mogelijke effecten zijn bv. vergiftiging, allergie&#235;n.&lt;/p&gt;&lt;p class="MsoNormal"&gt;&lt;a href="http://home.szw.nl/navigatie/rubriek/dsp_rubriek.cfm?rubriek_id=2&amp;amp;subrubriek_id=205" rel="nofollow" target="_blank"&gt;SZW:&amp;#13;
 Veilig werken/stoffen en straling&lt;/a&gt;&lt;/p&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3682" type="risk">
         <title>De omgeving waar we werken veroorzaakt geen besmetting.</title>
         <description>&lt;p&gt;Voorbeelden zijn werken in riolen of ziekenhuizen.&lt;/p&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3683" type="risk">
         <title>We zijn bekend met de risico's van de stoffen waarmee we in aanraking komen.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3684" type="risk">
         <title>Gevaarlijke stoffen, waardoor we tranende ogen, exceem, kortademigheid of een allergie oplopen zijn afwezig.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3685" type="risk">
@@ -471,13 +471,13 @@ Veilig werken/stoffen en straling&lt;/a&gt;&lt;/p&gt;</description>
         <description>&lt;p&gt;Het gaat er ook om dat u de juiste beschermingsmiddelen gebruikt &#233;n dat u deze tijdig vervangt.&lt;/p&gt;&lt;a href="http://home.szw.nl/navigatie/rubriek/dsp_rubriek.cfm?rubriek_id=2&amp;amp;subrubriek_id=207&amp;amp;link_id=23046" rel="nofollow" target="_blank"&gt;SZW:&amp;#13;
 Werken met persoonlijke beschermingsmiddelen: algemene informatie voor&amp;#13;
 werkgevers&lt;/a&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3686" type="risk">
         <title>Chemische stoffen laten we altijd in de originele verpakking zitten en op die verpakking zit een duidelijk etiket.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
     </module>
@@ -488,25 +488,25 @@ werkgevers&lt;/a&gt;</description>
         <title>We werken in een omgeving zonder lawaai.</title>
         <description>&lt;p&gt;Als er plekken zijn waar u elkaar op 1 meter afstand niet kunt verstaan, zonder luid te praten, dan kunt u er van uit gaan dat het geluid schadelijk is.&lt;/p&gt;&lt;a href="http://home.szw.nl/navigatie/rubriek/dsp_rubriek.cfm?rubriek_id=2&amp;amp;subrubriek_id=207&amp;amp;link_id=23017" rel="nofollow" target="_blank"&gt;SZW:&amp;#13;
 Schadelijk geluid&lt;/a&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3688" type="risk">
         <title>We werken in een omgeving zonder hinderlijk geluid.</title>
         <description>&lt;p&gt;Gehoorschade krijgt u niet van hinderlijk geluid, maar last kunt u er wel van hebben. Denk maar eens aan een radio.&lt;/p&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3689" type="risk">
         <title>We hebben lawaaiige machines en apparaten in een aparte ruimte gezet.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3690" type="risk">
         <title>Lawaai wordt zoveel als mogelijk beperkt.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3691" type="risk">
@@ -516,13 +516,13 @@ Schadelijk geluid&lt;/a&gt;</description>
 &lt;/p&gt;&lt;p class="MsoNormal"&gt;&lt;a href="http://home.szw.nl/navigatie/rubriek/dsp_rubriek.cfm?rubriek_id=2&amp;amp;subrubriek_id=207&amp;amp;link_id=23046" rel="nofollow" target="_blank"&gt;SZW:&amp;#13;
 Werken met persoonlijke beschermingsmiddelen: algemene informatie voor&amp;#13;
 werkgevers.&lt;/a&gt;&lt;/p&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3692" type="risk">
         <title>De beschermingsmiddelen zijn aangepast aan het werk wat we doen en aangepast aan onze persoonlijke voorkeur.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
     </module>
@@ -532,61 +532,61 @@ werkgevers.&lt;/a&gt;&lt;/p&gt;</description>
       <risk external-id="R-3693" type="risk">
         <title>De temperatuur op de werkplek is in de zomer behaaglijk.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3694" type="risk">
         <title>De temperatuur op de werkplek is in de winter behaaglijk.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3695" type="risk">
         <title>We hebben geen last van tocht.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3696" type="risk">
         <title>We hebben geen last van vochtige lucht.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3697" type="risk">
         <title>De werkomgeving en/of de kleding kunnen we aanpassen aan individuele behoeften en werkzaamheden.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3698" type="risk">
         <title>Waar nodig gebruiken we beschermende kleding.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3699" type="risk">
         <title>Er is voldoende licht op de werkplek, ook voor detailwerk.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3700" type="risk">
         <title>Direct zonlicht is af te schermen via zonwering.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3701" type="risk">
         <title>We hebben geen last van reflecties of schitteringen op ons beeldscherm.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3702" type="risk">
         <title>Overdag is een deel van het licht van buiten afkomstig.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
     </module>
@@ -596,55 +596,55 @@ werkgevers.&lt;/a&gt;&lt;/p&gt;</description>
       <risk external-id="R-3703" type="risk">
         <title>Bewegende delen van machines en apparaten zijn afgeschermd.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3704" type="risk">
         <title>Machines en apparaten zijn afgeschermd tegen vonken, spatten en splinters.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3705" type="risk">
         <title>Machines en apparaten worden periodiek gekeurd.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3706" type="risk">
         <title>We zijn voldoende ge&#239;nstrueerd hoe we machines en gereedschappen moeten gebruiken.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3707" type="risk">
         <title>Machines zijn voorzien van een noodstap en die noodstop is binnen handbereik.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3708" type="risk">
         <title>Bestaande beveiligingen worden altijd &#233;n goed gebruikt.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3709" type="risk">
         <title>We hebben geen last van witte vingers of rugklachten bij het werken met gereedschappen of machines.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3710" type="risk">
         <title>We maken gebruik van hulpmiddelen om trillingen te verminderen.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3711" type="risk">
         <title>De elektrische aansluiting van apparatuur is veilig.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
     </module>
@@ -657,38 +657,38 @@ werkgevers.&lt;/a&gt;&lt;/p&gt;</description>
 &amp;#13;
 &lt;/p&gt;&lt;p class="MsoNormal"&gt;&lt;a href="http://home.szw.nl/navigatie/rubriek/dsp_rubriek.cfm?rubriek_id=2&amp;amp;subrubriek_id=207&amp;amp;link_id=1501" rel="nofollow" target="_blank"&gt;SZW:&amp;#13;
 Werken op hoogte: algemene informatie&lt;/a&gt;&lt;/p&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3713" type="risk">
         <title>Het werken waar gevaar voor vallen van hoogte bestaat gebeurt veilig.</title>
         <description>&lt;p&gt;Zoals vloeropeningen, bordessen zonder hekwerk. Er zijn maatregelen genomen die vallen voorkomen.&lt;/p&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3714" type="risk">
         <title>De transportroutes zijn veilig.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3715" type="risk">
         <title>Werktuigen worden gebruikt voor het doel waarvoor ze zijn.</title>
         <description>&lt;p&gt;Gebruik waarvoor het niet bedoeld is, zoals een persoon vervoeren op een heftruck, mag niet en op die manier voorkomt u ongelukken.&lt;/p&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3716" type="risk">
         <title>Voordat we besloten ruimtes, putten of sleuven betreden, weten we zeker dat het veilig is en dat we alle maatregelen hebben genomen.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3717" type="risk">
         <title>Gevaarlijke werkzaamheden worden met twee personen uitgevoerd.</title>
         <description>&lt;p&gt;Mocht er iets gebeuren, dan is er altijd iemand aanwezig die hulp kan bieden of inroepen.&lt;/p&gt;&lt;a href="http://home.szw.nl/navigatie/rubriek/dsp_rubriek.cfm?rubriek_id=2&amp;amp;subrubriek_id=207&amp;amp;link_id=31707" rel="nofollow" target="_blank"&gt;SZW:&amp;#13;
 Alleenwerken in ge&#239;soleerde omstandigheden&lt;/a&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
     </module>
@@ -698,55 +698,55 @@ Alleenwerken in ge&#239;soleerde omstandigheden&lt;/a&gt;</description>
       <risk external-id="R-3718" type="risk">
         <title>De werkvloer is vrij van rommel.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3719" type="risk">
         <title>Alle kabels en snoeren zijn ordelijk weggewerkt.</title>
         <description>&lt;p&gt;Wegwerken is overigens niet altijd nodig. Het gaat er om dat er niet over gestruikeld of gereden kan worden, met de mogelijke effecten daarvan.&lt;/p&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3720" type="risk">
         <title>Bij brand kunnen we het gebouw snel verlaten.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3721" type="risk">
         <title>Brandblussers zijn aanwezig en hangen op een herkenbare plaats.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3722" type="risk">
         <title>Brandblussers worden periodiek gekeurd.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3723" type="risk">
         <title>Het alarmnummer 112 staat op alle telefoons.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3724" type="risk">
         <title>Er is een EHBO-trommel en deze wordt periodiek gecontroleerd op inhoud.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3725" type="risk">
         <title>We weten hoe we levensreddend moeten handelen.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3726" type="risk">
         <title>Er zijn afspraken over wat te doen bij calamiteiten.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
     </module>
@@ -756,38 +756,38 @@ Alleenwerken in ge&#239;soleerde omstandigheden&lt;/a&gt;</description>
       <risk external-id="R-3727" type="risk">
         <title>Jongeren beneden de 18, uitzendkrachten en stagiaires worden voldoende begeleid.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3728" type="risk">
         <title>We houden rekening met de beperkingen (geestelijk of lichamelijk) van iedereen.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3729" type="risk">
         <title>We houden rekening met mogelijke taalproblemen en cultuurverschillen.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3730" type="risk">
         <title>We houden rekening met de verminderde lichamelijke belastbaarheid van zwangere vrouwen.</title>
         <description>&lt;a href="http://home.szw.nl/navigatie/rubriek/dsp_rubriek.cfm?rubriek_id=2&amp;amp;subrubriek_id=210&amp;amp;link_id=2105" rel="nofollow" target="_blank"&gt;SZW:&amp;#13;
 Zwanger en werken: algemene informatie&lt;/a&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3731" type="risk">
         <title>We houden rekening met oudere mensen.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
       <risk external-id="R-3732" type="risk">
         <title>We zorgen voor de veiligheid van bezoekers.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
     </module>
@@ -797,7 +797,7 @@ Zwanger en werken: algemene informatie&lt;/a&gt;</description>
       <risk external-id="R-3733" type="risk">
         <title>Er zijn bij ons risico's die nog niet gevraagd zijn.</title>
         <description>&lt;p&gt;Als u nog andere gevaren loopt bij uw werk, dan kunt u in de kolom "opmerkingen" nog extra onderwerpen invullen waar u aandacht aan wilt besteden.&lt;/p&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
       </risk>
     </module>

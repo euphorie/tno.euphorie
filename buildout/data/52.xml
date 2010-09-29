@@ -333,19 +333,19 @@ Verhuur van machines in relatie tot GBM, zoals:&#13;
 - zaadontsmetten&#13;
 is meegenomen in deze RIE.</title>
         <description>&lt;p&gt;Geef ook aan of er een van de volgende werkzaamheden plaats vinden:&lt;br/&gt;- afvul werkzaamheden of het ompakken van vloeistoffen uit bulk in gebruikersverpakkingen.&lt;/p&gt;&lt;p&gt;- Spuitwerkzaamheden of loonspuiten&lt;br/&gt;- Verhuur&#160;van machines (andere dan hierboven vermeldt) in relatie tot GBM&lt;/p&gt;&lt;p&gt;Als u dit gedaan hebt, klikt u dan "ja" aan.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;N.B. Indien een van bovenstaanden activiteiten binnen uw bedrijf plaats vinden, dient u voor deze activiteiten zelf de arbo risico's te inventariseren.&lt;/strong&gt;&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-15303" type="policy">
         <title>Heeft u onder "uw opmerkingen" omschreven welk materieel (voertuigen) u heeft?</title>
         <description>&lt;p&gt;Omschrijft u onder "uw opmerkingen" welk materieel u heeft. Met materieel worden bijvoorbeeld vrachtwagens, trekkers,&#160;heftrucks, reachtrucks,&#160;pallettrucs bedoeld. Geeft u (eventueel bij benadering) aan hoeveel u van elk heeft.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Als u dit gedaan heeft, klikt u dan "ja" aan.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-15933" type="policy">
         <title>Heeft u onder "uw opmerkingen" beschreven welke functies in uw bedrijf voornamelijk voorkomen?</title>
         <description>&lt;p&gt;Omschrijft u onder "uw opmerkingen" welke functies in uw bedrijf hoofdzakelijk voorkomen. B.v chauffeurs, planners, administratieve medewerkers,&#160;loods/warehousemedewerkers, baliemedewerkers,&#160;vertegenwoordigers, adviseurs. Geeft u (eventueel bij benadering) het aantal medewerkers aan&#160;in elke functie.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Als u dit gedaan heeft, klikt u dan "ja" aan.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Voor de toetsing is het van belang informatie over uw bedrijf m.b.t. functies, materieel en bedrijfsactiviteiten te krijgen.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-18377" type="policy">
@@ -353,7 +353,7 @@ is meegenomen in deze RIE.</title>
         <problem-description>Zaaizaad, veevoer en of consumptiegoederen moeten gescheiden vervoert dan wel opgeslagen zijn van gevaarlijke stoffen.&#13;
 N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duidelijk gescheiden zijn. Veevoer en consumptiegoederen mogen niet samen vervoert worden met gevaarlijke goederen</problem-description>
         <description>&lt;p class="MsoNormal"&gt;Vult u onder "uw opmerkingen" in het kort in welke lading u vooral vervoert. Dit kunnen meerdere soorten lading zijn:&lt;/p&gt;&lt;p class="MsoNormal"&gt;Bijv. Gevaarlijke stoffen, Zaaizaad en/of&#160;Veevoer. &lt;/p&gt;&lt;p class="MsoNormal"&gt;Als u dit gedaan heeft, klikt u dan "ja" aan.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
     </module>
@@ -367,7 +367,7 @@ N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duideli
         <risk external-id="R-7847" type="policy">
           <title>De stoel in de cabine is comfortabel, instelbaar en goed onderhouden.</title>
           <description>&lt;p&gt;Criteria hiervoor staan in "ARBO&#160;transport, op- en overslag, editie 2003, pagina 196 en verder. Een vrachtwagenstoel die voldoet aan het TNO Stoel Certificaat garandeert een goede standaardstoel. &lt;/p&gt;&lt;p&gt;Jaarlijks preventief stoelonderhoud bespaart kosten en zorgt voor minder rugproblemen. Controleer de stoelen tweemaal per jaar. EVO organiseert regelmatig opleidingen op dit gebied, zie &lt;a href="http://www.evo.nl" rel="nofollow" target="_blank"&gt;www.evo.nl&lt;/a&gt; onder opleidingen&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3366">
@@ -379,7 +379,7 @@ N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duideli
         <risk external-id="R-7848" type="policy">
           <title>Alle chauffeurs hebben voorlichting gehad over het juist instellen van de stoel.</title>
           <description>&lt;p&gt;U kunt de&#160;steekkaart 'Goed zitten' en de folder 'Mijn stoel zit goed' van het BGZ Wegvervoer uitdelen. &lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3367">
@@ -391,7 +391,7 @@ N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duideli
         <risk external-id="R-7850" type="risk">
           <title>De autotelefoons zijn voorzien van een &#8221;hands-free&#8221; voorziening.</title>
           <description>&lt;p&gt;Mobiel bellen tijdens het rijden zonder hands-free voorziening is verboden. Overigens kan ook hands-free bellen ten koste gaan van de concentratie.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3369">
@@ -403,7 +403,7 @@ N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duideli
         <risk external-id="R-7851" type="top5">
           <title>Bij de aanschaf van materieel wordt expliciet de veiligheid en gezondheid van de chauffeurs meegewogen.</title>
           <description>&lt;p&gt;Belangrijk bij vrachtwagens zijn: een verstelbaar stuur; goede klimaatregeling; voldoende ruimte voor rijden, administratie, slapen en omkleden; goede toegankelijkheid van de cabine; schoonmaak- en onderhoudsgemak en opbergvoorzieningen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3370">
@@ -415,7 +415,7 @@ N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duideli
         <risk external-id="R-7853" type="policy">
           <title>Het klimaat in de vrachtwagens is over het algemeen behaaglijk.</title>
           <description>&lt;p&gt;Bij auto's zorgt een airco voor een constanter werkklimaat en werkt zo minder vermoeiend. &lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3372">
@@ -427,7 +427,7 @@ N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duideli
         <risk external-id="R-14354" type="risk">
           <title>De chauffeurs worden betrokken in de beoordeling van nieuwe vrachtwagens, heftrucks en ander materieel voorafgaand aan de aanschaf.</title>
           <description>&lt;p&gt;Vraag bijvoorbeeld de betrokken chauffeurs van tevoren naar hun klachten en wensen en bespreek de keuze in bijvoorbeeld de chauffeurscommissie. Geef daarbij aan wat wel kan en wat niet. Dit geldt vooral voor de cabine,&#160;laadruimte&#160;en de stoel.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6840">
@@ -443,7 +443,7 @@ N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duideli
         <risk external-id="R-7856" type="top5">
           <title>Onderhoud aan het materieel wordt periodiek uitgevoerd.</title>
           <description>&lt;p&gt;Belangrijk bij vrachtwagens zijn: APK (verplicht), laadklepkeuring (verplicht), cabine, bed, stoel, etc. &lt;/p&gt;&lt;p&gt;Door periodiek preventief onderhoud te (laten) plegen gaat het materieel langer mee en vertoont minder storingen tijdens het gebruik.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3375">
@@ -455,7 +455,7 @@ N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duideli
         <risk external-id="R-7858" type="top5">
           <title>Alle vrachtauto&#8217;s en bestelauto's beschikken over een zichtveldsysteem voor het verkleinen van de dode hoek en deze is juist afgesteld.</title>
           <description>&lt;p&gt;Een dergelijk systeem (Dobli-spiegel of camera) is verplicht voor vrachtwagens. Informatie over het juist afstellen van de spiegel of camera kunt op internet vinden.&lt;/p&gt;&lt;p&gt;Bij&#160;bestelauto's zijn dergelijke systemen gewenst.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3377">
@@ -467,7 +467,7 @@ N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duideli
         <risk external-id="R-7859" type="policy">
           <title>De chauffeurs hebben voldoende ervaring, opleiding en onderricht gehad om hun werk veilig uit te voeren.</title>
           <description>&lt;p&gt;Denk hierbij aan een opfriscursus 'veilig rijden'. Zo'n cursus&#160;geeft&#160;chauffeurs meer inzicht hoe zij hun rijstijl kunnen aanpassen. Hiermee wordt de kans op ongelukken&#160;verminderd. Aandachtspunt is herhaling na bijvoorbeeld vijf tot tien jaar.&lt;/p&gt;&lt;p&gt;EVO organiseert regelmatig opleidingen op dit gebied &lt;a href="http://www.evo.nl" rel="nofollow" target="_blank"&gt;www.evo.nl&lt;/a&gt; &lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3378">
@@ -479,7 +479,7 @@ N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duideli
         <risk external-id="R-7862" type="top5">
           <title>Op&#160;oplegger, tank of laadbak zijn voldoende op-, afstap- en klimvoorzieningen aanwezig waardoor valgevaar wordt voorkomen.</title>
           <description>&lt;p&gt;Voorzieningen zijn: relingen of klaphekken op tankwagens, beveiligingen op beweegbare laadkleppen, trapjes op afzetbakken en tankwagens, bordessen voor afzeilen op open laadbakken&#160;etc.&lt;/p&gt;&lt;p&gt;Beter is nog te zorgen voor laad/lossystemen waarbij niet geklommen hoeft te worden.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3381">
@@ -491,7 +491,7 @@ N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duideli
         <risk external-id="R-7863" type="risk">
           <title>Alle chauffeurs hebben een (retro)reflecterend vest bij zich in de cabine.</title>
           <description>&lt;p&gt;Door het dragen van een (retro)reflecterend vest&#160; buiten de vrachtwagen is de chauffeur in het donker beter zichtbaar en wordt het aanrijdgevaar verminderd. &lt;/p&gt;&lt;p&gt;Neem ook enkele pilonnen mee in de wagen voor het&#160;markeren van de wagen bij pech onderweg of van de laad/losplek.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3382">
@@ -504,7 +504,7 @@ N.B. gescheiden vervoeren kan met dezelfde vrachtwagen, mits de goederen duideli
           <title>Alle vrachtwagens die op de openbare weg rijden beschikken op z'n minst over een brandblusser, een (actuele) verbandtrommel, enkele pilonnen voor afzetting, een mes en een gevarendriehoek.&#13;
 Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie ook 1.4 in deze RIE</title>
           <description>&lt;p&gt;Blusser:&#160;poeder- of schuimblusser van 2 kg&#160;(controleer jaarlijks de houdbaarheid/ inhoud). &lt;/p&gt;&lt;p&gt;Verbandtrommel:&#160;Er is een basisbedrijfsverbanddoos en een verkeersset. Let op dat de doos 'Goedgekeurd door' met het logo van het Oranje Kruis staat (controleer&#160;periodiek houdbaarheid/inhoud). Het mes moet geschikt zijn voor het doorsnijden van veiligheidsgordels en inslaan van ruiten. De gevarendriehoek dient stabiel langs de weg te kunnen worden opgesteld bij pech onderweg. Met pilonnen kan de plek worden afgezet. Voor ADR-chauffeurs gelden specifieke eisen.&lt;/p&gt;&lt;p&gt;N.B. kijk voor actuele gegevens op &lt;a href="http://www.agrodis.nl/" rel="nofollow" target="_blank"&gt;www.agrodis.nl&lt;/a&gt; / activiteiten / wet en regelgeving / eisen vervoer&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3383">
@@ -520,7 +520,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-7871" type="policy">
           <title>De werktijden voor chauffeurs voldoen aan het Arbeidstijdenbesluit Vervoer en de planning is hierop afgestemd.</title>
           <description>&lt;p&gt;Zie voor meer informatie over het Arbeidstijdenbesluit Vervoer de publicaties van de Inspectie Verkeer en Waterstaat.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3390">
@@ -532,7 +532,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-7870" type="policy">
           <title>Er zijn zowel in de dienstroosters als in de praktijk voldoende mogelijkheden voor Tijd-voor-Tijd, pauzes en nachtrust.</title>
           <description>&lt;p&gt;Zie hiervoor&#160;het Arbeidstijdenbesluit Vervoer.&#160;Folders hierover zijn verkrijgbaar bij de Inspectie Verkeer en Waterstaat.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3389">
@@ -544,7 +544,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-7869" type="policy">
           <title>De werktijden zijn regelmatig en bekend.</title>
           <description>&lt;p&gt;In het vervoer worden lange&#160;werkweken gemaakt. 60 uur werken is geen uitzondering. Het is belangrijk dat medewerkers van te voren weten waar ze aan toe zijn. Zijn ze meestal 's avonds thuis of rijden ze meerdaagse ritten? Zijn ze in het weekend vrij of juist niet? Uiteraard moeten de werktijden voldoen aan het Arbeidstijdenbesluit Vervoer.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3388">
@@ -561,7 +561,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-14389" type="policy">
           <title>Alle chauffeurs mbt het vervoer van GBM hebben een geldig ADR-certificaat.</title>
           <description>&lt;p&gt;Voor vervoer van gevaarlijke stoffen is een geldig ADR-certificaat verplicht.&lt;/p&gt;&lt;p&gt;Voor vrachtwagens &amp;lt; 3,5 ton is dit vanaf 1-1-2007 ook verplicht, tenzij u werkt m.b.v. de 1000 punten regeling hetzij de LQ- methode.&lt;/p&gt;&lt;p&gt;zie &lt;a href="http://www.agrodis.nl/" rel="nofollow" target="_blank"&gt;www.agrodis.nl&lt;/a&gt; / activiteiten / wet en regelgeving / eisen vervoer&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6801">
@@ -573,7 +573,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-13687" type="risk">
           <title>De ADR-uitrusting is aanwezig, compleet en wordt minstens 1 keer per jaar gecontroleerd.</title>
           <description>&lt;p&gt;ADR-uitrusting?&lt;/p&gt;&lt;p&gt;Raadpleeg evt. uw veiligheidsadviseur. &lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6530">
@@ -586,7 +586,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
           <title>De chauffeur controleert regelmatig of de persoonlijke beschermingsmiddelen conform de gevarenkaart aanwezig zijn. De gevarenkaarten zijn aanwezig tijdens transport.</title>
           <problem-description>Zijn de gebruikte persoonlijke beschermingsmiddelen/ uitrusting (beschermende kleding, handschoenen, veiligheidslaarzen of -schoenen, oogbeschermingsmiddelen.</problem-description>
           <description>&lt;p class="MsoNormal"&gt;De taal waarin de gevarenkaart moet zijn gesteld is de taal van het land van afzending, doorvoer en bestemming. In ieder geval ook een taal die de chauffeur kan lezen. De gevarenkaarten moeten bewaard worden in de cabine van het voertuig. Gevarenkaarten die in de cabine zijn en geen betrekking hebben op de lading moeten nadrukkelijk gescheiden worden gehouden van de andere gevarenkaarten.&lt;/p&gt;&lt;p&gt;U kunt gevarenkaarten verkijgen via &lt;a href="http://www.evo.nl" rel="nofollow" target="_blank"&gt;www.evo.nl&lt;/a&gt; &lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6531">
@@ -598,7 +598,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-13689" type="risk">
           <title>De vrachtwagens zijn voorzien van de juiste oranje borden en de verpakkingen van de juiste gevaaridentificatienummers (UN-nr) en symbolen.</title>
           <description>&lt;p&gt;Elke transporteenheid (voor stukgoed) moet aan de voor en achterzijde zijn voorzien van een oranje bord van 30 x 40 cm, met een zwarte rand van 25 mm breed.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6532">
@@ -619,7 +619,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-7873" type="policy">
           <title>Lichamelijke belasting wordt beperkt door het juiste gebruik van hulpmiddelen zoals pallettrucs.</title>
           <description>&lt;p&gt;Belangrijke aandachtspunten zijn: het niet te zwaar of ongelijk beladen, zware spullen onderop laden en duwen in plaats van trekken.&#160;&#160;Meer informatie / checklists, kunt u opvragen bij EVO.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3391">
@@ -631,7 +631,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-7874" type="policy">
           <title>Lichamelijke belasting wordt beperkt door het maken van afspraken met klanten over belading van pallets, vlakke laad/losvloeren en het gebruik van hulpmiddelen.</title>
           <description></description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3392">
@@ -643,7 +643,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-7875" type="policy">
           <title>Interne transportkarren worden periodiek onderhouden.</title>
           <description>&lt;p&gt;Door goedlopende wieltjes wordt de lichamelijke belasting beperkt. Controleer de Interne transportkarren minimaal 2 keer per jaar en voer preventief onderhoud uit.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3393">
@@ -655,7 +655,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-7876" type="risk">
           <title>Er zijn voldoende en&#160;geschikte hulpmiddelen beschikbaar om de lichamelijke belasting te beperken.</title>
           <description></description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3394">
@@ -667,7 +667,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-7877" type="policy">
           <title>De medewerkers zijn getraind of hebben een instructie gehad in een goede werktechniek bij het duwen, trekken, tillen en sjorren.</title>
           <description>&lt;p&gt;Zie &lt;a href="http://www.evo.nl" rel="nofollow" target="_blank"&gt;www.evo.nl&lt;/a&gt; voor passende opleidingen&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3395">
@@ -683,7 +683,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-7878" type="top5">
           <title>De medewerkers beschikken over comfortabele veiligheidsschoenen met een stroeve zool en goede werkhandschoenen.</title>
           <description>&lt;p&gt;Alle medewerkers beschikken over goede en comfortabele schoenen waarmee&#160;letsel aan voeten en enkels wordt voorkomen. Stel eisen op, waaraan de schoenen moeten voldoen. Een stalen neus voorkomt letsels bij aanrijdingen, knellen. Stroeve zolen voorkomen dat men uitglijdt.&#160; Werkhandschoenen voorkomen letsel aan handen. De werkgever stelt de veiligheidsschoenen en handschoenen kosteloos ter beschikking.&#160;&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3396">
@@ -695,7 +695,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-7879" type="policy">
           <title>Laad- en losplaatsen worden schoongehouden.</title>
           <description>&lt;p&gt;Een schone werkomgeving helpt kleine ongelukjes met grote gevolgen te voorkomen. Bovendien is intern transport minder belastend bij een schone vloer.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3397">
@@ -707,7 +707,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-7880" type="policy">
           <title>Er is een vlak en schoon pad van de loods/opslag naar de laad/losplaats.</title>
           <description>&lt;p&gt;Een vlakke en schone werkomgeving helpt kleine ongelukjes met grote gevolgen te voorkomen en&#160;vermindert de lichamelijke belasting bij intern transport.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3398">
@@ -719,7 +719,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-7881" type="policy">
           <title>De laadklepranden sluiten naadloos aan op de laadvloeren.</title>
           <description>&lt;p&gt;Brede naden kunnen ongelukken veroorzaken en vergroten de lichamelijke belasting.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3399">
@@ -731,7 +731,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-7882" type="policy">
           <title>Pallets worden geregeld gecontroleerd en direct vervangen bij beschadiging.</title>
           <description>&lt;p&gt;Beschadigde (beladen) pallets kunnen instabiel zijn.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3400">
@@ -744,7 +744,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
           <title>Gehoorbeschadigend lawaai bij laden en lossen wordt voorkomen en geluidhinder zoveel mogelijk beperkt.</title>
           <description>&lt;p&gt;De werkgever moet voorkomen dat werknemers worden blootgesteld aan hoge geluidsniveaus. Laat zo nodig metingen uitvoeren en geef medewerkers zo nodig gehoorbeschermingsmiddelen. Indien werknemers worden blootgesteld aan te hoge geluidsniveaus zullen maatregelen getroffen moeten worden als: lawaaibron verwijderen, blootstelling verminderen; persoonlijke beschermingsmiddelen verstrekken. Ga na hoe het lawaai beperkt kan worden. Over een werkdag van acht uur gerekend mag het gemiddelde geluidsniveau niet boven de 80 dB (norm 1-1-2006)&#160;komen. Stem moeten verheffen op 1 meter afstand is ongeveer 80 dB(A).&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art 6.6 Arbobesluit.&lt;/h3&gt;&lt;p&gt;Werknemers mogen niet aan te hoge geluidsniveaus worden blootgesteld.&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3401">
@@ -757,7 +757,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
           <title>Valgevaar bij werken op hoogte (boven 2,5 m.) wordt beperkt door het gebruik van relingen, stootranden, bordessen, trappen of valbeschermings&#173;middelen.</title>
           <description>&lt;p&gt;Werknemers die, bij het vallen, verwondingen of erger kunnen oplopen dienen te worden beschermd door het nemen van maatregelen om het vallen te voorkomen. Ga na op welke wijze kan worden voorkomen dat werknemers&#160;vallen en installeer dan de noodzakelijke voorzieningen als: relingen, stootrand, bordessen&#160;en trappen.&#160;Gebruik valbeschermingsmiddelen. &lt;/p&gt;&lt;p&gt;Zet nooit mensen omhoog met een heftruck! Dat is levensgevaarlijk. Gebruik bij het omhoog zetten van personen een goedgekeurde werkbak met hoogwerker.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Artikel 3.16 Arbobesluit&lt;/h3&gt;&lt;p&gt;Valgevaar dient te worden voorkomen door het aanbrengen van adequate voorzieningen.&lt;/p&gt;</legal-reference>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3402">
@@ -770,7 +770,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
           <title>Er wordt indien van toepassing beschermende kleding verstrekt tegen kou, regen en/of vuil.</title>
           <description>&lt;p&gt;Werknemers dienen door de werkgever te worden voorzien van kleding die beschermt tegen kou en regen en die bestand is tegen vuil.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit art. 8.1 t/m 8.3.&lt;/h3&gt;&lt;p&gt;De werkgever is verplicht werknemers&#160;de juiste persoonlijke beschermingsmiddelen ter beschikking te stellen.&lt;/p&gt;</legal-reference>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3403">
@@ -783,7 +783,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
           <title>Hulpmiddelen zoals heftrucks, reachtrcuks en elektrische pallettrucks worden jaarlijks gekeurd.</title>
           <description>&lt;p&gt;Mobiele arbeidsmiddelen moeten jaarlijks worden gekeurd. Door goed en regelmatig onderhoud te (laten) plegen zijn de hulpmiddelen langer op een goede wijze inzetbaar en vertonen zij minder storingen tijdens gebruik.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art 7.5 Arbobesluit.&lt;/h3&gt;&lt;p&gt;De hulpmiddelen dienen tijdens de gebruiksduur in een goede staat te worden gehouden.&lt;/p&gt;</legal-reference>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3404">
@@ -796,7 +796,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
           <title>Risico&#8217;s tijdens laden en lossen bij klanten zijn bekend en er zijn afspraken gemaakt met klanten om deze risico&#8217;s zo nodig aan te pakken.</title>
           <description>&lt;p&gt;Door op de hoogte te zijn van gevaren bij bedrijven waar geladen en/of gelost moet worden, kunnen vooraf de eigen werknemers worden voorgelicht ten aanzien van de risico&#8217;s. Neem dit op in een checklist die gebruikt wordt bij het afsluiten van contracten. Vertel de eigen werknemers welke gevaren er zijn bij het laden/lossen op de locatie van de andere werkgever. Verstrek zo nodig persoonlijke beschermingsmiddelen.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art 19 arbowet&lt;/h3&gt;&lt;p&gt;Werkgevers werken doelmatig samen om gevaar voor werknemers te voorkomen.&lt;/p&gt;</legal-reference>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3405">
@@ -813,7 +813,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-13692" type="top5">
           <title>Bulk- en tankwagens zijn voorzien van een toegangstrap, loopbordes en (neerklapbaar) hekwerk (met een leuning op 0,5 m en 1.0 m hoogte).</title>
           <description>&lt;p&gt;Als klimmen op de bulk- of tankwagen nodig is bij laden/lossen is beveiliging tegen valgevaar verplicht.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6534">
@@ -825,7 +825,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-13693" type="risk">
           <title>Compressoren en afvulinstallaties zijn geluidsarm.</title>
           <description>&lt;p&gt;Kies voor schroevencompressoren i.p.v. schoepen. Ook indien deze installaties onder verantwoordelijheid van de klant vallen dient u te zorgen dat uw medewerkers niet worden blootgesteld aan schadelijke geluidniveaus.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6535">
@@ -838,7 +838,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
           <title>Het geluidsniveau van de tankwagen is over een achturige dag gerekend niet hoger dan 80dB.</title>
           <problem-description>Het betreft hier het geluidsniveau tijdens het leegpompen van de bulkwagen, het reinigen van de bulkwagen en het werken met afvulinstallaties (gegevens van leverancier, klant of metingen van een deskundige). Incidentele pieken van 90dB zijn mogelijk.</problem-description>
           <description></description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6536">
@@ -850,7 +850,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-13695" type="risk">
           <title>Er wordt gehoorbescherming gedragen, als onvermijdelijk is dat het geluidsniveau langere tijd boven de 80 dB uitkomt.</title>
           <description></description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6537">
@@ -863,7 +863,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
           <title>5 Bij het afvullen wordt gezorgd voor aardcontact.</title>
           <problem-description>Ter voorkoming van oplading, vonk, en explosie/brand.</problem-description>
           <description></description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6538">
@@ -875,7 +875,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-13697" type="risk">
           <title>De afvulinstallaties zijn voorzien van een afzuiging om vrijkomend stof en vrijkomende dampen (damp retourleiding) af te voeren.</title>
           <description></description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6539">
@@ -887,7 +887,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-13698" type="top5">
           <title>V&#242;&#242;r het betreden van tanks waarmee gevaarlijke stoffen worden vervoerd worden de concentraties zuurstof/brandbare stoffen/giftige stoffen gemeten.</title>
           <description></description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6540">
@@ -899,7 +899,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-13699" type="risk">
           <title>De medewerker die de gasmetingen uitvoert is hiertoe opgeleid.</title>
           <description></description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6541">
@@ -911,7 +911,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-13700" type="top5">
           <title>Bij de reiniging van de binnenkant van een tank waarin gevaarlijke stoffen zijn vervoerd, is een medewerker aangewezen die permanent contact houdt met de medewerker die de reinigingswerkzaamheden uitvoert.</title>
           <description>&lt;p&gt;Als de man in de tank onwel wordt moet er een veilige manier zijn om hem uit de tank te krijgen dus zonder dat de tweede man naar binnen gaat (gebruik veiligheidsgordels en -lijnen).&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6542">
@@ -923,7 +923,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-13701" type="top5">
           <title>Er worden voldoende persoonlijke beschermingsmiddelen zoals adembescherming en huid/oogbescherming kosteloos ter beschikking gesteld en gebruikt.</title>
           <description></description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6543">
@@ -936,7 +936,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
           <title>Mogelijke blootstelling aan gevaarlijke stoffen bij laden of lossen is vastgesteld en adequate maatregelen ter voorkoming van blootstelling zijn genomen.</title>
           <description>&lt;p&gt;Het is mogelijk dat medewerkers bij laden en lossen ongewild worden blootgesteld aan gevaarlijke stoffen. Denk aan openen/sluiten afsluiters/deksel, koppelen of ontkoppelen van vulslangen of monstername.&lt;/p&gt;&lt;p&gt;Breng in kaart aan welke stoffen medewerkers kunnen worden blootgesteld en welke maatregelen zijn genomen ter voorkoming van blootstelling.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art. 4.2 lid 1 Arbobesluit&lt;/h3&gt;&lt;p&gt;Indien werknemers worden of kunnen worden blootgesteld aan gevaarlijke stoffen, ongeacht of met deze stoffen daadwerkelijk arbeid wordt of zal worden verricht, worden, in het kader van de risico-inventarisatie en -evaluatie, bedoeld in artikel 5 van de wet, de aard, de mate en de duur van die blootstelling beoordeeld teneinde de gevaren of de hinder voor de werknemers te bepalen. &lt;/p&gt;</legal-reference>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6910">
@@ -957,7 +957,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-7890" type="policy">
           <title>De GBM / meststoffen-opslag is ingericht volgens de richtlijnen CPR 15-3 of PGS.</title>
           <description>&lt;p&gt;Zie voor meer achtergrondinfo: &lt;a href="http://www.agrodis.nl/" rel="nofollow" target="_blank"&gt;www.agrodis.nl&lt;/a&gt; / activiteiten / wet en regelgeving / eisen opslag&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3407">
@@ -969,7 +969,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-7891" type="policy">
           <title>Vloeren in de opslag worden goed schoongehouden&#160;en zijn vloeistofkerend.</title>
           <description>&lt;p&gt;Verontreiniging van de vloer kan&#160;lichamelijke belasting (intern transport) of lichamelijk letsel (uitglijden, struikelen)&#160;veroorzaken.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3408">
@@ -981,7 +981,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-7894" type="top5">
           <title>Kolommen in de opslag zijn goed afgeschermd tegen aanrijding.</title>
           <description>&lt;p&gt;Kolommen kunnen bij een aanrijding worden verbogen waardoor de stabiliteit van stellingen en van het pand in gevaar kan komen. Vervang verbogen kolommen direct. Zorg voor vrijstaande aanrijdbeschermers op hoeken van stellinggangen en onderdoorgangen.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3411">
@@ -993,7 +993,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-7895" type="top5">
           <title>Stellingen zijn voldoende stabiel en geborgd tegen omvallen.</title>
           <description>&lt;p&gt;Stellingen&#160;moeten stabiel&#160;zijn en goed geborgd tegen omvallen. Controleer of de borging is aangebracht. Zorg dat lading stevig is verankerd en pallets stevig staan in de stellingen.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3412">
@@ -1005,7 +1005,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-7896" type="top5">
           <title>Hef-, kantel-, overhead- en roldeuren zijn beveiligd ter voorkoming van knel- en pletgevaar.</title>
           <description>&lt;p&gt;Deuren die na een druk op de knop zelf verder sluiten dienen te zijn voorzien van een beveiliging die knel- en pletgevaar voorkomt.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3413">
@@ -1018,7 +1018,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
           <title>Er is een contract voor jaarlijks preventief onderhoud van de hef- kantel- en roldeuren. En er is iemand verantwoordelijk om na te gaan of de controle ook is uitgevoerd</title>
           <description>&lt;p&gt;Leveranciers hebben de juiste kennis in huis om de specifieke controles ten aanzien van veiligheid van deze voorzieningen uit te voeren.&lt;/p&gt;&lt;p&gt;Plan de controles (RCS-handboek), om te kunnen bewaken dat ze ook daarwerkelijk zijn uitgeveord&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Art 7.5 Arbobesluit.&lt;/h3&gt;&lt;p&gt;De hulpmiddelen dienen tijdens de gebruiksduur in een goede staat te worden gehouden.&lt;/p&gt;</legal-reference>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3414">
@@ -1030,7 +1030,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-14416" type="risk">
           <title>Er zijn veilige voorzieningen om medewerkers op hoogte te laten werken.</title>
           <description>&lt;p&gt;O.a. bij lampen vervangen is werken op hoogte nodig. Zorg voor veilige bordessen, trappen&#160;of goedgekeurde werkbak met hoogwerker.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6810">
@@ -1042,7 +1042,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-15305" type="risk">
           <title>Trappen zijn uitgevoerd met een degelijke leuning en gekartelde, slipvrije roosters die vocht en vuil goed doorlaten.</title>
           <description></description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-7286">
@@ -1059,7 +1059,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-7898" type="top5">
           <title>Er zijn&#160; maatregelen genomen die struikelen, uitglijden of het bekneld raken bij laadperrons voorkomen.</title>
           <description>&lt;p&gt;Werknemers dienen te worden beschermd tegen letsel&#160;door struikelen, uitglijden of bekneld raken.&#160;Zorg voor een droge, schone&#160;en stroeve ondergond op en rond de laadperrons. Ga na of er knelgevaar kan optreden en neem deze gevaren weg door het aanbrengen van bescherming.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3415">
@@ -1071,7 +1071,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-7899" type="top5">
           <title>Er is voor gezorgd dat mens en materieel niet in een open dock (zonder dat de vrachtwagen aanwezig is) kunnen vallen.</title>
           <description>&lt;p&gt;Door een goede markering van gevaarlijke plekken hebben werknemers zicht op deze plekken. Breng een duidelijke markering van gevaarlijke plekken aan. Breng zo nodig een wegklapbare of wegzinkende opstaande rand aan om hef- en reachtrucks tegen te houden.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3416">
@@ -1083,7 +1083,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-7900" type="top5">
           <title>Er zijn maatregelen genomen om ongewenst wegrijden van de vrachtwagen te voorkomen.</title>
           <description>&lt;p&gt;Als vrachtwagens niet op de rem zijn gezet of anderszins geborgd (wielkeggen) bestaat er gevaar voor het&#160;ongewild verplaatsen van de wagen. De vrachtwagen kan worden geborgd door de onderrijdbeveiliging te blokkeren of door de wielen hydraulisch te voorzien van een blokkering.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3417">
@@ -1095,7 +1095,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-7902" type="risk">
           <title>Hellingbanen lopen niet steil.</title>
           <description>&lt;p&gt;Indien de helling te groot is maak dan gebruik van een docklift.&#160;De hellinghoek mag niet meer bedragen dan 10%.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3419">
@@ -1113,7 +1113,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
           <title>De opslag wordt goed geventileerd.</title>
           <description>&lt;p&gt;Voldoende toevoer van schone lucht in de opslag is belangrijk voor de gezondheid van medewerkers.&#160;&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit artikel 6.2&lt;/h3&gt;&lt;p&gt;Op de arbeidsplaats is voldoende niet verontreinigde lucht aanwezig.&lt;/p&gt;</legal-reference>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3420">
@@ -1125,7 +1125,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-7904" type="risk">
           <title>Tocht, koude en warmte in de opslag worden beheerst.</title>
           <description>&lt;p&gt;Wisselende temperaturen en koude luchtstromen (tocht) veroorzaken hinder en gezondheidsklachten.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3421">
@@ -1138,7 +1138,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
           <title>Dieselmotoremissie door diesel aangedreven voertuigen in de opslag is voorkomen.</title>
           <description>&lt;p&gt;Dieselmotoremissie is zeer schadelijk voor de gezondheid en bevat kankerverwekkende stoffen. Beneden&#160;4 ton laadvermogen mag een heftruck die in een omsloten ruimte wordt gebruikt geen verbrandingsmotor hebben. Werk zoveel mogelijk met elektromotoren.&lt;/p&gt;&lt;p&gt;Is het laadvermogen meer dan 4 ton zorg dan bijvoorbeeld voor een roetfilter. &lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit artikel 4.3a; 4.6; 4.9; 4.10&lt;/h3&gt;&lt;p&gt;&#160;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3422">
@@ -1151,7 +1151,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
           <title>Er is voldoende verlichting in de opslag door kunstmatige verlichting of daglicht door daglichtopeningen in deuren en dakvensters en koepels in het dak.</title>
           <description></description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit artikel 6.3&lt;/h3&gt;&lt;p&gt;&#160;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3423">
@@ -1163,7 +1163,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-7907" type="risk">
           <title>De opslag wordt schoongehouden ter voorkoming van stofophoping.</title>
           <description>&lt;p&gt;Stof is hinderlijk en kan klachten van de luchtwegen tot gevolg hebben. Afhankelijk van het materiaal en de kwaliteit van de heftruckbanden kunnen rubberdeeltjes vrijkomen.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3424">
@@ -1175,7 +1175,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-7910" type="risk">
           <title>Bij een acculaadstation worden voor het verwisselen en bijvullen van (zware) accu&#8217;s tilhulp&#173;middelen en persoon&#173;lijke beschermings&#173;middelen gebruikt.</title>
           <description>&lt;p&gt;Accu's bevatten gevaarlijke stoffen. Draag daarom altijd geschikte (persoonlijke) beschermingsmiddelen (zuurbestendige handschoenen, bril, voorschoot, oogspoelfles e.d.) bij handelingen met accu's.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3427">
@@ -1187,7 +1187,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-7911" type="risk">
           <title>Er is een brandwerende scheiding tussen acculaadruimte en brandbare materialen of opslag.</title>
           <description></description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3428">
@@ -1199,7 +1199,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
         <risk external-id="R-7912" type="risk">
           <title>De acculaadruimte voldoet aan de richtlijnen.</title>
           <description>&lt;p&gt;Belangrijk zijn: een goede ventilatie i.v.m. vrijkomend waterstofgas, pictogrammen waarop staat dat roken en vuur verboden zijn, een explosieveilige installatie en een oogdouche. Meer informatie is te vinden in het boek ARBO in Transport, op- en overslag van Reed Business Information.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3429">
@@ -1212,7 +1212,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
           <title>Als u gevaarlijke stoffen op- of overslaat voldoet de op-, overslagplaats aan de geldende eisen (o.a. vloeifsofdichte vloer).</title>
           <description>&lt;p&gt;Deze eisen staan bijvoorbeeld in PGS&#160;15, een publicatie van de overheid. &lt;/p&gt;&lt;a href="http://www.minvrom.nl" rel="nofollow" target="_blank"&gt;www.minvrom.nl&lt;/a&gt;&lt;p&gt; of &lt;/p&gt;&lt;a href="http://www.vrom.nl/pagina.html?id=9258#PGevStof" rel="nofollow" target="_blank"&gt;http://www.vrom.nl/pagina.html?id=9258#PGevStof&lt;/a&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit artikel 4.3a, 4.4, 4.5, 4.6 en 4.6a&lt;/h3&gt;&lt;p&gt;&#160;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3430">
@@ -1230,7 +1230,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
           <title>EHBO-middelen, zoals nooddouche, EHBO-koffer zijn aanwezig op de locatie, waar gewerkt wordt met gevaarlijke stoffen</title>
           <description></description>
           <legal-reference>&lt;h3&gt;Wettelijk kader PGS 15&lt;/h3&gt;&lt;p&gt;E&lt;/p&gt;</legal-reference>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3431">
@@ -1244,7 +1244,7 @@ Voor vrachtwagens die gevaarlijke stoffen vervoeren gelden aanvullende eisen zie
 Jaarlijks wordt nagegaan of de persoonlijke beschermingsmiddelen ook gebruikt worden</title>
           <description>&lt;p&gt;Instrueer de medewerkers over welke persoonlijke beschermingsmiddelen beschikbaar zijn, wanneer welke persoonlijke beschermingsmiddelen verplicht gedragen moeten worden en op welke wijze een medewerker aan nieuwe persoonlijke beschermingsmiddelen kan komen. Stel hier een schriftelijke instructie voor op. en neem de controle op in uw planning&#160;van uw RCS-handboek&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit artikel 4.9&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3432">
@@ -1256,7 +1256,7 @@ Jaarlijks wordt nagegaan of de persoonlijke beschermingsmiddelen ook gebruikt wo
         <risk external-id="R-7916" type="risk">
           <title>Gevaarlijke stoffen staan in of boven een lekbak of in een daartoe ingerichte loods met een integrale opvangbak.</title>
           <description>&lt;p&gt;Het weglekken van gevaarlijke stoffen, die mogelijk&#160; bodemvervuiling kunnen&#160;veroorzaken moet worden voorkomen. Opslag van gevaarlijke stoffen dient te geschieden in specifieke opslagen, die zijn voorzien van een vloeistofdichte vloer. Als oplossing&#160;op de werkplek is het gebruik van lekbakken toegestaan. Dit betekent dat alle stoffen en ook accu&#8217;s in lekbakken dienen te zijn opgeslagen. De lekbakken dienen minimaal de gehele inhoud van de verpakkingen te kunnen bevatten.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3433">
@@ -1268,7 +1268,7 @@ Jaarlijks wordt nagegaan of de persoonlijke beschermingsmiddelen ook gebruikt wo
         <risk external-id="R-7917" type="risk">
           <title>Er is een werkende oogspoelvoorziening in ruimten (of in de direct nabijheid &lt; 10 meter) waar met gevaarlijke stoffen wordt gewerkt of worden opgeslagen.</title>
           <description>&lt;p&gt;Als de mogelijkheid bestaat dat werknemers bijtende, corrosieve of irriterende stoffen in de ogen krijgen dan dient er een oogspoelvoorziening aanwezig te zijn. Afhankelijk van de duur van het moeten spoelen kan een oogdouche aangesloten op het waterleidingnet de meest gewenste vorm zijn.&lt;/p&gt;&lt;p&gt;Soms is ook een nooddouche verplicht. In de publicatie PGS 15 vindt u eisen aan ruimten waarin gevaarlijke stoffen worden opgeslagen.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3434">
@@ -1280,7 +1280,7 @@ Jaarlijks wordt nagegaan of de persoonlijke beschermingsmiddelen ook gebruikt wo
         <risk external-id="R-13711" type="risk">
           <title>Bij handelingen met gevaarlijke stoffen wordt blootstelling voorkomen.</title>
           <description>&lt;p&gt;Blootstelling aan schadelijke stoffen (giftig, irriterend, kankerverwekkend of schadelijk voor het nageslacht) tijdens het werk moet worden voorkomen. Voor veel stoffen is een&#160;grenswaarde op de werkplek gepubliceerd (boek Chemiekaarten).&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6555">
@@ -1292,7 +1292,7 @@ Jaarlijks wordt nagegaan of de persoonlijke beschermingsmiddelen ook gebruikt wo
         <risk external-id="R-18399" type="risk">
           <title>De beheerder van de GBM-opslag beschikt over een Licentie 3 (distribueren gewasbeschermingsmiddelen).</title>
           <description></description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-9471">
@@ -1309,7 +1309,7 @@ Jaarlijks wordt nagegaan of de persoonlijke beschermingsmiddelen ook gebruikt wo
         <risk external-id="R-7918" type="policy">
           <title>Er is een overzicht (evt digitaal) van de aanwezige gevaarlijke stoffen in het bedrijf.</title>
           <description>&lt;p&gt;&lt;strong&gt;Indien u via een netwerk ook bij het uitvallen van de server op uw locatie in staat bent om een actuele overzicht te produceren is het niet noodzakelijk om een papieren overzicht te hebben.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Voor het vaststellen van de keuzemogelijkheden en uitvoeringseisen aan vervoer en opslag moet worden vastgelegd om welke gevaarlijke stoffen het gaat, en in welke verpakkingseenheden en hoeveelheden deze stoffen in voorraad moeten zijn.&lt;/p&gt;&lt;p class="MsoNormal"&gt;Een dergelijke stoffenregistratie is ondermeer gebaseerd op de eigenschappen van de stoffen zoals vermeld op de Veiligheidsinformatiebladen en de gebruiks- en veiligheidsetiketten.&lt;/p&gt;&lt;p class="MsoNormal"&gt;Gevaarlijke stoffen moeten voor het juist toepassen van de vervoer en opslagregels worden ingedeeld in groepen die een gelijksoortig gevaar aanduiden. Voor vervoer zijn dit de ADR gevarenklassen, maar in de wetgeving en richtlijnen wordt ook gebruik gemaakt van het op Europese richtlijnen gebaseerde Besluit verpakking en aanduiding milieugevaarlijke stoffen van de Wet Milieugevaarlijke Stoffen (WMS) waarin ten behoeve van indeling en het defini&#235;ren de gevaarlijke stoffen in categorie&#235;n zijn ingedeeld. &lt;/p&gt;&lt;p class="MsoNormal"&gt;De categorie&#235;n worden aangeduid met een symbool dat aangevuld met de bijbehorende tekst (Risk en Safety zinnen) moet zijn vermeld op gebruiksverpakkingen en op product- of veiligheidsinformatiebladen die bij het bedrijf aanwezig moeten zijn. In het registratiesysteem van gevaarlijke stoffen dat in het bedrijf aanwezig moet zijn, moeten deze categorie&#235;n zijn vermeld.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3435">
@@ -1321,7 +1321,7 @@ Jaarlijks wordt nagegaan of de persoonlijke beschermingsmiddelen ook gebruikt wo
         <risk external-id="R-7919" type="policy">
           <title>U heeft veiligheids&#173;informatiebladen (VIB) van alle gevaarlijke stoffen op uw kantoor en / of uw medewerkers hebben een schriftelijke instructie gehad waar ze deze (digitaal) kunnen vinden.</title>
           <description>&lt;p&gt;Veiligheidsinformatiebladen kunt u opvragen bij uw leverancier. VIB's&#160;zijn ook te vinden op &lt;a href="http://www.fytostat.nl" rel="nofollow" target="_blank"&gt;www.fytostat.nl&lt;/a&gt;&lt;/p&gt;&lt;p class="MsoNormal"&gt;Veiligheidsinformatiebladen ofwel Material Safety Datasheets vormen de basis van de toepassing voor vervoer en opslagvoorschriften. Veiligheidsinformatiebladen moeten zijn uitgevoerd conform de daarvoor bestaande normen en richtlijnen en bevatten relevante informatie over de bij een bedrijf voorkomende (gevaarlijke) stoffen of chemicali&#235;n. In de hoofdstukken 14 en 15 van de offici&#235;le Europese uitvoering van deze bladen staan gegevens met betrekking tot respectievelijk het vervoer en het gebruik van de gevaarlijke stoffen. Voor het vaststellen van classificaties, de juiste chemisch/ technische benamingen en dergelijke zijn de gegevens uit deze bladen het uitgangspunt.&lt;/p&gt;&lt;p class="MsoNormal"&gt;Het is van belang na te gaan of de juiste bladen aanwezig zijn en de bladen die aan de eigen afnemers worden verstrekt goed te controleren en zo nodig aan te passen omdat de leverancier/ afzender verantwoordelijk is voor de juiste gegevens. &lt;/p&gt;&lt;p class="MsoNormal"&gt;In sectie 14 behoren de volledige classificaties te staan voor de voorkomende vervoertechnieken. Soms worden daarbij de juiste benamingen vermeld en worden&#160; eventueel bijzonderheden over transportverpakking, etikettering en dergelijke opgenomen.&lt;/p&gt;&lt;p class="MsoNormal"&gt;Met betrekking tot de inhoud van sectie 15 kan nog gewezen worden op de Wet Milieugevaarlijke Stoffen (WMS) en het Veiligheidsinformatiebladenbesluit (Staatsblad 252) waarin voor Nederland de uitvoering van de genoemde EG richtlijn is geregeld. &lt;/p&gt;&lt;p class="MsoNormal"&gt;In verband met de hoogte van de sancties op overtredingen en de gevolgen van risico-aansprakelijkheid adviseren wij een en ander goed te controleren en waar nodig aan te passen.&lt;/p&gt;&lt;p class="MsoNormal"&gt;Het volledige veiligheidsinformatiebladenbesluit is te bestellen bij de SDU in Den Haag, tel. 070- 3789880.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3436">
@@ -1334,7 +1334,7 @@ Jaarlijks wordt nagegaan of de persoonlijke beschermingsmiddelen ook gebruikt wo
           <title>Het personeel is goed op de hoogte van risico&#8217;s bij opslag en gebruik van gevaarlijke stoffen.</title>
           <description>&lt;p&gt;&#160;Medewerkers moet een curus gevolgd hebben bijv: omgaan met gevaarlijke stoffen&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobelsuit artikel 4.10e&lt;/h3&gt;&lt;p&gt;&#160;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3437">
@@ -1347,7 +1347,7 @@ Jaarlijks wordt nagegaan of de persoonlijke beschermingsmiddelen ook gebruikt wo
           <title>De verpakkingen van&#160;gevaarlijke stoffen zijn juist ge&#235;tiketteerd.</title>
           <description>&lt;p&gt;Etiket wijzigingen van fabrikanten worden accuraat doorgevoerd.&lt;/p&gt;&lt;p&gt;Bij overpakken of -gieten worden de juiste etiketten op de nieuwe verpakking aangebracht. Meer informatie vindt u in de Wet Milieugevaarlijke stoffen.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit artikel 4.3&lt;/h3&gt;&lt;p&gt;&#160;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3438">
@@ -1359,7 +1359,7 @@ Jaarlijks wordt nagegaan of de persoonlijke beschermingsmiddelen ook gebruikt wo
         <risk external-id="R-7922" type="risk">
           <title>Lege emballage van gevaarlijke stoffen (zowel GBM, meststoffen, zuren en logen) wordt op dezelfde manier behandeld als volle.</title>
           <description>&lt;p&gt;Lege emballage is zelden echt helemaal leeg. Resten van de gevaarlijke stof blijven vaak achter.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3439">
@@ -1376,13 +1376,13 @@ Jaarlijks wordt nagegaan of de persoonlijke beschermingsmiddelen ook gebruikt wo
         <risk external-id="R-18402" type="risk">
           <title>Er is een geldige milieuvergunning aanwezig, en deze is getoets door de overheid (gemeente / brandweer).</title>
           <description></description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-7923" type="top5">
           <title>Er zijn voldoende brandblusmiddelen en brandmelders/ rookmelders ge&#239;nstalleerd.</title>
           <description>&lt;p&gt;Om de gevolgen van een brand op een goede wijze te kunnen bestrijden dienen er voldoende brandblusmiddelen in het pand aanwezig te zijn en de medewerkers dienen met de werking ervan bekend te zijn. Per locatie kan het aantal brandblusmiddelen verschillen, afhankelijk van de aard en hoeveelheid opgeslagen goederen. Veelal zal in de gebruiksvergunning van de gemeente worden aangegeven welke voorzieningen minimaal aanwezig moeten zijn. Installeer deze middelen op een logische plek. Zorg dat ze goed beschikbaar zijn en geef de werknemers voorlichting over het juiste gebruik van de brandblusmiddelen.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3440">
@@ -1394,7 +1394,7 @@ Jaarlijks wordt nagegaan of de persoonlijke beschermingsmiddelen ook gebruikt wo
         <risk external-id="R-7924" type="policy">
           <title>Er zijn voldoende vluchtwegen die met (verlichte) pictogrammen zijn aangegeven.</title>
           <description>&lt;p&gt;Door vluchtwegen aan te wijzen en te markeren kan de loods in geval van een calamiteit eenvoudig worden verlaten.&#160;&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3441">
@@ -1407,7 +1407,7 @@ Jaarlijks wordt nagegaan of de persoonlijke beschermingsmiddelen ook gebruikt wo
           <title>Vluchtwegen worden te allen tijde vrij en toegankelijk gehouden.</title>
           <description>&lt;p&gt;Vluchtwegen moeten te allen tijde vrij van obstakels zijn. De nooddeuren moeten op een eenvoudige wijze te openen zijn en altijd naar buiten toe opengaan. Controleer regelmatig de noodvoorzieningen op bruikbaarheid en houdt de vluchtwegen altijd vrij. Geef voorlichting aan de werknemers over de noodzaak van het vrijhouden van de vluchtwegen. Voor verdere informatie zie "ARBO; in Transport, Op- en Overslag" van Reed Business Information en BGZ Wegvervoer.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit artikel 3.7&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3442">
@@ -1419,7 +1419,7 @@ Jaarlijks wordt nagegaan of de persoonlijke beschermingsmiddelen ook gebruikt wo
         <risk external-id="R-7926" type="policy">
           <title>Er is goed werkende noodverlichting en deze wordt regelmatig (min 1 keer per jaar) getest</title>
           <description>&lt;p&gt;Ga door middel van het uitschakelen van de elektriciteit na of er voldoende noodverlichting in het pand aanwezig is. Breng zo nodig extra noodverlichting aan. Geef nooduitgangen met behulp van bordjes aan. &lt;/p&gt;&lt;p&gt;Neem controle op in&#160;uw planning van&#160;het&#160;RCS-handboek&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3443">
@@ -1431,7 +1431,7 @@ Jaarlijks wordt nagegaan of de persoonlijke beschermingsmiddelen ook gebruikt wo
         <risk external-id="R-7927" type="policy">
           <title>Er is kleed- en opbergruimte voor medewerkers in de loods.</title>
           <description>&lt;p&gt;Als kleding van de werknemers smerig kan worden door de werkzaamheden, dan is bedrijfskleding noodzakelijk. Daarbij dienen de werknemers zich in het pand te kunnen omkleden, waarbij wasgelegenheid en kledingkastjes aanwezig moeten zijn.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3444">
@@ -1444,7 +1444,7 @@ Jaarlijks wordt nagegaan of de persoonlijke beschermingsmiddelen ook gebruikt wo
           <title>Er is een branddetectiesysteem dat voorzien is van automatische doormelding naar een permanent bereikbare meldpost.&#13;
 N.B. dit geldt voor alle opslagen groter dan 2,5 ton.</title>
           <description>&lt;p&gt;De doormelding hoeft niet perse naar de brandweer, mag ook naar een particuliere meldpost dat permanent bereikbaar is.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9472">
@@ -1462,7 +1462,7 @@ N.B. dit geldt voor alle opslagen groter dan 2,5 ton.</title>
           <title>Alle heftruckchauffeurs zijn voldoende opgeleid.</title>
           <description>&lt;p&gt;Zorg dat alle chauffeurs een goede opleiding hebben gehad en stel regels voor het rijden met de heftruck op. Houd toezicht op het rijgedrag van de heftruckchauffeurs. Meer informatie over heftruckopleidingen bij de EVO te Zoetermeer en Vakopleiding Transport en Logistiek te Alphen aan de Rijn.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet Art. 8&lt;/h3&gt;&lt;p&gt;De werkgever is verantwoordelijk voor voldoende voorlichting en onderricht aan de werknemers.&lt;/p&gt;</legal-reference>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3445">
@@ -1474,7 +1474,7 @@ N.B. dit geldt voor alle opslagen groter dan 2,5 ton.</title>
         <risk external-id="R-7929" type="policy">
           <title>De rijpaden zijn vlak.</title>
           <description>&lt;p&gt;Vlakke rijpaden voorkomen trillingsbelasting voor zittende/staande bestuurders.&#160;Zorg voor regelmatig onderhoud van de voegen zodat hobbels worden voorkomen.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3446">
@@ -1486,7 +1486,7 @@ N.B. dit geldt voor alle opslagen groter dan 2,5 ton.</title>
         <risk external-id="R-7931" type="policy">
           <title>Transportroutes zijn vrij van obstakels.</title>
           <description>&lt;p&gt;Geblokkeerde transportroutes zorgen voor ergernis en het maken van extra bewegingen met hef- en/of reachtruck. Maak een duidelijk plan voor de (tussen)opslag van de goederen die geladen en/of gelost worden. Informeer de bestuurders hierover. Zorg er voor dat de routes vrij zijn en blijven. Controleer dit regelmatig.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3448">
@@ -1499,7 +1499,7 @@ N.B. dit geldt voor alle opslagen groter dan 2,5 ton.</title>
           <title>Alle transportmiddelen worden minimaal jaarlijks gekeurd en preventief onderhouden.</title>
           <description>&lt;p&gt;Leveranciers hebben de juiste kennis in huis om de specifieke controles ten aanzien van veiligheid en onderhoud van de transportmiddelen uit te voeren. Sluit bijvoorbeeld een contract af voor de jaarlijkse controle voor het onderhoud en de inspectie van de transportmiddelen. Controleer regelmatig of het onderhoudsplan (onderdeel RCS-handboek)&#160;wordt uitgevoerd.&lt;/p&gt;&lt;p&gt;Leg het onderhoud vast in een onderhoudsboek dat bij het transportmiddel hoort.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit Artikel 7.5&lt;/h3&gt;&lt;p&gt;ARBO-wetDe hulpmiddelen dienen tijdens de gebruiksduur in een goede staat te worden gehouden.&lt;/p&gt;</legal-reference>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3449">
@@ -1511,7 +1511,7 @@ N.B. dit geldt voor alle opslagen groter dan 2,5 ton.</title>
         <risk external-id="R-7933" type="top5">
           <title>De medewerkers dragen veiligheidsschoeisel.</title>
           <description>&lt;p&gt;Alle medewerkers beschikken over goede en comfortabele schoenen waarmee&#160;letsel aan voeten en hielen wordt voorkomen. Stel eisen op, waaraan de schoenen moeten voldoen.&#160;De veiligheidsschoenen moeten voorzien zijn van een stalen neus als de chauffeur zware voorwerpen lost of in ruimten komt waar met handpallettrucks, elektrotrucks of heftrucks gereden wordt. Een stroeve zool is nodig op natte of gladde vloeren. De werkgever stelt de veiligheidsschoenen kosteloos ter beschikking.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3450">
@@ -1523,7 +1523,7 @@ N.B. dit geldt voor alle opslagen groter dan 2,5 ton.</title>
         <risk external-id="R-14415" type="top5">
           <title>Heftrucks voldoen aan de veiligheidseisen en zijn voorzien van de juiste instructiestickers / gevaars pictogrammen.</title>
           <description>&lt;p&gt;Belangrijk hierbij zijn:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;veiligheidsgordel of andere valbescherming (gesloten cabine)&lt;/li&gt;&lt;li&gt;deugdelijke veiligheidskooi met goed zicht&lt;/li&gt;&lt;li&gt;CE-markering&lt;/li&gt;&lt;li&gt;vorkvergrendeling tegen ongewild verschuiven&lt;/li&gt;&lt;li&gt;werkende claxon&lt;/li&gt;&lt;li&gt;stroomonderbreker&lt;/li&gt;&lt;li&gt;sterkte vorktand minimaal 3-maal werklast&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Zie ook&#160;de checklist van het ministerie van SZW. Kijk ook op &lt;a href="http://www.fnvbondgenoten.nl/" rel="nofollow" target="_blank"&gt;www.fnvbondgenoten.nl&lt;/a&gt; in het dossier Heftrucks.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Laat nooit iemand meerijden op de heftruck ! Noot: bij een evt. dodelijk ongeval keert verzekering niet uit !!!&#160;&lt;/strong&gt;&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6808">
@@ -1545,7 +1545,7 @@ N.B. dit geldt voor alle opslagen groter dan 2,5 ton.</title>
             <title>Er is een schriftelijke instructie m.b.t. het ontsmetten waarin tenminste staat:&#13;
  Berekening dosering, afstelling machines, risico's voor gebruikers, wat te doen met reststoffen.</title>
             <description>&lt;p class="MsoNormal"&gt;Voor elk nieuw seizoen grondig inspecteren.&lt;/p&gt;&lt;p class="MsoNormal"&gt;&#160;Gevaren : &lt;/p&gt;&lt;p class="MsoNormal"&gt;- gebruikte ontsmettingsmiddelen kunnen schadelijk voor de gezondheid zijn.&lt;/p&gt;&lt;p class="MsoNormal"&gt;- behandeld zaad kan irriterend zijn.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;/p&gt;&lt;p class="MsoNormal"&gt;Persoonlijke Bescherming Middelen: handschoenen, beschermende kleding.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
+            <show-not-applicable>false</show-not-applicable>
             <evaluation-method>direct</evaluation-method>
             <solutions>
               <solution external-id="O-9473">
@@ -1557,7 +1557,7 @@ N.B. dit geldt voor alle opslagen groter dan 2,5 ton.</title>
           <risk external-id="R-18410" type="risk">
             <title>Reststoffen worden afgevoerd door een erkende afvalverwijderaar, of via het KGA (Klein Gevaarlijk Afval) depot.</title>
             <description>&lt;p&gt;U bent verplicht een sluitende afvalregistratie bij te houden.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
+            <show-not-applicable>false</show-not-applicable>
             <evaluation-method>direct</evaluation-method>
             <solutions>
               <solution external-id="O-9474">
@@ -1569,7 +1569,7 @@ N.B. dit geldt voor alle opslagen groter dan 2,5 ton.</title>
           <risk external-id="R-19743" type="risk">
             <title>Er is een schriftelijke instructie m.b.t. het schoonmaken van de zaaizaad ontsmettingsinstallatie. In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen meegenomen.</title>
             <description>&lt;p&gt;Het gaat hierbij vooraal om het volledig reinigen en de juiste afvoer van reststoffen en het eventueel afvoeren van gebuikte poetsdoeken.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
+            <show-not-applicable>false</show-not-applicable>
             <evaluation-method>direct</evaluation-method>
             <solutions>
               <solution external-id="O-10438">
@@ -1591,7 +1591,7 @@ N.B. dit geldt voor alle opslagen groter dan 2,5 ton.</title>
 - PBM's zoals: handschoenen, beschermende kleding, ademhalingbescherming, gehoorbescherming, evt. blusapparatuur&#13;
 - Wat te doen met reststoffen.</title>
             <description>&lt;p&gt;Let o.a. op de maximale dosering bij herhaalde toepassing.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
+            <show-not-applicable>false</show-not-applicable>
             <evaluation-method>direct</evaluation-method>
             <solutions>
               <solution external-id="O-10439">
@@ -1603,7 +1603,7 @@ N.B. dit geldt voor alle opslagen groter dan 2,5 ton.</title>
           <risk external-id="R-19745" type="risk">
             <title>Reststoffen worden afgevoerd door een erkende afvalverwijderaar, of via het KGA (Klein Gevaarlijk Afval) depot.</title>
             <description>&lt;p class="MsoNormal"&gt;U bent verplicht een sluitende afvalregistratie bij te houden.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
+            <show-not-applicable>false</show-not-applicable>
             <evaluation-method>direct</evaluation-method>
             <solutions>
               <solution external-id="O-10440">
@@ -1615,7 +1615,7 @@ N.B. dit geldt voor alle opslagen groter dan 2,5 ton.</title>
           <risk external-id="R-19746" type="risk">
             <title>Er is een schriftelijke instructie m.b.t. het schoonmaken van de aardappelgasapparatuur. In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen meegenomen.</title>
             <description>&lt;p class="MsoNormal"&gt;Het gaat hierbij vooraal om het volledig reinigen en de juiste afvoer van reststoffen en het eventueel afvoeren van gebuikte poetsdoeken.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
+            <show-not-applicable>false</show-not-applicable>
             <evaluation-method>direct</evaluation-method>
             <solutions>
               <solution external-id="O-10441">
@@ -1636,7 +1636,7 @@ N.B. dit geldt voor alle opslagen groter dan 2,5 ton.</title>
 - Risico's voor gebruikers, &#13;
 - Wat te doen met reststoffen</title>
             <description></description>
-            <show-not-applicable>no</show-not-applicable>
+            <show-not-applicable>false</show-not-applicable>
             <evaluation-method>direct</evaluation-method>
             <solutions>
               <solution external-id="O-10442">
@@ -1648,7 +1648,7 @@ N.B. dit geldt voor alle opslagen groter dan 2,5 ton.</title>
           <risk external-id="R-19748" type="risk">
             <title>Reststoffen worden afgevoerd door een erkende afvalverwijderaar, of via het KGA (Klein Gevaarlijk Afval) depot.</title>
             <description>&lt;p class="MsoNormal"&gt;U bent verplicht een sluitende afvalregistratie bij te houden.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
+            <show-not-applicable>false</show-not-applicable>
             <evaluation-method>direct</evaluation-method>
             <solutions>
               <solution external-id="O-10443">
@@ -1661,7 +1661,7 @@ N.B. dit geldt voor alle opslagen groter dan 2,5 ton.</title>
             <title>Er is een schriftelijke instructie m.b.t. het schoonmaken van de bolontsmetting / schuim installatie. &#13;
 In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen meegenomen.</title>
             <description>&lt;p class="MsoNormal"&gt;Het gaat hierbij vooraal om het volledig reinigen en de juiste afvoer van reststoffen en het eventueel afvoeren van gebuikte poetsdoeken.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
+            <show-not-applicable>false</show-not-applicable>
             <evaluation-method>direct</evaluation-method>
             <solutions>
               <solution external-id="O-10444">
@@ -1682,7 +1682,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
 - Risico's voor gebruikers, &#13;
 - Wat te doen met reststoffen.</title>
             <description>&lt;p class="MsoNormal"&gt;Voor elk nieuw seizoen grondig inspecteren. &lt;/p&gt;&lt;p class="MsoNormal"&gt;Gevaren : &lt;/p&gt;&lt;p class="MsoNormal"&gt;- gebruikte middelen kunnen schadelijk voor de gezondheid zijn. &lt;/p&gt;&lt;p class="MsoNormal"&gt;- behandelde&#160;aardappelen kunnen irriterend&#160;zijn&lt;/p&gt;&lt;p class="MsoNormal"&gt;&#160;Persoonlijke Bescherming Middelen: handschoenen, beschermende kleding.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
+            <show-not-applicable>false</show-not-applicable>
             <evaluation-method>direct</evaluation-method>
             <solutions>
               <solution external-id="O-10445">
@@ -1694,7 +1694,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
           <risk external-id="R-19754" type="risk">
             <title>Reststoffen worden afgevoerd door een erkende afvalverwijderaar, of via het KGA (Klein Gevaarlijk Afval) depot.</title>
             <description>&lt;p class="MsoNormal"&gt;U bent verplicht een sluitende afvalregistratie bij te houden.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
+            <show-not-applicable>false</show-not-applicable>
             <evaluation-method>direct</evaluation-method>
             <solutions>
               <solution external-id="O-10446">
@@ -1706,7 +1706,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
           <risk external-id="R-19755" type="risk">
             <title>Er is een schriftelijke instructie m.b.t. het schoonmaken van de aardappel douche apparatuur. In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen meegenomen.</title>
             <description>&lt;p class="MsoNormal"&gt;Het gaat hierbij vooral om het volledig reinigen en de juiste afvoer van reststoffen en het eventueel afvoeren van gebuikte poetsdoeken.&lt;/p&gt;</description>
-            <show-not-applicable>no</show-not-applicable>
+            <show-not-applicable>false</show-not-applicable>
             <evaluation-method>direct</evaluation-method>
             <solutions>
               <solution external-id="O-10447">
@@ -1725,7 +1725,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
       <risk external-id="R-7935" type="risk">
         <title>De garage/werkplaats werkt conform de veiligheidsregels en voorschriften.</title>
         <description>&lt;p&gt;Meer informatie is te vinden in het boek "ARBO; in Transport, Op- en Overslag" van Reed Business Information en BGZ Wegvervoer.&lt;/p&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3451">
@@ -1737,7 +1737,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
       <risk external-id="R-7936" type="top5">
         <title>Er is gezorgd voor goede ventilatie in de werkplaats.</title>
         <description>&lt;p&gt;Belangrijk hierbij zijn:&#160;afzuiging van uitlaatgassen, het werken met gevaarlijke stoffen, de opslag van gevaarlijke stoffen etc.&lt;/p&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3452">
@@ -1750,7 +1750,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
         <title>Er zijn geschikte persoonlijke beschermingsmiddelen verstrekt.</title>
         <description>&lt;p&gt;Belangrijk hierbij zijn: een laskap, veiligheidsschoenen, handschoenen, veiligheids- of lasbril en beschermende of waterdichte kleding. De werkgever bepaalt i.o.m. de gebruikers&#160;de eisen waaraan deze middelen moeten voldoen en stelt deze kosteloos ter beschikking.&lt;/p&gt;</description>
         <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit artikel 8.1 t/m 8.3&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3453">
@@ -1762,7 +1762,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
       <risk external-id="R-7938" type="risk">
         <title>Lichamelijke belasting wordt beperkt.</title>
         <description>&lt;p&gt;Dit betreft&#160;tillen, dragen, duwen, trekken en werken met een gebogen of gedraaide rug.&#160;Het gebruik van hulp&#173;mid&#173;delen zoals een hefbrug, takels, steekwagen, ligkarretje of bandenlifter kan de belasting aanzienlijk beperken. Schaf de noodzakelijke hulpmiddelen aan in overleg met de werknemers en zorg er voor dat deze ook gebruikt worden. Geef voorlichting aan de werknemers over het gebruik van de hulpmiddelen.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3454">
@@ -1775,7 +1775,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
         <title>Continu lawaai of hard pieklawaai in garage of werkplaats wordt voorkomen.</title>
         <description>&lt;p&gt;De werkgever moet voorkomen dat werknemers worden blootgesteld aan hoge geluidsniveaus. De geluidsblootstelling moet beoordeeld worden.&#160;Wanneer geluidsniveaus hoger dan 80 dB(A) voorkomen moeten de medewerkers gehoorbeschermings&#173;middelen krijgen. Indien werknemers worden blootgesteld aan hoge geluidsniveaus zullen maatregelen moeten worden doorgevoerd&#160;als:&lt;br/&gt;- Lawaaibron verwijderen;&lt;br/&gt;Als dat niet mogelijk is: blootstelling verminderen&lt;br/&gt;- Als dat niet mogelijk is: persoonlijke beschermingsmiddelen verstrekken.&lt;/p&gt;</description>
         <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit artikel 6.8&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3455">
@@ -1787,7 +1787,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
       <risk external-id="R-7940" type="top5">
         <title>Het elektrisch gereedschap is veilig.</title>
         <description>&lt;p&gt;Het gereedschap moet voldoen aan NEN 3140. Onveilig (elektrisch) gereedschap kan gevaar opleveren voor de werknemers. Dit betreft onder meer blanke spanning-voerende delen, geen dubbele isolatie, enz. Controleer regelmatig alle te gebruiken elektrische gereedschappen.&#160;&lt;/p&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3456">
@@ -1800,7 +1800,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
         <title>Elektrisch gereedschap en apparaten worden jaarlijks gekeurd volgens de voorschriften.</title>
         <description>&lt;p&gt;Leveranciers hebben de juiste kennis in huis om de specifieke controles en inspecties ten aanzien van veiligheid van elektrische gereedschappen zoals een hefbrug, boormachine en slijptol uit te voeren.&#160;&lt;/p&gt;&lt;p&gt;De keuring&#160;mag ook door eigen werknemers worden gedaan indien deze beschikken over&#160;aantoonbare kennis en vaardigheden. Controleer regelmatig of het onderhoudsplan wordt uitgevoerd.&lt;/p&gt;</description>
         <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit Art 7.5&lt;/h3&gt;&lt;p&gt;De hulpmiddelen dienen tijdens de gebruiksduur in een goede staat te worden gehouden.&lt;/p&gt;</legal-reference>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3457">
@@ -1813,7 +1813,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
         <title>Vrijkomende gevaarlijke stoffen worden afgezogen.</title>
         <description>&lt;p&gt;Denk aan lasdampen en uitlaatgassen. &lt;/p&gt;</description>
         <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit art. 4.3a&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3458">
@@ -1825,7 +1825,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
       <risk external-id="R-7943" type="policy">
         <title>De werkplaats/garage/wasplaats is schoon.</title>
         <description>&lt;p&gt;Verontreiniging van de vloer zoals&#160;gemorste olie kan gevaarlijke situaties&#160;veroorzaken. Laat verontreinigingen direct opruimen en laat de werkplaats/garage/wasplaats regelmatig (elke week) schoonmaken. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Voorkom stofophoping. Spreek met uw medewerkers af wie en wanneer hiervoor zorgdraagt.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3459">
@@ -1837,7 +1837,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
       <risk external-id="R-13712" type="risk">
         <title>De wasplaats is veilig te betreden.</title>
         <description></description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-6552">
@@ -1849,7 +1849,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
       <risk external-id="R-13713" type="top5">
         <title>Wasplaatsmedewerkers beschikken over geschikte kleding, persoonlijke beschermingsmiddelen en instructies.</title>
         <description>&lt;p&gt;In wasplaatsen worden vaak gevaarlijke stoffen (schoonmaakmiddelen) gebruikt. De wasplaats is vaak glad waardoor veiligheidsschoenen met een stroeve zool nodig zijn. Zorg voor waterdichte pakken als medewerkers nat kunnen worden. Veiligheidsinstructies zorgen dat werknemers weten hoe zij veilig hun werk kunnen doen.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-6553">
@@ -1861,7 +1861,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
       <risk external-id="R-14462" type="risk">
         <title>De smeerkuil is veilig uitgevoerd.</title>
         <description>&lt;p&gt;Een veilige smeerkuil beschikt over 2 trappen, blusmateriaal, gasdichte armaturen en afzuiging. De kuil is goed gemarkeerd.&lt;/p&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-6811">
@@ -1878,7 +1878,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
       <risk external-id="R-7945" type="policy">
         <title>Op het buitenterrein worden indien er onoverzichtelijke situaties zijn, duidelijke verkeersregels gehanteerd.</title>
         <description>&lt;p&gt;Door onduidelijke regels en het niet duidelijk afbakenen van gebieden kunnen gevaarlijke situaties ontstaan. Stel duidelijke regels op (verkeersplan), breng borden aan, breng zo nodig duidelijke belijning aan en stel uw medewerkers op de hoogte. Evalueer de genomen maatregelen regelmatig.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3460">
@@ -1891,7 +1891,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
         <title>Het buitenterrein is &#8217;s avonds en &#13;
 &#8217;s nachts verlicht.</title>
         <description>&lt;p&gt;Door de verlichting is van buitenaf duidelijk zichtbaar of er zich onbevoegden op het terrein bevinden. Voor werknemers is duidelijk zichtbaar waar ze moeten zijn. Zet de buitenverlichting op een tijdklok of op een lichtautomaat. Controleer regelmatig of alle lampen nog branden.&lt;/p&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3461">
@@ -1903,7 +1903,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
       <risk external-id="R-14463" type="risk">
         <title>Het buitenterrein is veilig te betreden.</title>
         <description>&lt;p&gt;De elektrische voorzieningen dienen veilig te worden uitgevoerd (vrij van water). Vloeistoftanks op buitenterreinen moeten zijn geaard.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-6812">
@@ -1920,7 +1920,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
       <risk external-id="R-7948" type="policy">
         <title>Stoelen, beeldschermtafels en PC&#8217;s zijn gemakkelijk instelbaar.</title>
         <description>&lt;p&gt;Instelbaar meubilair&#160;is nodig om te zorgen dat medewerkers ongeacht formaat gezond kunnen zitten. NEN 1812 geeft richtlijnen voor ergonomisch kantoormeubilair.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3462">
@@ -1932,7 +1932,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
       <risk external-id="R-7949" type="risk">
         <title>De beeldschermen staan recht voor de gebruiker en de bovenzijde van het scherm bevindt zich op ooghoogte.</title>
         <description></description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3463">
@@ -1944,7 +1944,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
       <risk external-id="R-7950" type="policy">
         <title>Medewerkers hebben voorlichting gehad over het werken met beeldschermen en over de inrichting van de beeldschermwerkplek.</title>
         <description></description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3464">
@@ -1956,7 +1956,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
       <risk external-id="R-7951" type="policy">
         <title>Als langer dan twee uur achtereen aan een beeldscherm wordt gewerkt is gezorgd voor afwisseling van werkzaamheden.</title>
         <description>&lt;p&gt;Als er geen ander werk is, moet een rustpauze genomen worden.&#160;&lt;/p&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3465">
@@ -1968,7 +1968,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
       <risk external-id="R-7952" type="policy">
         <title>Kopieermachines en printers zijn zover mogelijk bij de medewerkers vandaan geplaatst in verband met lawaai, uitstoot van schadelijke stoffen en warmte.</title>
         <description>&lt;p&gt;Plaats de apparatuur indien mogelijk in een aparte, geventileerde&#160;ruimte.&lt;/p&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3466">
@@ -1980,7 +1980,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
       <risk external-id="R-7953" type="policy">
         <title>Ter voorkoming van spiegeling worden&#160;lichtarmaturen toegepast die zorgen dat de lampen geen zijdelings licht uitstralen.</title>
         <description>&lt;p&gt;Kale tl-verlichting geeft hinderlijke spiegelingen op het beeldscherm.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3467">
@@ -1992,7 +1992,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
       <risk external-id="R-7954" type="risk">
         <title>Er is geschikte zon- en helderheidswering.</title>
         <description>&lt;p&gt;Door goede zon- en helderheidswering ontstaan geen hinderlijke schitteringen op het beeldscherm.&lt;/p&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3468">
@@ -2012,7 +2012,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
           <title>Alle vluchtroutes zijn vrij van obstakels en nooddeuren zijn van binnenuit zonder sleutel te openen.</title>
           <description>&lt;p&gt;Vluchtwegen moeten te allen tijde vrij van obstakels zijn. De nooddeuren moeten op een eenvoudige wijze te openen zijn en altijd naar buiten toe opengaan. Controleer regelmatig de noodvoorzieningen op bruikbaarheid en houdt de vluchtwegen altijd vrij. Geef voorlichting aan de werknemers over de noodzaak van het vrijhouden van de vluchtwegen.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit art. 3.7&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3469">
@@ -2024,7 +2024,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
         <risk external-id="R-7956" type="risk">
           <title>Er zijn voldoende vluchtroutes en nooddeuren in het bedrijf.</title>
           <description>&lt;p&gt;Voor het ontvluchten van een pand moeten voldoende uitgangen aanwezig zijn. Het aantal is afhankelijk van het aantal&#160;personen dat tegelijkertijd aanwezig kan zijn. In het bouwbesluit zijn&#160;nadere regels hiervoor&#160;beschreven. Veelal zal in de gebruiksvergunning van de gemeente&#160;zijn aangegeven welke voorzieningen minimaal aanwezig moeten zijn.&#160;&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3470">
@@ -2036,7 +2036,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
         <risk external-id="R-7957" type="risk">
           <title>Er zijn voldoende EHBO- en brandblusvoorzieningen in het bedrijf.</title>
           <description>&lt;p&gt;Denk hierbij aan een basisverbandtrommel (periodieke controle op inhoud, goedgekeurd door Oranje Kruis) en brandblusmiddelen (gecontroleerd en goedgekeurd). Per pand minimaal &#233;&#233;n verbandtrommel, &#233;&#233;n brandslang en brandblussers afgestemd op de gevaren in het bedrijf. Veelal zal in de gebruiksvergunning van de gemeente worden aangegeven welke voorzieningen minimaal aanwezig moeten zijn.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3471">
@@ -2048,7 +2048,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
         <risk external-id="R-7958" type="risk">
           <title>Verbandtrommel en brandblusmiddelen bevinden zich op een goed toegankelijke plaats.</title>
           <description>&lt;p&gt;Verbandtrommel en brandblusmiddelen moeten duidelijk zichtbaar worden opgehangen. Als ze niet duidelijk zichtbaar kunnen worden opgehangen, dan dienen zij door middel van groene borden te worden aangegeven.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3472">
@@ -2060,7 +2060,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
         <risk external-id="R-7959" type="policy">
           <title>U hebt voldoende opgeleide bedrijfshulpverleners in dienst.</title>
           <description>&lt;p&gt;In het bedrijf moeten personen aanwezig zijn met kennis van bedrijfshulpverlening zoals EHBO, het blussen van beginnende brandjes en evacuatie. Het aantal mensen met een opleiding dient te zijn afgestemd op de gevaren in het bedrijf.&#160;Het is verstandig voor elke vijftig aanwezige werknemers minstens &#233;&#233;n hulpverlener aan te stellen. In bedrijven met minder dan 15 werknemers mag de werkgever dit zelf zijn.&lt;/p&gt;&lt;p&gt;Als het bedrijf niet beschikt over een bedrijfspand dan is deze vraag NVT.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3473">
@@ -2072,7 +2072,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
         <risk external-id="R-7960" type="policy">
           <title>Er is een schriftelijke instructie of een gevisualiseerd vluchtplan voor alle medewerkers hoe zij moeten handelen bij calamiteiten.</title>
           <description>&lt;p&gt;Door dit eenvoudig op schrift te stellen is het voor de werknemers gemakkelijker om in geval van een calamiteit in de juiste volgorde te handelen. Maak een aparte instructie voor de chauffeurs voor onderweg. Denk na over &#8220;hoe te handelen in geval van een calamiteit&#8221; en zet dit op bijvoorbeeld een sticker zodat het gemakkelijk op een telefoon of op iets anders geplakt kan worden.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3474">
@@ -2088,7 +2088,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
         <risk external-id="R-7961" type="policy">
           <title>De hoeveelheid werk is zodanig dat zij vrijwel altijd binnen de afgesproken tijd zonder extreme inspanningen uit te voeren is.</title>
           <description>&lt;p&gt;De hoeveelheid werk is te hoog wanneer vaak (vaker dan eenmaal per week) buiten de afgesproken uren overgewerkt moet worden of wanneer zo snel gewerkt moet worden dat de kwaliteit van het werk, de veiligheid van personeel of van klanten of het plezier in het werk eronder lijdt. Ook wanneer de belasting seizoensgebonden is maar wel langdurig (langer dan een paar weken) kan er sprake zijn van overbelasting.&lt;/p&gt;&lt;p&gt;Ga dit na voor alle functies en afdelingen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3475">
@@ -2100,7 +2100,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
         <risk external-id="R-7962" type="top5">
           <title>Het werk biedt voldoende regelmogelijkheden.</title>
           <description>&lt;p&gt;Regelmogelijkheden hebben betekent dat werknemers in staat zijn het werk zelf (tot op zekere hoogte) in te delen en zelf problemen op te lossen. Voorwaarden voor regelmogelijkheden zijn:&lt;/p&gt;&lt;p&gt;- Geen zodanige afhankelijkheid van anderen dat je je eigen werk niet goed kunt doen.&lt;/p&gt;&lt;p&gt;- Informatie over wat goed en fout gaat in het werk en in het bedrijf.&lt;/p&gt;&lt;p&gt;- Mogelijkheden om, waar nodig, zelf procedures, de volgorde van de werkzaamheden en de wijze waarop het werk gedaan moet worden te kunnen aanpassen.&lt;/p&gt;&lt;p&gt;Ga dit na voor alle functies en afdelingen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3476">
@@ -2112,7 +2112,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
         <risk external-id="R-7963" type="policy">
           <title>Het werk bevat een mix van gemakkelijke (routine) en moeilijke (mentaal inspannende) taken, zodat er geen psychische over- of onderbelasting optreedt.</title>
           <description>&lt;p&gt;Werk dat helemaal uit routine bestaat kan leiden tot verveling. Werk dat uitsluitend uit denkwerk bestaat, kan mentaal overbelastend zijn. Een goede functie bevat een mix van routinetaken en taken die improvisatievermogen en denkwerk vragen.&lt;/p&gt;&lt;p&gt;Wat een goede mix is hangt ook af van de verwachtingen van degenen die het werk uitvoeren.&lt;/p&gt;&lt;p&gt;Ga dit na voor alle functies en afdelingen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3477">
@@ -2124,7 +2124,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
         <risk external-id="R-7964" type="policy">
           <title>Er wordt binnen redelijke grenzen overgewerkt.</title>
           <description>&lt;p&gt;Redelijke grenzen worden overschreden als er meer wordt overgewerkt dan gebruikelijk in de branche of meer dan de werknemers prettig vinden.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3478">
@@ -2136,7 +2136,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
         <risk external-id="R-13679" type="policy">
           <title>Gevaarlijke of schadelijke situaties voor het personeel, klanten of anderen ten gevolge van tijdsdruk, te hoge eisen of een slechte planning worden te allen tijde voorkomen.</title>
           <description>&lt;p&gt;Betrek hierbij ook de onderlinge communicatie: misschien is de planning wel in orde, maar leidt een slechte communicatie (bijvoorbeeld tussen afdeling planning en de chauffeurs) er toe dat er toch problemen ontstaan.&lt;/p&gt;&lt;p&gt;Ga dit na voor alle functies.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6524">
@@ -2148,7 +2148,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
         <risk external-id="R-14446" type="risk">
           <title>Voorkomen wordt dat werknemers onder grote spanning komen te staan door risico's op grote materi&#235;le of persoonlijke schade.</title>
           <description>&lt;p&gt;Ten gevolge van het rijden met kostbare lading of ten gevolge van verkeersrisico's kunnen werknemers onder te hoge spanning komen te staan. De risico's kunnen zowel de werknemers zelf, klanten of anderen (zoals andere weggebruikers) betreffen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6841">
@@ -2160,7 +2160,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
         <risk external-id="R-14447" type="policy">
           <title>Alle punten die werkdruk of stress veroorzaken zijn hier aan de orde gekomen.</title>
           <description>&lt;p&gt;Als er punten spelen die nog niet aan de orde zijn gekomen, geeft u dan aan wat u hieraan hebt gedaan en of hiermee het punt voldoende beheerst is.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6842">
@@ -2172,7 +2172,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
         <risk external-id="R-14448" type="policy">
           <title>Er zijn geen indicaties dat medewerkers last hebben van hoge werkdruk of stress.</title>
           <description>&lt;p&gt;&lt;strong&gt;Zijn er geen indicaties vul dan JA in!&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Indicaties zijn:&lt;/p&gt;&lt;p&gt;- Overspannen werknemers&lt;/p&gt;&lt;p&gt;- Hoog ziekteverzuim&lt;/p&gt;&lt;p&gt;- Ongevallen&lt;/p&gt;&lt;p&gt;- Gezondheidsklachten&lt;/p&gt;&lt;p&gt;- Extreme vermoeidheid&lt;/p&gt;&lt;p&gt;- Klachten van klanten&lt;/p&gt;&lt;p&gt;- Onderlinge conflicten of snelle irritatie&lt;/p&gt;&lt;p&gt;Doet ten minste &#233;&#233;n van deze verschijnselen zich voor? Ga dit na voor alle functies en afdelingen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6843">
@@ -2184,7 +2184,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
         <risk external-id="R-14449" type="policy">
           <title>Bovengenoemde vragen zijn besproken met de medewerkers(vertegenwoordiging) en zij zijn het eens met de antwoorden.</title>
           <description></description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6844">
@@ -2200,7 +2200,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
         <risk external-id="R-7965" type="policy">
           <title>Medewerkers hebben de gelegenheid om met elkaar en met de leidinggevenden over de werkomstandigheden te praten.</title>
           <description>&lt;p&gt;Door regelmatig gestructureerd overleg te voeren raakt u bekend met de wensen en goede idee&#235;n van uw werknemers. Houdt regelmatig werkoverleg. Stel zaken op het werk in verband met veiligheid, gezondheid en welzijn aan de orde. Vraag medewerkers naar hun idee&#235;n voor verbeteringen.&lt;/p&gt;&lt;p&gt;Neem het agendapunt arbeidsomstandigeheden op in uw werkoverleg en leg dit vast in uw RCS-handboek&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3479">
@@ -2212,7 +2212,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
         <risk external-id="R-13681" type="policy">
           <title>Werknemers zijn in staat voldoende met elkaar te overleggen over het werk.</title>
           <description>&lt;p&gt;Onderling overleg en contact is zowel belangrijk voor het functioneren van het bedrijf als om met plezier te kunnen werken. Belemmeringen in het contact kunnen ontstaan doordat werknemers elkaar weinig zien of omdat de onderlinge sfeer niet goed is.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6526">
@@ -2224,7 +2224,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
         <risk external-id="R-13682" type="policy">
           <title>De werknemers hebben voldoende mogelijkheden om met de werkgever of de leidinggevenden te overleggen (gestructureerd of informeel werkoverleg).</title>
           <description>&lt;p&gt;Werkoverleg is belangrijk, maar hoeft niet altijd officieel via een vergadering plaats te vinden. Ook functioneringsgesprekken zijn een middel om wensen en klachten te bespreken.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6527">
@@ -2240,7 +2240,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
         <risk external-id="R-7968" type="policy">
           <title>Medewerkers hebben voorlichting gehad over onacceptabel gedrag zoals agressie, geweld of seksuele intimidatie en hoe zij moeten handelen wanneer zich dit voordoet.</title>
           <description>&lt;p&gt;Voorlichting aan de werknemers is een verantwoordelijkheid van de werkgever. Organiseer&#160;voorlichting over genoemde onderwerpen en vraag hierbij eventueel ondersteuning een&#160;arbodienstverlener.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3482">
@@ -2253,7 +2253,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
           <title>Met klachten over agressief gedrag of seksuele intimidatie kunnen medewerkers terecht bij een vertrouwenspersoon.</title>
           <description>&lt;p&gt;Klanten of collega's kunnen onacceptabel gedrag vertonen. Zorg ervoor dat werknemers die klachten hebben deze kunnen uiten bijvoorbeeld door het aanstellen van een vertrouwenspersoon.&#160;&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet art. 4.2&lt;/h3&gt;&lt;p&gt;Werkgever beschermt de werknemer tegen ongewenst gedrag van anderen.&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3483">
@@ -2270,7 +2270,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
           <title>Alle medewerkers, ook nieuwe medewerkers, hebben goede voorlichting gehad over de aan het werk verbonden risico&#8217;s zowel mondeling als schriftelijk.</title>
           <description>&lt;p&gt;De risico&#8217;s worden onder meer met behulp van deze&#160;RI&amp;amp;E in kaart gebracht.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet art. 8.&lt;/h3&gt;&lt;p&gt;&#160;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3484">
@@ -2282,7 +2282,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
         <risk external-id="R-13930" type="policy">
           <title>Er zijn duidelijke schriftelijke instructies over veilig werken aan de medewerkers verstrekt.</title>
           <description>&lt;p&gt;Werkgevers zijn wettelijk verplicht om voor voldoende onderricht van hun medewerkers m.b.t. veilig en gezond werk te zorgen. &lt;/p&gt;&lt;p&gt;Risicovolle activiteiten zijn bijvoorbeeld:&lt;br/&gt;-&#160;laden en lossen van gevaarlijke stoffen&lt;/p&gt;&lt;p&gt;- toepasen van bestrijdingsmiddelen&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6779">
@@ -2299,7 +2299,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
           <title>Waar nodig heeft iedereen persoonlijke beschermingsmiddelen beschikbaar.</title>
           <description>&lt;p&gt;Denk aan: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Handschoenen,&lt;/li&gt;&lt;li&gt;Beschermende werkkleding,&lt;/li&gt;&lt;li&gt;Veiligheidsschoeisel,&lt;/li&gt;&lt;li&gt;Gelaatsmasker,&#160;&lt;/li&gt;&lt;li&gt;Gehoorbescherming&lt;/li&gt;&lt;/ul&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit art. 8.3&lt;/h3&gt;&lt;p&gt;&#160;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3485">
@@ -2311,7 +2311,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
         <risk external-id="R-7972" type="policy">
           <title>Iedereen heeft voorlichting gehad over het gebruik van persoonlijke beschermingsmiddelen en het toezicht op het gebruik is geregeld.</title>
           <description></description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3486">
@@ -2323,7 +2323,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
         <risk external-id="R-7973" type="policy">
           <title>Het bedrijf houdt toezicht op risicovolle werkzaamheden.</title>
           <description></description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3487">
@@ -2339,7 +2339,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
         <risk external-id="R-7975" type="policy">
           <title>Het ziekteverzuim wordt geregistreerd en er wordt nagegaan of de oorzaken in het werk te vinden zijn.</title>
           <description></description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3489">
@@ -2351,7 +2351,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
         <risk external-id="R-7976" type="policy">
           <title>Er zijn afspraken over hoe en bij wie de medewerkers zich melden bij verzuim; deze afspraken zijn bekend bij alle medewerkers en de afspraken zijn schriftelijk vastgelegd.</title>
           <description></description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3490">
@@ -2363,7 +2363,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
         <risk external-id="R-7977" type="policy">
           <title>Zieke medewerkers worden volgens een vast plan begeleid.</title>
           <description>&lt;p&gt;B.v. telefonisch, huisbezoek, terugkeergesprek na langdurige ziekte.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3491">
@@ -2375,7 +2375,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
         <risk external-id="R-7978" type="policy">
           <title>Het is iedereen bekend wat de rechten en plichten zijn van medewerkers bij ziekte en verzuim.</title>
           <description></description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3492">
@@ -2392,7 +2392,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
         <risk external-id="R-7980" type="policy">
           <title>Maatregelen zijn genomen om de risico's voor medewerkers uit kwetsbare groepen te beperken.</title>
           <description></description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3494">
@@ -2409,7 +2409,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
           <title>U beschikt over een instructie (wie doet wat en hoe) voor melding, registratie en rapportage van bedrijfsongevallen of bijna ongevallen.</title>
           <description>&lt;p&gt;Van ongevallen, hoe naar ook, kunnen lessen worden geleerd en daarom is onderzoek naar de oorzaak een noodzakelijk kwaad. Meld alle ongevallen die leiden tot:&#160;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;ziekenhuisopname binnen 24 uur; &lt;/li&gt;&lt;li&gt;met blijvend letsel; &lt;/li&gt;&lt;li&gt;met een dodelijke afloop; &lt;br/&gt;direct telefonisch en binnen 14 dagen schriftelijk aan de Arbeidsinspectie. Onderzoek zelf de toedracht van de gebeurtenissen die tot het ongeval hebben geleid. Laat het onderzoek eventueel uitvoeren door&#160;een deskundige.&lt;/li&gt;&lt;/ul&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet art. 9&lt;/h3&gt;&lt;p&gt;De&#160;werkgever meldt ernstige ongevallen aan de Arbeidsinspectie.&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3495">
@@ -2423,7 +2423,7 @@ In deze instructie wordt ook de schoonmaakronde bij de opstart van het seizoen m
           <description>&lt;p&gt;Het ongevalsregister moet onderdeel uitmaken van uw RI&amp;amp;E. &lt;/p&gt;&lt;p&gt;Van ongevallen, hoe naar ook, kunnen lessen worden geleerd en daarom is onderzoek naar de oorzaak&#160;noodzakelijk. Leg een register aan en neem daarin de volgende kolommen op:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;beschrijving ongeval &lt;/li&gt;&lt;li&gt;namen betrokkenen; &lt;/li&gt;&lt;li&gt;datum; &lt;/li&gt;&lt;li&gt;(preventieve) acties naar aanleiding van het ongeval.&lt;/li&gt;&lt;/ul&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet art. 9 Registreren en melden van ongevallen.&#13;
 Arbowet art. 5 ongevallen die leiden tot meer dan 3 werkdagen verzuim moeten als onderdeel van de RI&amp;E zijn opgenomen.&lt;/h3&gt;&lt;p&gt;De werkgever meldt ernstige ongevallen aan de Arbeidsinspectie.De werkgever moet arbeidsongevallen die hebben geleid tot een ziekteverzuim van meer dan drie werkdagen opnemen als onderdeel van de risico-inventarisatie.&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3496">
@@ -2441,7 +2441,7 @@ Arbowet art. 5 ongevallen die leiden tot meer dan 3 werkdagen verzuim moeten als
           <title>Er is een gediplomeerd veiligheidsadviseur aangesteld of er wordt gebruik gemaakt van een externe veiligheidsadviseur gevaarlijke stoffen. &#13;
 En van deze veilighiedsadviseur zijn de verantwoordelijkheden en bevoegdheden vastgesteld</title>
           <description></description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6545">
@@ -2458,7 +2458,7 @@ En van deze veilighiedsadviseur zijn de verantwoordelijkheden en bevoegdheden va
 -	De te nemen algemene, aanvullende en bijzondere maatregelen bij calamiteiten tijdens het transport (bijvoorbeeld waarschuwen van politie en omstanders en maatregelen bij lekkages).&#13;
 -	De noodzakelijke uitrusting voor de te nemen maatregelen.</problem-description>
           <description>&lt;p&gt;Achtergrondinformatie van de EVO en Agrodis is te vinden op:&lt;/p&gt;&lt;p&gt;&lt;a href="http://www.agrodis.nl/" rel="nofollow" target="_blank"&gt;www.agrodis.nl/&lt;/a&gt; activiteiten/wet en regeling/eisen vervoer.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6548">
@@ -2471,7 +2471,7 @@ En van deze veilighiedsadviseur zijn de verantwoordelijkheden en bevoegdheden va
           <title>Er zijn schriftelijke instructies opgesteld over het laden en lossen. Hierin is o.a. opgenomen hoe om te gaan met morsingen tijdens laden en lossen.</title>
           <problem-description>Gevaarlijke stoffen mogen niet onbeheerd achter gelaten worden bij de klant.</problem-description>
           <description></description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6550">
@@ -2488,7 +2488,7 @@ En van deze veilighiedsadviseur zijn de verantwoordelijkheden en bevoegdheden va
           <title>Elk jaar wordt de voortgang van de uitvoering van het plan van aanpak intern besproken en schriftelijk vastgelegd.</title>
           <description>&lt;p&gt;Jaarlijks moet de voortgang van het plan van aanpak op schrift worden gezet en het plan van aanpak worden geactualiseerd. Die voortgang wordt besproken met de ondernemingsraad, de personeelsvertegenwoordiging of het personeel.&#160;&lt;/p&gt;&lt;p&gt;Dit is een vast onderdeel van de directiebeorodeling in het kader van RCS&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet artikel 5.1.&lt;/h3&gt;&lt;p&gt;Bij het voeren van arbeids&#173;omstandigheden&#173;beleid legt de werkgever in een inventarisatie en evaluatie vast welke risico&#8217;s de arbeid voor de werknemers met zich brengt. Deze inventarisatie en evaluatie bevat tevens een beschrijving van de gevaren en de risicobeperkende maatregelen en de risico&#8217;s voor bijzondere categorie&#235;n werknemers. De werkgever is tevens verplicht om als onderdeel van de inventarisatie en evaluatie een registratie arbeidsongevallen bij te houden van arbeidsongevallen die voor werknemers hebben geleid tot ziekteverzuim.Lid 2. Een plan van aanpak, waarin is aangegeven welke maatregelen zullen worden genomen in verband met de bedoelde risico&#8217;s en de samenhang daartussen, een en ander overeenkomstig artikel 3, maakt deel uit van de inventarisatie en evaluatie. In het plan van aanpak, over de uitvoering waarvan jaarlijks schriftelijk wordt gerapporteerd, wordt tevens aangegeven binnen welke termijn deze maatregelen zullen worden genomen. De werkgever voert over de jaarlijkse rapportage vooraf overleg met de ondernemingsraad, de personeelsvertegenwoordiging, of, bij het ontbreken daarvan, met de belanghebbende werknemers. Bij dit overleg komt in ieder geval aan de orde het al dan niet meer actueel zijn van de risico-inventarisatie en &#8211;evaluatie.&#8221;&#160;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3497">
@@ -2500,7 +2500,7 @@ En van deze veilighiedsadviseur zijn de verantwoordelijkheden en bevoegdheden va
         <risk external-id="R-7984" type="policy">
           <title>De werknemers zijn betrokken bij de resultaten van de RI&amp;E doordat hun mening gevraagd is over alle relevante punten.</title>
           <description>&lt;p&gt;Werknemers zijn een belangrijke bron van informatie voor een goede RI&amp;amp;E. Betrek ze bij de invulling van de RI&amp;amp;E, bijvoorbeeld door de RI&amp;amp;E te bespreken in een werkoverleg of door een enqu&#234;te te houden. Beschrijf in de toelichting hoe u dit gedaan hebt.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3498">
@@ -2512,7 +2512,7 @@ En van deze veilighiedsadviseur zijn de verantwoordelijkheden en bevoegdheden va
         <risk external-id="R-13683" type="policy">
           <title>De werknemers hebben hun mening gegeven over de resultaten van de risico-inventarisatie en -evaluatie.</title>
           <description>&lt;p&gt;Vraag de mening van de werknemers over de resultaten van de RI&amp;amp;E. Beschrijf in de toelichting hoe u dit gedaan hebt en wat de uitkomsten hiervan waren.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6781">
@@ -2524,7 +2524,7 @@ En van deze veilighiedsadviseur zijn de verantwoordelijkheden en bevoegdheden va
         <risk external-id="R-13709" type="policy">
           <title>Elk jaar wordt nagegaan of de RI&amp;E nog voldoende actueel is.</title>
           <description>&lt;p&gt;Uw RI&amp;amp;E kan niet meer actueel zijn doordat u nieuwe bedrijfsactiviteiten ontplooid of uw organisatie is gewijzigd. Ook door wetswijzigingen kan de RI&amp;amp;E gedeeltelijk verouderd zijn. Het is daarom belangrijk om periodiek (bijvoorbeeld jaarlijks) na te gaan of uw RI&amp;amp;E nog actueel is.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6551">
@@ -2540,7 +2540,7 @@ En van deze veilighiedsadviseur zijn de verantwoordelijkheden en bevoegdheden va
         <risk external-id="R-13932" type="risk">
           <title>Nieuwe medewerkers worden goed ingewerkt en doen geen risicovol werk.</title>
           <description>&lt;p&gt;Nieuwe en onervaren medewerkers lopen meer risico bij het werk door onvoldoende kennis of ervaring. Goede coaching en begeleiding is van groot belang om ook hen te leren het werk veilig en gezond uit te voeren.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6782">
@@ -2552,7 +2552,7 @@ En van deze veilighiedsadviseur zijn de verantwoordelijkheden en bevoegdheden va
         <risk external-id="R-13933" type="risk">
           <title>Medewerkers hebben voldoende kennis en ervaring om het aan hen opgedragen werk veilig en gezond uit te kunnen voeren.</title>
           <description></description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6783">
@@ -2569,7 +2569,7 @@ En van deze veilighiedsadviseur zijn de verantwoordelijkheden en bevoegdheden va
       <risk external-id="R-13590" type="policy">
         <title>De organisatie heeft de preventietaken toegewezen aan &#233;&#233;n of meer preventiemedewerker(s).</title>
         <description>&lt;p&gt;Een werkgever met m&#233;&#233;r dan 15 medewerkers moet preventietaken toewijzen aan &#233;&#233;n of meer werknemers. Een werkgever met ten hoogste 15 medewerkers mag de preventietaken zelf uitvoeren. &lt;br/&gt;De werkgever hoeft geen speciale medewerker aan te trekken&#160;voor het uitvoeren van&#160;preventietaken. Preventie kan een onderdeel zijn van de taak van de werkgever zelf of van de taak van &#233;&#233;n of meer werknemers. Voor het gemak wordt echter in dit instrument steeds gesproken over preventiemedewerker.&lt;/p&gt;&lt;p&gt;Preventietaken zijn: het meewerken aan of het opstellen van een RI&amp;amp;E, uitvoeren van de maatregelen uit het plan van aanpak, het geven van voorlichting, het signaleren van risico's en het treffen van maatregelen tegen die risico's. &lt;/p&gt;&lt;p&gt;De preventiemedewerkers (het aantal hangt af van preventietaken en de gewenste organisatie) hebben de kennis en ervaring, de middelen en de tijd, zodat zij de werkgever goed kunnen bijstaan bij de preventietaken. &lt;br/&gt;De preventiemedewerker werkt hierbij samen met de OR, de personeelsvertegenwoordiging of de medewerkers die het betreft.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-6478">
@@ -2581,7 +2581,7 @@ En van deze veilighiedsadviseur zijn de verantwoordelijkheden en bevoegdheden va
       <risk external-id="R-13591" type="policy">
         <title>De preventiemedewerker werkt mee aan het opstellen van de RI&amp;E (als er nog geen preventiemedewerker aangewezen is: antwoord "nee").</title>
         <description>&lt;p&gt;Dit is &#233;&#233;n van de activiteiten die een medewerker met preventietaken dient uit te voeren. De werkgever is altijd verantwoordelijk en wordt hierop aangesproken door de Arbeidsinspectie of Verkeersinspectie bijvoorbeeld indien een actuele RI&amp;amp;E ontbreekt. &lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-6480">
@@ -2593,7 +2593,7 @@ En van deze veilighiedsadviseur zijn de verantwoordelijkheden en bevoegdheden va
       <risk external-id="R-13592" type="policy">
         <title>De preventiemedewerker helpt mee met het uitvoeren van het plan van aanpak (als er nog geen preventiemedewerker aangewezen is: antwoord "nee").</title>
         <description>&lt;p&gt;Ook dit is &#233;&#233;n van de activiteiten die een medewerker met preventietaken dient uit te voeren. Het kan bijvoorbeeld gaan om het geven van voorlichting over het laden en lossen of tillen.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-6479">
@@ -2605,7 +2605,7 @@ En van deze veilighiedsadviseur zijn de verantwoordelijkheden en bevoegdheden va
       <risk external-id="R-13593" type="policy">
         <title>De preventiemedewerker adviseert werkgever, OR, PVT of werknemers over de te nemen preventiemaatregelen (als er nog geen preventiemedewerker aangewezen is: antwoord "nee").</title>
         <description>&lt;p&gt;De preventiemedewerker heeft een onafhankelijke en zelfstandige positie ten opzichte van de werkgever, de OR of PVT en de werknemers.&lt;br/&gt;De preventiemedewerker heeft arbeidsrechtelijke bescherming in het kader van de uitvoering van preventietaken. De preventiemedewerker heeft ontslagbescherming vergelijkbaar met een OR-lid.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-6481">
@@ -2617,7 +2617,7 @@ En van deze veilighiedsadviseur zijn de verantwoordelijkheden en bevoegdheden va
       <risk external-id="R-13594" type="policy">
         <title>De preventiemedewerker kent de arborisico's in het bedrijf en weet hoe de risico's kunnen worden voorkomen (als er nog geen preventiemedewerker aangewezen is: antwoord "nee").</title>
         <description>&lt;p&gt;Van belang is dat de preventiemedewerker(s) voldoende deskundigheid hebben om de concrete maatregelen uit het Plan van Aanpak te kunnen (laten) uitvoeren. Hoewel de wet niet expliciet aangeeft waaraan een preventiemedewerker moet voldoen, lijkt het logisch dat een werknemer over de volgende minimale vaardigheden beschikt:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;het kunnen verstrekken van informatie en het geven van voorlichting;&lt;/li&gt;&lt;li&gt;de bekendste arbeidsrisico's in de branche kennen en deze in het bedrijf kunnen herkennen;&lt;/li&gt;&lt;li&gt;het kennen van verbetermogelijkheden en deze in het bedrijf ook voorstellen;&lt;/li&gt;&lt;li&gt;arbomaatregelen kunnen (laten) uitvoeren.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;De ingevulde RI&amp;amp;E kan aanwijzingen geven over de nodige aanvullende deskundigheid. Voor inhoudelijke aanvullende ondersteuning kan de medewerker met preventietaken de werkgever adviseren interne danwel externe arbo-expertise in te huren.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-6482">
@@ -2639,7 +2639,7 @@ een gecertificeerde arbodienst (vangnetregeling); vul dan 9.3 in&#13;
 &#13;
 of door gecertificeerde deskundigen die u zelf gecontracteerd hebt (eigen maatwerkregeling); vul dan 9.4 in.</title>
           <description>&lt;ul&gt;&lt;li&gt;Op grond van de Arbowet moet de werkgever zich bij de uitvoering van de volgende taken laten bijstaan door &#233;&#233;n of meer gecertificeerde deskundigen: toetsing en advisering in het kader van de risico-inventarisatie en -evaluatie; arbeidsgezondheidskundig onderzoek; houden van arbeidsomstandighedenspreekuur; aanstellingskeuring en verzuimbegeleiding.&lt;br/&gt;Concreet betekent dit dat er minimaal een contract met een gecertificeerde bedrijfsarts moet zijn afgesloten en dat een gecertificeerde arbodeskundige de RI&amp;amp;E dient te toetsen. &lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6483">
@@ -2656,7 +2656,7 @@ of door gecertificeerde deskundigen die u zelf gecontracteerd hebt (eigen maatwe
         <risk external-id="R-13604" type="policy">
           <title>Er zijn met de arbodienst afspraken gemaakt over de begeleiding bij verzuim en re&#239;ntegratie.</title>
           <description>&lt;p&gt;Als u een standaardcontact heeft met de arbodienst zal u vrijwel zeker aan deze voorwaarde voldoen. &lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6489">
@@ -2668,7 +2668,7 @@ of door gecertificeerde deskundigen die u zelf gecontracteerd hebt (eigen maatwe
         <risk external-id="R-13605" type="policy">
           <title>Voor de toetsing van de risico-inventarisatie en - evaluatie wordt een arbodienst ingeschakeld.</title>
           <description>&lt;p&gt;Toetsing is niet nodig wanneer uw bedrijf ten hoogste 10 werknemers heeft &#232;n u gebruik maakt van het door de branche goedgekeurd instrument.&lt;br/&gt;Als u een standaard contract heeft met de arbodienst kan toetsing daar&#160;deel van uitmaken. &lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6490">
@@ -2680,7 +2680,7 @@ of door gecertificeerde deskundigen die u zelf gecontracteerd hebt (eigen maatwe
         <risk external-id="R-13606" type="policy">
           <title>Er zijn met de arbodienst afspraken gemaakt over de rijbewijskeuring en het periodiek arbeidsgezondheidskundig onderzoek (PAGO).</title>
           <description>&lt;p&gt;Als u een standaard contract heeft met de arbodienst zullen rijbewijskeuring en PAGO&#160; daar waarschijnlijk deel van uitmaken.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6491">
@@ -2692,7 +2692,7 @@ of door gecertificeerde deskundigen die u zelf gecontracteerd hebt (eigen maatwe
         <risk external-id="R-13607" type="policy">
           <title>Er zijn met de arbodienst afspraken gemaakt over het arbeidsomstandigheden spreekuur.</title>
           <description>&lt;p&gt;Als u een standaard contract heeft met de arbodienst zal het arbeidsomstandighedenspreekuur&#160; daar zeer waarschijnlijk deel van uitmaken.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6492">
@@ -2704,7 +2704,7 @@ of door gecertificeerde deskundigen die u zelf gecontracteerd hebt (eigen maatwe
         <risk external-id="R-13608" type="policy">
           <title>U heeft afspraken met de arbodienst over aanstellingskeuringen.</title>
           <description>&lt;p&gt;Als u een standaardcontract heeft met de arbodienst kan de aanstellingskeuring&#160; daar&#160;deel van uitmaken.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6493">
@@ -2721,7 +2721,7 @@ of door gecertificeerde deskundigen die u zelf gecontracteerd hebt (eigen maatwe
         <risk external-id="R-13610" type="policy">
           <title>De maatwerkregeling is vastgelegd in de CAO of schriftelijk overeengekomen met de ondernemingsraad of personeelsvertegenwoordiging.</title>
           <description>&lt;p&gt;Als er geen overeenstemming is op brancheniveau (CAO) of met de werknemers op bedrijfsniveau (OR of PVT), dan is een eigen maatwerkregeling niet mogelijk. U dient dan gebruik te maken van het branche-initiatief (RCW) of van de arbodienst.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6494">
@@ -2733,7 +2733,7 @@ of door gecertificeerde deskundigen die u zelf gecontracteerd hebt (eigen maatwe
         <risk external-id="R-13611" type="policy">
           <title>Er zijn met een gecertificeerde bedrijfsarts afspraken gemaakt over de begeleiding bij verzuim en re&#239;ntegratie.</title>
           <description></description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6495">
@@ -2746,7 +2746,7 @@ of door gecertificeerde deskundigen die u zelf gecontracteerd hebt (eigen maatwe
           <title>Voor de toetsing van de risico-inventarisatie en &#13;
 -evaluatie wordt een gecertificeerde deskundige ingeschakeld.</title>
           <description>&lt;p&gt;Toetsing is niet nodig wanneer uw bedrijf ten hoogste 10 werknemers heeft &#232;n u gebruik maakt van het door de branche goedgekeurde instrument. Bij de toetsing dient in ieder geval een gecertificeerde deskundige(arbeidshygienist,&#160;veiligheidskundige,&#160;arbeids- en organisatiedeskundige of&#160;bedrijfsarts) betrokken te zijn. Andere deskundigen moeten inzetbaar zijn als dat gezien de risico's noodzakelijk is.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6496">
@@ -2758,7 +2758,7 @@ of door gecertificeerde deskundigen die u zelf gecontracteerd hebt (eigen maatwe
         <risk external-id="R-13613" type="policy">
           <title>Er zijn met een gecertificeerde bedrijfsarts afspraken gemaakt over de rijbewijskeuring en het periodiek arbeidsgezondheidskundig onderzoek (PAGO).</title>
           <description></description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6497">
@@ -2770,7 +2770,7 @@ of door gecertificeerde deskundigen die u zelf gecontracteerd hebt (eigen maatwe
         <risk external-id="R-13614" type="risk">
           <title>Er zijn met een gecertificeerde bedrijfsarts afspraken gemaakt over het arbeidsomstandigheden spreekuur.</title>
           <description></description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6498">
@@ -2782,7 +2782,7 @@ of door gecertificeerde deskundigen die u zelf gecontracteerd hebt (eigen maatwe
         <risk external-id="R-13615" type="policy">
           <title>U heeft, wanneer van toepassing en toegestaan, met een gecertificeerde bedrijfsarts afspraken over aanstellingskeuringen.</title>
           <description></description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-6499">
@@ -2799,7 +2799,7 @@ of door gecertificeerde deskundigen die u zelf gecontracteerd hebt (eigen maatwe
       <risk external-id="R-14482" type="policy">
         <title>Alle risico's en aandachtspunten die in ons bedrijf van belang zijn, zijn aan de orde gekomen.</title>
         <description>&lt;p&gt;De RI&amp;amp;E is niet volledig als er binnen uw bedrijf risico's bestaan die niet in de RI&amp;amp;E aan de orde gekomen. Ook als u deze branche RI&amp;amp;E gebruikt dient u na te gaan hoe volledig de inventarisatie is. De RI&amp;amp;E kan bijvoorbeeld onvolledig zijn omdat u activiteiten ontplooit die minder gebruikelijk zijn in de branche. Als dat het geval is kunt u deze risico's&#160;in een afzonderlijk document beschrijven waarbij u tevens aangeeft wat u hebt ondernomen of zal ondernemen om de risico's te beperken.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-6839">

@@ -14,7 +14,7 @@
         <risk external-id="R-7816" type="risk">
           <title></title>
           <description></description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
       </module>
@@ -26,7 +26,7 @@
         <risk external-id="R-7817" type="risk">
           <title></title>
           <description></description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
       </module>
@@ -36,13 +36,13 @@
         <risk external-id="R-7813" type="risk">
           <title>het meubilair voldoet aan de arbo-eisen</title>
           <description></description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-7812" type="risk">
           <title></title>
           <description></description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-3323">

@@ -200,7 +200,7 @@ TrTzTrT0T7X0VLf0Xbr0Zr71cMP1e8f2hsz3kdH3ntb4q9v5uOH6xub71O384/P98vn+/f7+/v7+
       <risk external-id="R-20300" type="policy">
         <title>Ik heb onderstaande toelichting zorgvuldig gelezen.</title>
         <description>&lt;p&gt;Welkom bij de digitale Risico-Inventarisatie en -Evaluatie. Door een RI&amp;amp;E te maken ziet u wat de gezondheids- en veiligheidsrisico's binnen uw bedrijf zijn. &lt;/p&gt;&lt;ul&gt;&lt;li&gt;U maakt een plan van aanpak om de risico's op te lossen. Deze digitale RI&amp;amp;E is speciaal voor de tabaksdetailhandel. In vijf stappen maakt u voor uw bedrijf een RI&amp;amp;E en een Plan van Aanpak. Daarmee voldoet u aan de RI&amp;amp;E-plicht uit de Arbowet.&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Vult u de RI&amp;amp;E samen met uw preventiemedewerker en uw medewerkers in en bespreek het plan van Aanpak. U kunt hen dan meteen vragen of zij verbeterpunten of tips hebben. Het motiveert uw medewerkers!&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Binnen de tabaksdetailhandel zien wij vooral risico's die betrekking hebben op de volgende aandachtspunten:&lt;/p&gt;&lt;p&gt;1. Lichamelijke belasting van medewerkers door soms ongunstige werkhoudingen; &lt;/p&gt;&lt;p&gt;2. Kans op overvallen, diefstal en agressie;&lt;/p&gt;&lt;p&gt;3. Afspraken met -en instructies aan- medewerkers zijn vaak niet schriftelijk vastgelegd;&lt;/p&gt;&lt;p&gt;4. Het veelal ontbreken van gestructureerd werkoverleg of functioneringsgesprekken;&lt;/p&gt;&lt;p&gt;5. Vaak onvoldoende deskundige ondersteuning in geval van EHBO- of brandcalamiteiten.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;De checklist voor de tabaksdetailhandel gaat nader in op deze risico's. Daarnaast komen ook nog andere onderwerpen aan bod, welke in meer of mindere mate binnen uw bedrijf een rol kunnen spelen.&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Nadat u deze checklist samen met uw preventiemedewerker en medewerkers heeft ingevuld en aan de hand hiervan een plan van aanpak heeft opgesteld, dient u de uitgevoerde RI&amp;amp;E - afhankelijk van het aantal medewerkers dat u per verkooppunt in dienst heeft - wel of niet te laten toetsen door een kerndeskundige.&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;De RI&amp;amp;E voor de tabaksdetailhandel heeft de toestemming van de vakbonden. Indien u minder dan&#160;25 medewerkers per verkooppunt in dienst heeft&#160;dan hoeft de RI&amp;amp;E voor de tabaksdetailhandel, daar deze is opgenomen in de CAO voor de tabaksdetailhandel,&#160;niet meer getoetst te worden.&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Indien u ten hoogste totaal voor 40 uur per week arbeid laat verrichten voldoet u aan uw wettelijke verplichting indien u de verkorte checklist gezondheidsrisico's heeft ingevuld.&#160; NB:&#160;U bent dan&#160; vrijgesteld van de plicht de RI&amp;amp;E schriftelijk te laten toetsen door een kerndeskundige. De checklist&#160; kunt u opvragen bij uw brancheorganisatie of vinden op de website &lt;a href="http://www.arbo.nl/" rel="nofollow" target="_blank"&gt;www.arbo.nl&lt;/a&gt;&lt;/li&gt;&lt;li&gt;Heeft u meer dan 26 medewerkers in dienst dan dient u de uitgevoerde RI&amp;amp;E door een kerndeskundige te laten toetsen.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;br/&gt;Contactpersoon: Sylvia van Kempen&lt;br/&gt;Postbus 262&lt;br/&gt;2260 AG Leidschendam&lt;br/&gt;Telefoon (070)301.27.88, fax (070)327.65.37&lt;br/&gt;e-mail: &lt;a href="mailto:sylvia-van.kempen@tabaksdetailhandel.nl" rel="nofollow" target="_blank"&gt;sylvia-van.kempen@tabaksdetailhandel.nl&lt;/a&gt; &lt;br/&gt;website: &lt;a href="http://www.tabaksdetailhandel.nl/" rel="nofollow" target="_blank"&gt;www.tabaksdetailhandel.nl&lt;/a&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Deze RI&amp;amp;E is met de grootst mogelijke zorgvuldigheid samengesteld, maar fouten en onvolledigheden kunnen niet worden uitgesloten. Het kan voorkomen dat in een tabakswinkel bepaalde arbo-risico's voorkomen die zeer specifiek zijn en dat deze niet opgenomen zijn in deze RI&amp;amp;E.&lt;/p&gt;&lt;p&gt;De werkgever blijft zelf verantwoordelijk voor een volledige RI&amp;amp;E en plan van aanpak van alle arbo-risico's die werknemers lopen op het gebied van veiligheid, gezondheid en welzijn in het bedrijf.&lt;/p&gt;&lt;p&gt;De betrokken partijen aanvaarden geen aansprakelijkheid, ook niet voor directe of indirecte schade ontstaan door of verband houdend met toepassing van deze RI&amp;amp;E.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
       </risk>
     </module>
@@ -213,7 +213,7 @@ TrTzTrT0T7X0VLf0Xbr0Zr71cMP1e8f2hsz3kdH3ntb4q9v5uOH6xub71O384/P98vn+/f7+/v7+
         <risk external-id="R-4419" type="risk">
           <title>Alle werkruimtes in het gebouw worden goed onderhouden en schoongemaakt.</title>
           <description>&lt;p&gt;Er zijn geen duidelijk aantoonbare gebreken aan de werkruimtes in het gebouw. Er is voldoende aandacht voor periodiek onderhoud (kapotte lampen, lekkageplekken, losse plafondplaten of kapotte sloten) en schoonmaak.&#160;&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1041">
@@ -236,7 +236,7 @@ helpen.</action-plan>
         <risk external-id="R-4420" type="risk">
           <title>De elektrische-, gas- en watervoorzieningen zijn in orde en worden goed onderhouden.</title>
           <description>&lt;p&gt;Elke elektrische installatie moet periodiek ge&#239;nspecteerd worden volgens NEN-norm 3140. De frequentie waarmee dit gebeurt, is afhankelijk van het gebruik en de toestand van de installatie. In het algemeen zien we voor winkelpanden een frequentie van eens per vier jaar. Informeer hiernaar bij uw installateur. Ook kan het zijn dat deze informatie in uw gebruikersvergunning of verzekering is opgenomen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1042">
@@ -248,7 +248,7 @@ helpen.</action-plan>
         <risk external-id="R-4421" type="risk">
           <title>Alle snoeren en kabels zijn netjes weggewerkt.</title>
           <description>&lt;p&gt;Losse kabels op de grond kunnen leiden tot val- of struikelgevaar. Daarnaast is de kans op beschadigingen aan de kabels groter. Dit kan leiden tot kortsluiting of zelfs brand.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1043">
@@ -264,7 +264,7 @@ helpen.</action-plan>
         <risk external-id="R-4422" type="risk">
           <title>Er zijn goede sanitaire voorzieningen aanwezig.</title>
           <description>&lt;p&gt;Voor toiletten gelden de volgende richtlijnen: Bij minder dan 10 medewerkers &#233;&#233;n toilet. Bij 10 of meer medewerkers voor mannen en vrouwen gescheiden toiletten, met minimaal per groep van 15 mannen of vrouwen &#233;&#233;n toilet.&#160;Een gedeelte van de toiletten voor mannen mag vervangen zijn door urinoirs, mits per groep van 25 mannen ook &#233;&#233;n toilet aanwezig is.&#160;De toiletten dienen schoon te zijn en geventileerd te worden.&#160;&lt;/p&gt;&lt;p&gt;Handenwasgelegenheden in of nabij de toiletten dienen voorzien te zijn van&#160;zeep en droogvoorzieningen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1044">
@@ -276,7 +276,7 @@ helpen.</action-plan>
         <risk external-id="R-4423" type="risk">
           <title>Er is een pauzeruimte aanwezig, met voldoende zitgelegenheid.</title>
           <description>&lt;p&gt;De pauzeruimte moet voorzien zijn van voldoende stoelen en tafels. Wanneer er minder dan 10 werknemers aanwezig zijn, mag de pauzeruimte ook voor andere doeleinden gebruikt worden, mits men buiten de eigen werkplek kan pauzeren. (Nb. Wanneer het niet mogelijk is om los van de werkplek te pauzeren, zorg dan dat uw medewerkers in ieder geval ongestoord kunnen pauzeren. Bijvoorbeeld door af te spreken dat collega's de klanten tijdens iemands pauze opvangen.) &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Bij meer dan 10 werknemers is een aparte pauzeruimte/kantine verplicht.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1045">
@@ -292,7 +292,7 @@ helpen.</action-plan>
         <risk external-id="R-4424" type="risk">
           <title>Roken in de tabaks-gemakswinkel toegestaan voor ondernemers zonder personeel</title>
           <description>&lt;p&gt;Tot 1 juli 2008 gold een vrijstelling voor de tabaksdetailhandel m.b.t. 'het recht op een rookvrije werkplek'. Dat betekende dat roken in de tabaksspeciaalzaak was toegestaan. Met de invoering van de rookvrije horeca per 1 juli 2008 is ook deze vrijstelling geschrapt. Vanaf 1 juli 2008 geldt dat ook ondernemers in de tabaksdetailhandel wettelijk verplicht zijn er voor te zorgen dat hun personeel niet aan tabaksrook wordt blootgesteld. Dat betekende dat in de tabaks- en gemakswinkels met personeel niet mag worden gerookt. Ook niet als het personeel een vrije dag heeft en de eigenaar alleen in de winkel staat. Er mag ook niet gerookt worden in de algemene ruimtes (gangen, trappen, keuken), alleen in een speciaal daartoe aangewezen rookruimte. Deze rookruimte moet als zodanig herkenbaar zijn (dus door middel van een bordje rookruimte) en moet afsluitbaar zijn. In een tabaks- en gemakswinkel zonder personeel mag wel worden gerookt, door zowel ondernemer als klant.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1046">
@@ -304,7 +304,7 @@ helpen.</action-plan>
         <risk external-id="R-4425" type="risk">
           <title>Er zijn afspraken gemaakt waar en wanneer roken is toegestaan.</title>
           <description>&lt;p&gt;Ofschoon er geen verplichting geldt om voor rokers voorzieningen te treffen, is het raadzaam hier met elkaar afspraken over te maken. Dit zal veelal de sfeer ten goede komen en voorkomt stiekem rookgedrag. &lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1047">
@@ -320,7 +320,7 @@ helpen.</action-plan>
         <risk external-id="R-4426" type="risk">
           <title>Op plaatsen waar gewerkt wordt is goede verlichting aanwezig.</title>
           <description>&lt;p&gt;Onder goede verlichting wordt verstaan dat medewerkers geen last hebben van hinderlijke schitteringen in displays en de aanwezige documenten/etiketten zonder problemen kunnen lezen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1048">
@@ -340,7 +340,7 @@ helpen.</action-plan>
         <risk external-id="R-4427" type="risk">
           <title>Op plaatsen waar niet (continue) gewerkt wordt, zoals magazijnen, gangen of een trappenhuis, is verlichting aanwezig.</title>
           <description>&lt;p&gt;Het gaat hier om twee dingen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;de basisverlichting moet op een sterkte zijn zodat niemand er zich onveilig voelt. Dit geldt vooral in trappenhuizen of rondom het pand;&lt;/li&gt;&lt;li&gt;het licht moet aan kunnen op het moment dat het nodig is.&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1049">
@@ -356,7 +356,7 @@ helpen.</action-plan>
         <risk external-id="R-4428" type="risk">
           <title>De klimaathuishouding in de werkruimtes is goed geregeld.</title>
           <description>&lt;p&gt;Bespreek met elkaar in hoeverre de klimaathuishouding een structureel probleem is, dan wel zich incidenteel voordoet. Wanneer medewerkers klagen over hoofdpijn, vermoeidheid, lusteloosheid, tocht, droge keel of rode, ge&#239;rriteerde ogen kan dit duiden op problemen rondom de klimaathuishouding. In dergelijke situaties is nader onderzoek naar de klimaathuishouding wenselijk. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Ook kan het nuttig zijn goed te letten op de hoeveelheid lampen en apparatuur in een ruimte, daar deze veel warmte kunnen produceren.&#160;Incidentele klachten, veelal veroorzaakt door extreme buitentemperaturen, kunnen deels ondervangen worden door extra verfrissingen aan te bieden of aanpassen van kledingsvoorschriften.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1050">
@@ -374,7 +374,7 @@ verfrissingen aan te bieden of aanpassen van kledingsvoorschriften.</action-plan
         <risk external-id="R-4429" type="risk">
           <title>Er is een ruimte waar het personeel zich kan omkleden en eigen kleding kan opbergen.</title>
           <description>&lt;p&gt;Indien men bedrijfskleding moet dragen en men moet zich hiervoor omkleden in bedrijfskleding, dient er een naar sekse gescheiden en afsluitbare kleedruimte aanwezig te zijn. &lt;/p&gt;&lt;p&gt;Wanneer het niet haalbaar is om een naar sekse gescheiden omkleedruimte te cre&#235;ren, dan kan dit ook opgelost worden door de omkleedruimte van binnenuit op slot te doen.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1051">
@@ -386,7 +386,7 @@ verfrissingen aan te bieden of aanpassen van kledingsvoorschriften.</action-plan
         <risk external-id="R-4430" type="risk">
           <title>Persoonlijke eigendommen kunnen veilig opgeborgen worden.</title>
           <description>&lt;p&gt;Elke medewerker moet persoonlijke eigendommen veilig kunnen opbergen. Een afsluitbare bureaulade of een afsluitbare kast is voldoende.&#160;&lt;/p&gt;&lt;p&gt;Nb. Spreek met elkaar af dat kostbaarheden (handtassen e.d.) niet openlijk voor het grijpen liggen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1052">
@@ -398,7 +398,7 @@ verfrissingen aan te bieden of aanpassen van kledingsvoorschriften.</action-plan
         <risk external-id="R-4431" type="risk">
           <title>Het is bekend op welke plaatsen in het gebouw asbest aanwezig is.</title>
           <description>&lt;p&gt;Als er asbest aanwezig is hoeft dat geen bezwaar te zijn, zolang het maar met rust wordt gelaten. Het is daarom belangrijk om te weten op welke plaatsen in het bedrijf asbest aanwezig is.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1053">
@@ -418,7 +418,7 @@ verfrissingen aan te bieden of aanpassen van kledingsvoorschriften.</action-plan
         <risk external-id="R-4432" type="risk">
           <title>Er zijn maatregelen genomen om besmetting met de legionella bacterie te voorkomen.</title>
           <description>&lt;p&gt;De kans op blootstelling aan de legionellabacterie is binnen tabaksdetailhandel uiterst klein. Alertheid is geboden op plaatsen waar water, met een temperatuur tussen de 25 graden&#160;C en 60 graden C, gedurende langere tijd stilstaat (doodlopende leidingen), in combinatie met verneveling. Weinig gebruikte douches, oogdouches en brandslanghaspels die incidenteel gebruikt worden zijn risicobronnen. Ook airconditioninginstallaties met luchtbevochtigers verdienen extra aandacht.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1054">
@@ -448,7 +448,7 @@ de haspel extra alert op gezondheidsklachten.</action-plan>
         <risk external-id="R-4433" type="risk">
           <title>Ladders en/of opstapjes worden aantoonbaar gecontroleerd op gebreken.</title>
           <description>&lt;p&gt;Er gebeuren nogal eens ongelukken met ladders en trapjes doordat er iets aan kapot is. Klimmateriaal moet daarom minimaal jaarlijks door een deskundige gecontroleerd worden op gebreken.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Nb. Onder een deskundige wordt verstaan: iemand die over de kennis en kunde beschikt om klimmateriaal naar behoren te kunnen keuren. Dit hoeft dus niet per definitie een keuringsinstantie te zijn. Ook wanneer iemand binnen het bedrijf over voldoende deskundigheid beschikt is dit (wettelijk) toegestaan. &lt;br/&gt;De stelregel is: Is er iets aan de ladder of het opstapje kapot of verbogen, laat dit dan door een deskundige repareren of koop een nieuwe.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1055">
@@ -460,7 +460,7 @@ de haspel extra alert op gezondheidsklachten.</action-plan>
         <risk external-id="R-4434" type="risk">
           <title>Vaste trappen of betreedbare bordessen zijn voorzien van een leuning of hekwerk.</title>
           <description>&lt;p&gt;Ter voorkoming van valgevaar moet er langs de randen van betreedbare bordessen een hekwerk of randbeveiliging zijn geplaatst. Vaste trappen moeten voorzien zijn van leuningen. Indien een trap breder is dan 1,2 meter dan dienen er twee leuningen aanwezig te zijn.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1056">
@@ -476,7 +476,7 @@ de haspel extra alert op gezondheidsklachten.</action-plan>
         <risk external-id="R-4435" type="risk">
           <title>Bij nieuwbouw en verbouw en bij de (her)inrichting van werkplekken wordt rekening gehouden met arbo-eisen.</title>
           <description>&lt;p&gt;Verbouwingen zijn bij uitstek de momenten waarbij bestaande knelpunten kunnen worden opgelost. &lt;/p&gt;&lt;p&gt;Betrek uw preventiemedewerker en medewerker(s) zoveel mogelijk bij deze plannen. Ook kan het zinvol zijn deskundigen te betrekken in uw plannen.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1057">
@@ -492,7 +492,7 @@ de haspel extra alert op gezondheidsklachten.</action-plan>
         <risk external-id="R-4436" type="risk">
           <title>Het overzicht in de winkel is goed. U kunt iedereen die binnen is goed zien.</title>
           <description>&lt;p&gt;Een goed overzicht in de winkel is vooral van belang om diefstal zoveel mogelijk te beperken.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1058">
@@ -504,7 +504,7 @@ de haspel extra alert op gezondheidsklachten.</action-plan>
         <risk external-id="R-4437" type="risk">
           <title>De stellingen en rekken staan stabiel opgesteld en zijn voldoende kindveilig.</title>
           <description>&lt;p&gt;Dit is van belang voor de veiligheid. Let vooral op de aanwezige losse rekken, die met nieuwsgierige kinderhandjes snel kunnen omvallen.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1059">
@@ -516,7 +516,7 @@ de haspel extra alert op gezondheidsklachten.</action-plan>
         <risk external-id="R-4438" type="risk">
           <title>Stellingen hoger dan twee meter zijn geborgd.</title>
           <description>&lt;p&gt;Als de hoogte van de stelling hoger is dan 2 meter en de verhouding tussen hoogte en diepte meer dan 4 op 1 bedraagt, dan moet de stelling in dwarsrichting deugdelijk aan het gebouw zijn verankerd of aan een naast gelegen stelling zijn gekoppeld. Hiermee wordt het risico op omvallen voorkomen.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1060">
@@ -528,7 +528,7 @@ de haspel extra alert op gezondheidsklachten.</action-plan>
         <risk external-id="R-4439" type="risk">
           <title>De stellingen/schappen zijn berekend op de gewichten van de aanwezige goederen.</title>
           <description>&lt;p&gt;De maximale draagkracht van de stellingen/schappen moet bij de medewerker(s) bekend zijn, zodat hiermee rekening gehouden wordt. Bij CE-gemarkeerde stellingen is de maximale draagkracht in de gebruikershandleiding terug te vinden. De maximale draagkracht van de stellingen/schappen mag niet overschreden worden. Wees vooral alert op vervormde schappen. Haal vervormde schappen direct leeg.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1061">
@@ -549,7 +549,7 @@ de haspel extra alert op gezondheidsklachten.</action-plan>
         <risk external-id="R-4441" type="risk">
           <title>Daar de hoogte van de toonbank niet per persoon instelbaar is wordt er veel afwisseling in het werk aangebracht.</title>
           <description>&lt;p&gt;De hoogte van de toonbank kan niet afgesteld worden op de lichaamslengte van de medewerker, dit&#160;vanwege de grote individuele verschillen.&lt;/p&gt;&lt;p&gt;Het is daarom belangrijk om uw medewerker vaak afwisselend werk te laten doen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1062">
@@ -561,7 +561,7 @@ de haspel extra alert op gezondheidsklachten.</action-plan>
         <risk external-id="R-4442" type="risk">
           <title>De voetruimte onder de toonbank is minimaal 15 cm.</title>
           <description>&lt;p&gt;Om dicht bij de toonbank te kunnen staan (kleine reikafstand) moet de medewerker de voeten onder de toonbank kunnen plaatsen. Dit betekent dat, vanaf de rand van het werkblad gerekend, 15 cm voetruimte aanwezig moet zijn. Zorg daarom dat laden en kasten niet tot de vloer doorlopen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1063">
@@ -573,7 +573,7 @@ de haspel extra alert op gezondheidsklachten.</action-plan>
         <risk external-id="R-4443" type="risk">
           <title>Er is voldoende bewegingsvrijheid achter de toonbank</title>
           <description>&lt;p&gt;De benodigde ruimte achter de toonbank is sterk afhankelijk van de aard van de werkzaamheden, het aantal medewerkers en de inrichting van de toonbank. Zitten er laden in de toonbank, of hangen achter de toonbank artikelen voor de verkoop, dan vraagt dit extra bewegingsruimte. Wanneer medewerkers elkaar snel in de weg lopen is veelal een indicatie dat er onvoldoende ruimte achter de toonbank is.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1064">
@@ -585,7 +585,7 @@ de haspel extra alert op gezondheidsklachten.</action-plan>
         <risk external-id="R-4444" type="risk">
           <title>Er is kritisch onderzocht in hoeverre bepaalde werkzaamheden achter de toonbank zittend uitgevoerd kunnen worden.</title>
           <description>&lt;p&gt;Langdurig staan is bijzonder vermoeiend en kan leiden tot klachten aan het houdings- en bewegingsapparaat. Het sleutelwoord is 'afwisseling': Bied medewerkers de mogelijkheid om naast staan en lopen ook af en toe te zitten. Ga eens kritisch na in hoeverre bepaalde werkzaamheden ook zittend uitgevoerd kunnen worden. Dit geldt in ieder geval indien langer dan &#233;&#233;n uur achtereen of meer dan vier uur per dag stilstaand gewerkt wordt. Maak hier een overzicht van.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1065">
@@ -605,7 +605,7 @@ de haspel extra alert op gezondheidsklachten.</action-plan>
         <risk external-id="R-4445" type="risk">
           <title>Er zijn concrete afspraken gemaakt rondom agressie en criminaliteit van klanten.</title>
           <description>&lt;p&gt;Het gaat hier om agressie en geweld van klanten naar het eigen personeel. Hieronder wordt naast fysiek geweld, diefstal en een overval ook verstaan seksuele intimidatie, vandalisme en discriminatie. Vooral overvallen, diefstal en agressie zijn belangrijke risico's binnen de branche. Het is daarom essentieel dat in samenwerking met de medewerkers enerzijds afspraken gemaakt worden over wat men kan doen om de kans te verkleinen en anderzijds over hoe te handelen in voorkomende situaties.&lt;/p&gt;&lt;p&gt;De NSO stelt ondernemers en medewerkers in de branche permanent in de gelegenheid een training winkelcriminaliteit te volgen. Bijvoorbeeld: overvaltraining en omgaan met agressieve klanten. Deze trainingen worden het het Hoofd Bedrijfschap Detailhandel georganiseerd. De NSO neemt een deel van de kosten op zich.&lt;/p&gt;&lt;p&gt;De NSO licht de ondernemers in de tabaksdetailhandel voor over te nemen preventieve maatregelen, dit&#160;om winkelcriminaliteit te voorkomen.&#160; Het hele jaar door wordt hieraan aandacht besteed in het vakblad Tabak &amp;amp; Gemak, in ledenberichten en op de website &lt;a href="http://www.tabaksdetailhandel.nl" rel="nofollow" target="_blank"&gt;www.tabaksdetailhandel.nl&lt;/a&gt;&#160;&lt;/p&gt;&lt;p&gt;De NSO heeft met Directe Opvang en Nazorg (D.O.e.N) afspraken gemaakt voor ondernemers en medewerkers in de tabaksdetailhandel die slachtoffer zijn geworden van een schokkende gebeurtenis. NSO stelt deze slachtofferopvang kosteloos ter beschikking aan alle tabakszaken in Nederland.&lt;br/&gt;&lt;a href="http://www.tabaksdetailhandel.nl/TABAK/fs3_site.nsf/htmlViewDocuments/69B81150A75237CDC12573620026701A" rel="nofollow" target="_blank"&gt;&lt;br/&gt;Zie&lt;/a&gt; website&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1066">
@@ -630,7 +630,7 @@ de haspel extra alert op gezondheidsklachten.</action-plan>
           <title>Er zijn concrete maatregelen genomen om de kans op overvallen zoveel mogelijk te beperken.</title>
           <problem-description>Hebben uw medewerkers in het project Stop winkelcriminaliteit nog geen training bij NSO gevolgd? Laat dan uw medewerkers nu een training volgen.</problem-description>
           <description>&lt;p&gt;Voorbeelden hiervan zijn o.a.:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Zorg dat men ook van buiten kan zien wat er binnen gebeurd; &lt;/li&gt;&lt;li&gt;Zorg voor een goed overzicht in de winkel zelf; &lt;/li&gt;&lt;li&gt;Spreek klanten aan (maak contact met de klant); &lt;/li&gt;&lt;li&gt;Voorkom dat er in de winkel grote hoeveelheden contanten en waardepapieren aanwezig zijn; &lt;/li&gt;&lt;li&gt;Room kassa's&#160;regelmatig -ZICHTBAAR- af; &lt;/li&gt;&lt;li&gt;De buit minimaliseren, groot geld onbereikbaar maken; &lt;/li&gt;&lt;li&gt;Kenbaar maken dat de winkel en goederen beveiligd zijn; &lt;/li&gt;&lt;li&gt;Tel geld nooit in de winkel zelf; &lt;/li&gt;&lt;li&gt;Zorg dat scherpe voorwerpen (zoals bijvoorbeeld een schaar) nooit op de toonbank liggen;&lt;/li&gt;&lt;li&gt;Voorkom dat medewerkers alleen de winkel openen of sluiten; &lt;/li&gt;&lt;li&gt;Plaats eventueel videocamera's. &lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;&lt;p&gt;Naast bovenstaande punten kunt u uw medewerkers ook een opleiding laten volgen. Informeer bij uw brancheorganisatie naar de mogelijkheden.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1956">
@@ -646,13 +646,13 @@ de haspel extra alert op gezondheidsklachten.</action-plan>
         <risk external-id="R-19452" type="risk">
           <title>Er wordt voorkomen dat medewerkers meerdere keren per dag gewichten van meer dan ongeveer 10 kg in ongunstige houdingen tillen / verplaatsen.</title>
           <description>&lt;p&gt;Ook tillen van gewichten van minder dan 10 kg kunnen, wanneer er sprake is van ongunstige werkhoudingen, al leiden tot normoverschrijdende tilhandelingen.&lt;/p&gt;&lt;p&gt;Bij ongunstige werkhoudingen moet u denken aan:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;tillen met een gebogen hoofd en/of gedraaide rug. Dit is vooral bij het van pallets of vanuit karren overplaatsen van producten;&lt;/li&gt;&lt;li&gt;tillen ver van het lichaam af;&lt;/li&gt;&lt;li&gt;tillen met de handen op of boven schouderhoogte;&lt;/li&gt;&lt;li&gt;knielend, met geboden knie&#235;n of staand op &#233;&#233;n been (deze houding ontstaat met name bij traplopen);&lt;/li&gt;&lt;li&gt;tillen laag bij de grond;&lt;/li&gt;&lt;li&gt;teveel goederen in &#233;&#233;n keer pakken.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Bovenstaande situaties kunnen veelal voorkomen worden door alert te zijn op de inrichting van het magazijn en de winkel, waarbij vooral de werkhoogtes en de bereikbaarheid van de goederen erg belangrijk is.&lt;/p&gt;&lt;p&gt;Ook kunnen goede voorlichting en instructies bijdragen tot het aanleren van een betere werkhouding.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-4448" type="risk">
           <title>Ongunstige werkhoudingen zoals in de toelichting beschreven worden voorkomen.</title>
           <description>&lt;p&gt;Werkhoudingen die lang moeten worden volgehouden, kunnen leiden tot spier- en gewrichtsklachten. &lt;/p&gt;&lt;p&gt;Dit komt voor bij:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;gedraaide rughouding bij het pakken van artikelen achter de toonbank.&lt;/li&gt;&lt;li&gt;geregeld langer dan 1 uur achtereen stilstaan achter de toonbank en werktafel;&lt;/li&gt;&lt;li&gt;langer dan 2 uur per dag gebogen, gehurkt of geknield werken;&lt;/li&gt;&lt;li&gt;werkhoogte te hoog of te laag doordat de, werkvlakhoogte niet afgestemd is op de lichaamslengte van de medewerker;&lt;/li&gt;&lt;li&gt;het reiken naar producten hoog (boven schouderniveau) in het schap.&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1069">
@@ -673,7 +673,7 @@ de haspel extra alert op gezondheidsklachten.</action-plan>
         <risk external-id="R-4450" type="risk">
           <title>Na 2 uur computerwerk kan er minimaal 15 minuten gepauzeerd worden of kan er tijdelijk ander werk worden gedaan.</title>
           <description>&lt;p&gt;Voor het voorkomen van eenzijdige lichamelijke belasting is pauzeren een mogelijkheid, maar afwisseling tussen verschillende taken is beter zoals telefoneren of kopi&#235;ren.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1070">
@@ -689,7 +689,7 @@ de haspel extra alert op gezondheidsklachten.</action-plan>
         <risk external-id="R-4451" type="risk">
           <title>De medewerkers beschikken over een adequate werktafel.</title>
           <description>&lt;p&gt;Onder een adequate werktafel wordt verstaan: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Het bovenblad is geheel vlak; &lt;/li&gt;&lt;li&gt;De afmetingen van het werkvlak dienen minimaal 120 cm breed en 80 cm diep te zijn; &lt;/li&gt;&lt;li&gt;De dikte van het werkblad is maximaal 5 cm, De vrije beenruimte is ten minste 65 cm diep en 60 cm breed;&lt;/li&gt;&lt;li&gt;De vrije voetenruimte is ten minste 80 cm diep,&lt;/li&gt;&lt;li&gt;Het werkblad is in hoogte verstelbaar.&lt;/li&gt;&lt;/ul&gt;&lt;br/&gt;&lt;p&gt;Werktafels met een vaste hoogte kunnen alleen worden gebruikt gedurende korte tijd en/of indien de hoogte aangepast wordt aan de taak en lichaamsafmeting van de individuele gebruiker. Te hoge of te lage tafels kunnen met een voetensteun respectievelijk blokken of pootverlengers passend worden gemaakt voor de individuele gebruiker.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1071">
@@ -707,7 +707,7 @@ onderzoeken welke andere (tussen) oplossingen mogelijk zijn.</action-plan>
         <risk external-id="R-4452" type="risk">
           <title>Alle bureaustoelen zijn goed instelbaar.</title>
           <description>&lt;p&gt;Voor beeldschermwerk gaat de voorkeur uit naar een stoel met een goede zitdiepte instelbaarheid, een goed instelbaar rugsteunpunt (type A bureaustoel volgens NEN-EN 1335) met in breedte en hoogte instelbare armleuningen. Belangrijke aandachtspunten bij een goede stoel zijn vooral dat de onderrug goed ondersteund wordt en de armen in een ontspannen houding op de armsteunen kunnen rusten.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1072">
@@ -719,7 +719,7 @@ onderzoeken welke andere (tussen) oplossingen mogelijk zijn.</action-plan>
         <risk external-id="R-4453" type="risk">
           <title>Het beeldscherm staat recht voor de medewerker.</title>
           <description>&lt;p&gt;Wanneer het beeldscherm teveel links of rechts van de medewerker staat, ontstaat een gedraaide stand van het hoofd/de nek. De schouderspieren zijn hierdoor voortdurend aangespannen, waardoor een sterk verhoogt risico op nek- schouderklachten of RSI-klachten ontstaat.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1073">
@@ -731,7 +731,7 @@ onderzoeken welke andere (tussen) oplossingen mogelijk zijn.</action-plan>
         <risk external-id="R-4454" type="risk">
           <title>Het toetsenbord staat los op het werkblad en recht voor de medewerker.</title>
           <description>&lt;p&gt;Medewerkers moeten het toetsenbord desgewenst kunnen verplaatsen. Door het toetsenbord recht voor je te zetten voorkom je ongunstige werkhoudingen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1074">
@@ -743,7 +743,7 @@ onderzoeken welke andere (tussen) oplossingen mogelijk zijn.</action-plan>
         <risk external-id="R-4455" type="risk">
           <title>De muis ligt naast het toetsenbord.</title>
           <description>&lt;p&gt;Zeker bij veelvuldig muisgebruik is het belangrijk dat de muis zo geplaatst wordt dat de bovenarm een rechte hoek vormt met de onderarm en de bovenarmen zoveel mogelijk langs de romp hangen. Veel RSI-achtige klachten ontstaan door het bedienen van de muis met een gestrekte arm of vanuit de pols.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1075">
@@ -755,7 +755,7 @@ onderzoeken welke andere (tussen) oplossingen mogelijk zijn.</action-plan>
         <risk external-id="R-4456" type="risk">
           <title>Personeel is ge&#239;nstrueerd over een goede werkhouding en beeldschermopstelling.</title>
           <description>&lt;p&gt;Nog steeds staan beeldschermen en randapparatuur verkeerd opgesteld. Ook zijn de stoelen vaak niet goed ingesteld. Veelal kent men de instelmogelijkheden niet eens. Indien medewerkers gemiddeld meer dan 2 uur per dag beeldschermwerk of bureauwerkzaamheden verrichten is het uitermate zinvol (en wettelijk verplicht) om medewerkers goed te instrueren op welke wijze klachten voorkomen kunnen worden.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1076">
@@ -771,7 +771,7 @@ onderzoeken welke andere (tussen) oplossingen mogelijk zijn.</action-plan>
         <risk external-id="R-4457" type="risk">
           <title>De stoel en werktafel zijn goed ingesteld.</title>
           <description>&lt;p&gt;Voor het instellen van tafel en stoel gelden de volgende richtlijnen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;zithoogte; ga op de stoel zitten. Zorg ervoor dat de voeten plat op de vloer rusten. De benen maken dan een hoek van minimaal 90 graden;&lt;/li&gt;&lt;li&gt;rugleuning; ga rechtop zitten en breng het middelpunt van de rugleu&#173;ning (of het meest naar voren komende punt) op gelijke hoogte met de holling van de rug, zodat steun in de lenden&#173;streek wordt gevoeld;&lt;/li&gt;&lt;li&gt;zithoek; ga zoveel mogelijk rechtop zitten en laat de stoel niet teveel achterover hellen; de rugleuning bij voorkeur blokkeren. Indien het een schommelmechanisme betreft, kunt u deze het beste gebruiken, omdat dit een statische houding doorbreekt.&lt;/li&gt;&lt;li&gt;diepte van de zitting; bij de ideale zitdiepte past een vuist tussen knieholte en stoelrand;&lt;/li&gt;&lt;li&gt;armsteunen; stel de armsteunen zodanig in dat de armen een hoek van minimaal 90 graden maken en de schouders ontspannen zijn (niet opgetrokken);&lt;/li&gt;&lt;li&gt;tafelhoogte; je werkhoogte is in principe ellebooghoogte (armen in een hoek van 90 graden); als alleen beeldschermwerk wordt verricht liggen de armsteunen dus iets hoger (&#177; 2 cm) dan het tafelblad (op gelijke hoogte met het toetsenbord); bij lees- en schrijfwerk liggen de armsteunen iets onder het tafelblad (zodat niet voorover wordt gebogen); bij een combinatie van beide werkzaamheden is het beter om armsteunen en tafelrand op gelijke hoogte te hebben; dit is ook een juiste hoogte voor muiswerk. Indien een tafel niet in hoogte verstelbaar is, dient een te lage tafel met bijv. pootverlengers te worden verhoogd; bij een te hoge tafel kan een voetensteun worden gebruikt.&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1077">
@@ -787,7 +787,7 @@ onderzoeken welke andere (tussen) oplossingen mogelijk zijn.</action-plan>
         <risk external-id="R-4458" type="risk">
           <title>In het kantoor zijn ramen aanwezig waardoor het daglicht naar binnenkomt.</title>
           <description>&lt;p&gt;Als wettelijke richtlijn geldt dat het gezamenlijke oppervlak van een lichtopening ten minste 1/20 van het vloeroppervlak van de ruimte moet bedragen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1078">
@@ -805,7 +805,7 @@ hoeverre extra maatregelen genomen moeten worden.</action-plan>
         <risk external-id="R-4459" type="risk">
           <title>De beeldschermen staan haaks op de ramen en zo mogelijk 1&#189; tot 2 meter van het raam af.</title>
           <description>&lt;p&gt;Door beeldschermen haaks op de vensters te plaatsen kan invallend zonlicht in de schermen voorkomen worden. Het plaatsen van een beeldscherm recht voor een venster (medewerker kan direct naar buiten kijken) is bijzonder vermoeiend voor de ogen en moet daarom voorkomen worden.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1079">
@@ -821,7 +821,7 @@ hoeverre extra maatregelen genomen moeten worden.</action-plan>
         <risk external-id="R-4460" type="risk">
           <title>Er is geen sprake van spiegeling in beeldschermen door de verlichting of invallen zonlicht. (Nee is knelpunt).</title>
           <description>&lt;p&gt;Onbeschermde t.l.-buizen spiegelen altijd. Plaats beschermde t.l.-verlichting in de lengterichting op het beeldscherm.&#160;&lt;/p&gt;&lt;p&gt;Bij ramen waar veel zon door schijnt is zonwering nodig. Dat voorkomt extra opwarming van de ruimte en spiegeling in beeldschermen.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Nb. Bij aanschaf van lamellen hebben verticale lamellen de voorkeur boven horizontale omdat daglichttoetreding mogelijk blijft. Bij aanschaf van lamellen is het verstandig deze in meerdere delen te plaatsen, zodat deze onafhankelijk van elkaar zijn in te stellen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1080">
@@ -841,7 +841,7 @@ hoeverre extra maatregelen genomen moeten worden.</action-plan>
         <risk external-id="R-4461" type="risk">
           <title>Medewerkers worden in de gelegenheid gesteld hun gezichtsvermogen te controleren.</title>
           <description>&lt;p&gt;Een dergelijk onderzoek is vooral van belang voor medewerkers van ca. 45 jaar of ouder, medewerkers die de aanschaf van een leesbril overwegen of medewerkers die de indruk hebben dat hun gezichtsvermogen afneemt. Medewerkers die gemiddeld&#160;twee uur per dag beeldschermwerk verrichten, moeten in de gelegenheid gesteld worden hun gezichtsvermogen te laten onderzoeken (PMO beeldschermwerk). Dit oog-onderzoek kan uw verzuimbegeleider / arbodienst uitvoeren.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1081">
@@ -853,7 +853,7 @@ hoeverre extra maatregelen genomen moeten worden.</action-plan>
         <risk external-id="R-4462" type="risk">
           <title>Er zijn afspraken gemaakt over de aanschaf van een zogenaamde beeldschermbril.</title>
           <description>&lt;p&gt;Een beeldschermbril is vooral bedoeld voor mensen die problemen hebben met het scherpstellen van de ogen op korte afstand (30 tot 40 cm). Vooral personen van 45 jaar of ouder kunnen met dit probleem te maken krijgen. Een leesbril of bril met leesgedeelte corrigeert dit probleem slechts ten dele, omdat men bij werkzaamheden aan een beeldscherm te maken krijgt met verschillende kijkafstanden (30 &#226;&#8364;&#8220; 80 cm). &lt;/p&gt;&lt;p&gt;In een oog-onderzoek (PMO-beeldschermwerk) wordt met een speciale visusmeter bepaald of een beeldschermbril noodzakelijk is. Een beeldschermbril dient vergoed te worden door het bedrijf. Het is mede daarom goed om op voorhand wel goede interne afspraken te maken over de vergoedingsmogelijkheden.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1082">
@@ -865,13 +865,13 @@ hoeverre extra maatregelen genomen moeten worden.</action-plan>
         <risk external-id="R-4463" type="risk">
           <title>Per medewerker is 8 m2 ruimte aanwezig.</title>
           <description>&lt;p&gt;De benodigde vloeroppervlakte is mede afhankelijk van het benodigde meubilair. Zo wordt, voor een standaard werkplek bestaande uit een bureau een kast en een ladeblok, een minimum vloeroppervlakte van 8 m2 per persoon gehanteerd. &lt;/p&gt;&lt;p&gt;Indien de aard van de werkzaamheden of de functie vragen om een groter werkblad, extra kastruimte of een aparte vergadertafel zal meer ruimte noodzakelijk zijn.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-4464" type="risk">
           <title>Printers en kopieermachines staan uit de buurt van de medewerkers.</title>
           <description>&lt;p&gt;Plaats printers en kopieermachines tenminste 2 meter van de werkplek. De kans op hinder of klachten ten gevolge van warmteafgifte of vrijkomende verontreiniging wordt hierdoor beperkt. Een bijkomend voordeel hiervan is dat medewerkers dan automatisch minder lang achter elkaar zitten, daar zij af en toe naar de printer moeten lopen.&lt;/p&gt;&lt;p&gt;Indien per maand meer dan 5000 afdrukken worden gemaakt, wordt geadviseerd de kopieermachine/laserprinter in een aparte ruimte te plaatsen (dit in verband met warmteafgifte en vrijkomende verontreiniging). &lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-1083">
@@ -888,7 +888,7 @@ hoeverre extra maatregelen genomen moeten worden.</action-plan>
       <risk external-id="R-4465" type="risk">
         <title>Nooduitgangen zijn in voldoende mate aanwezig.</title>
         <description>&lt;p&gt;Wanneer de afstand tot de uitgang groter is dan&#160;30 m, is een extra nooduitgang noodzakelijk. Schuif- en draaideuren mogen niet als nooduitgang worden gebruikt. De nooduitgang moet goed bereikbaar zijn, moet gemakkelijk te openen zijn (niet op slot), duidelijk worden aangegeven en verlicht en naar buiten toe opendraaien. &lt;/p&gt;&lt;p&gt;Nb. Ook gemeenten of verzekeringsmaatschappijen kunnen specifieke eisen stellen aan het aantal nooduitgangen.&lt;/p&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1084">
@@ -900,7 +900,7 @@ hoeverre extra maatregelen genomen moeten worden.</action-plan>
       <risk external-id="R-4466" type="risk">
         <title>Nooduitgangen zijn duidelijk aangegeven en vrij toegankelijk.</title>
         <description>&lt;p&gt;Vanaf iedere plek moet een markering van de nooduitgang te zien zijn. Verlichte transparanten vallen meer op en blijven zichtbaar na het uitvallen van stroom, indien voorzien van noodaccu. &lt;/p&gt;&lt;p&gt;Het verdient aanbeveling om de nooduitgangen en vluchtwegen aan te duiden door pictogrammen conform NEN 6088 (zie afbeelding).&lt;/p&gt;&lt;p&gt;In geval van nood moet het pand snel kunnen worden verlaten. Daarom moeten de gangen, trappen en uitgangen vrij worden gehouden. Ook moet hierbij gelet worden op de toegankelijkheid van het pand voor medewerkers en bezoekers. Het is aan te bevelen om eventuele trapjes en opstapjes in het bedrijf goed aan te geven, zodat wordt voorkomen dat medewerkers struikelen of vallen.&lt;/p&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1085">
@@ -916,7 +916,7 @@ hoeverre extra maatregelen genomen moeten worden.</action-plan>
       <risk external-id="R-4467" type="risk">
         <title>Er zijn voldoende en juiste blusmiddelen.</title>
         <description>&lt;p&gt;Criteria:&lt;/p&gt;&lt;p&gt;In een gebouw moet per 200 m&#178; tenminste een draagbaar blustoestel aanwezig zijn:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&#160;per verdieping minstens twee stuks;&lt;/li&gt;&lt;li&gt;bij verdiepingen met een vloeroppervlak van minder dan 200 m2 kunt u met &#233;&#233;n blustoestel per verdieping volstaan. &lt;/li&gt;&lt;li&gt;de blusmiddelen dienen goed bereikbaar te zijn (vrij van goederen en obstakels) en goed zichtbaar (pictogrammen).&lt;/li&gt;&lt;li&gt;de keuze over het soort blusmiddel kunt u het beste aan een deskundige overlaten. &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Nb. Ook verzekeringsbedrijven of gemeenten kunnen specifieke eisen stellen aan het aantal en soort blusmiddelen.&lt;/p&gt;&lt;p&gt;&lt;a href="http://www.euronorm.net/content/template2.php?itemID=13" rel="nofollow" target="_blank"&gt;Website &lt;/a&gt;over keuze brandblussers.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1086">
@@ -928,7 +928,7 @@ hoeverre extra maatregelen genomen moeten worden.</action-plan>
       <risk external-id="R-4468" type="risk">
         <title>De blusmiddelen worden jaarlijks gekeurd volgens een onderhoudscontract.</title>
         <description>&lt;p&gt;Het onderhoud van blustoestellen moet uitgevoerd worden door een gespecialiseerd bedrijf of brandweerkorps. Dit onderhoud moet jaarlijks uitgevoerd worden.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1087">
@@ -940,7 +940,7 @@ hoeverre extra maatregelen genomen moeten worden.</action-plan>
       <risk external-id="R-4469" type="risk">
         <title>Er zijn op voldoende plekken verbandmiddelen aanwezig.</title>
         <description>&lt;p&gt;Een goedgekeurde trommel kunt u herkennen aan de tekst 'Goedgekeurd door' en het logo van het oranje kruis. Eind 2004 heeft NSO aan ondernemers in de tabaksdetailhandel een -goedgekeurde- verbandtrommel ter beschikking gesteld. Binnen tabaksdetailhandel is veelal &#233;&#233;n verbandtrommel per winkel voldoende. Daarnaast is het raadzaam om op enkele plaatsen pleisters binnen handbereik te hebben.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1088">
@@ -952,7 +952,7 @@ hoeverre extra maatregelen genomen moeten worden.</action-plan>
       <risk external-id="R-4470" type="risk">
         <title>De verbandmiddelen worden &#233;&#233;n keer per jaar gecontroleerd op houdbaarheid en volledigheid.</title>
         <description>&lt;p&gt;Steriele middelen hebben een uiterste gebruiksdatum. Na het verstrijken van deze datum zijn niet alle middelen meer gegarandeerd steriel. Controleer de trommels &#233;&#233;n keer per jaar op de vervaldata en vervang deze op tijd.&lt;/p&gt;&lt;p&gt;Registreer deze controle, zodat hierover geen onduidelijkheid kan bestaan.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1089">
@@ -964,7 +964,7 @@ hoeverre extra maatregelen genomen moeten worden.</action-plan>
       <risk external-id="R-4471" type="risk">
         <title>Er zijn altijd voldoende bedrijfshulpverleners (BHV'ers) beschikbaar.</title>
         <description>&lt;p&gt;De bedrijfshulpverlening moet in elk bedrijf zodanig georganiseerd worden dat binnen enkele minuten na het plaatsvinden van een ongeval of brand, de bedrijfshulpverleningstaken op een adequate wijze kunnen worden vervuld. &lt;/p&gt;&lt;p&gt;Onder adequate bedrijfshulpverlening wordt verstaan dat de bedrijfshulpverleners:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Eerste hulp moeten kunnen bieden, ook aan klanten;&lt;/li&gt;&lt;li&gt;Moeten kunnen omgaan met blusmiddelen;&lt;/li&gt;&lt;li&gt;De werknemers instructie geven hoe te handelen in geval van nood;&lt;/li&gt;&lt;li&gt;Zorgen voor de organisatie tijdens een calamiteit (o.a. contact leggen met hulpverlenende instanties);&lt;/li&gt;&lt;li&gt;Preventieve taken, zoals het inspecteren van nooduitgangen. &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Binnen de tabaksdetailhandel is &#233;&#233;n bedrijfshulpverlener per 50 medewerkers en klanten voldoende. &lt;/p&gt;&lt;p&gt;Daar de BHV'er (werkgever of medewerker) ook wel eens afwezig is kunt u onderstaande mogelijkheid als extra mogelijkheid in gedachten houden.&lt;br/&gt;Nb. Het is wettelijk toegestaan dat bedrijven de taken op het gebied van bedrijfshulpverlening gezamenlijk organiseren. Deze samenwerking moet wel schriftelijk worden vastgelegd en de medewerkers dienen hiervan op de hoogte te zijn. De samenwerkende bedrijven worden in dergelijke situaties als &#233;&#233;n geheel beschouwd. Ook in deze situaties geldt dat de bedrijfshulpverleners binnen enkele minuten ter plekke moeten zijn.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1090">
@@ -980,7 +980,7 @@ hoeverre extra maatregelen genomen moeten worden.</action-plan>
       <risk external-id="R-4472" type="risk">
         <title>De bedrijfshulpverleners hebben een adequate opleiding gevolgd.</title>
         <description>&lt;p&gt;Er is een basis opleidingsprofiel opgesteld voor de deskundigheid van bedrijfshulpverleners. Binnen tabaksdetailhandel gelden naast dit basisprofiel geen extra deskundigheidseisen. Een standaard opleiding van 16 uur wordt als voldoende beschouwd. Informeer bij uw brancheorganisatie naar het cursusaanbod.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1091">
@@ -992,7 +992,7 @@ hoeverre extra maatregelen genomen moeten worden.</action-plan>
       <risk external-id="R-4473" type="risk">
         <title>De bedrijfshulpverleners oefenen regelmatig en volgen herhalingscursussen.</title>
         <description>&lt;p&gt;Om geoefend te blijven en op de hoogte te blijven van de laatste ontwikkelingen moeten bedrijfshulpverleners minimaal 8 uur per 2 jaar besteden aan bij- nascholing en oefening. Wanneer dit niet gedaan wordt vervalt de geldigheid van het behaalde BHV-certificaat.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1092">
@@ -1004,7 +1004,7 @@ hoeverre extra maatregelen genomen moeten worden.</action-plan>
       <risk external-id="R-4474" type="risk">
         <title>In het bedrijf zijn instructies opgesteld, waarop op eenvoudige wijze is aangegeven wat te doen indien zich een ongeval of brand voordoet.</title>
         <description>&lt;p&gt;Het is belangrijk dat alle medewerkers weten hoe te handelen in geval van een ongeval of brand. U regelt dit door het opstellen van een bedrijfshulpverleningsplan. &lt;/p&gt;&lt;p&gt;&lt;br/&gt;Nb. MKB Nederland heeft een bedrijfshulpverleningsplan opgesteld dat u als basis kunt gebruiken voor uw eigen plan. Een bedrijfshulpverleningsplan blijft natuurlijk maatwerk. &lt;/p&gt;&lt;p&gt;Een voorbeeld van het bedrijfshulpverleningsplan kunt u &lt;a href="http://www.arbo.mkb.nl/Bedrijfshulpverlening" rel="nofollow" target="_blank"&gt;downloaden&lt;/a&gt;.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1093">
@@ -1016,7 +1016,7 @@ hoeverre extra maatregelen genomen moeten worden.</action-plan>
       <risk external-id="R-4475" type="risk">
         <title>Belangrijke telefoonnummers die men moet gebruiken in noodsituaties liggen binnen handbereik op een voor iedereen bekende plek.</title>
         <description>&lt;p&gt;Het is belangrijk dat medewerkers belangrijke telefoonnummers snel kunnen vinden. U kunt deze op het toestel plakken maar ook een aparte lijst maken die bij de telefoons ligt is mogelijk.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1094">
@@ -1028,7 +1028,7 @@ hoeverre extra maatregelen genomen moeten worden.</action-plan>
       <risk external-id="R-4476" type="risk">
         <title>Er wordt minstens &#233;&#233;n keer per jaar een ontruimingsoefening gehouden of er wordt met elkaar besproken hoe te handelen in geval van een calamiteit.</title>
         <description>&lt;p&gt;In een klein bedrijf of filiaal is het houden van een ontruimingsoefening niet noodzakelijk. Wel is het belangrijk om jaarlijks met elkaar te bespreken of iedereen de regels kent hoe te handelen in geval van een calamiteit.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1095">
@@ -1048,19 +1048,19 @@ hoeverre extra maatregelen genomen moeten worden.</action-plan>
       <risk external-id="R-4477" type="risk">
         <title>Er zijn afspraken gemaakt over hoe men moet handelen bij een arbeidsongeval.</title>
         <description>&lt;p&gt;Denk hierbij aan alarmeren van familieleden. Zorg dat u van iedere medewerker een noodadres heeft. Schakel deskundige hulp in.&lt;/p&gt;&lt;p&gt;U kunt dergelijke afspraken opnemen in uw calamiteitenplan of opnemen in uw winkelreglement.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-4478" type="risk">
         <title>Arbeidsongevallen worden geregistreerd en de oorzaken onderzocht.</title>
         <description>&lt;p&gt;Het registreren van ongevallen en het bekijken van de oorzaken vormen de basis voor het nemen van gerichte maatregelen om deze ongevallen in de toekomst te voorkomen.&lt;/p&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-4479" type="risk">
         <title>Ongevallen met ernstige gevolgen worden meteen gemeld bij de Arbeidsinspectie.</title>
         <description>&lt;p&gt;Onder een 'ernstig ongeval' wordt verstaan een dodelijk ongeval en een ongeval dat leidt tot ziekenhuisopname of blijvend letsel. De Arbeidsinspectie zal veelal een ongevalonderzoek uitvoeren.&lt;/p&gt;&lt;p&gt;Voor alle ziekenhuisopnames, als gevolg van een ongeval op het werk,&#194;&#160;is er een meldingsplicht aan de Arbeidsinspectie. Dit geldt ook voor de opname als deze na 24 uur is.&lt;a href="http://arbeidsinspectie.szw.nl/index.cfm/352F245751534628263D673341406F562E2A2637325C44165E282738053E560D0302707A7537325C456F5B352C3E6766060506.html" rel="nofollow" target="_blank"&gt;www.arbeidsinspectie.szw.nl&lt;/a&gt;&lt;/p&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
     </module>
@@ -1070,7 +1070,7 @@ hoeverre extra maatregelen genomen moeten worden.</action-plan>
       <risk external-id="R-4480" type="risk">
         <title>Er zijn afspraken gemaakt over interne ongewenste gedragingen.</title>
         <description>&lt;p&gt;Ongewenst gedrag gaat over (seksuele) intimidatie, pesten, agressie en geweld, discriminatie, diefstal en gebruik van alcohol en drugs. Het is belangrijk hierover met elkaar goede afspraken te maken. De NSO heeft hier een procedure voor opgesteld.&lt;/p&gt;&lt;br/&gt;&lt;a href="http://www.tabaksdetailhandel.nl/TABAK/fs3_site.nsf/htmlViewDocuments/27F53DA47A059B69C125734D003EBB97" rel="nofollow" target="_blank"&gt;Zie website&lt;/a&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1096">
@@ -1087,7 +1087,7 @@ een verslag en geef een kopie van dit verslag aan uw medewerker(s).</action-plan
       <risk external-id="R-4481" type="risk">
         <title>Alle medewerkers kennen deze afspraken.</title>
         <description>&lt;p&gt;Bij die afspraken (op papier) wordt ook aandacht besteed aan de eventuele sancties als iemand zich niet aan de regels houdt.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1097">
@@ -1099,7 +1099,7 @@ een verslag en geef een kopie van dit verslag aan uw medewerker(s).</action-plan
       <risk external-id="R-4482" type="risk">
         <title>Er zijn afspraken gemaakt bij wie men terecht kan in voorkomende situaties; er is een vertrouwenspersoon aangewezen.</title>
         <description>&lt;p&gt;Medewerkers moeten de mogelijkheid hebben om vertrouwelijk met iemand te kunnen praten wanneer men te maken heeft met ongewenste omgangsvormen. Wijs een vertrouwenspersoon aan binnen uw onderneming en informeer uw medewerkers over de rol van deze vertrouwenspersoon.&lt;/p&gt;&lt;p class="MsoNormal"&gt;Vertrouwenspersoon in kleine organisaties&lt;/p&gt;&lt;p class="MsoNormal"&gt;Voor kleinere bedrijven is het aan te raden om bekend te maken dat de arbo-arts preventief spreekuur houdt. In geval er sprake is van ongewenst gedrag (seksuele intimidatie, discriminatie, agresse en geweld) is het mogelijk dat medewerkers de bedrijfsarts (anoniem) consulteren.&lt;/p&gt;&lt;p&gt;Voor&#194;&#160;meer informatie over dit onderwerp kunt u ook contact opnemen met uw brancheorganisatie.&lt;br/&gt;Op de website van NSO kunt u een voorbeeld protocol ongewenst gedrag vinden.&lt;a href="http://www.tabaksdetailhandel.nl/TABAK/fs3_site.nsf/htmlViewDocuments/27F53DA47A059B69C125734D003EBB97/$FILE/Ongewenst%20gedrag%20protocol.doc" rel="nofollow" target="_blank"&gt;Zie website&lt;/a&gt;&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1098">
@@ -1115,25 +1115,25 @@ een verslag en geef een kopie van dit verslag aan uw medewerker(s).</action-plan
       <risk external-id="R-4483" type="risk">
         <title>De werktijden zijn conform de Arbeidstijdenwet.</title>
         <description>&lt;p&gt;In bepaalde situaties zijn afwijkingen mogelijk. &lt;/p&gt;&lt;a href="http://www.tabaksdetailhandel.nl/TABAK/fs3_site.nsf/htmlViewDocuments/6C85ED9FB5DC9E70C125734D003EA1F6" rel="nofollow" target="_blank"&gt;Zie hiervoor uw CAO.&lt;/a&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-4484" type="risk">
         <title>De pauzetijden voldoen aan de Arbeidstijdenwet.</title>
         <description>&lt;p&gt;In bepaalde situaties zijn afwijkingen mogelijk. &lt;/p&gt;&lt;a href="http://www.tabaksdetailhandel.nl/TABAK/fs3_site.nsf/htmlViewDocuments/6C85ED9FB5DC9E70C125734D003EA1F6" rel="nofollow" target="_blank"&gt;Zie hiervoor uw CAO.&lt;/a&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-4485" type="risk">
         <title>De afwijkende regels voor jongeren onder 18 jaar worden toegepast.</title>
         <description>&lt;p&gt;Werktijden jeugdigen van 16 en 17 jaar&lt;/p&gt;&lt;ul&gt;&lt;li&gt;alleen onder begeleiding in de winkel&lt;/li&gt;&lt;li&gt;geen kassawerk&lt;/li&gt;&lt;li&gt;niet werken tussen 22.00 en 06.00 of 23.00 en 07.00&lt;/li&gt;&lt;li&gt;maximale arbeidsduur van 9 uur&lt;/li&gt;&lt;li&gt;maximale arbeidstijd per week 45 uur&lt;/li&gt;&lt;li&gt;werken op zaterdag &#232;n zondag niet toegestaan, wel zaterdag &#243;f zondag.&lt;/li&gt;&lt;li&gt;&#189; uur pauze na 4,5 uur arbeid&lt;/li&gt;&lt;li&gt;bij arbeidsduur langer dan 8 uur &#190; uur pauze, waarvan &#189; uur aaneengesloten.&lt;/li&gt;&lt;li&gt;Zie ook brochure vakantiewerk jeugdigen &lt;a href="http://www.tabaksdetailhandel.nl/TABAK/fs3_site.nsf/htmlViewDocuments/6C85ED9FB5DC9E70C125734D003EA1F6" rel="nofollow" target="_blank"&gt;website&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-4486" type="risk">
         <title>De afwijkende regels voor zwangere en pas bevallen vrouwen worden toegepast.</title>
         <description>&lt;p&gt;Het werk voor zwangere en pas bevallen vrouwen moet zodanig zijn ingericht dat rekening wordt gehouden met hun specifieke omstandigheden. &lt;/p&gt;&lt;p&gt;Een zwangere vrouw heeft recht op extra pauzes en is in principe niet verplicht om in nachtdienst te werken of om over te werken. Ook heeft een zwangere vrouw het recht om te werken in een bestendig en regelmatig arbeids- en rusttijdenpatroon. Vanaf 4 weken voor de vermoedelijke datum van bevalling tot zes weken na de bevalling mag de vrouwelijke werknemer geen arbeid verrichten. &lt;/p&gt;&lt;p&gt;Gedurende de eerste negen maanden na de geboorte mag de vrouw het werk onderbreken voor het geven van borstvoeding of om te kolven. De werkgever moet hiervoor een geschikte ruimte ter beschikking stellen. De vrouw heeft recht op het geven van borstvoeding of om te kolven zo vaak en zo lang als nodig is, maar in totaal maximaal een kwart van de arbeidstijd. De werkgever is verplicht deze tijd door te betalen.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
     </module>
@@ -1143,7 +1143,7 @@ een verslag en geef een kopie van dit verslag aan uw medewerker(s).</action-plan
       <risk external-id="R-4487" type="risk">
         <title>Er is een gestructureerde vorm van werkoverleg.</title>
         <description>&lt;p&gt;Gestructureerd werkoverleg is iets anders dan 'tussen de bedrijven door overleg hebben'.&lt;/p&gt;&lt;p&gt;Door periodiek met elkaar om de tafel te zitten komt vaak meer los dan het tussen de bedrijven door overleggen. In dit werkoverleg kan gesproken worden over bijvoorbeeld bedrijfsresultaten, nieuwe werkzaamheden, acties of nieuwe producten, hoe gaat de onderlinge samenwerking, planning van werk etc. &lt;/p&gt;&lt;p&gt;Een werkoverleg kan ook uitstekend gebruikt worden voor het geven van voorlichting en instructies. Het is raadzaam om een verslag van dit overleg te maken inclusief een aanwezigheidsregistratie. Zie tevens de bijlage Werkoverleg in uw CAO.&lt;a href="http://www.tabaksdetailhandel.nl/TABAK/fs3_site.nsf/htmlViewDocuments/6C85ED9FB5DC9E70C125734D003EA1F6" rel="nofollow" target="_blank"&gt;Zie website&lt;/a&gt;&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1099">
@@ -1155,7 +1155,7 @@ een verslag en geef een kopie van dit verslag aan uw medewerker(s).</action-plan
       <risk external-id="R-4488" type="risk">
         <title>Tijdens het werkoverleg wordt regelmatig gesproken over arbeidsomstandigheden en verzuim.</title>
         <description>&lt;p&gt;Door arbo en verzuim regelmatig te bespreken kunnen er gericht oplossingen gezocht worden en wordt er voortdurend gewerkt aan de verbetering van de arbeidsomstandigheden.&lt;/p&gt;&lt;p&gt;Indien een medewerker vragen/problemen heeft op het gebied van psychosociale belasting (PSA) zoals bijvoorbeeld werkdruk, pesten, agressie en geweld dan kan hij of zij zich wenden tot de arbodienst.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1100">
@@ -1167,7 +1167,7 @@ een verslag en geef een kopie van dit verslag aan uw medewerker(s).</action-plan
       <risk external-id="R-4489" type="risk">
         <title>Jaarlijks worden functionerings- en beoordelingsgesprekken gehouden.</title>
         <description>&lt;p&gt;In kleine bedrijven met enkele medewerkers, wordt al snel gedacht dat het houden van functioneringsgesprekken overbodig is, omdat men elkaar elke dag ziet en spreekt. &lt;/p&gt;&lt;p&gt;Toch geldt ook hier dat het een perfect middel is om eens &#233;&#233;n op &#233;&#233;n stil te staan bij iemands behoeften, toekomstplannen, mogelijkheden, etc.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Nb. Het voeren van functioneringsgesprekken is niet wettelijk verplicht. Toch is het een goed middel om samen met de medewerker na te gaan hoe het loopt. Wat gaat goed, wat kan beter, waar is behoefte aan, etc. &lt;/p&gt;&lt;p&gt;Uw brancheorganisatie kan u ondersteunen indien u voor de eerste keer een functionerings- of beoordelingsgesprek wilt houden. NSO biedt regelmatig trainingen beoordelings-/ functioneringsgesprekken aan.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1101">
@@ -1179,13 +1179,13 @@ een verslag en geef een kopie van dit verslag aan uw medewerker(s).</action-plan
       <risk external-id="R-4490" type="risk">
         <title>Er is voldoende afwisseling in de werkzaamheden.</title>
         <description>&lt;p&gt;Afwisseling in werkzaamheden is belangrijk om betrokkenheid bij en motivatie voor het werk te behouden. Een overmaat aan routine en gebrek aan variatie in het werk leidt tot afstomping, ontevredenheid en gebrek aan belangstelling voor het werk.&lt;/p&gt;&lt;p&gt;Bespreek de werkzaamheden regelmatig met uw medewerker.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-4491" type="risk">
         <title>Er wordt voldoende gedaan om de werkdruk te beperken. De werkdruk wordt niet als te hoog ervaren.</title>
         <description>&lt;p&gt;Klachten van medewerkers rondom werkdruk, maar ook negatieve signalen zoals: toename verzuim en psychische klanten, toename verloop, toename fouten en dergelijke, kunnen duiden op werkdrukproblematiek.&lt;/p&gt;&lt;p&gt;Oorzaken van ongunstige werkdruk kunnen o.a. te maken hebben met:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;het werkaanbod (regelmatig overuren maken);&lt;/li&gt;&lt;li&gt;weinig of onvoldoende kunnen pauzeren;&lt;/li&gt;&lt;li&gt;onvoldoende aandacht voor inwerken van tijdelijk of nieuw personeel;&lt;/li&gt;&lt;li&gt;onvoldoende aandacht voor opleidingsmogelijkheden van medewerkers;&lt;/li&gt;&lt;li&gt;onderbezetting van personeel;&lt;/li&gt;&lt;li&gt;beperkte mogelijkheden om werk naar eigen inzicht in te delen;&lt;/li&gt;&lt;li&gt;stijl van leidinggeven;&lt;/li&gt;&lt;li&gt;onderlinge samenwerking / werksfeer.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wanneer er signalen of klachten van medewerkers zijn die duiden op werkdrukproblematiek is het wenselijk hier nader onderzoek naar te doen. Veelal doet u er goed aan om dan een deskundige in te schakelen. &lt;/p&gt;&lt;p&gt;Ervaren werkdruk komt op iedere werkplek voor. Indien sprake is van een incidenteel karakter, vormt dit vaak geen probleem en kan dit werknemers juist stimuleren tot betere resultaten in hun werk. Als de ervaren werkdruk echter langdurig bestaat kan dit leiden tot overspannenheid en oververmoeidheid. Zie tevens de bijlage 'werkoverleg' in uw CAO.&lt;a href="http://www.tabaksdetailhandel.nl/TABAK/fs3_site.nsf/htmlViewDocuments/6C85ED9FB5DC9E70C125734D003EA1F6" rel="nofollow" target="_blank"&gt;Zie website&lt;/a&gt;&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1102">
@@ -1197,7 +1197,7 @@ een verslag en geef een kopie van dit verslag aan uw medewerker(s).</action-plan
       <risk external-id="R-4492" type="risk">
         <title>Er wordt voldoende gedaan om onderbelasting in het werk te voorkomen.</title>
         <description>&lt;p class="MsoNormal"&gt;Om te beginnen is stress iets heel anders dan hard werken. Stress is namelijk veel meer een primitieve reactie op het verlies aan beheersing over onszelf en ons eigen handelen. Op het werk gebeurt dit als we iets moeten doen wat we niet willen en/of kunnen doen. &lt;/p&gt;&lt;p class="MsoNormal"&gt;Bij onderbelasting gaat het vooral om dingen die we eigenlijk niet willen doen, bijvoorbeeld omdat ze te &#233;&#233;ntonig zijn, te weinig uitdaging bieden en ons weghouden van een interessantere tijdsbesteding. Hierdoor kunnen we ons hoofd minder goed bij het werk houden en valt het werk ons steeds moeilijker, terwijl we dat toch moeten doen. Vooral als we veel van dit werk moeten doen leidt dat tot stress.&lt;/p&gt;&lt;p class="MsoNormal"&gt;&#160;Drie hoofdoorzaken van onderbelasting: &lt;/p&gt;&lt;p class="MsoNormal"&gt;-&#160; de werkzaamheden worden over een te lange tijdsspanne uitgesmeerd;&lt;/p&gt;&lt;p class="MsoNormal"&gt;-&#160;&#160;de specifieke taken zijn onder iemands niveau;&lt;p class="MsoNormal"&gt;-&#160;&#160;&#160;een werknemer heeft het weliswaar druk, maar wordt slechts op een klein deel van de capaciteiten aangesproken.&lt;/p&gt;&lt;/p&gt;&lt;p class="MsoNormal"&gt;-&#160;&#160;&#160;een werknemer heeft het weliswaar druk, maar wordt slechts op een klein deel van de capaciteiten aangesproken.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1103">
@@ -1209,7 +1209,7 @@ een verslag en geef een kopie van dit verslag aan uw medewerker(s).</action-plan
       <risk external-id="R-4493" type="risk">
         <title>Medewerkers ervaren waardering van de leiding en directie.</title>
         <description>&lt;p&gt;Met waardering wordt vooral het 'schouderklopje' bedoeld. Complimenteer uw medewerker(s) wanneer er een goede prestatie geleverd is. Wanneer medewerkers alleen iets horen wanneer iets niet goed gaat, zal dit een negatief effect hebben op de werksfeer en motivatie.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-1104">
@@ -1221,13 +1221,13 @@ een verslag en geef een kopie van dit verslag aan uw medewerker(s).</action-plan
       <risk external-id="R-4494" type="risk">
         <title>Er wordt bij het verdelen van taken aandacht besteed aan kwetsbare groepen.</title>
         <description>&lt;p&gt;Denk hierbij aan zwangere, die langdurig moeten staan, of onervaren krachten die alleen werken, c.q. een te grote verantwoordelijkheid krijgen.&#160;&lt;/p&gt;&lt;p&gt;Nb. Onder kwetsbare groepen vallen oproepkrachten, uitzendkrachten, onervaren krachten, gehandicapten, jongeren onder de 18 jaar, zwangere vrouwen en medewerkers die de Nederlandse taal niet beheersen.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-4495" type="risk">
         <title>Tijdelijk en nieuw personeel wordt goed ingewerkt.</title>
         <description>&lt;p&gt;Dit is zowel belangrijk voor de nieuwe/tijdelijke medewerkers als voor de collega's. Een goed hulpmiddel is het samenstellen van een inwerkschema.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1105">
@@ -1239,7 +1239,7 @@ een verslag en geef een kopie van dit verslag aan uw medewerker(s).</action-plan
       <risk external-id="R-19439" type="risk">
         <title>Er wordt minimaal twee maal per jaar een personeelsvergadering belegd met het voltallige personeel of in groepen of met een personeelsvertegenwoordiging.</title>
         <description>&lt;p&gt;Ondernemingen met 10 tot 50 medewerkers hebben de volgende mogelijkheden:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;vrijwillig een ondernemingsraad in te stellen door werkgever of;&lt;/li&gt;&lt;li&gt;een personeelsvertegenwoordiging in te stellen, door werkgever of;&lt;/li&gt;&lt;li&gt;op verzoek van medewerkers;&lt;/li&gt;&lt;li&gt;of minimaal twee keer per jaar een vergadering met het voltallig personeel of in groepen.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Voor bedrijven met minder dan 10 medewerkers geldt de verplichting om minimaal twee keer per jaar een vergadering te plannen met het voltallig personeel niet.&lt;/p&gt;&lt;p&gt;Aangeraden wordt om minimaal &#233;&#233;n keer per jaar een werkoverleg te houden.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
     </module>
@@ -1249,7 +1249,7 @@ een verslag en geef een kopie van dit verslag aan uw medewerker(s).</action-plan
       <risk external-id="R-4496" type="risk">
         <title>De regels ten aanzien van verzuim zijn schriftelijk gecommuniceerd met de medewerkers.</title>
         <description>&lt;p&gt;Het is belangrijk dat medewerkers goed ge&#239;nformeerd zijn over wat er van hen verwacht wordt bij een ziekmelding en wat zij mogen verwachten van het bedrijf. U kunt deze afspraken het beste vastleggen in een verzuimreglement of uw winkelreglement. In uw CAO is een voorbeeld opgenomen. Dit voorbeeld heeft NSO voor u digitaal.&lt;/p&gt;&lt;a href="http://www.tabaksdetailhandel.nl/TABAK/fs3_site.nsf/htmlViewDocuments/5309D6A207F81484C125734D003EACF4/$FILE/Voorbeeld%20verzuimreglement.doc" rel="nofollow" target="_blank"&gt;Zie website&lt;/a&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1106">
@@ -1261,7 +1261,7 @@ een verslag en geef een kopie van dit verslag aan uw medewerker(s).</action-plan
       <risk external-id="R-4497" type="risk">
         <title>Er zijn afspraken gemaakt over wie binnen het bedrijf de arbeidsongeschikte medewerker begeleidt en op welke manier.</title>
         <description>&lt;p&gt;Het is bekend wie er wanneer contact opneemt met de arbeidsongeschikte medewerker en hoe de terugkeer wordt geregeld.&lt;/p&gt;&lt;p&gt;Veelal zal dit de direct leidinggevende zijn. Dergelijke informatie kunt u het beste opnemen in uw verzuimreglement.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1107">
@@ -1273,7 +1273,7 @@ een verslag en geef een kopie van dit verslag aan uw medewerker(s).</action-plan
       <risk external-id="R-4498" type="risk">
         <title>Vanuit het bedrijf wordt minimaal &#233;&#233;n keer per week contact gehouden met de arbeidsongeschikte werknemer.</title>
         <description>&lt;p&gt;Een goede begeleiding van arbeidsongeschikte werknemers is van belang om de verzuimduur te bekorten en om werknemers weer aan het werk te helpen in het eigen of in aangepast werk. De begeleiding dient te bestaan uit:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Regelmatig telefonisch contact houden, op huisbezoek gaan, de werknemer op het werk uitnodigen voor koffiepauze, werkoverleg etc. Het initiatief voor contact hoeft niet steeds binnen het bedrijf te liggen. U kunt hierover ook met de medewerker afspraken maken. Leg in een soort dagboek (met data) schriftelijk deze contacten vast.&lt;/li&gt;&lt;li&gt;Het (tijdelijk) aanpassen van het werk zodat dit minder belastend wordt en, als dat niet mogelijk is, op zoek gaan naar ander werk binnen het bedrijf.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Per 1-1-2003 geldt de wet SUWI waarbij het zoeken van passend werk buiten het eigen bedrijf betrokken wordt. Leg deze zaken vast in het verzuimreglement en maak uw medewerkers hierop attent.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1108">
@@ -1285,7 +1285,7 @@ een verslag en geef een kopie van dit verslag aan uw medewerker(s).</action-plan
       <risk external-id="R-4499" type="risk">
         <title>De rol van de verzuimbegeleider/ arbodienst bij verzuimbegeleiding en re&#239;ntegratie, is bij de medewerkers bekend.</title>
         <description>&lt;p&gt;Naast duidelijkheid over hoe er intern met verzuim omgegaan wordt, is het ook belangrijk dat de medewerkers ge&#239;nformeerd zijn over wat de rol van de verzuimbegeleider/arbodienst is rondom verzuim en re&#239;ntegratie.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1109">
@@ -1297,7 +1297,7 @@ een verslag en geef een kopie van dit verslag aan uw medewerker(s).</action-plan
       <risk external-id="R-4500" type="risk">
         <title>Het verzuim wordt binnen het bedrijf geregistreerd en periodiek geanalyseerd.</title>
         <description>&lt;p&gt;Door het verzuim binnen de organisatie te registreren en te analyseren krijgt u inzicht in het verzuim en hoe dit kan worden verminderd of voorkomen. De oorzaken van verzuim en de relatie tussen verzuim en arbeidsomstandigheden wordt hierdoor in beeld gebracht.&lt;/p&gt;&lt;p&gt;Verzuim kost veel geld. Om u een globale indruk te geven over de kosten van uw verzuim kunt u de volgende methode gebruiken:&lt;br/&gt;Verzuimpercentage x de totale loonsom x factor 2,5 &lt;br/&gt;Rekenvoorbeeld:Verzuimpercentage: 3 %Totale loonsom:&#160;&#8364; &#160;100.000. Globale kosten huidige verzuim: 0,03 x &#8364; 100.000 x 2,5 =&#160;&#8364; 7.500.&lt;br/&gt;Uit dit voorbeeld zal duidelijk zijn dat ook wanneer u geen verzuimprobleem heeft, het belangrijk is om uw verzuim goed in de gaten te houden. Registreer van het verzuim:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Datum van ziekmelding;&lt;/li&gt;&lt;li&gt;Datum van hersteldmelding;&lt;/li&gt;&lt;li&gt;Reden van het verzuim;&lt;/li&gt;&lt;li&gt;Duur van het verzuim&lt;/li&gt;&lt;li&gt;Wie het plan van aanpak voor werkhervatting opgesteld heeft;&lt;/li&gt;&lt;li&gt;Wanneer dit plan van aanpak ondertekend is door de beide partijen. &lt;/li&gt;&lt;/ul&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1110">
@@ -1309,13 +1309,13 @@ een verslag en geef een kopie van dit verslag aan uw medewerker(s).</action-plan
       <risk external-id="R-4501" type="risk">
         <title>Voor werknemers die langer dan 6 weken arbeidsongeschikt zijn wordt een re-integratieplan gemaakt.</title>
         <description>&lt;p&gt;De Wet Verbetering Poortwachter schrijft dit voor. De verzuimbegeleider / arbodienst kan daarbij helpen.&lt;/p&gt;&lt;p&gt;Nb: de werkgever blijft ondanks dat hij het e.e.a. uitbesteedt eindverantwoordelijk!&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-4502" type="risk">
         <title>Met de verzuimbegeleider / arbodienst zijn afspraken gemaakt in hoeverre een PMO (Preventief Medisch Onderzoek) noodzakelijk geacht wordt.</title>
         <description>&lt;p&gt;De inhoud van het PMO (Preventief Medisch Onderzoek), voorheen PAGO zal worden afgestemd op de gezondheidsrisico's die de functies met zich meebrengen. &lt;/p&gt;&lt;p&gt;Basis hiervoor zijn de uitkomsten van de risico-inventarisatie en evaluatie. Indien risico's geconstateerd worden die een&#160;PMO indiceren is het wettelijk verplicht dit aan te bieden aan de werknemers. De deskundige zal bij het toetsen van de uitkomsten van deze RIE kenbaar maken in hoeverre een PMO ge&#239;ndiceerd is.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1111">
@@ -1327,7 +1327,7 @@ een verslag en geef een kopie van dit verslag aan uw medewerker(s).</action-plan
       <risk external-id="R-4503" type="risk">
         <title>Medewerkers weten dat zij desgewenst gebruik kunnen maken van het preventiespreekuur.</title>
         <description>&lt;p&gt;Tijdens het preventiespreekuur kunnen werknemers de verzuimbegeleider / arbodienst om advies vragen over hun gezondheidsklachten die mogelijk verband hebben met hun werk. Ook kan de werkgever een medewerker adviseren om een afspraak te maken bij de verzuimbegeleider / arbodienst.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1112">
@@ -1343,7 +1343,7 @@ een verslag en geef een kopie van dit verslag aan uw medewerker(s).</action-plan
       <risk external-id="R-4508" type="risk">
         <title>Medewerkers zijn ge&#239;nstrueerd over de aard van de werkzaamheden en de hieraan verbonden risico's (zie hiervoor de toelichting) en deze zijn schriftelijk vastgelegd.</title>
         <description>&lt;p&gt;Voorlichting en instructies zijn &#233;&#233;n van de belangrijkste preventieve maatregelen om verzuim en ongevallen te voorkomen. Ook in het kader van aansprakelijkheid is het noodzakelijk dat medewerkers aantoonbaar ge&#239;nformeerd en ge&#239;nstrueerd zijn over de aard van de werkzaamheden en de hieraan verbonden (mogelijke) risico's. &lt;br/&gt;ADVIES &lt;br/&gt;Tijdens het invullen van deze RIE zijn al verschillende voorlichtingsonderwerpen aan bod gekomen. Wij hebben deze en enkele nieuwe voorlichtingsonderwerpen hieronder onder elkaar gezet. &lt;/p&gt;&lt;p&gt;Wanneer u deze voorlichtingsonderwerpen nog niet als een aandachtspunt genoteerd heeft, kunt u deze in de rubriek 'Opmerkingen' alsnog aangeven: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;Hoe te handelen in geval van diefstal, agressie of overval;&lt;/li&gt;&lt;li&gt;Hoe te handelen in geval van een brand of EHBO calamiteit;&lt;/li&gt;&lt;li&gt;Hoe gaan we om met ziekmeldingen (wat doet het bedrijf en wat wordt er van de medewerker verwacht);&lt;/li&gt;&lt;li&gt;Bij wie kan ik terecht met vragen of klachten rondom de arbeidsomstandigheden;&lt;/li&gt;&lt;li&gt;Hoe kunnen we de kans op klachten aan het houdings- en bewegingsapparaat zo goed mogelijk beheersen (inrichting werkplekken, gebruik hulpmiddelen en werkmethoden);&lt;/li&gt;&lt;li&gt;Veilig werken op ladders en/of trappen;&lt;/li&gt;&lt;li&gt;Werken met beeldschermen;&lt;/li&gt;&lt;li&gt;Hoe gaan we om met medewerkers die zich niet aan de gemaakte afspraken houden (sanctiebeleid). &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Een groot deel van deze onderwerpen kunt u in bijvoorbeeld een winkelreglement vastleggen. Daarnaast lenen deze ontwerpen zich ook om periodiek in een werkoverleg te bespreken. Nodig ook eens een deskundige uit om hier iets meer over te vertellen.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1116">
@@ -1363,7 +1363,7 @@ een verslag en geef een kopie van dit verslag aan uw medewerker(s).</action-plan
       <risk external-id="R-4509" type="risk">
         <title>Er wordt op toegezien dat iedereen zijn werk op een juiste en veilige manier doet.</title>
         <description>&lt;p&gt;Dat kan de leidinggevende doen, maar ook collega's kunnen elkaar daarbij helpen. Het toezicht houden gaat ver. Om aansprakelijkheid te kunnen ontlopen moet een werkgever kunnen aantonen dat hij er alles aangedaan heeft om een ongeval te voorkomen. Dit betekent dat de medewerkers weten wat de risico's zijn, hoe ze daarmee moeten omgaan en dat ze verplicht zijn de instructies op te volgen.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1117">
@@ -1386,25 +1386,25 @@ een verslag en geef een kopie van dit verslag aan uw medewerker(s).</action-plan
         <risk external-id="R-1" type="policy">
           <title>De organisatie heeft de preventietaken toegewezen.</title>
           <description>&lt;p&gt;Een werkgever met m&#233;&#233;r dan 25 medewerkers moet preventietaken toewijzen aan &#233;&#233;n of meer werknemers. &lt;/p&gt;&lt;p&gt;Een werkgever met ten hoogste 25 medewerkers mag de preventietaken zelf uitvoeren.&lt;br/&gt;De werkgever hoeft geen speciale medewerker aan te trekken met preventietaken. Preventie kan een onderdeel zijn van de taak van de werkgever zelf of van de taak van &#233;&#233;n of meer werknemers.&lt;/p&gt;&lt;p&gt;Leg schriftelijk vast in wie de preventiemedewerker is.&lt;/p&gt;&lt;p&gt;Voor het gemak wordt echter in dit instrument steeds gesproken over preventiemedewerker.&lt;br/&gt;&#160;&lt;br/&gt;Preventietaken zijn: het meewerken aan of het opstellen van een RI&amp;amp;E, het uitvoeren of meewerken aan&#160;de maatregelen uit het plan van aanpak, het geven van voorlichting, het signaleren van risico's en het treffen van maatregelen tegen die risico's.&lt;br/&gt;&#160;&lt;br/&gt;De preventiemedewerkers (het aantal hangt af van preventietaken en de gewenste organisatie) hebben gezien het risico voldoende deskundigheid. Zij hebben kennis en ervaring, de middelen en de tijd, zodat zij de werkgever goed kunnen bijstaan bij de preventietaken.&lt;br/&gt;De preventiemedewerker werkt hierbij samen met&#160;de medewerkers die het betreft of de personeelsvertegenwoordiging.&lt;/p&gt;&lt;p&gt;&#160;&lt;br/&gt;Werkgevers die hun preventietaken goed uitvoeren besparen doorgaans aanzienlijk op de kosten van ongevallen, verzuim en stressproblemen. Investeringen in arbeidsomstandigheden en in het personeel renderen meestal goed als het gaat om de sfeer en productiviteit van het bedrijf.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-3" type="policy">
           <title>De preventiemedewerker helpt mee met het uitvoeren van het plan van aanpak.</title>
           <description>&lt;p&gt;Ook dit is&#160;een van de activiteiten die een medewerker met preventietaken dient uit te voeren. Het kan bijvoorbeeld gaan om het geven van voorlichting over het onderhoud van apparaten, over het aannemen van goede werkhoudingen of instructies hoe te handelen in geval van een overval.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-4" type="policy">
           <title>De preventiemedewerker ondersteunt werkgever, werknemers of PVT over de te nemen preventiemaatregelen.</title>
           <description>&lt;p&gt;De preventiemedewerker heeft een onafhankelijke en zelfstandige positie ten opzichte van de werkgever, de PVT en de werknemers.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;De overheid geeft de preventiemedewerker arbeidsrechtelijke bescherming in het kader van de uitvoering van preventietaken. De preventiemedewerker heeft ontslagbescherming.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5" type="policy">
           <title>De preventiemedewerker kent de arborisico's in het bedrijf en weet hoe hij/zij de risico's kan voorkomen.</title>
           <description>&lt;p&gt;Van belang is dat de preventiemedewerker(s) voldoende deskundigheid hebben om de concrete maatregelen uit het Plan van Aanpak te kunnen (laten) uitvoeren. Hoewel de wet niet expliciet aangeeft waaraan een preventiemedewerker moet voldoen, lijkt het logisch dat een werknemer over de volgende minimale vaardigheden beschikt:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;het kunnen verstrekken van informatie en het geven van voorlichting;&lt;/li&gt;&lt;li&gt;de bekendste arbeidsrisico's in de branche kennen en deze in het bedrijf kunnen herkennen;&lt;/li&gt;&lt;li&gt;het kennen van verbetermogelijkheden en deze in het bedrijf ook voorstellen;&lt;/li&gt;&lt;li&gt;arbomaatregelen kunnen (laten) uitvoeren.&lt;br/&gt;&#194;&#160;&lt;br/&gt;De ingevulde RI&amp;amp;E kan aanwijzingen geven over de nodige aanvullende deskundigheid. Voor inhoudelijke aanvullende ondersteuning kan de medewerker met preventietaken de werkgever adviseren interne of externe arbo-expertise inhuren.&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
       </module>
@@ -1414,7 +1414,7 @@ een verslag en geef een kopie van dit verslag aan uw medewerker(s).</action-plan
         <risk external-id="R-6" type="policy">
           <title>U laat zich bij uw preventietaken bijstaan door &#233;&#233;n of meer gecertificeerde deskundigen (maatwerkregeling) of door een gecertificeerde arbodienst (vangnetregeling).</title>
           <description>&lt;p&gt;Op grond van de Arbowet moet de werkgever zich bij de uitvoering van de volgende taken laten bijstaan door een of meer gecertificeerde deskundigen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;toetsing en advisering in het kader van de risico-inventarisatie en -evaluatie;&lt;/li&gt;&lt;li&gt;arbeidsgezondheidskundig onderzoek;&lt;/li&gt;&lt;li&gt;houden van arbeidsomstandighedenspreekuur;&lt;/li&gt;&lt;li&gt;aanstellingskeuring;&lt;/li&gt;&lt;li&gt;verzuimbegeleiding.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;De maatwerkregeling houdt in, dat de werkgever zelf bepaalt, op welke wijze gecertificeerde deskundigen bijstand verlenen.&lt;br/&gt;Concreet betekent dit dat er minimaal een contract met een gecertificeerde bedrijfsarts dient te zijn afgesloten en dat een gecertificeerde arbodeskundige de RI&amp;amp;E dient te toetsen, als toetsing van de RI&amp;amp;E noodzakelijk is.&lt;br/&gt;Als alternatief kan gebruik worden gemaakt van de vangnetregeling, de arbodienst verzorgt dan de bijstand. Geef de gegevens (naam en hoe/waar te bereiken) van de arbodienst door aan uw medewerker(s).&lt;br/&gt;Zie ook het stroomschema op http://www.arbo.nl/schema voor de keuze tussen beide regelingen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
       </module>
@@ -1425,31 +1425,31 @@ een verslag en geef een kopie van dit verslag aan uw medewerker(s).</action-plan
         <risk external-id="R-15" type="policy">
           <title>U heeft een contract met een gecertificeerde arbodienst.</title>
           <description>&lt;p&gt;In feite verandert er weinig ten opzichte van de situatie v&#243;&#243;r 1 juli 2005. Met Remedium (gecertificeerde verzuimloket van de tabaksdetailhandel) of de arbodienst moeten afspraken worden gemaakt over verzuimbegeleiding, PMO, spreekuur en eventueel aanstellingskeuringen. &lt;/p&gt;&lt;p&gt;Wel wordt u geacht zelf de RI&amp;amp;E tenminste mede uit te (laten) voeren door iemand die deze preventietaak toegewezen heeft gekregen. De taken, de eventuele opleidingseisen en de aantallen van deze medewerker of medewerkers volgen uit de RI&amp;amp;E. &lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-16" type="policy">
           <title>Er zijn met de arbodienst afspraken gemaakt over de begeleiding bij verzuim en re-integratie.</title>
           <description>&lt;p&gt;De belangrijkste vragen over verzuim en re-integratie zijn bij het onderdeel 'Afspraken over verzuim' (voor zover aanwezig in deze RI&amp;amp;E) behandeld.&lt;/p&gt;&lt;p&gt;&lt;br/&gt;Hier gaat het om de afspraken die u moet maken met uw verzuimbegeider / arbodienst. Deze legt u vast in een contract. Uw medewerkers stelt u op de hoogte van de gegevens van de arbodienst en informatie over het arbospreekuur. De naam, adres en telefoonnummer van de arbodienst. Ook de naam van de bedrijfsarts geeft u aan uw medewerkers door.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-17" type="policy">
           <title>Voor de toetsing van de risico-inventarisatie en - evaluatie wordt de arbodienst ingeschakeld.</title>
           <description>&lt;p&gt;Indien u gebruik maakt van deze digitale branche-RI&amp;amp;E-voor de tabaksdetailhandel en u heeft niet meer dan 25 werknemers per vestigingspunt in dienst dan hoeft u deze niet te laten toetsen. Deze RI&amp;amp;E heeft namelijk de goedkeuring van de sociale partners en is opgenomen in de CAO voor de tabaksdetailhandel (&lt;a href="http://www.tabaksdetailhandel.nl/TABAK/fs3_site.nsf/htmlViewDocuments/E77585489CF81D8EC125734D003EA7C3" rel="nofollow" target="_blank"&gt;zie website in &lt;/a&gt;het informatiecentrum onder arbeidszaken).&lt;/p&gt;&lt;p&gt;Indien u meer dan 25 medewerkers heeft per vestiging dan dient u deze RI&amp;amp;E te laten toetsen door een gecertificeerde deskundige of de arbodienst. &lt;/p&gt;&lt;p&gt;Een gecertificeerde deskundige is een:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;bedrijfsarts; &lt;/li&gt;&lt;li&gt;veiligheidskundige; &lt;/li&gt;&lt;li&gt;arbeidshygienist;&lt;/li&gt;&lt;li&gt;arbeids- en organisatiedeskundige.&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-18" type="policy">
           <title>Er zijn met de arbodienst afspraken gemaakt over het Preventief Medisch Onderzoek (PMO).</title>
           <description>&lt;p&gt;Preventief wil zeggen dat er vroegtijdig gezondheidsrisico's worden opgespoord zodat ze voorkomen of beperkt kunnen worden. &lt;/p&gt;&lt;p&gt;Het onderzoek houdt verband met de risico's tijdens het werk. Uit de RIE volgt welke risico's er zijn. &lt;/p&gt;&lt;p&gt;Een voorbeeld is gehooronderzoek bij hard geluid op de werkplek. Maar ook onderzoek naar RSI of werkdruk is mogelijk, als dat een risico is in een bedrijf.&lt;/p&gt;&lt;p&gt;Zorg dat bij uw werknemer(s) bekend is wie de bedrijfsarts is en waar en hoe deze te bereiken is.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-19" type="policy">
           <title>Er zijn met de arbodienst afspraken gemaakt over het arbeidsomstandigheden spreekuur.</title>
           <description>&lt;p&gt;Tijdens het arbeidsomstandigheden spreekuur kunnen werknemers de Arbodienst / gecertificeerde deskundige om advies vragen over hun gezondheidsklachten die mogelijk verband hebben met hun werk. &lt;/p&gt;&lt;p&gt;Hierdoor kunnen zij ook zelf helpen voorkomen dat ze ziek worden en kunnen arbeidsomstandigheden verbeterd worden.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
       </module>
@@ -1460,7 +1460,7 @@ een verslag en geef een kopie van dit verslag aan uw medewerker(s).</action-plan
       <risk external-id="R-4504" type="risk">
         <title>De preventiemedewerker en de medewerkers zijn betrokken bij de uitvoering van de RI&amp;E.</title>
         <description>&lt;p&gt;Om een zo goed mogelijk beeld te krijgen van de risico's binnen een onderneming is het belangrijk de preventiemedewerker en de medewerkers hier zoveel mogelijk in te betrekken.&lt;/p&gt;&lt;p&gt;U kunt dit bijvoorbeeld doen door eerst de vragen uit te printen en deze door de medewerkers zelfstandig in te laten vullen. Ook kunt u ervoor kiezen om de vragen in een werkoverleg gezamenlijk in te vullen.&lt;/p&gt;&lt;p&gt;NB: Het opstellen van een RI&amp;amp;E is&#194;&#160;een van de taken van de preventiemedewerker. Echter bij het ontbreken van een actuele RI&amp;amp;E is de werkgever verantwoordelijk en spreekt de Arbeidsinspectie deze aan.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1113">
@@ -1476,7 +1476,7 @@ een verslag en geef een kopie van dit verslag aan uw medewerker(s).</action-plan
       <risk external-id="R-4505" type="risk">
         <title>Jaarlijks wordt het plan van aanpak geactualiseerd en wordt nagegaan of de RI&amp;E nog actueel is.</title>
         <description>&lt;p&gt;Jaarlijks moet de voortgang van het plan van aanpak op schrift worden gezet en besproken met het personeel. Daarnaast moet nagegaan worden in hoeverre de huidige&#160;Risico inventarisatie&#160;nog actueel is. Een RIE is niet meer actueel als er zich bijvoorbeeld veranderingen&#160;hebben voorgedaan. &lt;/p&gt;&lt;p&gt;Voorbeelden van verandering zijn gewijzigde manieren van werken of technische vernieuwingen, zoals:&lt;br/&gt;-&#160;&#160;&#160;uitbreiding van het dienstenpakket;&lt;br/&gt;-&#160;&#160;&#160;een ingrijpende verbouwing&#160;in uw verkooppunt;&lt;br/&gt;-&#160;&#160;&#160;een ingrijpende wijziging van taken van medewerkers.&lt;br/&gt;Bij een kleine verandering is een gedeeltelijke vernieuwing van de RIE, voor dat deel van het bedrijf dat veranderd is, vaak voldoende.&lt;/p&gt;&lt;p&gt;Na overleg van de werkgevers en de werknemers zal de RIE voor de tabaksdetailhandel regelmatig aangevuld of geactualiseerd worden. Ofschoon er geen wettelijke voorschriften gelden over de frequentie van de uit te voeren RIE, adviseren wij u om dit digitale instrument &#233;&#233;n maal per drie jaar opnieuw in te vullen.&lt;/p&gt;&lt;p&gt;NB: U blijft als ondernemer verantwoordelijk voor de volledigheid en actualiteit van de RIE.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-1114">
@@ -1488,19 +1488,19 @@ een verslag en geef een kopie van dit verslag aan uw medewerker(s).</action-plan
       <risk external-id="R-4506" type="risk">
         <title>Oorzaken van verzuim en ongevallen worden bij het beoordelingsgesprek dat u met uw medewerker(s) heeft meegenomen.</title>
         <description>&lt;p&gt;Twee keer per jaar (of in ieder geval jaarlijks) houdt u een functionerings- en beoordelingsgesprek met uw medewerker(s). Leg de inhoud van dit gesprek schriftelijk vast en teken beiden voor akkoord.&lt;/p&gt;&lt;p&gt;Per medewerker spreekt u de oorzaken van het ziekteverzuim door.&#160;De oorzaken kunnen namelijk van invloed zijn op de volgorde en te bespreken onderwerpen die u met uw medewerker&#160;bespreekt. &lt;/p&gt;&lt;p&gt;Wilt u meer informatie over functionerings- en beoordelingsgesprekken of wilt u een cursus volgen m.b.t. dit onderwerp neem dan contact op met uw brancheorganisatie.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-4507" type="risk">
         <title>De ingevulde RI&amp;E en het opgestelde plan van aanpak dienen te worden getoetst?</title>
         <description>&lt;p&gt;De RI&amp;amp;E voor de tabaksdetailhandel heeft de toestemming van de vakbonden sinds september 2006 en is opgenomen in de CAO voor de tabaksdetailhandel.&lt;/p&gt;&lt;p&gt;De ingevulde RI&amp;amp;E en het plan van aanpak dienen afhankelijk van het aantal medewerkers dat een onderneming in dienst heeft per verkooppunt wel of geen toetsing te ondergaan:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Indien de werkgever minder dan totaal 40 uur per week verloont dan kan hij volstaan met het invullen van de verkorte checklist RI&amp;amp;E.&lt;/li&gt;&lt;li&gt;Indien de werkgever minder dan&#194;&#160;25 medewerkers in dienst heeft dan hoeft de uitgevoerde RI&amp;amp;E voor de tabaksdetailhandel niet getoetst te worden.&lt;/li&gt;&lt;li&gt;Indien de werkgever meer dan 25 werknemers in dienst heeft dan dient de RI&amp;amp;E en het plan van aanpak door een kerndeskundige getoetst te worden.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Het kan voorkomen dat u en uw medewerkers ook nog anders risico's of aandachtspunten geconstateerd hebben welke niet in deze branchespecifieke RI&amp;amp;E zijn opgenomen.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-20087" type="risk">
         <title>Alle risico's zijn in de RI&amp;E opgenomen?</title>
         <description>&lt;p class="MsoNormal"&gt;Het kan voorkomen dat u, uw preventiemedewerker en/of uw medewerkers ook nog andere risico's of aandachtspunten geconstateerd hebben welke niet in deze branchespecifieke RIE zijn opgenomen. &lt;/p&gt;&lt;p class="MsoNormal"&gt;Wanneer naar uw of uw medewerkers mening bepaalde risico's niet zijn opgenomen vul dan NEE in onder 'uw opmerkingen' welke risico's nog nader ge&#239;nventariseerd moeten worden, c.q. geconstateerd zijn. &lt;/p&gt;&lt;p class="MsoNormal"&gt;Neem desgewenst contact op met uw brancheorganisatie. &lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
     </module>

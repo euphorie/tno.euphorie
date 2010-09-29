@@ -272,13 +272,13 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
           <title>De medezeggenschap over de arbeidsomstandigheden in uw bedrijf is geregeld.</title>
           <description>&lt;p&gt;(&amp;lt;10 werknemers) &lt;/p&gt;&lt;br/&gt;&lt;p&gt;De ondernemer die een onderneming in stand houdt waarin in de regel minder dan 10 personen werkzaam zijn en waarvoor geen ondernemingsraad is ingesteld, kan vrijwillig een personeelsvertegenwoordiging instellen.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;(&amp;gt;10 &amp;lt;50 werknemers) &lt;/p&gt;&lt;br/&gt;&lt;p&gt;De ondernemer die een onderneming in stand houdt waarin in de regel ten minste 10 personen maar minder dan 50 personen werkzaam zijn en waarvoor geen ondernemingsraad of een personeelsvertegenwoordiging is ingesteld, is verplicht de in deze onderneming werkzame personen ten minste tweemaal per kalenderjaar in de gelegenheid te stellen gezamenlijk met hem bijeen te komen. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Hij is voorts verplicht met de in de onderneming werkzame personen bijeen te komen, wanneer ten minste een vierde van hen daartoe een met redenen omkleed verzoek doet. Voorts kan de ondernemer een personeelsvertegenwoordiging instellen, bestaande uit ten minste 3 personen die rechtstreeks gekozen zijn door en uit de in de onderneming werkzame personen. Indien de meerderheid van de werkzame personen daarom verzoekt, is de ondernemer verplicht tot instelling van een personeelsvertegenwoordiging.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;(&amp;gt;50 werknemers) &lt;/p&gt;&lt;br/&gt;&lt;p&gt;dan is de ondernemer verplicht een ondernemingsraad in te stellen. (33)&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Wet op de ondernemingsraden,artikel 2 lid 1 en 35b, c lid 1 en 2, d en 36a.&lt;/h3&gt;&lt;p&gt;Wettelijk verplicht.&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5924" type="risk">
           <title>Medewerkers volgen jaarlijks &#233;&#233;n en bij voorkeur drie bijscholingsmodules .</title>
           <description>&lt;p&gt;Medewerkers volgen minimaal &#233;&#233;n en bij voorkeur drie bijscholingsmodules per jaar op onderwerpen die voor het bedrijf van belang zijn. (3573)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2398">
@@ -290,7 +290,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-5925" type="risk">
           <title>Jaarlijks vinden functioneringsgesprek-ken plaats met de werknemers.</title>
           <description>&lt;p&gt;Jaarlijks worden functioneringsgesprekken met de werknemers gehouden, de hieruit voortkomende afspraken&#160; worden schriftelijk vastgelegd en de werknemer krijgt een kopie. (778)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2399">
@@ -302,7 +302,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-5926" type="risk">
           <title>Per medewerker wordt een opleidingsprogram-ma gehanteerd en afspraken worden schriftelijk vastgelegd.</title>
           <description>&lt;p&gt;(777)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2400">
@@ -314,7 +314,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-5927" type="risk">
           <title>Voor nieuwe medewer-kers wordt een inwerkprogramma gehanteerd. Afspraken worden schriftelijk vastgelegd.</title>
           <description>&lt;p&gt;Hanteer voor nieuwe medewerkers een inwerkprogramma waarin ook aandacht wordt besteed aan arbeidsomstandigheden en milieu. Leg afspraken schriftelijk vast.&#160; (779)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2401">
@@ -326,13 +326,13 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-5928" type="risk">
           <title>Arbeidstijdpatronen (bijvoorbeeld dienstroosters) zijn schriftelijk vastgelegd en ter inzage voor werknemers.</title>
           <description>&lt;p&gt;Arbeidstijdpatronen (bijvoorbeeld dienstroosters) zijn schriftelijk vastgelegd en ter inzage voor werknemers. Werknemers worden ten minste 4 dagen van te voren over het rooster ge&#239;nformeerd. Veranderingen in het arbeidstijdenpatroon zijn ten minste 28 dagen van tevoren aan de werknemers bekend. De werkgever moet een administratie van de gewerkte uren bijhouden en 1 jaar bewaren. (2503)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5929" type="risk">
           <title>Er wordt voldaan aan de Arbeidstijdenwet. (rusttijd, arbeidstijd).</title>
           <description>&lt;p&gt;Dagelijkse onafgebroken rusttijd:a. 11 uur in periode van 24 achtereenvolgende uren. 1 keer per week mag deze rusttijd ingekort worden tot ten minste 8 uurb. jeugdigen: 12 uur in periode van 24 achtereenvolgende uren (2835)Wekelijks onafgebroken rusttijd:a. 36 uur in een periode van &#233;&#233;n week, &#242;fb. voor werknemers boven de 18 jaar 60 uur in een tijdsruimte van 9 dagen (2836)Een werknemer van 18 jaar of ouder werkt ten hoogste 9 uur per dienst, 45 uur per week en in elke periode van 13 weken gemiddeld 40 uur per week.Een jeugdige werknemer werkt ten hoogste 9 uur per dienst, 45 uur per week en in elke periode van 4 weken gemiddeld 40 uur per week (behoudens afwijking bij CAO). (2837)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2402">
@@ -344,13 +344,13 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-5930" type="risk">
           <title>Kinderen vanaf 14 jaar verrichten alleen licht werk in het kader van onderwijs (stageovereenkomst).</title>
           <description>&lt;p&gt;Kinderen vanaf 14 jaar mogen alleen licht werk verrichten in het kader van onderwijs (met een stageovereenkomst). (3131)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5931" type="risk">
           <title>Er is een bedrijfsreglement voorhanden.</title>
           <description>&lt;p&gt;Beschik over een bedrijfsreglement met informatie over:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. openingstijden&lt;/li&gt;&lt;li&gt;b. doktersbezoek&lt;/li&gt;&lt;li&gt;c. verlof (aanvragen)&lt;/li&gt;&lt;li&gt;d. telefoongebruik en internetgebruik priv&#233;&lt;/li&gt;&lt;li&gt;e. bedrijfskleding en gereedschap&lt;/li&gt;&lt;li&gt;f. pauzeren&lt;/li&gt;&lt;li&gt;g. veiligheid&lt;/li&gt;&lt;li&gt;h. overwerk&lt;/li&gt;&lt;li&gt;i. kassabeheer&lt;/li&gt;&lt;li&gt;j. criminaliteitspreventie&lt;/li&gt;&lt;li&gt;k. bedrijfsnoodplan&lt;/li&gt;&lt;li&gt;l. aankopen van personeel uit de winkel&lt;/li&gt;&lt;li&gt;m. klachtenafhandeling&lt;/li&gt;&lt;li&gt;n. omgang, presentatie&lt;/li&gt;&lt;li&gt;o. seksuele intimidatie&lt;/li&gt;&lt;li&gt;p. werkoverleg&lt;/li&gt;&lt;li&gt;q. arbeidsovereenkomst, taakomschrijving&lt;/li&gt;&lt;li&gt;r. taakomschrijving&lt;/li&gt;&lt;li&gt;s. cursussen&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
       </module>
@@ -364,7 +364,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-5932" type="risk">
           <title>Er wordt een inkoopbeleid gehanteerd.</title>
           <description>&lt;p&gt;Hanteer een inkoopbeleid. Let op (indien van toepassing):&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. voorraad- en bestelkosten&lt;/li&gt;&lt;li&gt;b. opslagmogelijkheden/eisen&lt;/li&gt;&lt;li&gt;c. service (erkende) leverancier&lt;/li&gt;&lt;li&gt;d. minimaal energie- en waterverbruik&lt;/li&gt;&lt;li&gt;e. minder schadelijke alternatieven&lt;/li&gt;&lt;li&gt;f. doseringsmogelijkheden&lt;/li&gt;&lt;li&gt;g. hergebruik&lt;/li&gt;&lt;li&gt;h. vraag meerdere offertes aan &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;(32)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2403">
@@ -381,19 +381,19 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
           <title>Arbeidsmiddelen zijn voorzien van een CE-markering vergezeld van een EG-verklaring van overeenstemming.</title>
           <description>&lt;p&gt;Arbeidsmiddelen zijn voorzien van een CE-markering vergezeld van een EG-verklaring van overeenstemming. (Vanaf 1 januari 1995 moeten nieuw aangeschafte arbeidsmiddelen een CE-markering hebben. Indien dit ontbreekt bestaat het gevaar dat het arbeidsmiddel niet voldoet aan de elementaire veiligheidsvoorzieningen. Van arbeidsmiddelen voor die datum moeten de risico's extra ge&#239;nventariseerd en beperkt worden).&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;Arbeidsmiddelen zijn alle op de arbeidsplaats gebruikte machines, installaties, apparaten, transportmiddelen en instrumenten. (40)&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbeidsomstandighedenbesluit, artikel 7.2, lid 1.&lt;/h3&gt;&lt;p&gt;Wettelijk verplicht&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5934" type="risk">
           <title>Arbeidsmiddelen zijn voorzien van werkende veiligheidsvoorzie-ningen om knellen, snijden en pletten te voorkomen.</title>
           <description>&lt;p&gt;Arbeidsmiddelen zijn voorzien van werkende veiligheidsvoorzieningen om knellen, snijden en pletten te voorkomen. (1791)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5935" type="risk">
           <title>Bij de aanschaf van nieuwe arbeidsmid-delen is gevraagd naar de mening van ervaren gebruikers.</title>
           <description>&lt;p&gt;&#160;(3141)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2404">
@@ -405,13 +405,13 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-5936" type="risk">
           <title>Gereedschap wordt goed opgebergd in eengereedschapsbord met stevige stalen haken en/of een gereedschapskas.</title>
           <description>&lt;p&gt;Gebruik de volgende opbergmiddelen voor gereedschap:a.gereedschapsbord met stevige stalen hakenb.gereedschapskas(de laden kunnen alleen&#160; per stuk open maar niet tegelijk) (3581)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5937" type="risk">
           <title>Er is standaard-gereedschap aanwezig en beschikbaar.</title>
           <description>&lt;p&gt;Beschik over de volgende set&#160; standaardgereedschappen:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. bankschroef van gesmeed of gegoten staal&lt;/li&gt;&lt;li&gt;b. ring en steeksleutels van chroom-vanadium&lt;/li&gt;&lt;li&gt;c. verstelbare sleutel chroom-vanadium&lt;/li&gt;&lt;li&gt;d. waterpomptang chroom-vanadium&lt;/li&gt;&lt;li&gt;e. griptang chroom-vanadium&lt;/li&gt;&lt;li&gt;f. gladde en soepel-glijdende schuifmaat&lt;/li&gt;&lt;li&gt;g. multimeter&lt;/li&gt;&lt;li&gt;h. handzagen&lt;/li&gt;&lt;li&gt;i. schroevendraaiers&lt;/li&gt;&lt;li&gt;j. bankhamer&lt;/li&gt;&lt;li&gt;k. plastic hamer&lt;/li&gt;&lt;li&gt;l. rattenstaart&lt;/li&gt;&lt;li&gt;m. vlakke vijl&lt;/li&gt;&lt;li&gt;n. koubeitel&lt;/li&gt;&lt;li&gt;o. drevel(3583)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2405">
@@ -423,7 +423,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-5938" type="risk">
           <title>Er is fietsgereedschap aanwezig en beschikbaar.</title>
           <description>&lt;p&gt;Beschik over het volgende basis fietsgereedschap:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;- vastzetbaar bracketgerei&lt;/li&gt;&lt;li&gt;- draagsnijgerei voor brackets&lt;/li&gt;&lt;li&gt;- bracketfreeser&lt;/li&gt;&lt;li&gt;- trapasgerei&lt;/li&gt;&lt;li&gt;- trapas-inpers-gerei&lt;/li&gt;&lt;li&gt;- balhoofdfreezer&lt;/li&gt;&lt;li&gt;- balhoofdinpersgerei&lt;/li&gt;&lt;li&gt;- voorvorkdraadsnijder&lt;/li&gt;&lt;li&gt;- cupuitdrijver(balhoofd)&lt;/li&gt;&lt;li&gt;- conusvoorvorkmonteerder&lt;/li&gt;&lt;li&gt;- conusvoorvorkd&#233;monteerder&lt;/li&gt;&lt;li&gt;- conussleutels&lt;/li&gt;&lt;li&gt;- voorvorkcontroleur&lt;/li&gt;&lt;li&gt;- buitenbalfrees&lt;/li&gt;&lt;li&gt;- balhoofdsleutelset&lt;/li&gt;&lt;li&gt;- lange pedaalsleutels&lt;/li&gt;&lt;li&gt;- mallen om versnellingsnaven inwendig af te stellen&lt;/li&gt;&lt;li&gt;- kettingponsen&lt;/li&gt;&lt;li&gt;- freewheeltegenhouders&lt;/li&gt;&lt;li&gt;- momentsleutelhouder M10-M6&lt;/li&gt;&lt;li&gt;- padderichters&lt;/li&gt;&lt;li&gt;- deraillleeroogrichter&lt;/li&gt;&lt;li&gt;- borgveertang uitwendig&lt;/li&gt;&lt;li&gt;- borgveertang inwendig&lt;/li&gt;&lt;li&gt;- Bowdenkabelkniptang&lt;/li&gt;&lt;li&gt;- adapter freewheelafnemers&lt;/li&gt;&lt;li&gt;- casette afnemers&lt;/li&gt;&lt;li&gt;- spakenspanners&lt;/li&gt;&lt;li&gt;- inbussleutelset&lt;/li&gt;&lt;li&gt;-soldeerstation&lt;/li&gt;&lt;li&gt;- lijntang voor framecontrole&lt;/li&gt;&lt;li&gt;- smeerbad- spaakspenningsmeter(3584)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2406">
@@ -435,13 +435,13 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-5939" type="risk">
           <title>Voor bromfietsreparatie is het gereedschap aangevuld.</title>
           <description>&lt;p&gt;Vul uw gereedschap voor bromfietsreparatie aan met:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. doppenset&lt;/li&gt;&lt;li&gt;b. vliegwiel trekkers&lt;/li&gt;&lt;li&gt;c. semi-hydraulische ontluchtingset&lt;/li&gt;&lt;li&gt;d. compressiemetere. ontstekingstester(3585)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5940" type="risk">
           <title>Er zijn basisapparaten /voorzieningen.</title>
           <description>&lt;p&gt;Beschik over basisapparaten/voorzieningen:a. verlichtingstesterb. ontvettingsbak met lekbak en roosterc. spakenkastd. compressor/persluchtinstallatiee. boormachinef. apparatuur om fiets aan te meteng. wasbakh. poetsdoekenrolhouderi. handslijptolj. slijpsteenk. hefinstallatie, lift of werkbokl. werkbanken [ op hoogte verstelbaar]m. bandenspanningsmeter(3586)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2407">
@@ -453,7 +453,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-5941" type="risk">
           <title>Er is gekozen voor liften met verzonken liftbak en er zijn maatregelen tegen knelgevaar genomen.</title>
           <description>&lt;p&gt;(3587)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2408">
@@ -465,13 +465,13 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-5942" type="risk">
           <title>De persluchtinstallatie /compressor is afgeschermd voor geluid.</title>
           <description>&lt;p&gt;De persluchtinstallatie/compressor&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. is afgeschermd voor geluid of geluidsarm&lt;/li&gt;&lt;li&gt;b. bewegende delen zoals de&#160; V-snaar zijn&#160; afgeschermd. (3590)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5943" type="risk">
           <title>Bewegende delen van de persluchtinstallatie /compressor zijn afgeschermd.</title>
           <description>&lt;p&gt;De persluchtinstallatie/compressor&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. is afgeschermd voor geluid of geluidsarm&lt;/li&gt;&lt;li&gt;b. bewegende delen zoals de&#160; V-snaar zijn&#160; afgeschermd. (3590)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
       </module>
@@ -481,13 +481,13 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-5944" type="risk">
           <title>Er zijn voldoende persoonlijke beschermingsmiddelen beschikbaar en werknemers gebruiken die middelen indien noodzakelijk.</title>
           <description>&lt;p&gt;Indien gevaar voor de veiligheid of de gezondheid van een werknemer op de arbeidsplaats (= in het bedrijf of op locatie) aanwezig is of kan ontstaan, zijn voor de werknemers die aan dat gevaar blootstaan of kunnen blootstaan persoonlijke beschermingsmiddelen in voldoende aantal beschikbaar en wordt ervoor gezorgd dat die werknemers die middelen gebruiken. (50)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5945" type="risk">
           <title>Er wordt voldaan aan de eisen van persoonlijke beschermingsmiddelen.</title>
           <description>&lt;p&gt;Eisen persoonlijke beschermingsmiddelen:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. voorzien van CE-markering&lt;/li&gt;&lt;li&gt;b. geschikt voor te vermijden gevaren, zonder zelf een vergroot gevaar in te houden&lt;/li&gt;&lt;li&gt;c. beantwoorden aan bestaande omstandigheden op de arbeidsplaats&lt;/li&gt;&lt;li&gt;d. afgestemd op ergonomische eisen en vereisten met betrekking tot de gezondheid van werknemers&lt;/li&gt;&lt;li&gt;e. na de nodige aanpassingen geschikt voor de drager&lt;/li&gt;&lt;li&gt;f. op elkaar afgestemd bij het tegelijkertijd dragen van meerdere persoonlijke beschermingsmiddelen&lt;/li&gt;&lt;li&gt;g. keuze en wijze van gebruik zijn afhankelijk van: ernst van het gevaar, frequentie van blootstelling aan dat gevaar en kenmerken van de arbeidsplaats van iedere werknemer afzonderlijk, doelmatigheid van het persoonlijke beschermingsmiddel&lt;/li&gt;&lt;li&gt;h. voor gebruik door &#233;&#233;n persoon; indien omstandigheden vereisen dat een persoonlijke beschermingsmiddel door meer dan &#233;&#233;n persoon gebruikt wordt, worden doeltreffende maatregelen genomen, opdat een dergelijk gebruik geen gezondheids- of hygi&#235;neproblemen oplevert voor de onderscheiden gebruikers&lt;/li&gt;&lt;li&gt;i. adequate gegevens over ieder persoonlijk beschermingsmiddel&lt;/li&gt;&lt;li&gt;j. voorzien van gebruiksaanwijzing(541)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
       </module>
@@ -497,7 +497,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-5946" type="risk">
           <title>Er is bedrijfskleding die goed te wassen en te onderhouden is.</title>
           <description>&lt;p&gt;Bedrijfskleding is goed te wassen volgens gebruiksvoorschrift en is goed te onderhouden. Na regelmatig wassen blijft een goede pasvorm behouden. (863)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
       </module>
@@ -507,13 +507,13 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-5947" type="risk">
           <title>De oogbeschermings-middelen beschermen de ogen aan de voor-kant volledig zoals een gewone bril.</title>
           <description>&lt;p&gt;Oogbeschermingsmiddelen beschermen de ogen aan de voorkant gezien volledig. Dit kan met een gewone bril. (875)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5948" type="risk">
           <title>De oogbeschermings-middelen bieden een adequate bescherming afhankelijk van het gevaarsrisico.</title>
           <description>&lt;p&gt;&#160;(876)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
       </module>
@@ -523,25 +523,25 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-5949" type="risk">
           <title>De voorwerpen in de arbeidsplaats zijn stabiel en stevig.</title>
           <description>&lt;p&gt;&#160;(92)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5950" type="risk">
           <title>Bedrijfsinventaris is veilig in gebruik (bijvoorbeeld geen scherpe hoeken).</title>
           <description>&lt;p&gt;Bedrijfsinventaris is veilig in gebruik (bijvoorbeeld geen scherpe hoeken).&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5951" type="risk">
           <title>De bedrijfsinventaris is eenvoudig te reinigen en bestand tegen reiniging en/of desinfectie.</title>
           <description>&lt;p&gt;&#160;(910)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5952" type="risk">
           <title>De meubels voor baliewerk voldoen aan de gestelde eisen.</title>
           <description>&lt;p&gt;Eisen meubel voor baliewerk:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. biedt voldoende benen- en voetenruimte (0,70 m hoog, 0,6 m diep en breed), werkblad mag niet dikker zijn dan 0,05 m.&lt;/li&gt;&lt;li&gt;b. alle hulpmiddelen zijn geplaatst binnen 0,45 m afstand en wijkt maximaal 0,10 m af van de werkhoogte (3145)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
       </module>
@@ -551,7 +551,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-5953" type="risk">
           <title>De sta-steun voldoet aan de gestelde eisen.</title>
           <description>&lt;p&gt;De sta-steun moet aan de volgende eisen voldoen:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. in hoogte verstelbaar tussen 0,65 en 0,90 m&lt;/li&gt;&lt;li&gt;b. degelijk&lt;/li&gt;&lt;li&gt;c. zitsteun moet een hoek kunnen maken tussen de 20-30 graden met het horizontaal&lt;/li&gt;&lt;li&gt;d. zitsteun moet minimaal 0,2 x 0,2 m zijn&lt;/li&gt;&lt;li&gt;e. bij gebruik van een kruispoot met wielen moet deze beremd zijn(90)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
       </module>
@@ -561,19 +561,19 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-5954" type="risk">
           <title>De verpakking van gevaarlijke stoffen is voorzien van naam, gevaarsymbool, gebruiksaanwijzing en. veiligheidsaanbeveling.</title>
           <description>&lt;p&gt;Verpakking van gevaarlijke stoffen is voorzien van:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. naam van de stof of het preparaat&lt;/li&gt;&lt;li&gt;b. gevaarsymbool&lt;/li&gt;&lt;li&gt;c. gebruiksaanwijzing&lt;/li&gt;&lt;li&gt;d. veiligheidsaanbeveling en bijzondere gevaren (Risk- en Safety-zinnen) (60)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5955" type="risk">
           <title>Van alle in het bedrijf aanwezige gevaarlijke stoffen en preparaten zijn veiligheids-informatiebladen in dossiers aanwezig.</title>
           <description>&lt;p&gt;Van alle in het bedrijf aanwezige gevaarlijke stoffen en preparaten zijn veiligheidsinformatiebladen aanwezig. De leverancier is verplicht deze te leveren. Verzamel deze in een dossier. (61)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5956" type="risk">
           <title>Van regelmatig voorkomende gevaarlijke stoffen worden bepaalde aspecten in de risico-inventarisatie en -evaluatie geregistreerd.</title>
           <description>&lt;p&gt;Registreer van gevaarlijke stoffen die regelmatig in het bedrijf voorkomen in de risico-inventarisatie en -evaluatie:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. naam van de stof (identiteit)&lt;/li&gt;&lt;li&gt;b. gevaarseigenschappen&lt;/li&gt;&lt;li&gt;c. wijze van blootstellingd. blootstellingsniveau(90)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2409">
@@ -589,13 +589,13 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-5957" type="risk">
           <title>Zeep heeft een diep reinigende werking en is voorzien van terugvettende bestanddelen.</title>
           <description>&lt;p&gt;Zeep heeft een diep reinigende werking, waardoor ook de pori&#235;n diep te reinigen zijn. (906)Zeep is voorzien van terugvettende bestanddelen (voorkomt uitdroging van de huid). (282)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5958" type="risk">
           <title>Een barrierecr&#232;me om handen tegen ontvetting te beschermen is overwogen.</title>
           <description>&lt;p&gt;Overweeg een barrierecr&#232;me om handen tegen ontvetting te beschermen. (3592)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
       </module>
@@ -605,19 +605,19 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-5959" type="risk">
           <title>De afvoer van gassen, nevels en dampen is bovendaks, zonder overlast.</title>
           <description>&lt;p&gt;Afvoer van gassen, nevels en dampen is bovendaks:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. zonder overlast voor omwonenden&lt;/li&gt;&lt;li&gt;b. tenminste 1 meter boven de daklijn(3593)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5960" type="risk">
           <title>Het afzuigsysteem voor uitlaatgassen voldoet aan de gestelde eisen.</title>
           <description>&lt;p&gt;Eisen aan afzuigsysteem voor uitlaatgassen zijn:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. mechanisch&lt;/li&gt;&lt;li&gt;b. goed functioneren&lt;/li&gt;&lt;li&gt;c. aansluitbaar op uitlaat met metalen pijpd. een afsluitklep in de afvoerslang (3594)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5961" type="risk">
           <title>De doorsnee van de doorlaatopening bij natuurlijke ventilatie is afgestemd op het vloeroppervlak.</title>
           <description>&lt;p&gt;De doorsnee van de doorlaatopening bij natuurlijke ventilatie is afgestemd op het vloeroppervlak van werkplaats en van verkoopruimte. (3596)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
       </module>
@@ -631,61 +631,61 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-5962" type="risk">
           <title>De inrichting, werkmethoden en&#160; hulpmiddelen zijn op ergonomisch verantwoorde wijze aan de werknemer aangepast.</title>
           <description>&lt;p&gt;De inrichting van het bedrijf, de werkmethoden en de hulpmiddelen zijn zoveel mogelijk op ergonomisch verantwoorde wijze aan de werknemer aangepast. (126)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5963" type="risk">
           <title>Arbeidsplaatsen zijn veilig in gebruik en onderhoud en arbeidsruimtes worden schoon en ordelijk gehouden.</title>
           <description>&lt;p&gt;Arbeidsplaatsen zijn veilig toegankelijk en kunnen veilig worden verlaten. Ze worden zodanig ontworpen, gebouwd, uitgerust, in bedrijf gesteld, gebruikt en onderhouden, dat gevaar voor de veiligheid en de gezondheid van de werknemers zoveel mogelijk is voorkomen. Arbeidsruimtes worden schoon, zoveel mogelijk vrij van stof en voor zover de veiligheid van de arbeidsplaats dat vereist, ordelijk gehouden. (127)&#160;&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5964" type="risk">
           <title>Gebouwen bestaan uit deugdelijk materiaal en worden zodanig onderhouden dat er geen instortingsgevaar bestaat.</title>
           <description>&lt;p&gt;Gebouwen en andere opstallen bestaan uit deugdelijk materiaal, zijn van een deugdelijke constructie en verkeren in een zodanige staat, dat er geen gevaar bestaat voor het geheel of gedeeltelijk instorten of omvallen. (128)&#160;&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5965" type="risk">
           <title>De arbeidsplaats en de daar aanwezige materialen zijn veilig en leveren geen gevaar op.</title>
           <description>&lt;p&gt;De arbeidsplaats is zodanig ingericht, dat de daar aanwezige voorwerpen of stoffen geen gevaar voor de veiligheid of de gezondheid opleveren door instorten, schuiven, omvallen of kantelen. (129)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5966" type="risk">
           <title>Afmetingen en luchtvolume van de arbeidsplaats zijn zodanig dat de werknemer geen gevaar loopt.</title>
           <description>&lt;p&gt;Afmetingen en luchtvolume van de arbeidsplaats zijn zodanig dat de werknemer zonder gevaar voor de veiligheid, de gezondheid of het welzijn zijn arbeid kan verrichten. Het minimaal noodzakelijke luchtvolume hangt onder meer samen met de aard van de werkzaamheden en de ventilatievoorzieningen. (130)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5967" type="risk">
           <title>De afmetingen van de arbeidsplaats zijn zodanig dat er voldoende bewegingsruimte is.</title>
           <description>&lt;p&gt;De afmetingen van de arbeidsplaats zijn zodanig dat de werknemer bij het verrichten van zijn arbeid over voldoende bewegingsruimte beschikt. (131)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5968" type="risk">
           <title>De arbeidsplaats is zo ingericht dat fysieke belasting geen gevaren met zich mee kan brengen.</title>
           <description>&lt;p&gt;De arbeidsplaats is zo ingericht dat fysieke belasting geen gevaren met zich mee kan brengen voor de veiligheid of de gezondheid van de werknemer. (132)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-5969" type="risk">
           <title>Een arbeidsmiddel is zodanig geplaatst dat het gevaar van calamiteiten zoveel mogelijk is voorkomen.</title>
           <description>&lt;p&gt;Een arbeidsmiddel is zodanig geplaatst of ingericht, dat het gevaar van verschuiven, omvallen, kantelen, oververhitten, brand, ontploffen en directe of indirecte aanraking met elektriciteit zoveel mogelijk is voorkomen. (133)&#160;&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5970" type="risk">
           <title>De verkoopruimte is&#160;&#160; overzichtelijk ingericht om de kans op criminaliteit en diefstal te verkleinen.</title>
           <description>&lt;p&gt;Richt de verkoopruimte (en andere publieksruimtes) zo in dat deze overzichtelijk blijft. Dit om de kans op criminaliteit en diefstal te verkleinen. (253)&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5971" type="risk">
           <title>Alle waterleidingen zijn zodanig gemonteerd dat de uitgroei van de legionella-bacterie voorkomen wordt.</title>
           <description>&lt;p&gt;Ter voorkoming van de uitgroei van de legionella-bacterie moet:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. de waterleiding na mengwatersystemen korter zijn dan 5 m&lt;/li&gt;&lt;li&gt;b. een mengkraan vlak voor het tappunt worden geplaatst (niet bij het warmwatertoestel)&lt;/li&gt;&lt;li&gt;c. een koudwaterleiding die langere tijd niet gebruikt zal worden voorzien zijn van een aftapkraan&lt;/li&gt;&lt;li&gt;d. opwarming van water in koudwaterleidingen (door welke bron dan ook) voorkomen worden (1559)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
       </module>
@@ -695,25 +695,25 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-5972" type="risk">
           <title>De plaats, het aantal en de afmetingen van deuren zijn afgestemd op gebruik.</title>
           <description>&lt;p&gt;De plaats, het aantal en de afmeting van deuren, beweegbare hekken en andere doorgangen en ook de materialen waarvan zij zijn vervaardigd, zijn afgestemd op de aard en het gebruik van de arbeidsplaats. (143)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5973" type="risk">
           <title>Op transparante (delen van) deuren is op ooghoogte een markering aangebracht.</title>
           <description>&lt;p&gt;&#160;(144)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5974" type="risk">
           <title>De deuren zijn altijd direct en eenvoudig te openen in noodsituaties.</title>
           <description>&lt;p&gt;&#160;(311)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5975" type="risk">
           <title>De deuren en doorgangen zijn voldoende breed, afhankelijk van de situatie en het aantal werknemers.</title>
           <description>&lt;p&gt;Deuren en doorgangen zijn voldoende breed, afhankelijk van de situatie en het aantal werknemers, denk aan rolstoelgebruikers. (316)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
       </module>
@@ -723,13 +723,13 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-5976" type="risk">
           <title>De vloeren van arbeidsplaatsen zijn zoveel mogelijk vrij van oneffenheden.</title>
           <description>&lt;p&gt;Vloeren van arbeidsplaatsen zijn zoveel mogelijk vrij van oneffenheden (mogen geen struikelgevaar opleveren). (148)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5977" type="risk">
           <title>Er zijn geen drempels in ruimtes waar met gevaarlijke stoffen gewerkt wordt.</title>
           <description>&lt;p&gt;Drempels zijn toegestaan, tenzij vallen of struikelen gezien de aard van het werk, bijvoorbeeld het werken met gevaarlijke stoffen, ernstige gevolgen kan hebben. (149)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
       </module>
@@ -739,19 +739,19 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-5978" type="risk">
           <title>Ramen, bovenlicht- en ventilatievoorzieningen zijn veilig te openen.</title>
           <description>&lt;p&gt;Indien ramen, bovenlichtvoorzieningen en ventilatievoorzieningen geopend en gesloten kunnen worden, kan dit op veilige wijze gebeuren. Zij kunnen tevens op veilige wijze geregeld en vastgezet worden. In geopende stand leveren zij geen gevaar op. (150)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5979" type="risk">
           <title>Ramen en bovenlichtvoorzieningen kunnen zonder gevaar worden gereinigd.</title>
           <description>&lt;p&gt;&#160;(151)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5980" type="risk">
           <title>Daglichtdoorlating is ten minste 1/20 van het vloeroppervlak van de ruimte.</title>
           <description>&lt;p&gt;Daglichtdoorlating is ten minste 1/20 van het vloeroppervlak van de ruimte (toepassing van meer beglazing geeft meer lichtopbrengst). (152)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
       </module>
@@ -762,19 +762,19 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-5982" type="risk">
           <title>Trappen met een breedte kleiner dan 1,2m hebben aan ten minste 1 zijde een&#160; doorlopende leuning.</title>
           <description>&lt;p&gt;&#160;(159)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5983" type="risk">
           <title>Trappen zijn niet te steil.</title>
           <description>&lt;p&gt;Trappen zijn niet te steil (maximale verhouding 4 verticaal op 3 horizontaal). (318)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5984" type="risk">
           <title>Traptreden zijn voorzien van antislipprofiel.</title>
           <description>&lt;p&gt;&#160;(175)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
       </module>
@@ -784,31 +784,31 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-5985" type="risk">
           <title>Vloeren van arbeidsplaatsen zijn vrij van oneffenheden.</title>
           <description></description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5986" type="risk">
           <title>Gevaarlijke hellingen zijn vast, stabiel en stroef.</title>
           <description></description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5987" type="risk">
           <title>Vloeren van arbeidsplaatsen kunnen worden gereinigd en onderhouden.</title>
           <description>&lt;p&gt;&#160;(161)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5988" type="risk">
           <title>Vloeropeningen zijn afgedekt en afgeschermd tegen vallen.</title>
           <description>&lt;p&gt;&#160;(165)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5989" type="risk">
           <title>Lange tijd staan op een koude vloer wordt voorkomen.</title>
           <description>&lt;p&gt;&#160;(3611)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2410">
@@ -824,19 +824,19 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-5990" type="risk">
           <title>Er is een kleedruimte beschikbaar.</title>
           <description>&lt;p&gt;&#160;(2785)&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5991" type="risk">
           <title>De kleedruimte is te verwarmen en te ventileren.</title>
           <description>&lt;p&gt;&#160;(101)&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5992" type="risk">
           <title>Iedere werknemer beschikt over een plaats om kleding op te hangen.</title>
           <description>&lt;p&gt;(99)&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
       </module>
@@ -846,43 +846,43 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-5993" type="risk">
           <title>Gevaarlijke (afval)stoffen worden apart opgeslagen in afsluitbare verpakkingen.</title>
           <description>&lt;p&gt;De opslag van gevaarlijke stoffen gebeurt op een zodanige wijze dat nadelige gevolgen voor het milieu zoveel mogelijk worden voorkomen. Voorzover voorkomen van deze gevolgen niet mogelijk is, worden zij zoveel mogelijk beperkt. (111)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5994" type="risk">
           <title>Gevaarlijke stoffen worden opgeslagen volgens de&#160; waarschuwingen/gege-vens op de verpakking en veiligheids-informatieblad.</title>
           <description>&lt;p&gt;De opslag van gevaarlijke stoffen gebeurt overeenkomstig de waarschuwingen en gegevens op de verpakking en het bij de desbetreffende stoffen behorende veiligheidsinformatieblad. (112)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5995" type="risk">
           <title>Opslag van gevaarlijke stoffen gebeurt boven een vloeistofdichte vloer/lekbak van onbrandbaar en hittebestendig materiaal.</title>
           <description>&lt;p&gt;&#160;(113)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5996" type="risk">
           <title>Lekbak kan 100% van de gevaarlijke (afval)stoffen opvangen.</title>
           <description>&lt;p&gt;Indien boven de lekbak zeer licht ontvlambare, licht ontvlambare of ontvlambare vloeistoffen worden opgeslagen, moet de lekbak 100% van deze stoffen kunnen opvangen. Indien boven de lekbak andere gevaarlijke vloeistoffen worden opgeslagen, is de inhoud van de bak ten minste gelijk aan de inhoud van het grootste opgeslagen vat, plus 10% van de inhoud van de overige emballage. Er is een voorziening aanwezig waardoor de lekbak permanent tegen inregenen is beschermd.(114)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5997" type="risk">
           <title>Gevaarlijke (afval)stoffen worden opgeslagen in geschikt verpakkingsmateriaal in een aparte ruimte of kast.</title>
           <description>&lt;p&gt;Gevaarlijke stoffen worden opgeslagen in geschikt verpakkingsmateriaal en opgeslagen in een speciaal voor gevaarlijke stoffen bestemde ruimte of kast, die afgescheiden is van een voor publiek toegankelijke (verkoop-)ruimte (uitzondering zijn de stoffen die in de werkruimte aanwezig zijn voor een goede bedrijfsvoering). Opslagruimte voldoet aan CPR 15-1. (115)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5998" type="risk">
           <title>Gemorste gevaarlijke stoffen worden direct opgeruimd en zo snel mogelijk geneutraliseerd en geabsorbeerd.</title>
           <description>&lt;p&gt;&#160;(181)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-5999" type="risk">
           <title>De constructie van de opslagruimte en wijze van opslag van gevaarlijke stoffen voldoen aan richtlijn CPR 15-1.</title>
           <description>&lt;p&gt;Bij minder dan 25 kg/liter volstaat een afsluitbare metalen kast. (116)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
       </module>
@@ -892,19 +892,19 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6000" type="risk">
           <title>Voorraad wordt veilig gestapeld.</title>
           <description>&lt;p&gt;Opslagruimte is zo ingericht, dat de daar aanwezige voorwerpen of stoffen geen gevaar voor de veiligheid of de gezondheid opleveren door instorten, verschuiven, omvallen of kantelen. Voorraden zijn veilig opgeslagen. (105)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6001" type="risk">
           <title>De opslagruimte heeft een constante temperatuur, is droog en vochtwerend en wordt voldoende geventileerd.</title>
           <description>&lt;p&gt;(942)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6002" type="risk">
           <title>Goederen en producten zijn effici&#235;nt opgeslagen.</title>
           <description>&lt;p&gt;Sla goederen en producten effici&#235;nt op zodat minimaal gelopen en zo min mogelijk zwaar getild hoeft te worden. (3166)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
       </module>
@@ -914,7 +914,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6003" type="risk">
           <title>De opslagbunker voor vuurwerk is veilig geplaatst volgens de eisen Vuurwerkbesluit.</title>
           <description>&lt;p&gt;Plaats de opslagbunker voor vuurwerk zo dat er meer dan 8 meter tussen andere bedrijven en werkplaatsen en de toegangsdeur&#160; tot de bunker is. (3612)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2411">
@@ -926,19 +926,19 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6004" type="risk">
           <title>Scheidingswanden tussen vuurwerkopslag zijn meer dan 120 minuten brandwerend.</title>
           <description>&lt;p&gt;&#160;(3613)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6005" type="risk">
           <title>Er is een bufferbewaarplaats voor hooguit 500 kg onverpakt vuurwerk.</title>
           <description>&lt;p&gt;Er is een bufferbewaarplaats voor hooguit 500 kg onverpakt vuurwerk. (3614)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6006" type="risk">
           <title>Er is een sprinklerinstallatie geplaatst in opslag-bunker, bufferbewaar-plaats en verkoop-ruimte.</title>
           <description>&lt;p&gt;Breng indien u vuurwerk verkoopt een sprinklerinstallatie (met per 4 m&#178;&#160; een sprinkler) aan in opslagbunker, bufferbewaarplaats en verkoopruimte. (3615)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2412">
@@ -950,13 +950,13 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6007" type="risk">
           <title>Er is een gecertificeerde sprinklerinstallatie aanwezig.</title>
           <description>&lt;p&gt;&#160;(3616)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6008" type="risk">
           <title>De verkoop en opslag van consumenten-vuurwerk vindt op de begane grond plaats.</title>
           <description>&lt;p&gt;(3617)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2413">
@@ -968,19 +968,19 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6009" type="risk">
           <title>De bufferbewaarplaats kent, behalve de deur, geen openingen.</title>
           <description>&lt;p&gt;&#160;(3618)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6010" type="risk">
           <title>Toegangsdeuren naar opslag/bewaarplaatsen van vuurwerk zijn zelfsluitend en draaien naar buiten open.</title>
           <description>&lt;p&gt;&#160;(3619)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6011" type="risk">
           <title>De deur voor de bufferbewaarplaats is niet voor het publiek toegankelijk.</title>
           <description>&lt;p&gt;&#160;(3620)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
       </module>
@@ -990,7 +990,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6012" type="risk">
           <title>In het bedrijf of in de directe nabijheid is een pauzeruimte beschikbaar.</title>
           <description>&lt;p&gt;In het bedrijf of in de directe nabijheid daarvan is een gemakkelijk toegankelijke ruimte beschikbaar waar de werknemers de pauzes kunnen doorbrengen. De ruimte is daarvoor geschikt en afhankelijk van het aantal werknemers voldoende ruim en uitgerust met voldoende tafels en stoelen. Overigens hoeft dit in een klein bedrijf geen aparte ruimte te zijn, mits geen werkzaamheden worden verricht of gevaarlijke stoffen aanwezig zijn. (3680)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2414">
@@ -1002,13 +1002,13 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6013" type="risk">
           <title>3.11.2De pauzeruimte is goed geventileerd en kan in de winter goed verwarmd worden.</title>
           <description>&lt;p&gt;&#160;(201)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6014" type="risk">
           <title>De opslag van materialen in de pauzeruimte is beperkt.</title>
           <description>&lt;p&gt;&#160;(204)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2415">
@@ -1024,13 +1024,13 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6015" type="risk">
           <title>Er is ten minste 1 toilet aanwezig.</title>
           <description>&lt;p&gt;&#160;(231)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6016" type="risk">
           <title>Er zijn voldoende wasbakken met stromend water bij de toiletten//urinoirs.</title>
           <description>&lt;p&gt;Er zijn voldoende wasbakken met stromend water in de onmiddellijke nabijheid van de toiletten en urinoirs. (223)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
       </module>
@@ -1041,19 +1041,19 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6018" type="risk">
           <title>Er is wasgelegenheid, naar seksen gescheiden, met warm/koud stromend water aanwezig.</title>
           <description>&lt;p&gt;Er is wasgelegenheid (wasbakken) aanwezig als medewerkers blootstaan aan vuil. In een wasruimte zijn voldoende wasbakken aanwezig die functioneel geplaatst zijn en naar seksen gescheiden; ze beschikken over koud en - zo nodig - warm stromend water. (788)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6019" type="risk">
           <title>De douche- of wasruimte en de kleedruimtes zijn onderling goed bereikbaar.</title>
           <description>&lt;p&gt;Indien de douche- of wasruimte en de kleedruimtes zich niet in dezelfde ruimte bevinden, zijn deze onderling gemakkelijk en binnendoor te bereiken. (787)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6020" type="risk">
           <title>Bij de wasgelegenheid zijn wasbak, zeep en handdoek aanwezig.</title>
           <description>&lt;p&gt;Bij de wasgelegenheid zijn minimaal aanwezig:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. wasbak&lt;/li&gt;&lt;li&gt;b. zeep&lt;/li&gt;&lt;li&gt;c. handdoek(789)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
       </module>
@@ -1063,7 +1063,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6021" type="risk">
           <title>Werkplekken zijn niet gesitueerd in de looproute.</title>
           <description>&lt;p&gt;&#160;(3184)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
       </module>
@@ -1074,7 +1074,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6023" type="risk">
           <title>De achterwand achter de toonbank/balie voldoet aan de vereisten van gezond werken, ergonomie in de detailhandel.</title>
           <description>&lt;p&gt;Achterwand achter de toonbank/balie:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. de meest verkochte artikelen staan op de makkelijkste hoogte&lt;/li&gt;&lt;li&gt;b. de opstelling vormt verticaal een cirkelboog voor een goede bereikbaarheid&lt;/li&gt;&lt;li&gt;c. bij 1 persoon is de afstand tussen toonbank en achterwand minimaal 90 cm, bij 2 personen minimaal 120 cm en bij meer mensen minimaal 160 cm&lt;/li&gt;&lt;li&gt;d. eventuele machines in de achterwand staan op een optimaal werkbare hoogte(3175)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2416">
@@ -1090,7 +1090,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6024" type="risk">
           <title>Bij de leverancier- en personeelsingang is duidelijk te zien wie zich meldt.</title>
           <description>&lt;p&gt;De achterdeur die gebruikt wordt door leveranciers en evt. personeel is uitgevoerd met een ruit of spionnetje of een andere voorziening (bijvoorbeeld camera) waardoor duidelijk is wie zich meldt. (3189)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2417">
@@ -1110,7 +1110,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6025" type="risk">
           <title>Er zijn maatregelen genomen om te voorkomen dat werknemers worden blootgesteld aan schadelijke stoffen.</title>
           <description>&lt;p&gt;Doeltreffende maatregelen zijn genomen om te voorkomen dat werknemers bij hun arbeid kunnen worden blootgesteld aan stoffen in zodanige mate, dat schade kan worden toegebracht aan hun gezondheid of hinder kan worden veroorzaakt. Pas bij voorkeur in de hierna genoemde volgorde de volgende maatregelen toe (= arbeidshygi&#235;nische strategie):&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. bronbestrijding (voorkom dat er risico is)&lt;/li&gt;&lt;li&gt;b. maatregelen gericht op collectieve bescherming&lt;/li&gt;&lt;li&gt;c. maatregelen gericht op individuele bescherming&lt;/li&gt;&lt;li&gt;d. gebruik persoonlijke beschermingsmiddelen (het gebruik ervan is tijdelijk en tot het strikt noodzakelijke beperkt)(364)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2418">
@@ -1122,7 +1122,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6026" type="risk">
           <title>Er is een arbobeleid opgesteld.</title>
           <description>&lt;p&gt;De werkgever stelt een arbobeleid op. Het arbobeleid bevat:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. doelstelling (= zorgen voor een zo groot mogelijke veiligheid, bescherming van de gezondheid en het bevorderen van het welzijn van werknemers)&lt;/li&gt;&lt;li&gt;b. middelen om de doelstelling te bereikenc. wijze waarop de doelstelling wordt bereiktd. bevoegdheden en verantwoordelijkheden(227)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2419">
@@ -1134,7 +1134,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6027" type="risk">
           <title>Het arbobeleid wordt aangepast als ervaringen, gewijzigde werkmethoden of werkomstandigheden daartoe aanleiding geven.</title>
           <description>&lt;p&gt;&#160;(229)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2420">
@@ -1146,13 +1146,13 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6028" type="risk">
           <title>Het arbobeleid is gebaseerd op een deugdelijke, schriftelijke risico-inventarisatie en -evaluatie en plan van aanpak.</title>
           <description>&lt;p&gt;&#160;(228)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6029" type="risk">
           <title>Er zijn voldoende maatregelen genomen om derden te beschermen tegen gevaar voortkomend uit de werkzaamheden.</title>
           <description>&lt;p&gt;&#160;(1802)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2421">
@@ -1168,25 +1168,25 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6030" type="risk">
           <title>De risico-inventarisatie en -evaluatie wordt, indien daartoe aanleiding is, aangepast.</title>
           <description>&lt;p&gt;De risico-inventarisatie en -evaluatie dient te worden aangepast zo vaak als ervaringen, gewijzigde werkmethoden of werkomstandigheden daartoe aanleiding geven. (234)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6031" type="risk">
           <title>Er wordt voor gezorgd dat iedere werknemer wordt ge&#239;nformeerd inzake de risico-inventarisatie en -evaluatie.</title>
           <description>&lt;p&gt;De werkgever moet ervoor zorgen dat iedere werknemer op de hoogte wordt gesteld van de schriftelijke risico-inventarisatie en -evaluatie. (235)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6032" type="risk">
           <title>Er vindt jaarlijks overleg plaats met OR/PVT of belanghebbende medewerkers over het Plan van Aanpak.</title>
           <description>&lt;p&gt;In het plan van aanpak, over de uitvoering waarvan jaarlijks schriftelijk wordt gerapporteerd, wordt tevens aangegeven binnen welke termijn deze maatregelen zullen worden genomen. De werkgever voert over de jaarlijkse rapportage vooraf overleg met de ondernemingsraad, de personeelsvertegenwoordiging, of, bij het ontbreken daarvan, met de belanghebbende medewerkers. Bij het overleg komt in ieder geval aan de orde het al dan niet meer actueel zijn van de risico-inventarisatie en -evaluatie. (37)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6033" type="risk">
           <title>(Bijna-)ongelukken, worden geregistreerd en indien nodig gerapporteerd&#160; aan de arbeidsinspectie.</title>
           <description>&lt;p&gt;Registreer (bijna-)ongelukken, rapporteer zonodig aan de arbeidsinspectie en leg vast welke acties zijn ondernomen om herhaling te voorkomen. (332)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
       </module>
@@ -1197,7 +1197,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6035" type="risk">
           <title>Er wordt een ziekteverzuimbeleid gevoerd (eventueel ontwikkeld met de arbodienst).</title>
           <description>&lt;p&gt;Werkgever moet binnen het algemeen ondernemersbeleid een beleid voeren met betrekking tot het ziekteverzuim van de werknemers. Het verzuimbeleid, dat - zo nodig samen met de arbodienst - moet worden ontwikkeld, bevat:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. hoe ziekte zoveel mogelijk is te voorkomen of te beperken&lt;/li&gt;&lt;li&gt;b. hoe begeleiding en controle is geregeld om de verzuimduur te verkorten(236)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2422">
@@ -1209,7 +1209,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6036" type="risk">
           <title>Bij verwachte langdurige ziekte van een werknemer wordt gehandeld volgens de gestelde eisen (Poortwachter).</title>
           <description>&lt;p&gt;Bij verwachte langdurige ziekte van een werknemer:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. wordt een re&#239;ntegratiedossier aangelegd met daarin afspraken en correspondentie met de zieke, beheerd door de werkgever&lt;/li&gt;&lt;li&gt;b. de arbodienst formuleert binnen 6 weken een probleemanalyse&lt;/li&gt;&lt;li&gt;c. aan de hand hiervan is na 8 weken door de werkgever in overeenstemming met de werknemer een plan van aanpak gemaakt&lt;/li&gt;&lt;li&gt;d. wordt na uiterlijk 13 weken melding gedaan bij het Uitvoering Werknemersverzekeringen (UWV)&lt;/li&gt;&lt;li&gt;e. wordt na 8 maanden door werkgever en werknemer samen een re&#239;ntegratieverslag gemaakt. Het verslag wordt ingediend door de werknemer bij het UWV(2866)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2423">
@@ -1226,7 +1226,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6038" type="risk">
           <title>(nieuwe) Werknemers/ stagiaires krijgen voorlichting over het werk en daaraan verbonden gevaren/ voorkoming ervan.</title>
           <description>&lt;p&gt;De werkgever moet werknemers voorlichten over het werk, de daaraan verbonden gevaren en de maatregelen om deze gevaren te voorkomen of te beperken, wanneer werknemers voor de eerste keer werkzaamheden voor de werkgever gaan verrichten en zo vaak als nodig is in verband met de veiligheid, gezondheid en welzijn. Het begrip werknemer omvat alle bij de onderneming werkzame personen (ook stagiaires). (240)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2424">
@@ -1238,7 +1238,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6039" type="risk">
           <title>Werknemers krijgen onderricht over hun taken met betrekking tot de arbeidsomstandigheden.</title>
           <description>&lt;p&gt;De werkgever moet onderricht geven aan werknemers over hun taken met betrekking tot de arbeidsomstandigheden. Het onderricht moet worden aangepast en opnieuw verstrekt bij wijzigingen in de werkmethoden of werkomstandigheden. (241)&#160;&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2425">
@@ -1250,7 +1250,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6040" type="risk">
           <title>Werknemers jonger dan 18 jaar krijgen extra goede voorlichting over risico's van de werkzaamheden.</title>
           <description>&lt;p&gt;&#160;(244)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2426">
@@ -1262,7 +1262,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6041" type="risk">
           <title>Er wordt adequaat toezicht op jongere werknemers gehouden.</title>
           <description>&lt;p&gt;&#160;(2775)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2427">
@@ -1274,7 +1274,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6042" type="risk">
           <title>De arbo-instructies worden geactualiseerd bij wijzigingen in organisatie, taken en middelen.</title>
           <description>&lt;p&gt;(243)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2428">
@@ -1286,7 +1286,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6043" type="risk">
           <title>Relevante arbo-instructies worden ook in schriftelijke compacte vorm beschikbaar gesteld.</title>
           <description>&lt;p&gt;Stel relevante arbo-instructies ook in schriftelijke compacte vorm beschikbaar over:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. interne arboregels en voorschriften&lt;/li&gt;&lt;li&gt;b. gebruik van persoonlijke beschermingsmiddelen&lt;/li&gt;&lt;li&gt;c. gebruiksaanwijzingen van arbeidsmiddelen (machines/apparatuur), voor wat betreft veiligheidsaspecten, in het bijzonder de onderhoud- en storingsprocedures&lt;/li&gt;&lt;li&gt;d. veiligheidsinformatiebladen bij het gebruik van gevaarlijke stoffen&lt;/li&gt;&lt;li&gt;e. veiligheidsinstructies over wat te doen bij ongeval of brand(242)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2429">
@@ -1298,7 +1298,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6044" type="risk">
           <title>Er wordt toezicht gehouden op de naleving van arbo-instructies en voorschriften.</title>
           <description>&lt;p&gt;Houd toezicht op de naleving van arbo-instructies en voorschriften, zoals het gebruik van persoonlijke beschermingsmiddelen. Werknemers zijn verplicht zich aan de arbovoorschriften te houden. (1908)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2430">
@@ -1315,7 +1315,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6046" type="risk">
           <title>Er is regelmatig overleg (op afdelingsniveau) over arbeidsomstandigheden en ziekteverzuim.</title>
           <description>&lt;p&gt;Indien een bedrijf uit afdelingen bestaat, moet de werkgever ervoor zorgen dat er op afdelingsniveau regelmatig wordt overlegd over arbeidsomstandigheden en het ziekteverzuim. Dit overleg moet schriftelijk worden vastgelegd in verslagen. (246)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
       </module>
@@ -1325,7 +1325,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6047" type="risk">
           <title>Bij uitvoering van de taken van het basispakket wordt men ondersteund door gecertificeerde arbodienst(en).</title>
           <description>&lt;p&gt;Werkgever moet zich bij het uitvoeren van de volgende taken (= het basispakket) laten ondersteunen door een (of meer) gecertificeerde arbodienst(en):&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. (toetsing van) risico-inventarisatie en -evaluatie (niet verplicht bij &amp;lt;40-werknemersuren per week)&lt;/li&gt;&lt;li&gt;b. begeleiding van zieke werknemers&lt;/li&gt;&lt;li&gt;c. periodiek arbeidsgezondheidskundig onderzoek&lt;/li&gt;&lt;li&gt;d. arbeidsgezondheidskundig spreekuur&lt;/li&gt;&lt;li&gt;e. uitvoering van aanstellingskeuringen(249)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2431">
@@ -1341,31 +1341,31 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6048" type="risk">
           <title>Indien slechts &#233;&#233;n werknemer aanwezig is, kan deze zich bij ongeval/brand snel in veiligheid stellen.</title>
           <description>&lt;p&gt;Indien in het bedrijf slechts &#233;&#233;n werknemer aanwezig is, beschikt deze over doeltreffende middelen om zich bij een ongeval of brand snel in veiligheid te kunnen stellen (het duidelijk zichtbaar ophangen van een evacuatie-instructie is veelal voldoende). (273)&#160;&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6049" type="risk">
           <title>Het aantal bedrijfshulpverleners is afgestemd op de voorschriften zoals vermeld in de Arbowet.</title>
           <description>&lt;p&gt;Bij de uitvoering van de bedrijfshulpverlening dient de werkgever zich te laten bijstaan door een of meer werknemers die door hem, in overleg met het personeel, zijn aangewezen als bedrijfshulpverleners. Een werkgever met minder dan 15 werknemers mag zelf bedrijfshulpverlener zijn als hij beschikt over voldoende deskundigheid, ervaring en uitrusting om de bedrijfshulpverleningstaken te vervullen. In dit geval hoeft de werkgever zich niet te laten bijstaan door een of meer werknemers die als bedrijfshulpverleners zijn aangewezen. Aantal bedrijfshulpverleners is afhankelijk van het aantal werknemers:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. 1 BHV-er bij minder dan 50 werknemers&lt;/li&gt;&lt;li&gt;b. 2 BHV-ers bij 50 tot 100 werknemers&lt;/li&gt;&lt;li&gt;c. 3 BHV-ers bij 100 tot 150 werknemers&lt;/li&gt;&lt;li&gt;d. 4 BHV-ers bij 150 tot 200 werknemers&lt;/li&gt;&lt;li&gt;e. 5 BHV-ers bij 200 werknemers en&#160; meer(264)&#160;&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6050" type="risk">
           <title>Taken van de bedrijfshulpverlener zijn: eerste hulp bieden, brandbestrijding, optreden in noodsituaties, alarmering en samenwerking met hulpverleners.</title>
           <description>&lt;p&gt;Bedrijfshulpverlener heeft als taken:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. eerste hulp bij ongevallen&lt;/li&gt;&lt;li&gt;b. bestrijden van brand en beperken van ongevallen&lt;/li&gt;&lt;li&gt;c. in nood alarmeren en evacueren van personen&lt;/li&gt;&lt;li&gt;d. alarmeren van en samenwerken met brandweer en hulpverleners(265)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6051" type="risk">
           <title>De bedrijfshulpverleners werken bij de uitvoering van hun taken samen.</title>
           <description>&lt;p&gt;&#160;(266)&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6052" type="risk">
           <title>De bedrijfshulpverlening kan binnen enkele minuten na een ongeval of brand plaatsvinden.</title>
           <description>&lt;p&gt;&#160;(269)&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2432">
@@ -1377,7 +1377,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6053" type="risk">
           <title>De bedrijfshulpverleners zijn onder alle omstandigheden bereik/inzetbaar om bedrijfshulpverlenings-taken te vervullen.</title>
           <description>&lt;p&gt;&#160;(270)&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2433">
@@ -1389,7 +1389,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6054" type="risk">
           <title>Indien veiligheid van meerdere bedrijven in het geding is, wordt samengewerkt tussen de verschillende bedrijfshulpverleners.</title>
           <description>&lt;p&gt;Indien de veiligheid of de gezondheid van andere werknemers in de nabije omgeving (bijvoorbeeld van het bedrijf naast uw bedrijf) kunnen worden bedreigd, maakt u afspraken met de betrokken werkgevers zodat de betrokken bedrijfshulpverleners bij een ongeval of brand over en weer bijstand kunnen verlenen. (271)&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2434">
@@ -1401,25 +1401,25 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6055" type="risk">
           <title>Als werkgevers de bedrijfshulpverlening gezamenlijk organiseren worden de afspraken schriftelijk vastgelegd.</title>
           <description>&lt;p&gt;Als werkgevers de bedrijfshulpverlening gezamenlijk organiseren worden de afspraken schriftelijk vastgelegd. (274)&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6056" type="risk">
           <title>Er zijn voldoende eenvoudige instructies opgehangen voor de werknemers over wat te doen bij ongeval of brand.</title>
           <description>&lt;p&gt;Er zijn voldoende eenvoudige instructies opgehangen voor de werknemers over wat te doen bij ongeval of brand. (275)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6057" type="risk">
           <title>De bedrijfshulpverleners zijn zodanig opgeleid, dat de bedrijfshulpverlening is gewaarborgd.</title>
           <description>&lt;p&gt;De bedrijfshulpverleners zijn zodanig opgeleid, dat de bedrijfshulpverlening is gewaarborgd. (Een BHV-opleiding bestaat uit een deel eerste hulp en een deel brandbestrijding. Een EHBO-diploma geeft veelal vrijstelling voor het deel eerste hulp). (385)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6058" type="risk">
           <title>Bedrijfshulpverleners houden hun kennis en vaardigheden op peil middels herhalingscursussen en oefeningen.</title>
           <description>&lt;p&gt;Bedrijfshulpverleners houden hun kennis en vaardigheden op peil door regelmatig aan herhalingscursussen en oefeningen deel te nemen. (276)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
       </module>
@@ -1429,7 +1429,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6059" type="risk">
           <title>Verbandtrommel is duidelijk zichtbaar op ooghoogte bevestigd of via signalering te vinden.</title>
           <description>&lt;p&gt;&#160;(280)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2435">
@@ -1441,7 +1441,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6060" type="risk">
           <title>De verbandtrommel voldoet aan de gestelde eisen.</title>
           <description>&lt;p&gt;De verbandtrommel bevat ten minste:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. 1 reddingsdeken&lt;/li&gt;&lt;li&gt;b. 1 assortiment wondpleister (minimaal 15 strips)&lt;/li&gt;&lt;li&gt;c. 1 strip wondpleister, 1 m x 6 cm&lt;/li&gt;&lt;li&gt;d. 2 driekanten doeken&lt;/li&gt;&lt;li&gt;e. 2 ideaalzwachtels, 5 m x 6 cm&lt;/li&gt;&lt;li&gt;f. 1 ideaalzwachtel, 5 m x 8 cm&lt;/li&gt;&lt;li&gt;g. 1 rol kleefpleister, 2,5 cm&lt;/li&gt;&lt;li&gt;h. 1 flesje desinfectans&lt;/li&gt;&lt;li&gt;i. 3 paar handschoenen&lt;/li&gt;&lt;li&gt;j. 1 splinterpincet&lt;/li&gt;&lt;li&gt;k. 10 kompressen, ten minste 5 x 5 cm&lt;/li&gt;&lt;li&gt;l. 5 kompressen, 10 x 10 cm&lt;/li&gt;&lt;li&gt;m. 3 kompressen niet verklevend,ten minste 7,5 x 7,5 cm&lt;/li&gt;&lt;li&gt;n. 1 stroomdiagram&lt;/li&gt;&lt;li&gt;o. 1 verbandschaar&lt;/li&gt;&lt;li&gt;p. 3 wondsnelverband 6 x 8 cm&lt;/li&gt;&lt;li&gt;q. 1 beademingsmasker of gelaatsdoekjes&lt;/li&gt;&lt;li&gt;r. 2 elastische hydrofiel windsels 6 cm&lt;/li&gt;&lt;li&gt;s. 2 elastische hydrofiel windsels 8 cm&lt;/li&gt;&lt;li&gt;t. 1 inhoudsopgave&lt;/li&gt;&lt;li&gt;u. 2 snelverbanden no. 1 of M&lt;/li&gt;&lt;li&gt;v. 2 snelverbanden no. 2 of G&lt;/li&gt;&lt;li&gt;w. 2 rollen synthetische watten&lt;/li&gt;&lt;li&gt;x. 6 veiligheidsspelden&lt;/li&gt;&lt;li&gt;y. 6 elastische verbandklemmetjes(334)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2436">
@@ -1453,7 +1453,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6061" type="risk">
           <title>De verbandtrommel wordt -zonodig- aangevuld, afhankelijk van de risico's in het bedrijf.</title>
           <description>&lt;p&gt;&#160;(386)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2437">
@@ -1465,7 +1465,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6062" type="risk">
           <title>De inhoud van de verbandtrommel wordt halfjaarlijks&#160; gecontroleerd.</title>
           <description>&lt;p&gt;Controleer de inhoud van de verbandtrommel regelmatig, ten minste eenmaal per half jaar. Vul verbruikte middelen zo spoedig mogelijk aan en let op houdbaarheid. (281)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2438">
@@ -1477,19 +1477,19 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6063" type="risk">
           <title>In uw bedrijf is duidelijk hoe in het algemeen gehandeld moet worden bij eerste hulp.</title>
           <description>&lt;p&gt;Eerste hulp, algemeen:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. waarschuw de bedrijfshulpverlener&lt;/li&gt;&lt;li&gt;b. bel 112 bij een ernstig ongeval&lt;/li&gt;&lt;li&gt;c. blijf bij het slachtoffer totdat deskundige hulp aanwezig is&lt;/li&gt;&lt;li&gt;d. vervoer/verplaats het slachtoffer alleen bij gevaar&lt;/li&gt;&lt;li&gt;e. vertel de arts over de verleende hulp&lt;/li&gt;&lt;li&gt;f. geef de arts de verpakking of het veiligheidsinformatieblad van de stof waarmee het slachtoffer in aanraking is gekomen(284)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6064" type="risk">
           <title>In uw bedrijf is duidelijk hoe eerste hulp verleend moet worden bij oogletsel (veroorzaakt door chemische stoffen).</title>
           <description>&lt;p&gt;Eerste hulp bij oogletsel veroorzaakt door chemische stoffen:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. probeer eventuele contactlenzen te verwijderen&lt;/li&gt;&lt;li&gt;b. spoel het oog met de beschikbare oogspoelvoorziening (geen fles)&lt;/li&gt;&lt;li&gt;c. spoel minstens 15 minutend. til daarbij de oogleden beurtelings op&lt;/li&gt;&lt;li&gt;e. spoel ook de oogleden en wimpers&lt;/li&gt;&lt;li&gt;f. niet in het oog wrijveng. dek zo nodig het oog af met een steriel gaasjeh. raadpleeg een arts(286)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6065" type="risk">
           <title>In uw bedrijf is duidelijk hoe eerste hulp verleend moet worden bij snij- of schaafwonden.</title>
           <description>&lt;p&gt;Eerste hulp bij snij- of schaafwonden:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. handschoen verwijderen (indien van toepassing)&lt;/li&gt;&lt;li&gt;b. een kleine wond eerst kort laten doorbloeden (vuil eruit)&lt;/li&gt;&lt;li&gt;c. wond grondig uitspoelen met stromend water&lt;/li&gt;&lt;li&gt;d. wond droog deppen&lt;/li&gt;&lt;li&gt;e. wond desinfecteren&lt;/li&gt;&lt;li&gt;f. wond afplakken met pleister of steriel gaas&lt;/li&gt;&lt;li&gt;g. nieuwe handschoenen aandoen (indien van toepassing)&lt;/li&gt;&lt;li&gt;h. diepe wonden laten hechteni. reinig en desinfecteer instrument waarmee wond is veroorzaakt(1527)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
       </module>
@@ -1499,13 +1499,13 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6066" type="risk">
           <title>Er is een draagbaar brandblusmiddel aanwezig.</title>
           <description></description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6067" type="risk">
           <title>Draagbare brandblusmiddelenzijn goed aangegeven, geschikt voor de omgeving, direct bruikbaar enafgestemd op vloeroppervlakte.</title>
           <description>&lt;p&gt;Draagbare brandblusmiddelen:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. zijn geschikt voor de omgeving.-poederblussers: groot blusvermogen, gevolgschade op machines en computers.-CO2-blussers: geschikt in omgeving met elektrische apparatuur en computers, niet op personen richten.-sproeischuimblussers: geschikt voor vloeistof brand (keuken) en vaste stof (papier, hout, textiel)&lt;/li&gt;&lt;li&gt;b. In een gebouw moet per 200 m2 (vloer)oppervlakte ten minste 1 draagbaar blustoestel aanwezig zijn. Het minimum aantal per vloer (begane grond/verdiepingsvloer) is 2 stuks. Bij verdiepingen met een vloeroppervlakte van minder dan 200 m2 kunt u met 1 blustoestel per verdieping volstaan. Hetzelfde geldt voor vrijstaande gebouwen met een vloeroppervlakte kleiner dan 50 m2 en die uitsluitend in gebruik zijn als kantoor, kantine, en dergelijke.&lt;/li&gt;&lt;li&gt;c. loopafstand maximaal 30 m. (15 m. bij brandbare stoffen)&lt;/li&gt;&lt;li&gt;d. zijn goed bereikbaar (ook voor klanten) en direct te gebruikene. zijn goed aangegeven door een bord of een rode veiligheidskleur(3565)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2439">
@@ -1517,13 +1517,13 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6068" type="risk">
           <title>Een in het bedrijf aanwezig brandblusmiddel is ook toegankelijk en zichtbaar voor klanten.</title>
           <description>&lt;p&gt;&#160;(1133)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6069" type="risk">
           <title>Gedrapeerde doeken, gordijnen, kerstversiering en ander decoratiemateriaal zijn ge&#239;mpregneerd met een brandvertragend middel.</title>
           <description>&lt;p&gt;&#160;(2860)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2440">
@@ -1535,7 +1535,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6070" type="risk">
           <title>Aan de plaatselijke brandweer is advies gevraagd over brandpreventie in het bedrijf.</title>
           <description>&lt;p&gt;&#160;(305)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2441">
@@ -1547,7 +1547,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6071" type="risk">
           <title>Brandveilige materialen en constructies zijn toegepast.</title>
           <description>&lt;p&gt;&#160;(306)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2442">
@@ -1563,19 +1563,19 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6072" type="risk">
           <title>Elke werkplek is veilig en via de kortst mogelijke weg te verlaten.</title>
           <description>&lt;p&gt;Elke werkplek is veilig en via de kortst mogelijke weg te verlaten (niet noodzakelijkerwijs via de nooduitgang). (996)&#160;&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6073" type="risk">
           <title>In uw bedrijf zijn voldoende nooduitgangen (minimaal 2).</title>
           <description>&lt;p&gt;Aantal, plaats en afmetingen van vluchtwegen en nooduitgangen zijn afhankelijk van het gebruik, de uitrusting en de afmetingen van de arbeidsplaatsen en het maximum aantal personen en andere aanwezige personen. (997)&#160;&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6074" type="risk">
           <title>De nooduitgangen voldoen aan de gestelde eisen in het Arbeidsomstandighedenbesluit.</title>
           <description>&lt;p&gt;Nooduitgangen:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. kunnen altijd worden geopend&lt;/li&gt;&lt;li&gt;b. zijn eenvoudig van binnenuit naar buiten toe te openen&lt;/li&gt;&lt;li&gt;c. zijn aangegeven met veiligheidssignalering&lt;/li&gt;&lt;li&gt;d. zijn, indien ze slecht zichtbaar zijn, voorzien van noodverlichting&lt;/li&gt;&lt;li&gt;e. zijn vrij van obstakels (zoals kasten, garderobe, apperatuur)&lt;/li&gt;&lt;li&gt;f. zijn geen schuif- of draaideuren(2776)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2443">
@@ -1587,49 +1587,49 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6075" type="risk">
           <title>Reddings/hulpmiddelen zijn duidelijk aangegeven.</title>
           <description>&lt;p&gt;De signalering met betrekking tot de lokalisatie en de identificatie van reddings- of hulpmiddelen gebeurt permanent door borden. (278)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6076" type="risk">
           <title>Werkplekken in uw bedrijf zijn voorzien van noodverlichting (als er bij lichtuitval gevaar bestaat).</title>
           <description>&lt;p&gt;Arbeidsplaatsen waar werknemers bij het uitvallen van het kunstlicht aan bijzondere gevaren zijn blootgesteld, zijn voorzien van adequate noodverlichting. Indien noodverlichting niet mogelijk is, beschikken de werknemers over individuele verlichting. (999)&#160;&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6077" type="risk">
           <title>Verlichtingssterkte van noodverlichting is 1 lux op vloerhoogte en is toereikend om door te werken.</title>
           <description>&lt;p&gt;De verlichtingssterkte van de noodverlichting op arbeidsplaatsen en vluchtwegen is minimaal 1 lux op vloerhoogte vanaf 15 seconden na het uitvallen van de normale elektriciteit tot 1 uur daarna. Indien bij uitval van de normale verlichting werkzaamheden moeten worden verricht (of dringende handelingen bij calamiteiten), dan levert de noodverlichting zoveel licht dat deze werkzaamheden zonder bezwaar kunnen worden uitgevoerd. In ruimtes zonder daglichttoetreding is altijd noodverlichting aanwezig, indien zich in deze ruimtes personen kunnen ophouden. (1000)&#160;&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6078" type="risk">
           <title>Onder bepaalde eisen kunnen ramen als noodverlichting dienen (in relatief kleine ruimten).</title>
           <description>&lt;p&gt;In relatief kleine ruimtes kunnen ramen als noodverlichting dienen, als men zich bij het uitvallen van de normale verlichting zodanig kan ori&#235;nteren dat de ruimte veilig en snel kan worden verlaten, als de werktijden in principe altijd overdag zijn. (315)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6079" type="risk">
           <title>Vanuit de werkruimte leiden 2 onafhankelijke vluchtroutes naar een veilige plaats.</title>
           <description>&lt;p&gt;Vanaf verdiepingen (of vanuit kelders) zal vaak een tweede vluchtweg (bijvoorbeeld via een raam of een plat dak) nodig zijn, tenzij het slechts een enkelvoudige ruimte betreft (bijvoorbeeld een zolder) waarin een gering aantal mensen aanwezig is en geen sprake is van verhoogd brand- en explosiegevaar. (308)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6080" type="risk">
           <title>De nooduitgangen zijn afgestemd op mindervalide werknemers en op derden.</title>
           <description>&lt;p&gt;Nooduitgangen zijn afgestemd op mindervalide werknemers en op derden (bezoekers, leveranciers en klanten). (309)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6081" type="risk">
           <title>Het trappenhuis dat als vluchtroute dient voldoet aan de gestelde eisen.</title>
           <description>&lt;p&gt;Trappenhuis dat als vluchtroute dient, moet brand- en rookwerend gescheiden zijn van de rest van het gebouw en de deuren van dat trappenhuis zijn zelfsluitend. (319)&#160;&#160;&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6082" type="risk">
           <title>Bij de bedrijfslift staat aangegeven dat deze niet als nooduitgang mag worden gebruikt.</title>
           <description>&lt;p&gt;&#160;(317)&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2444">
@@ -1641,7 +1641,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6083" type="risk">
           <title>De vluchtroutes zijn in tegenovergestelde richting aangebracht.</title>
           <description>&lt;p&gt;(321)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2445">
@@ -1657,7 +1657,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6084" type="risk">
           <title>De arbeid(splaats) wordt zodanig georganiseerd, dat fysieke belasting geen gevaren oplevert voor&#160; veiligheid/gezondheid van werknemers.</title>
           <description>&lt;p&gt;De arbeid wordt zodanig georganiseerd, de arbeidsplaats wordt zodanig ingericht, een zodanige werkmethode wordt toegepast of zodanige hulpmiddelen en persoonlijke beschermingsmiddelen worden gebruikt, dat de fysieke belasting geen gevaren met zich kan brengen voor de veiligheid en de gezondheid van de werknemers. (325)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2446">
@@ -1669,7 +1669,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6085" type="risk">
           <title>Bewegende delen van een arbeidsmiddel zijn afgeschermd of beveiligd.</title>
           <description>&lt;p&gt;Bewegende delen van een arbeidsmiddel die gevaar opleveren zijn afgeschermd of beveiligd. Beveiliging is zo aangebracht dat onderhoud en reparatie veilig kan worden uitgevoerd, waarbij verwijdering van de schermen of beveiliging zoveel mogelijk wordt voorkomen. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Beveiliging kan niet op eenvoudige wijze worden genegeerd of buiten werking worden gesteld, is op voldoende afstand van de gevaarlijke zone van het arbeidsmiddel aangebracht en beperkt het zicht op het arbeidsmiddel zo weinig mogelijk. (1017)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-2447">
@@ -1681,7 +1681,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6086" type="risk">
           <title>Arbeidsmiddel is veilig stop te zetten, waarbij de energietoevoer wordt onderbroken.</title>
           <description>&lt;p&gt;Arbeidsmiddel is veilig te stoppen, waarbij de energietoevoer wordt onderbroken. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Arbeidsmiddel beschikt over een noodstopvoorziening, indien dit met het oog op de gevaren van het arbeidsmiddel en de normale tijd die nodig is om dat arbeidsmiddel stop te zetten noodzakelijk is. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Signalering van gevaarlijke gebeurtenissen gebeurt door middel van een lichtsignaal, een akoestisch signaal of een mondelinge mededeling. Noodstopschakelaar is niet van toepassing op transportmiddelen. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Bediening van de noodstopschakelaar moet door &#233;&#233;n handeling plaatsvinden. Na bediening moet de noodstopschakelaar in de uitgeschakelde stand blijven staan. Het opheffen van de uitschakeling mag niet in &#233;&#233;n handeling het uitgeschakelde deel van de installatie weer inschakelen. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Hiervoor moeten twee handelingen worden verricht: opheffen nooduitschakeling en inschakelen installatie. Noodstopschakelaar moet in rood zijn uitgevoerd en van een gele achtergrond zijn voorzien. Noodstopschakelaar moet zo worden geplaatst dat toevallige bediening wordt voorkomen. (1027)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-2448">
@@ -1693,7 +1693,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6087" type="risk">
           <title>De werkplek is ergonomisch verantwoord ingericht.</title>
           <description>&lt;p&gt;Zorg voor ergonomisch verantwoorde werkplek:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. werkplek is aangepast aan de lichaamsmaten&lt;/li&gt;&lt;li&gt;b. er is voldoende bewegingsruimte&lt;/li&gt;&lt;li&gt;c. materialen zijn binnen handbereik (552)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2449">
@@ -1705,7 +1705,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6088" type="risk">
           <title>Bij zittend werk wordt een goede werkstoel gebruikt en een goede werkhouding aangenomen.</title>
           <description>&lt;p&gt;&#160;(446)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2450">
@@ -1717,7 +1717,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6089" type="risk">
           <title>Losse sieraden worden niet gedragen bij het werken met arbeidsmiddelen.</title>
           <description>&lt;p&gt;&#160;(549)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2451">
@@ -1729,7 +1729,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6090" type="risk">
           <title>Arbeidsmiddelen worden na gebruik schoon en droog opgeruimd.</title>
           <description>&lt;p&gt;&#160;(588)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2452">
@@ -1741,7 +1741,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6091" type="risk">
           <title>Struikelgevaar over snoeren wordt voorkomen.</title>
           <description>&lt;p&gt;&#160;(589)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2453">
@@ -1758,7 +1758,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6093" type="risk">
           <title>De kijkafstand tot een beeldscherm is minimaal 50 cm.</title>
           <description>&lt;p&gt;&#160;(339)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2454">
@@ -1770,7 +1770,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6094" type="risk">
           <title>Bij beeldschermwerk wordt geprobeerd zoveel mogelijk bewegingsvariatie in de werkhouding in te bouwen.</title>
           <description>&lt;p&gt;&#160;(337)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2455">
@@ -1786,25 +1786,25 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6095" type="risk">
           <title>Elektrische installaties zijn veilig ontworpen, ingericht, aangelegd en onderhouden.</title>
           <description>&lt;p&gt;Elektrische installaties zijn zodanig ontworpen, ingericht, aangelegd, onderhouden en gekenmerkt, dat een veilig gebruik van elektriciteit zo goed mogelijk is gewaarborgd. Hiertoe zijn onder meer begrepen beveiligings-, meet-, controle-, signaleringstoestellen, aarders, schakelaars, scheiders en contactdozen. In een elektrische installatie zijn doeltreffende maatregelen genomen tegen het gevaar van brand, ontploffing, directe en indirecte aanraking en te dichte nadering. Van iedere elektrische installatie, niet bestemd voor laagspanning van beperkte omvang, zijn duidelijke, steeds bijgewerkte schema's beschikbaar en alle overige gegevens die nodig zijn voor een veilig gebruik van de elektrische installatie. (263)&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6096" type="risk">
           <title>Werkzaamheden aan of in nabijheid van een elektrische installatie worden uitgevoerd door een erkend installateur.</title>
           <description>&lt;p&gt;&#160;(256)&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6097" type="risk">
           <title>Eisen elektriciteitskasten:a. afgeslotenb. ruimte v&#243;&#243;r kast 2 m hoog en 0,7 m breed</title>
           <description>&lt;p&gt;Eisen elektriciteitskasten:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. direct aanraakbare spanningvoerende delen zijn afgeschermd&lt;/li&gt;&lt;li&gt;b. over de gehele lengte moet een vrije ruimte van 2 m en 0,7 m breed zijn (345)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6098" type="risk">
           <title>Er zijn voldoende (toekomstig benodigde) wandcontactdozen aangebracht.</title>
           <description>&lt;p&gt;Om overmatig gebruik van verlengleidingen te voorkomen moet voor een veilig gebruik van verplaatsbare elektrische toestellen of materiaal voor voldoende doeltreffend geplaatste wandcontactdozen worden gezorgd. (344)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2456">
@@ -1816,7 +1816,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6099" type="risk">
           <title>Kabels en leidingen voldoen aan de gestelde eisen.</title>
           <description>&lt;p&gt;Kabels en leidingen moeten deugdelijk zijn bevestigd of ondersteund. Kabels moeten deugdelijk ingevoerd worden. Isolatie van kabels dient in goede staat te verkeren. Kabels moeten vrij zijn van krachten.&#160; (348)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2457">
@@ -1828,7 +1828,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6100" type="risk">
           <title>Gekeurde verlengsnoeren worden op de juiste manier gebruikt.</title>
           <description>&lt;p&gt;Gebruikt men gekeurde verlengsnoeren dan moeten deze uitgevoerd zijn met een beschermleiding (randaarde). Gebruikt men een kabelhaspel dan moet deze afgerold zijn hoe klein het stroomverbruik ook is. Reparatie door middel van tape is niet toegestaan. Bij beschadiging is alleen inkorten toegestaan. (355)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2458">
@@ -1840,7 +1840,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6101" type="risk">
           <title>Er wordt rekening gehouden met energiebesparing.</title>
           <description>&lt;p&gt;&#160;(360)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2459">
@@ -1852,7 +1852,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6102" type="risk">
           <title>Er wordt rekening met het gevaar van vocht bij het werken met elektriciteit.</title>
           <description>&lt;p&gt;&#160;(555)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2460">
@@ -1868,7 +1868,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6103" type="risk">
           <title>Er wordt een adembeschermingsmiddel gebruikt wanneer bronafzuiging onvoldoende bescherming biedt.</title>
           <description>&lt;p&gt;Het adembeschermingsmiddel zorgt ervoor te dat de lucht die men inademt geen te hoge concentraties van gevaarlijke stoffen bevat. (369)&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2461">
@@ -1880,7 +1880,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6104" type="risk">
           <title>Er wordt gelet op het type masker, het te gebruiken filter en op het draagcomfort.</title>
           <description>&lt;p&gt;&#160;(370)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2462">
@@ -1896,7 +1896,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6105" type="risk">
           <title>Bij gevaar voor veiligheid/gezondheid, zijn persoonlijke beschermingsmiddelen beschikbaar en wordt toegezien op het gebruik.</title>
           <description>&lt;p&gt;(50)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-2463">
@@ -1908,7 +1908,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6106" type="risk">
           <title>Er wordt gewerkt volgens de gebruiksaanwijzing bij persoonlijke beschermingsmiddelen.</title>
           <description>&lt;p&gt;Werknemer krijgt (voor gebruik) instructie over nut en gebruik van het persoonlijk beschermingsmiddel. (388)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-2464">
@@ -1920,7 +1920,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6107" type="risk">
           <title>Er wordt instructie over persoonlijke beschermingsmiddelengegeven.</title>
           <description>&lt;p&gt;Geef instructie over persoonlijke beschermingsmiddelen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;a. wanneer en hoe te gebruiken&lt;/li&gt;&lt;li&gt;b. wanneer uitgereikt&lt;/li&gt;&lt;li&gt;c. hoe lang te gebruiken&lt;/li&gt;&lt;li&gt;d. hoe te handelen bij vervanging&lt;/li&gt;&lt;li&gt;e. wijze van onderhoudf. controle op gebruik (392)&#160;&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-2465">
@@ -1932,7 +1932,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6108" type="risk">
           <title>Een persoonlijk beschermingsmiddel sluit altijd goed aan en is persoonsgebonden.</title>
           <description>&lt;p&gt;&#160;(391)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-2466">
@@ -1944,7 +1944,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6109" type="risk">
           <title>Afhankelijk van de risico's die zich voordoen, worden persoonlijke beschermingsmiddelen gebruikt en wordt erop toegezien.</title>
           <description>&lt;p&gt;&#160;(550)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-2467">
@@ -1956,7 +1956,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6110" type="risk">
           <title>Als persoonlijke beschermingsmiddelen niet goed passen of gedragen kunnen worden, wordt overlegd met de arbodienst.</title>
           <description>&lt;p&gt;&#160;(1004)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-2468">
@@ -1968,7 +1968,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6111" type="risk">
           <title>Medewerkers die weigeren de voorgeschreven persoonlijke beschermingsmiddelen te gebruiken, krijgen een schriftelijke waarschuwing.</title>
           <description>&lt;p&gt;Medewerkers die weigeren de voorgeschreven persoonlijke beschermingsmiddelen te gebruiken.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-2469">
@@ -1984,7 +1984,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6112" type="risk">
           <title>Werkruimten en de directe toegangen zijn tijdens aanwezigheid voldoende verlicht.</title>
           <description>&lt;p&gt;&#160;(393)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2470">
@@ -1996,7 +1996,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6113" type="risk">
           <title>De kleur van verlichting be&#239;nvloedt of wijzigt de waarneming van de veiligheids- en gezondheidssignalering&#160; niet.</title>
           <description>&lt;p&gt;&#160;(395)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2471">
@@ -2008,7 +2008,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6114" type="risk">
           <title>Het gezamenlijk oppervlak van de lichtopeningen bedraagt ten minste 1/20 van het vloeroppervlak van die ruimte.</title>
           <description>&lt;p&gt;In een uitwendige scheidingsconstructie (= buitenmuur) van een besloten ruimte waar overdag door iemand gemiddeld meer dan 2 uur arbeid wordt verricht, zijn doorzichtige lichtopeningen (= ramen) aangebracht waardoor daglicht kan toetreden. Het gezamenlijk oppervlak van de lichtopeningen bedraagt ten minste 1/20 van het vloeroppervlak van die ruimte. (396)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2472">
@@ -2020,7 +2020,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6115" type="risk">
           <title>Rechtstreeks invallend zonlicht op de werkplek is (individueel) af te schermen.</title>
           <description>&lt;p&gt;&#160;(397)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2473">
@@ -2032,7 +2032,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6116" type="risk">
           <title>De terrein- of reclameverlichting schijnt niet hinderlijk bij omwonenden naar binnen.</title>
           <description>&lt;p&gt;&#160;(398)&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2474">
@@ -2044,7 +2044,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6117" type="risk">
           <title>De werkplek is direct verlicht om schaduw te voorkomen.</title>
           <description>&lt;p&gt;(3201)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2475">
@@ -2056,7 +2056,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6118" type="risk">
           <title>In gangen, trappenhuizen, kantine, was- en kleedruimte en toiletten kan voldoende dag- of kunstlicht toetreden.</title>
           <description>&lt;p&gt;(404)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2476">
@@ -2068,7 +2068,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6119" type="risk">
           <title>Er is uitzicht naar buiten.</title>
           <description>&lt;p&gt;&#160;(405)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2477">
@@ -2084,7 +2084,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6120" type="risk">
           <title>Het klimaat op de arbeidsplaats veroorzaakt geen schade aan de gezondheid van de werknemers.</title>
           <description>&lt;p&gt;Het klimaat op de arbeidsplaats veroorzaakt geen schade aan de gezondheid van de werknemers. Het klimaat op de arbeidsplaats is behaaglijk en gelijkmatig, rekening houden met de fysieke belasting en de temperatuur. Hinderlijke tocht wordt vermeden (het klimaat in de bedrijfsruimte is afhankelijk van de luchttemperatuur, de luchtvochtigheid, de luchtsnelheid en de stralingstemperatuur). (406)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2478">
@@ -2096,19 +2096,19 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6121" type="risk">
           <title>De relatieve luchtvochtigheid ligt tussen de 50 en 60%.</title>
           <description>&lt;p&gt;De relatieve luchtvochtigheid ligt bij voorkeur tussen de 50 en 60%. (409)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6122" type="risk">
           <title>Er is een minimale luchtverversing van 30 m3/uur per persoon voor kantoorruimtes.</title>
           <description>&lt;p&gt;Voor kantoorruimtes geldt een minimale luchtverversing van 30 m3/uur per persoon. (411)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-6123" type="risk">
           <title>Voor overige ruimtes is er een minimale luchtverversing van 25 m3/uur (p.p.).</title>
           <description>&lt;p&gt;Voor overige ruimtes waarin lichte arbeid wordt verricht geldt een minimale luchtverversing van 25 m3/uur&#160; per persoon. (411)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
       </module>
@@ -2118,7 +2118,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6124" type="risk">
           <title>De verwarmings- en stookinstallaties zijn zo afgesteld dat een optimale verbranding plaatsvindt.</title>
           <description>&lt;p&gt;&#160;(412)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2479">
@@ -2130,7 +2130,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6125" type="risk">
           <title>De verschillende temperatuurgrenzen worden in de verschillende ruimten inachtgenomen.</title>
           <description>&lt;p&gt;De geldende temperatuurgrenzen zijn:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. werkplaats 18-24 &#176;C&lt;/li&gt;&lt;li&gt;b. opslagruimtes en bunkers 16-25 &#176;C&lt;/li&gt;&lt;li&gt;c. kantoor en winkel 19-25 &#176;C (3624)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2480">
@@ -2142,7 +2142,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6126" type="risk">
           <title>&#201;r is g&#233;&#233;n warmtebron dichtbij de werkplek geplaatst.</title>
           <description>&lt;p&gt;(413)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2481">
@@ -2154,7 +2154,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6127" type="risk">
           <title>Er is g&#233;&#233;n warmtebron in de directe omgeving van een thermostaat geplaatst.</title>
           <description>&lt;p&gt;&#160;(414)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2482">
@@ -2170,13 +2170,13 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6128" type="risk">
           <title>Op de arbeidsplaats wordt het geluidsniveau beoordeeld en gemeten.</title>
           <description>&lt;p&gt;Op elke arbeidsplaats (= het bedrijf en op locatie) wordt in het kader van de risico-inventarisatie en -evaluatie het geluidsniveau beoordeeld en, indien nodig, gemeten om te bepalen waar en in welke mate werknemers aan schadelijk geluid kunnen worden blootgesteld (geluidsmeting en gebruik van gehoorbescherming bij het werken aan arbeidsmiddelen is nodig, als bij het spreken op 1 meter afstand stemverheffing nodig is; dit kunt u zelf testen). (415)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-6129" type="risk">
           <title>De geluidsbelasting wordt zoveel mogelijk teruggebracht.</title>
           <description>&lt;p&gt;Voor het terugbrengen van geluidsbelasting is de volgorde van de te nemen maatregelen bij voorkeur:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. de geluidsbronnen te verminderen&lt;/li&gt;&lt;li&gt;b. aanschaf van geluidsarme apparatuur of door het aanbrengen van geluidsisolatie&lt;/li&gt;&lt;li&gt;c. geluidsbelastende werkzaamheden uit te voeren in een afgesloten werkplek&lt;/li&gt;&lt;li&gt;d. gehoorbescherming te gebruiken (1483)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-2483">
@@ -2192,7 +2192,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6130" type="risk">
           <title>De arbeid is zodanig georganiseerd dat fysieke belasting geen gevaren met zich meebrengt voor medewerkers.</title>
           <description>&lt;p&gt;&#160;(290)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2484">
@@ -2204,7 +2204,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6131" type="risk">
           <title>Er wordt regelmatig van houding veranderd.</title>
           <description>&lt;p&gt;&#160;(418)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2485">
@@ -2216,7 +2216,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6132" type="risk">
           <title>De werkplek (werkhoogte) is zoveel mogelijk op de werknemer afgestemd.</title>
           <description>&lt;p&gt;&#160;(557)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2486">
@@ -2228,7 +2228,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6133" type="risk">
           <title>Er wordt in een actieve houding (met rechte rug) gewerkt.</title>
           <description>&lt;p&gt;&#160;(419)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2487">
@@ -2240,7 +2240,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6134" type="risk">
           <title>Een gedraaide en gebogen werkhouding wordt voorkomen.</title>
           <description>&lt;p&gt;&#160;(420)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2488">
@@ -2252,7 +2252,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6135" type="risk">
           <title>Er wordt dicht bij het lichaam gewerkt.</title>
           <description>&lt;p&gt;Dicht bij het lichaam werken houdt in:a. 20-30 cm onder ooghoogteb. 0-15 cm boven ellebooghoogte (421)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2489">
@@ -2264,7 +2264,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6136" type="risk">
           <title>Er worden tijdens het werk goed passende schoenen (met een dichte neus) gedragen.</title>
           <description>&lt;p&gt;&#160;(752)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2490">
@@ -2280,7 +2280,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6137" type="risk">
           <title>Zitgelegenheid (sta-steun) staat ter beschikking aan werknemers die staand werk verrichten en die incidenteel kunnen zitten.</title>
           <description>&lt;p&gt;&#160;(424)&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2491">
@@ -2292,7 +2292,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6138" type="risk">
           <title>Plaatsgebonden staand werk wordt beperkt tot maximaal 1 uur aaneengesloten.</title>
           <description>&lt;p&gt;&#160;(560)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2492">
@@ -2304,7 +2304,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6139" type="risk">
           <title>Er is gezorgd voor afwisseling tussen statische en dynamische belasting.</title>
           <description>&lt;p&gt;Statische belasting is bijvoorbeeld staan en dynamische belasting is bijvoorbeeld lopen. (425)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2493">
@@ -2316,7 +2316,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6140" type="risk">
           <title>De werkplek is (indien nodig) op hoogte instelbaar.</title>
           <description>&lt;p&gt;Wanneer werknemers van verschillende lengtes gebruik maken van dezelfde werkplek, is deze op hoogte instelbaar. (426)&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
       </module>
@@ -2326,7 +2326,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6141" type="risk">
           <title>Boven de tilnorm worden technische (til)hulpmiddelen toegepast of er wordt getild met meerdere personen.</title>
           <description>&lt;p&gt;Tilnorm:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. 25 kg voor mannen&lt;/li&gt;&lt;li&gt;b. 18 kg voor vrouwen&lt;/li&gt;&lt;li&gt;c. 15 kg voor jongeren tot 18 jaar&lt;/li&gt;&lt;li&gt;d. 10 kg voor zwangere vrouwen (561)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2494">
@@ -2338,7 +2338,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6142" type="risk">
           <title>Er wordt getild volgens de til-instructie.</title>
           <description>&lt;p&gt;Tilinstructie:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. plaats de benen in spreidstand&lt;/li&gt;&lt;li&gt;b. buig de knie&#235;n&lt;/li&gt;&lt;li&gt;c. houd de last zo dicht mogelijk bij het lichaam&lt;/li&gt;&lt;li&gt;d. rechte rug (voorkom buigen en draaien)&lt;/li&gt;&lt;li&gt;e. til rustig&lt;/li&gt;&lt;li&gt;f. til met 2 handen (432)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2495">
@@ -2350,7 +2350,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6143" type="risk">
           <title>Veel tillen wordt afgewisseld met andere taken.</title>
           <description>&lt;p&gt;&#160;(440)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2496">
@@ -2366,7 +2366,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6144" type="risk">
           <title>De inrichting, werkmethoden en hulpmiddelen zijn zoveel mogelijk aan de werknemer aangepast.</title>
           <description>&lt;p&gt;&#160;(126)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2497">
@@ -2378,7 +2378,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6145" type="risk">
           <title>Bij het toewijzen van taken wordt rekening gehouden met een goed arbeidsklimaat.</title>
           <description>&lt;p&gt;Bij de samenstelling en toewijzing van de onderscheiden taken moet rekening gehouden worden met de persoonlijke eigenschappen van de werknemer met betrekking tot leeftijd, geslacht, lichamelijke en geestelijke gesteldheid, ervaring, vakmanschap en kennis van de voertaal; als dit aanleiding geeft, moet op de bevordering van de veiligheid en de bescherming van de gezondheid van de werknemers speciaal toezicht worden uitgeoefend, dan wel moeten andere doelmatige voorzieningen worden getroffen. (443)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2498">
@@ -2390,7 +2390,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6146" type="risk">
           <title>Het werk draagt zoveel mogelijk bij aan de vakbekwaamheid van de werknemer.</title>
           <description>&lt;p&gt;De arbeid moet zoveel mogelijk bijdragen tot de vakbekwaamheid van de werknemer. De werkgever moet het werk van de werknemer zoveel mogelijk zo inrichten dat de werknemer voldoende mogelijkheden heeft om zijn werk volgens eigen inzicht, zoals dat mede bepaald wordt door zijn vakbekwaamheid, te verrichten, contact met andere werknemers te onderhouden en zich op de hoogte te stellen van het doel en het resultaat van zijn arbeid en de eisen die daaraan worden gesteld. (444)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2499">
@@ -2402,7 +2402,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6147" type="risk">
           <title>Medewerkers zijn beschermd tegen (seksuele) intimidatie en tegen agressie en geweld.</title>
           <description>&lt;p&gt;&#160;(2778)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2500">
@@ -2414,7 +2414,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6148" type="risk">
           <title>Er zijn maatregelen getroffen zodat werknemers geen&#160; hinder van roken door anderen ondervinden.</title>
           <description>&lt;p&gt;Tref maatregelen zodat werknemers werkzaamheden kunnen verrichten zonder dat zij daarbij hinder of overlast van roken door anderen ondervinden.Bied werknemers rookvrije ruimten. Werkplek, toiletten, gangen en pauzeruimtes dienen rookvrij te zijn. (771)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2501">
@@ -2426,7 +2426,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6149" type="risk">
           <title>Er is gezorgd voor voldoende rust. Te lange werktijden worden voorkomen.</title>
           <description>&lt;p&gt;Zorg voor voldoende rust. Voorkom te lange werktijden. Werknemers (niet-jeugdigen) die meer dan 5,5 uur per dag werken, mogen maximaal 4,5 uur achtereen werken. Na 4,5 uur dient een pauze van 0,5 uur ingelast te worden. Extra pauzes zijn nodig als er sprake is van de volgende situaties:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. eenzijdige bewegingspatronen die in een snel opgelegd tempo worden herhaald&lt;/li&gt;&lt;li&gt;b. werken in te hoge of te lage temperaturen&lt;/li&gt;&lt;li&gt;c. weinig of geen variatie in werkhoudingen&lt;/li&gt;&lt;li&gt;d. langer dan 2 uur achter elkaar beeldschermwerk&lt;/li&gt;&lt;li&gt;e. gevaarlijke instrumenten (vooral bij vermoeidheid)(448)&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2502">
@@ -2438,7 +2438,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6150" type="risk">
           <title>Er is een procedure voor het opnemen van verlof opgesteld.</title>
           <description>&lt;p&gt;&#160;(292)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2503">
@@ -2454,7 +2454,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6151" type="risk">
           <title>De kassa-opbrengst wordt meerdere keren per dag verwerkt om de buit voor overvallers te verkleinen.</title>
           <description>&lt;p&gt;&#160;(2779)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2504">
@@ -2466,7 +2466,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6152" type="risk">
           <title>Er zijn procedures, instructies en trainingen voorhanden op het gebied van veiligheid, criminaliteit/overvallen, agressiviteit.</title>
           <description>&lt;p&gt;Van belang zijn:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;a. een goede houding kan ongewenst gedrag van bezoekers voorkomen&lt;/li&gt;&lt;li&gt;b. een goede overzichtelijkheid van de winkel&lt;/li&gt;&lt;li&gt;c. het voorkomen van onveilige situaties tijdens openen en sluiten&lt;/li&gt;&lt;li&gt;d. een veilig geldtransport&lt;/li&gt;&lt;li&gt;e. beschrijf in procedures wat van medewerkers verwacht wordt bij een overval. Wie neemt de kassa over als ergens in de winkel opschudding ontstaat? Wie spreekt de agressieve klant aan? Naar welke ruimte wordt hij gebracht? Wie belt de politie?&lt;/li&gt;&lt;li&gt;f.&#160; toch een overval? Bedenk dan: RAAK.Rustig blijven,Aanvaard bevelen (volg ze op), Afgeven van geld&#160; (waar om gevraagd wordt),Kijk goed en probeer een signalement op te nemen voor de politie (2780)&#160;&lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2505">
@@ -2478,13 +2478,13 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6153" type="risk">
           <title>Na een overval is bekend wat gedaan moet worden en waar op gelet moet worden.</title>
           <description>&lt;p&gt;Na een overval:-kijk hoe ze wegkomen (evt. vervoermiddel)-nergens aankomen in verband met sporen-bel 112-sluit deuren en ramen, laat niemand toe-noteer gegevens getuigen-houd telefoon vrij-zorg voor opvang slachtoffers-geef medewerkers gelegenheid voor traumabehandeling bij een gespecialiseerd bedrijf. (2799)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6154" type="risk">
           <title>Bij een overval wordt gelegenheid gegeven voor traumabehandeling door een gespecialiseerd bedrijf.</title>
           <description>&lt;p&gt;&#160;(3625)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2506">
@@ -2504,7 +2504,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6155" type="risk">
           <title>Bij bloed, pus, wondvocht of ander mogelijk besmet materiaal wordt gereinigd en gedesinfecteerd.</title>
           <description>&lt;p&gt;Beperk desinfectie tot situaties waar reiniging alleen het besmettingsniveau onvoldoende reduceert, bijvoorbeeld bij bloed, pus, wondvocht of ander mogelijk besmet materiaal. (452)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2507">
@@ -2516,7 +2516,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6156" type="risk">
           <title>Een wondje wordt afgedekt af met een waterafstotende pleister, ook wanneer handschoenen worden gedragen.</title>
           <description>&lt;p&gt;(463)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2508">
@@ -2532,7 +2532,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6157" type="risk">
           <title>De handen worden met water en zeep gereinigd en grondig afgespoeld onder stromend water.</title>
           <description>&lt;p&gt;(1172)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2509">
@@ -2548,7 +2548,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6158" type="risk">
           <title>Ruimte is ordelijk en wordt regelmatig schoongemaakt.</title>
           <description>&lt;p&gt;&#160;(479)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2510">
@@ -2568,7 +2568,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6159" type="risk">
           <title>Gevaarlijke afvalstoffen worden van elkaar en van andere afvalstoffen gescheiden gehouden.</title>
           <description>&lt;p&gt;Gevaarlijke afvalstoffen die behoren tot verschillende categorie&#235;n worden van elkaar en van andere afvalstoffen gescheiden, gescheiden gehouden en gescheiden afgegeven. (495)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2511">
@@ -2580,7 +2580,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6160" type="risk">
           <title>Gevaarlijke afvalstoffen worden opgeslagen in de originele lege verpakking voorzien van een oranje sticker "AFVAL".</title>
           <description>&lt;p&gt;&#160;(497)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2512">
@@ -2600,7 +2600,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6161" type="risk">
           <title>Handboeken of andere technische informatie zijn beschikbaar en toegankelijk van versnellingsnaven die gerepareerd/onderhouden worden.</title>
           <description>&lt;p&gt;&#160;(3660)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2513">
@@ -2616,13 +2616,13 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6162" type="risk">
           <title>Drukke en gevaarlijke verkeerssituaties worden vermeden tijdens proefritten.</title>
           <description></description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
         <risk external-id="R-6163" type="risk">
           <title>Bij proefritten wordt een helm gedragen.</title>
           <description></description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
       </module>
@@ -2632,7 +2632,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6164" type="risk">
           <title>Tijdens openingstijden vindt er geen intern transport plaats van grote hoeveelheden geld.</title>
           <description>&lt;p&gt;Tijdens openingstijden vindt er geen intern transport plaats van grote hoeveelheden geld.(3205)&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
       </module>
@@ -2642,7 +2642,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6165" type="risk">
           <title>Een vloeistofdichte vloer wordt regelmatig gecontroleerd op lekkages en vloeistofdichtheid.</title>
           <description>&lt;p&gt;&#160;(533)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2514">
@@ -2658,7 +2658,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6166" type="risk">
           <title>De stook- of verwarmingsinstallatie en het verbrandingsgasafvoersysteem wordt 1x per jaar gecontroleerd.</title>
           <description>&lt;p&gt;&#160;(534)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2515">
@@ -2674,7 +2674,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6167" type="risk">
           <title>Brandblusmiddelen worden ten minste 1x per jaar gecontroleerd door een REOB erkende instantie.</title>
           <description>&lt;p&gt;Brandblusmiddelen worden ten minste 1x per jaar (en na ieder gebruik) gecontroleerd door een instantie die is erkend op basis van de Regeling voor de erkenning van onderhoudsbedrijven kleine blusmiddelen (REOB), of een ten minste gelijkwaardige instelling. (298)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2516">
@@ -2690,7 +2690,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6168" type="risk">
           <title>Arbeidsmiddelen worden toereikend en regelmatig onderhouden ter voorkoming van gevaar.</title>
           <description>&lt;p&gt;De nodige maatregelen worden genomen om ervoor te zorgen dat de arbeidsmiddelen tijdens de gehele gebruiksduur door toereikend onderhoud in een zodanige staat worden gehouden, dat gevaar voor de veiligheid en gezondheid van werknemers zoveel mogelijk is voorkomen. (523)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2517">
@@ -2702,7 +2702,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6169" type="risk">
           <title>Onderhoud-, reparatie- en reiniging worden slechts uitgevoerd wanneer het arbeidsmiddel is uitgeschakeld.</title>
           <description>&lt;p&gt;Onderhoud-, reparatie- en reinigingwerkzaamheden aan een arbeidsmiddel worden slechts uitgevoerd wanneer het arbeidsmiddel is uitgeschakeld en drukloos of spanningsloos is gemaakt. Indien dit niet mogelijk is, worden doeltreffende maatregelen genomen om die werkzaamheden veilig te kunnen uitvoeren. (259)&#160;&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2518">
@@ -2714,7 +2714,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6170" type="risk">
           <title>Een bij een arbeidsmiddel behorend onderhoudsboek (indien voorgeschreven) wordt goed bijgehouden.</title>
           <description>&lt;p&gt;Registreer gebruik, hoe, door wie en welke waarnemingen geconstateerd zijn. (524)&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2519">
@@ -2726,13 +2726,13 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6171" type="risk">
           <title>Gereedschap wordt periodiek gereinigd.</title>
           <description>&lt;p&gt;&#160;(3675)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6172" type="risk">
           <title>Arbeidsmiddelen worden gecontroleerd voor gebruik en (indien verplicht) minimaal 1x per jaar deskundig gekeurd.</title>
           <description>&lt;p&gt;&#160;(526)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-2520">
@@ -2744,7 +2744,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6173" type="risk">
           <title>Er worden afspraken gemaakt over het gebruik en onderhoud van handgereedschap.</title>
           <description>&lt;p&gt;&#160;(3676)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2521">
@@ -2760,7 +2760,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6174" type="risk">
           <title>Persoonlijke beschermingsmiddelen worden onderhouden, gerepareerd, schoon gehouden en zijn goed passend. Indien nodig vervangen.</title>
           <description>&lt;p&gt;Persoonlijke beschermingsmiddelen worden onderhouden, gerepareerd, schoon gehouden en zijn goed passend. Voorts worden de noodzakelijke vervangingen voor het goed functioneren gedaan. (532)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
         </risk>
       </module>
@@ -2770,7 +2770,7 @@ grLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmgrLmg7LmAA==
         <risk external-id="R-6175" type="risk">
           <title>Contracten, certificaten en veiligheidsinformatiebladen worden ten minste 5 jaar bewaard.</title>
           <description>&lt;p&gt;De volgende documenten (of een kopie) worden ten minste vijf jaar in het bedrijf bewaard:a. onderhoudscontractenb. certificaten van tanks, filters, enzc. certificaten van periodiek onderhoudd. certificaten keuringene. overzichten energiebedrijff. veiligheidsinformatiebladeng. afgiftebewijzen afvalstoffen (535)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-2522">

@@ -403,13 +403,13 @@ uL6c/93n2f//////////////////////////////////////////////////////////////////
         <risk external-id="R-8038" type="risk">
           <title>Tijdens behandeling met apparatuur zijn er voldoende mogelijkheden om regelmatig van houding te wisselen.</title>
           <description>&lt;p&gt;Langdurig in dezelfde houding werken kan op termijn aanleiding geven tot allerlei lichamelijke klachten.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Naast het kunnen wisselen van houding, speelt ook het doen een rol.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="medium" default-frequency="almost-never" default-effect="significant">calculated</evaluation-method>
         </risk>
         <risk external-id="R-8047" type="risk">
           <title>Het aanbrengen van apparatuur kan in een ongedwongen houding worden gedaan.</title>
           <description>&lt;p&gt;Als dagelijks, &#233;&#233;n of meerdere malen, dag in dag uit, week in week uit, jaar in jaar uit, in gedwongen houdingen gewerkt moet worden, kan dit tot gezondheidsklachten leiden.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="medium" default-frequency="regular" default-effect="significant">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3553">
@@ -425,32 +425,32 @@ uL6c/93n2f//////////////////////////////////////////////////////////////////
         <risk external-id="R-8086" type="top5">
           <title>De behandelkamer is groot genoeg om op een plezierige manier te werken.</title>
           <description>&lt;p&gt;De behandelkamer moet zo groot zijn dat de werkzaamheden met voldoende bewegingsruimte uitgevoerd kunnen worden. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Er mag dus geen sprake zijn van regelmatig stoten aan bijv. meubilair of het aannemen van gedwongen houdingen vanwege een te beperkte bewegingsvrijheid.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
         </risk>
         <risk external-id="R-8040" type="risk">
           <title>Elektrische medische apparatuur voldoet aan de eisen uit NEN 10601.</title>
           <description>&lt;p&gt;De eisen voor elektrische apparatuur die gebruikt worden voor medische doeleinden zijn vastgelegd in de verschillende NEN-EN-IEC &amp;#13;
 60601 normen.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Voorkomen moet worden dat cli&#235;nten of bedieners ongewenst worden blootgesteld aan elektrische stroom of schokken.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="high">calculated</evaluation-method>
         </risk>
         <risk external-id="R-8041" type="risk">
           <title>Alle apparatuur wordt regelmatig onderhouden en zo nodig gekeurd.</title>
           <description>&lt;p&gt;Omdat apparatuur aan slijtage onderhevig is en niet alleen bij aanschaf aan de eisen moet voldoen, is het zinvol om apparatuur regelmatig te onderhouden en te controleren.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Afhankelijk van de aanwezige en vereiste deskundigheid mag dit door het bedrijf zelf worden gedaan.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="high">calculated</evaluation-method>
         </risk>
         <risk external-id="R-8042" type="risk">
           <title>Bij de toepassing van behandelingen met apparatuur die straling produceert (bijv. laser, UV, ultrageluid) wordt de fysiotherapeut niet blootgesteld aan de (schadelijke) stralen en indien noodzakelijk gebruikt hij/zij de juiste bescherming (bijv. laserbril).</title>
           <description>&lt;p&gt;Afhankelijk van de intensiteit van de straling en de blootstellingduur kunnen de verschillende vormen van straling gezondheidsschade veroorzaken.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Om dit tegen te gaan zal blootstelling moeten worden voorkomen of moeten passende beschermende maatregelen worden genomen.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="regular" default-effect="high">calculated</evaluation-method>
         </risk>
         <risk external-id="R-8043" type="policy">
           <title>Iedereen die met apparatuur werkt die straling produceert, weet hoe met de apparatuur moet worden omgegaan.</title>
           <description>&lt;p&gt;Het hebben van apparatuur waarmee veilig gewerkt kan worden is stap 1.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Het op de juiste manier toepassen van de apparatuur, zodat in de praktijk ook veilig wordt gewerkt is stap 2.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Zorg daarom voor duidelijke werkinstructies.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-3550">
@@ -462,7 +462,7 @@ uL6c/93n2f//////////////////////////////////////////////////////////////////
         <risk external-id="R-8045" type="risk">
           <title>De bewegende delen van apparatuur zijn goed afgeschermd.</title>
           <description>&lt;p&gt;Bewegende delen moeten zijn afgeschermd om het knellen of pletten van vingers en andere lichaamsdelen of&#160; het in het apparaat trekken van loshangende kledingstukken (bijv. shawls of stropdassen) of haren te voorkomen.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="medium" default-frequency="regular" default-effect="significant">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3551">
@@ -478,7 +478,7 @@ uL6c/93n2f//////////////////////////////////////////////////////////////////
         <risk external-id="R-8046" type="risk">
           <title>Onderhoud aan apparatuur wordt alleen uitgevoerd als het apparaat is uitgeschakeld en van de stroom is gehaald.</title>
           <description>&lt;p&gt;Veel ongevallen met apparatuur vinden plaats tijdens het onderhoud. Vaak is de reden dat de apparatuur al dan niet gewild wordt ingeschakeld.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="high">calculated</evaluation-method>
         </risk>
         <risk external-id="R-8048" type="risk">
@@ -490,13 +490,13 @@ die iemand levert. &lt;/p&gt;&lt;p&gt;&amp;#13;
 &lt;/p&gt;&lt;p class="MsoNormal"&gt;Bij zittend werk wordt 23 - 26 &#186;C in de zomermaanden en 21 -&amp;#13;
 24 &#186;C in de wintermaanden als behaaglijk beschouwd. Als veel wordt bewogen zal&amp;#13;
 een behaaglijke temperatuur een paar graden lager liggen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="regular" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-8049" type="risk">
           <title>De behandelkamers zijn goed verlicht.</title>
           <description>&lt;p&gt;De verlichting moet zo zijn dat het werk goed gedaan kan worden. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Bij te weinig verlichting treedt eerder vermoeidheid op.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Houd rekening met ouderen. Zij hebben meestal meer licht nodig om het goed te kunnen zien.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="constant" default-effect="weak">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3555">
@@ -515,14 +515,14 @@ een behaaglijke temperatuur een paar graden lager liggen.&lt;/p&gt;</description
           <description>&lt;p class="MsoNormal"&gt;Langdurig in dezelfde houding werken kan op termijn&amp;#13;
 aanleiding geven tot allerlei lichamelijke klachten.&lt;br/&gt;&amp;#13;
 Naast het kunnen wisselen van houding, speelt ook het doen een rol.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
         </risk>
         <risk external-id="R-8052" type="risk">
           <title>De fysiotherapeut kan tijdens de oefeningen gaan zitten.</title>
           <description>&lt;p&gt;Bij langdurig staand werk kan vermoeidheid in benen en voeten, rug- en nekpijn optreden. Aangeraden wordt zoveel mogelijk te bewegen en geregeld van &amp;#13;
 houding te veranderen.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;De mogelijkheid om even te gaan zitten ontlast de benen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="medium" default-frequency="constant" default-effect="significant">calculated</evaluation-method>
         </risk>
         <risk external-id="R-8087" type="top5">
@@ -531,7 +531,7 @@ houding te veranderen.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;De mogelijkheid om even te g
 voldoende bewegingsruimte uitgevoerd kunnen worden. &lt;br/&gt;&amp;#13;
 Er mag dus geen sprake zijn van regelmatig stoten aan bijv. meubilair of het&amp;#13;
 aannemen van gedwongen houdingen vanwege een te beperkte bewegingsvrijheid.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
         </risk>
         <risk external-id="R-8053" type="risk">
@@ -540,7 +540,7 @@ aannemen van gedwongen houdingen vanwege een te beperkte bewegingsvrijheid.&lt;/
 pletten van vingers en andere lichaamsdelen of&#160; het in het apparaat&amp;#13;
 trekken van loshangende kledingstukken (bijv. shawls of stropdassen) of haren&amp;#13;
 te voorkomen. &lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="regular" default-effect="significant">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3556">
@@ -562,7 +562,7 @@ die iemand levert. &lt;/p&gt;&lt;p&gt;&amp;#13;
 &lt;/p&gt;&lt;p class="MsoNormal"&gt;Bij zittend werk wordt 23 - 26 &#186;C in de zomermaanden en 21 -&amp;#13;
 24 &#186;C in de wintermaanden als behaaglijk beschouwd. Als veel wordt bewogen zal&amp;#13;
 een behaaglijke temperatuur een paar graden lager liggen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-8055" type="risk">
@@ -572,7 +572,7 @@ worden. &lt;br/&gt;&amp;#13;
 Bij te weinig verlichting treedt eerder vermoeidheid op.&lt;br/&gt;&amp;#13;
 Houd rekening met ouderen. Zij hebben meestal meer licht nodig om het goed te&amp;#13;
 kunnen zien.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="regular" default-effect="weak">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3558">
@@ -589,7 +589,7 @@ kunnen zien.&lt;/p&gt;</description>
         <risk external-id="R-8057" type="top5">
           <title>Manuele handelingen kunnen worden afgewisseld met andere werkzaamheden.</title>
           <description>&lt;p&gt;Het uitvoeren van manuele handelingen is lichamelijk belastend werk. Voorkomen moet worden dat een fysiotherapeut (door bijv. specialisatie) alleen nog manuele handelingen uitvoert.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3562">
@@ -601,7 +601,7 @@ kunnen zien.&lt;/p&gt;</description>
         <risk external-id="R-8058" type="risk">
           <title>De behandeltafel is in hoogte verstelbaar.</title>
           <description>&lt;p&gt;Een tafel die niet op de juiste hoogte is ingesteld leidt er toe dat met geheven armen of in een gebogen houding wordt gewerkt.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Een instelbare behandeltafel heeft daarom de voorkeur.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="medium" default-frequency="regular" default-effect="significant">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3560">
@@ -616,7 +616,7 @@ kunnen zien.&lt;/p&gt;</description>
 voeten, rug- en nekpijn optreden. Aangeraden wordt zoveel mogelijk te bewegen&amp;#13;
 en geregeld van houding te veranderen.&lt;br/&gt;&amp;#13;
 De mogelijkheid om even te gaan zitten ontlast de benen.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="regular" default-effect="significant">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3561">
@@ -631,13 +631,13 @@ De mogelijkheid om even te gaan zitten ontlast de benen.&lt;/p&gt;</description>
 voldoende bewegingsruimte uitgevoerd kunnen worden. &lt;br/&gt;&amp;#13;
 Er mag dus geen sprake zijn van regelmatig stoten aan bijv. meubilair of het&amp;#13;
 aannemen van gedwongen houdingen vanwege een te beperkte bewegingsvrijheid.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
         </risk>
         <risk external-id="R-8063" type="risk">
           <title>Indien noodzakelijke wordt de juiste persoonlijke bescherming gedragen, zoals handschoenen en mondkapjes.</title>
           <description>&lt;p&gt;Bij sommige behandelingen kan het noodzakelijk zijn om handschoenen of mondkapjes te dragen om de overdracht bacteri&#235;n, virussen en schimmels tegen te gaan.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Persoonlijke beschermingsmiddelen moeten in ruime mate voorradig zijn en gratis door de werkgever ter beschikking worden gesteld.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="high">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3563">
@@ -659,7 +659,7 @@ die iemand levert. &lt;/p&gt;&lt;p&gt;&amp;#13;
 &lt;/p&gt;&lt;p class="MsoNormal"&gt;Bij zittend werk wordt 23 - 26 &#186;C in de zomermaanden en 21 -&amp;#13;
 24 &#186;C in de wintermaanden als behaaglijk beschouwd. Als veel wordt bewogen zal&amp;#13;
 een behaaglijke temperatuur een paar graden lager liggen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-8061" type="risk">
@@ -669,7 +669,7 @@ gedaan kan worden. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;&amp;#13;
 Bij te weinig verlichting treedt eerder vermoeidheid op.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&amp;#13;
 Houd rekening met ouderen. Zij hebben meestal meer licht nodig om het goed te&amp;#13;
 kunnen zien.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="regular" default-effect="weak">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3559">
@@ -694,13 +694,13 @@ kunnen zien.&lt;/p&gt;</description>
 voeten, rug- en nekpijn optreden. Aangeraden wordt zoveel mogelijk te bewegen&amp;#13;
 en geregeld van houding te veranderen.&lt;br/&gt;&amp;#13;
 De mogelijkheid om even te gaan zitten ontlast de benen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="regular" default-effect="high">calculated</evaluation-method>
         </risk>
         <risk external-id="R-8065" type="risk">
           <title>Groepsoefeningen kunnen afgewisseld worden met andere werkzaamheden.</title>
           <description>&lt;p&gt;Zorg vol voldoende afwisseling in de werkzaamheden om eenzijdige belasting te voorkomen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="regular" default-effect="significant">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3565">
@@ -715,7 +715,7 @@ De mogelijkheid om even te gaan zitten ontlast de benen.&lt;/p&gt;</description>
 voldoende bewegingsruimte uitgevoerd kunnen worden. &lt;br/&gt;&amp;#13;
 Er mag dus geen sprake zijn van regelmatig stoten aan bijv. meubilair of het&amp;#13;
 aannemen van gedwongen houdingen vanwege een te beperkte bewegingsvrijheid.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
         </risk>
         <risk external-id="R-8066" type="risk">
@@ -724,7 +724,7 @@ aannemen van gedwongen houdingen vanwege een te beperkte bewegingsvrijheid.&lt;/
 pletten van vingers en andere lichaamsdelen of&#160; het in het apparaat&amp;#13;
 trekken van loshangende kledingstukken (bijv. shawls of stropdassen) of haren&amp;#13;
 te voorkomen. &lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="regular" default-effect="high">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3566">
@@ -746,7 +746,7 @@ die iemand levert. &lt;/p&gt;&lt;p&gt;&amp;#13;
 &lt;/p&gt;&lt;p class="MsoNormal"&gt;Bij zittend werk wordt 23 - 26 &#186;C in de zomermaanden en 21 -&amp;#13;
 24 &#186;C in de wintermaanden als behaaglijk beschouwd. Als veel wordt bewogen zal&amp;#13;
 een behaaglijke temperatuur een paar graden lager liggen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="regular" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-8085" type="risk">
@@ -756,7 +756,7 @@ gedaan kan worden. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;&amp;#13;
 Bij te weinig verlichting treedt eerder vermoeidheid op.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&amp;#13;
 Houd rekening met ouderen. Zij hebben meestal meer licht nodig om het goed te&amp;#13;
 kunnen zien.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3569">
@@ -773,7 +773,7 @@ kunnen zien.&lt;/p&gt;</description>
         <risk external-id="R-8091" type="risk">
           <title>Het geven van groepsinstructies wordt afgewisseld met andere werkzaamheden.</title>
           <description>&lt;p&gt;Zorg vol voldoende afwisseling in de werkzaamheden om eenzijdige belasting te voorkomen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="regular" default-effect="significant">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3570">
@@ -788,7 +788,7 @@ kunnen zien.&lt;/p&gt;</description>
 voldoende bewegingsruimte uitgevoerd kunnen worden. &lt;br/&gt;&amp;#13;
 Er mag dus geen sprake zijn van regelmatig stoten aan bijv. meubilair of het&amp;#13;
 aannemen van gedwongen houdingen vanwege een te beperkte bewegingsvrijheid.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="regular" default-effect="significant">calculated</evaluation-method>
         </risk>
         <risk external-id="R-8093" type="risk">
@@ -801,7 +801,7 @@ wintermaanden als behaaglijk beschouwd. Als veel wordt bewogen zal een&amp;#13;
 behaaglijke temperatuur een paar graden lager liggen.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&amp;#13;
 Ventilatie zorgt ervoor dat warmte, stof, uitgeademde lucht, etc. afgevoerd&amp;#13;
 kunnen worden&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="regular" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-8094" type="risk">
@@ -811,7 +811,7 @@ gedaan kan worden. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;&amp;#13;
 Bij te weinig verlichting treedt eerder vermoeidheid op.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&amp;#13;
 Houd rekening met ouderen. Zij hebben meestal meer licht nodig om het goed te&amp;#13;
 kunnen zien.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3631">
@@ -835,14 +835,14 @@ kunnen zien.&lt;/p&gt;</description>
           <description>&lt;p class="MsoNormal"&gt;Langdurig in dezelfde houding werken kan op termijn&amp;#13;
 aanleiding geven tot allerlei lichamelijke klachten.&lt;br/&gt;&amp;#13;
 Naast het kunnen wisselen van houding, speelt ook het doen een rol.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
         </risk>
         <risk external-id="R-8097" type="risk">
           <title>De oefeningen aan huis worden afgewisseld met andere werkzaamheden.</title>
           <description>&lt;p class="MsoNormal"&gt;Zorg vol voldoende afwisseling in de werkzaamheden om&amp;#13;
 eenzijdige belasting te voorkomen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="regular" default-effect="weak">calculated</evaluation-method>
         </risk>
       </module>
@@ -854,13 +854,13 @@ eenzijdige belasting te voorkomen.&lt;/p&gt;</description>
           <title>Manuele handelingen aan huis worden afgewisseld met andere werkzaamheden.</title>
           <description>&lt;p class="MsoNormal"&gt;Zorg vol voldoende afwisseling in de werkzaamheden om&amp;#13;
 eenzijdige belasting te voorkomen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="medium" default-frequency="regular" default-effect="high">calculated</evaluation-method>
         </risk>
         <risk external-id="R-8100" type="risk">
           <title>Bij de behandeling aan huis kan gebruik gemaakt worden van eigen behandeltafels en/of stoelen.</title>
           <description></description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="regular" default-effect="significant">calculated</evaluation-method>
         </risk>
         <risk external-id="R-8101" type="risk">
@@ -868,7 +868,7 @@ eenzijdige belasting te voorkomen.&lt;/p&gt;</description>
           <description>&lt;p class="MsoNormal"&gt;Als dagelijks, &#233;&#233;n of meerdere malen, dag in dag uit, week&amp;#13;
 in week uit, jaar in jaar uit, in gedwongen houdingen gewerkt moet worden of te zwaar getild moet worden, kan&amp;#13;
 dit tot gezondheidsklachten leiden.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="significant">calculated</evaluation-method>
         </risk>
       </module>
@@ -884,7 +884,7 @@ dit tot gezondheidsklachten leiden.&lt;/p&gt;</description>
           <title>E&#233;n op &#233;&#233;n instructies worden afgewisseld met andere werkzaamheden.</title>
           <description>&lt;p class="MsoNormal"&gt;Zorg vol voldoende afwisseling in de werkzaamheden om&amp;#13;
 eenzijdige belasting te voorkomen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="regular" default-effect="high">calculated</evaluation-method>
         </risk>
         <risk external-id="R-8103" type="top5">
@@ -892,7 +892,7 @@ eenzijdige belasting te voorkomen.&lt;/p&gt;</description>
           <description>&lt;p class="MsoNormal"&gt;Langdurig in dezelfde houding werken kan op termijn&amp;#13;
 aanleiding geven tot allerlei lichamelijke klachten.&lt;br/&gt;&amp;#13;
 Naast het kunnen wisselen van houding, speelt ook het doen een rol.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="medium" default-frequency="regular" default-effect="significant">calculated</evaluation-method>
         </risk>
         <risk external-id="R-8104" type="risk">
@@ -904,7 +904,7 @@ die iemand levert. &lt;/p&gt;&lt;p&gt;&amp;#13;
 &lt;/p&gt;&lt;p class="MsoNormal"&gt;Bij zittend werk wordt 23 - 26 &#186;C in de zomermaanden en 21 -&amp;#13;
 24 &#186;C in de wintermaanden als behaaglijk beschouwd. Als veel wordt bewogen zal&amp;#13;
 een behaaglijke temperatuur een paar graden lager liggen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         </risk>
         <risk external-id="R-8105" type="risk">
@@ -914,7 +914,7 @@ gedaan kan worden. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;&amp;#13;
 Bij te weinig verlichting treedt eerder vermoeidheid op.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&amp;#13;
 Houd rekening met ouderen. Zij hebben meestal meer licht nodig om het goed te&amp;#13;
 kunnen zien.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-3572">
@@ -934,7 +934,7 @@ kunnen zien.&lt;/p&gt;</description>
         <description>&lt;p&gt;Voor het voorkomen van eenzijdige lichamelijke belasting (RSI) is pauzeren een &amp;#13;
 mogelijkheid, maar afwisseling tussen verschillende taken, zoals &amp;#13;
 telefoneren of kopi&#235;ren is beter.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="regular" default-effect="significant">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3509">
@@ -948,7 +948,7 @@ telefoneren of kopi&#235;ren is beter.&lt;/p&gt;</description>
         <description>&lt;p&gt;Onbeschermde t.l.-buizen spiegelen altijd. Plaats beschermde t.l.-verlichting in &amp;#13;
 de lengterichting op het beeldscherm: er ontstaat als het ware een kruis tussen &amp;#13;
 verlichting en bureaulengte.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="regular" default-effect="weak">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3510">
@@ -965,7 +965,7 @@ verlichting en bureaulengte.&lt;/p&gt;</description>
         <title>Het beeldscherm staat haaks op het raam en zo mogelijk 1,5 meter van het raam af.</title>
         <description>&lt;p&gt;Dit heeft onder meer te maken met de spiegeling in het beeldscherm. Dat kost &amp;#13;
 extra inspanning.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3513">
@@ -981,7 +981,7 @@ extra inspanning.&lt;/p&gt;</description>
       <risk external-id="R-8002" type="risk">
         <title>Alle kantoorstoelen zijn instelbaar en de medewerkers weten hoe ze de stoelen moeten instellen.</title>
         <description>&lt;p&gt;De hoogte, het zitvlak en de rugleuning zijn instelbaar en de rugleuning heet een lendesteun. De armleuningen zijn instelbaar en hebben een korte armsteun.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Uiteraard moeten de medewerkers weten hoe zijn hun stoel goed in moeten en kunnen stellen.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="medium" default-frequency="constant" default-effect="significant">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3515">
@@ -1000,7 +1000,7 @@ extra inspanning.&lt;/p&gt;</description>
 omdat er meestal een beeldscherm en toetsenbord op staat en een beeldscherm moet &amp;#13;
 weer op 60 cm. afstand van een werknemer staan. In hoogte verstelbare tafels &amp;#13;
 zijn geschikt voor medewerkers met verschillende lengtes.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="constant" default-effect="significant">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3517">
@@ -1015,7 +1015,7 @@ zijn geschikt voor medewerkers met verschillende lengtes.&lt;/p&gt;</description
 tussen 5 en 11 cm.&lt;/li&gt;&lt;li&gt;De hellingshoek moet tussen 5 en 15 &#176; liggen of de hellingshoek moet &amp;#13;
 instelbaar zijn.&lt;/li&gt;&lt;li&gt;De verstellingen moeten eenvoudig kunnen worden uitgevoerd en goed gefixeerd &amp;#13;
 kunnen worden.&lt;/li&gt;&lt;li&gt;Het steunvlak moet slipvrij zijn uitgevoerd.&lt;/li&gt;&lt;/ul&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="medium" default-frequency="regular" default-effect="significant">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3518">
@@ -1028,7 +1028,7 @@ kunnen worden.&lt;/li&gt;&lt;li&gt;Het steunvlak moet slipvrij zijn uitgevoerd.&
         <title>Er is voldoende opbergruimte.</title>
         <description>&lt;p&gt;Bij voldoende opbergruimte hoeven de vloeren en bureaus niet gebruikt te worden &amp;#13;
 als (tijdelijke) opslag.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3519">
@@ -1044,7 +1044,7 @@ als (tijdelijke) opslag.&lt;/p&gt;</description>
       <risk external-id="R-8006" type="risk">
         <title>Alle snoeren en kabels zijn netjes weggewerkt.</title>
         <description>&lt;p&gt;Snoeren en kabels moeten netjes opgeborgen worden om het gevaar van struikelen en vallen te voorkomen.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Kluwen met snoeren en kabels zijn ook bron van stofnesten, etc. Bovendien kan in een kluwen van snoeren warmteontwikkeling ontstaan, waardoor brandgevaar ontstaat. (Vergelijk dit met een niet geheel afgrolde kabelhaspel.)&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="medium" default-frequency="regular" default-effect="high">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3521">
@@ -1056,7 +1056,7 @@ als (tijdelijke) opslag.&lt;/p&gt;</description>
       <risk external-id="R-8007" type="risk">
         <title>De temperatuur is goed te regelen.</title>
         <description>&lt;p&gt;Door een thermostaat en door het kunnen openen van ramen.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="weak">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3523">
@@ -1069,7 +1069,7 @@ als (tijdelijke) opslag.&lt;/p&gt;</description>
         <title>Indien noodzakelijk is goede zonwering aanwezig.</title>
         <description>&lt;p&gt;Bij ramen waar veel zon door schijnt is zonwering nodig. Dat voorkomt extra &amp;#13;
 opwarming van de ruimte, en spiegeling in beeldschermen.&lt;/p&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="regular" default-effect="weak">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3522">
@@ -1084,7 +1084,7 @@ opwarming van de ruimte, en spiegeling in beeldschermen.&lt;/p&gt;</description>
 beeldschermopstelling en een bergruimte onder de werktafel) moet een &amp;#13;
 werkoppervlakte van minimaal 7 m2 ter beschikking zijn. Extra meubilair vraagt &amp;#13;
 uiteraard om extra ruimte.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="regular" default-effect="weak">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3524">
@@ -1100,7 +1100,7 @@ werkruimte. Het liefst staan deze apparaten in een andere ruimte, met als &amp;#
 voordeel dat er voor printen en kopi&#235;ren gelopen moet worden. Dit lopen &amp;#13;
 onderbreekt het langdurig in dezelfde houding werken en zorgt voor een goede &amp;#13;
 doorbloeding van het lichaam.&lt;/p&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="constant" default-effect="weak">calculated</evaluation-method>
       </risk>
     </module>
@@ -1111,7 +1111,7 @@ doorbloeding van het lichaam.&lt;/p&gt;</description>
       <risk external-id="R-7987" type="risk">
         <title>De stoel aan de receptie voldoet aan de eisen.</title>
         <description>&lt;p&gt;Een balie/receptie medewerker die de gehele dag achter de balie zit, moet gebruik kunnen maken van een goede stoel.&lt;br/&gt;Een goede stoel voldoet aan de volgende eisen:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;De hoogte, het zitvlak en de rugleuning zijn instelbaar en de rugleuning heeft een lendensteun. &lt;/li&gt;&lt;li&gt;De armleuningen zijn instelbaar en hebben een korte armsteun.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Uiteraard moeten de medewerkers weten hoe zij hun stoel goed in moeten en kunnen stellen.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="large" default-frequency="regular" default-effect="significant">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3499">
@@ -1123,7 +1123,7 @@ doorbloeding van het lichaam.&lt;/p&gt;</description>
       <risk external-id="R-7988" type="risk">
         <title>De balie biedt voldoende werkruimte en onder de balie is voldoende beenruimte beschikbaar.</title>
         <description>&lt;ul&gt;&lt;li&gt;Het werkblad van de balie moet zo groot zijn dat alle middelen die de baliemedewerker nodig heeft er gemakkelijk op passen.&lt;/li&gt;&lt;li&gt;Er moet een vrije beenruimte zijn van 70 cm hoog en 60 cm diep en breed.&lt;/li&gt;&lt;li&gt;Het werkblad mag niet dikker zijn dan 5 cm.&lt;/li&gt;&lt;/ul&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="medium" default-frequency="regular" default-effect="significant">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3500">
@@ -1147,7 +1147,7 @@ doorbloeding van het lichaam.&lt;/p&gt;</description>
       <risk external-id="R-7989" type="risk">
         <title>De balie is zo opgesteld dat de baliemedewerkers en pati&#235;nten/cli&#235;nten elkaar op gelijke hoogte kunnen aankijken.</title>
         <description>&lt;p&gt;Hiermee wordt voorkomen dat de baliemedewerker het gevoel krijgt dat de bezoeker op hem/haar neerkijkt en op het werk kijkt.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Bovendien wordt hiermee voorkomen dat de baliemedewerker nekklachten ontwikkeld vanwege het voortdurend omhoog moeten kijken.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="regular" default-effect="significant">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3504">
@@ -1163,7 +1163,7 @@ doorbloeding van het lichaam.&lt;/p&gt;</description>
       <risk external-id="R-7991" type="risk">
         <title>Apparatuur en middelen die regelmatig worden gebruikt liggen binnen handbereik.</title>
         <description>&lt;p&gt;Hiermee wordt voorkomen dat de baliemedewerker telkens ver moet reiken of een draaiende beweging moet maken.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-3506">
@@ -1179,7 +1179,7 @@ doorbloeding van het lichaam.&lt;/p&gt;</description>
       <risk external-id="R-8009" type="policy">
         <title>De elektrische installatie voldoet aan de eisen.</title>
         <description>&lt;p&gt;Elektrische installaties in medische ruimten moeten voldoen aan NEN 3134. Deze norm kent een klasse-indeling. Afhankelijk van de werkzaamheden die worden gedaan zal de praktijk ruimte in een klasse ingedeeld worden. Voor fysiotherapiepraktijken zal dit meestal klasse S1 zijn.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-3525">
@@ -1192,7 +1192,7 @@ doorbloeding van het lichaam.&lt;/p&gt;</description>
         <title>De elektrische installatie wordt regelmatig door een deskundige ge&#239;nspecteerd.</title>
         <description>&lt;p&gt;Elektrische installaties moeten volgens NEN 3140 afhankelijk van het gebruik &amp;#13;
 regelmatig gekeurd worden (ongeveer 1 keer per 5 &#224; 6 jaar voor de doorsnee fysiotherapiepraktijk).&lt;/p&gt;&lt;br/&gt;&lt;p&gt;De deskundige mag een eigen werknemer zijn met voldoende kennis van elektriciteit (Het is de verantwoordelijkheid van de werkgever om dit te bepalen.) &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Voor de hand liggend is natuurlijk om hierover afspraken te maken met een installatiebedrijf. &lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-3526">
@@ -1208,7 +1208,7 @@ regelmatig gekeurd worden (ongeveer 1 keer per 5 &#224; 6 jaar voor de doorsnee 
       <risk external-id="R-8012" type="policy">
         <title>Vloeren, muren, plafonds, ramen en deuren zijn goed te onderhouden en veilig.</title>
         <description>&lt;p&gt;Schoonmakers moeten overal (al dan niet met hulpmiddelen zoals trappen) er gemakkelijk bij kunnen.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Ramen en deuren moeten gemakkelijk te openen en te sluiten zijn.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Glazen deuren en afscheidingen moeten duidelijk gemarkeerd zijn op ooghoogte, om te voorkomen dat iemand door of tegen het glas loopt.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-3529">
@@ -1221,7 +1221,7 @@ regelmatig gekeurd worden (ongeveer 1 keer per 5 &#224; 6 jaar voor de doorsnee 
         <title>Er wordt gewerkt en gepauzeerd op rookvrije (werk)plekken.</title>
         <description>&lt;p&gt;Per 1 januari 2004 moet elke medewerker op een rookvrije werkplek kunnen werken &amp;#13;
 en pauzeren.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-3528">
@@ -1233,7 +1233,7 @@ en pauzeren.&lt;/p&gt;</description>
       <risk external-id="R-8015" type="policy">
         <title>Er zijn voldoende toiletten en wasgelegenheden.</title>
         <description>&lt;p&gt;Er zijn toiletten aanwezig met in de buurt een wasbak voorzien van schone zeep en een schone handdoek.&lt;/p&gt;&lt;p&gt;Richtlijn voor de toiletten is:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&#177; 1 toilet per 15 medewerkers.&lt;/li&gt;&lt;li&gt;Als er meerdere toiletten zijn bij voorkeur gescheiden toiletten voor mannen en vrouwen.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Houd bij voorkeur personeel- en cli&#235;ntentoiletten gescheiden.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-8016" type="risk">
@@ -1243,7 +1243,7 @@ etc. (zoals legionella). Spoel stilstaande leidingen daarom regelmatig &amp;#13;
 (wekelijks) door en stel de boiler in op minimaal 60&#160;&#176;C.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Spoel leidingen waarvan het water lang heeft &amp;#13;
 stilgestaan eerst goed door, zonder dat er sprake is van verneveling. (Houd de &amp;#13;
 douchekop bijv. in emmer onder water.)&lt;/p&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="high">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3531">
@@ -1259,13 +1259,13 @@ douchekop bijv. in emmer onder water.)&lt;/p&gt;</description>
       <risk external-id="R-8017" type="policy">
         <title>Medewerkers kunnen zich (naar sekse gescheiden) omkleden in een aparte ruimte.</title>
         <description>&lt;p&gt;Een aparte ruimte kan ook inhouden dat gebruik gemaakt kan worden van bijv. de behandelkamer.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-8018" type="risk">
         <title>Werkruimten worden goed schoongemaakt.</title>
         <description>&lt;p&gt;Naast de irritatie die ontstaat doordat het smerig is, kunnen ook eerder klachten ontstaan.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Met name in de wintermaanden dwarrelt stof eerder op (door de droge lucht in de winter) en krijgen mensen last van bijv. hun ogen. Met name dragers van contactlenzen zijn hier erg gevoelig voor.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Bovendien kunnen stofnesten broedplaatsen zijn voor bacteri&#235;n en schimmels.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="almost-never" default-effect="significant">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3533">
@@ -1277,7 +1277,7 @@ douchekop bijv. in emmer onder water.)&lt;/p&gt;</description>
       <risk external-id="R-8019" type="risk">
         <title>Het is bekend hoe veilig en gezond met schoonmaak- en desinfectiemiddelen gewerkt moet worden.</title>
         <description>&lt;p&gt;Bij het werken met schoonmaak- en desinfectiemiddelen is het belangrijk om te weten of en zo ja, welk beschermingsmaatregelen genomen moeten worden. (bijv. dragen van handschoenen of niet mengen met zuren of basen). Deze informatie is te vinden in de zogenaamde veiligheidsinformatiebladen. De leverancier is verplicht om deze bladen bij de producten te leveren.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="small" default-frequency="regular" default-effect="high">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-3534">
@@ -1298,7 +1298,7 @@ douchekop bijv. in emmer onder water.)&lt;/p&gt;</description>
         <title>Verbandtrommels zijn aanwezig, zijn goed bereikbaar en worden regelmatig aangevuld.</title>
         <description>&lt;p&gt;Omdat ongevallen en ongelukken nooit helemaal te voorkomen zijn, is het ook &amp;#13;
 belangrijk dat u goed bent voorbereid voor als er iets gebeurt.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;De inhoud van de verbandtrommel moet afgestemd zijn op de risico's in het werk. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Gezien de risico's in het werk van een fysiotherapeut kan volstaan worden met een standaardverbanddoos.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Zie hiervoor de &lt;/p&gt;&lt;a href="http://www.ehbo.nl/BHVerbandsets.htm" rel="nofollow" target="_blank"&gt;website van het Oranje Kruis&lt;/a&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-3537">
@@ -1319,7 +1319,7 @@ minder dan 200 m2 kunt u met &#233;&#233;n blustoestel per verdieping volstaan. 
 over het soort blusmiddel kunt u het beste aan een deskundige overlaten. Maar veelal zal eenstandaard schuimblusser volstaan.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Omdat brandblussers een beperkte houdbaarheid hebben, is goed om ze regelmatig te laten controleren, zodat ze het doen op het moment dat het er op aan komt.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Nb. &amp;#13;
 Ook verzekeringsbedrijven of gemeenten kunnen specifieke eisen stellen aan het &amp;#13;
 aantal en soort blusmiddelen.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-3539">
@@ -1331,7 +1331,7 @@ aantal en soort blusmiddelen.&lt;/p&gt;</description>
       <risk external-id="R-8024" type="policy">
         <title>Bezoekers, pati&#235;nten en werkenden kunnen in geval van nood ongehinderd en snel het pand verlaten.</title>
         <description>&lt;p&gt;Niet alleen het personeel, maar ook (minder goed ter been zijnde) cli&#235;nten moeten snel het gebouw kunnen verlaten. Bij het opstellen van een ontruimingsplan zal hierover nagedacht moeten worden.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-3540">
@@ -1344,7 +1344,7 @@ aantal en soort blusmiddelen.&lt;/p&gt;</description>
         <title>Er zijn altijd voldoende en goed opgeleide bedrijfshulpverleners aanwezig.</title>
         <description>&lt;p&gt;In geval van nood moet (altijd) de juiste hulp kunnen worden verleend totdat de andere hulpverlenende instanties (bijv. ambulance of brandweer) de zorg over kunnen nemen.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Wijs dus minimaal 2 bedrijfshulpverleners aan.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Een BHV-er moet eerste hulp kunnen verlenen, een beginnende brand kunnen &amp;#13;
 bestrijden en een ontruiming kunnen begeleiden. &lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-3543">
@@ -1368,19 +1368,19 @@ bestrijden en een ontruiming kunnen begeleiden. &lt;/p&gt;</description>
       <risk external-id="R-8021" type="policy">
         <title>Het professioneel statuut wordt in de praktijk nageleefd.</title>
         <description>&lt;p&gt;Door het naleven van professioneel statuut wordt ook automatisch een aantal zaken op het&#160; terrein van de arbeidsomstandigheden goed geregeld.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Hierbij kan bijv. gedacht worden aan de taken en verantwoordelijkheden van de fysiotherapeut en de werkgever.&lt;/p&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-8025" type="policy">
         <title>Het personeel wordt periodiek op de hoogte gehouden van de resultaten van hun werk, de prestaties en de plannen van de praktijk.</title>
         <description>&lt;p&gt;Dit verhoogt niet alleen de betrokkenheid bij de praktijk, maar zorgt er ook voor dat officieuze verhalen geen eigen leven gaan leiden.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Zorg dat ook medewerkers die niet altijd aanwezig zijn of op nevenvestigingen werken over de juiste informatie beschikken.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-8026" type="policy">
         <title>Jaarlijks worden functionerings- en beoordelingsgesprekken gehouden.</title>
         <description>&lt;p&gt;Door het houden van functionerings- en beoordelingsgesprekken weet personeel wat er van hun verwacht wordt en waar ze op beoordeeld worden. &lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-3541">
@@ -1392,7 +1392,7 @@ bestrijden en een ontruiming kunnen begeleiden. &lt;/p&gt;</description>
       <risk external-id="R-8027" type="policy">
         <title>Tijdelijk en nieuw personeel wordt uitgebreid ingewerkt.</title>
         <description>&lt;p&gt;Tijdelijk en nieuw personeel is vaker het slachtoffer van ongevallen dan ervaren personeel.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Naast onervarenheid spelen vaak een slechte introductie en slechte instructies een rol.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Bedenk ook dat een slechte introductie niet alleen leidt tot meer ongevallen , maar ook tot een slechtere kwaliteit van het werk.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-3542">
@@ -1404,7 +1404,7 @@ bestrijden en een ontruiming kunnen begeleiden. &lt;/p&gt;</description>
       <risk external-id="R-8028" type="policy">
         <title>Bij het verdelen van taken wordt aandacht besteed aan kwetsbare groepen.</title>
         <description>&lt;p&gt;Onder kwetsbare groepen worden verstaan:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;zwangere vrouwen;&lt;/li&gt;&lt;li&gt;jongeren;&lt;/li&gt;&lt;li&gt;ouderen;&lt;/li&gt;&lt;li&gt;mensen die gangbare taal op de werkplek niet beheersen. (Dit kunnen allochtonen zijn, maar ook autochtonen uit een ander deel van het land.)&lt;/li&gt;&lt;/ul&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-8029" type="top5">
@@ -1414,13 +1414,13 @@ voorkomen, vormt dit vaak geen probleem en kunnen zij werknemers juist&amp;#13;
 stimuleren tot betere resultaten in hun werk. Als stress echter langdurig&amp;#13;
 bestaat kan dit leiden tot overspannenheid en oververmoeidheid. Stress is een&amp;#13;
 van de belangrijkste oorzaken van arbeidsongeschiktheid.&lt;br/&gt;Stress wordt niet alleen veroorzaakt door overbelasting, maar kan ook worden veroorzaakt door onderbelasting (te weinig werk).&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-8031" type="policy">
         <title>Er zijn duidelijke afspraken gemaakt over ongewenst gedrag en iedereen kent deze afspraken.</title>
         <description>&lt;p&gt;Ongewenst gedrag kan betrekking hebben op gedrag (bijv. seksuele intimidatie, discriminatie en agressie en geweld) tussen collega's onderling en gedrag tussen cli&#235;nten en personeel.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Ongewenst gedrag kan ook betrekking hebben op het gebruik van alcohol en drugs.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-3546">
@@ -1440,7 +1440,7 @@ van de belangrijkste oorzaken van arbeidsongeschiktheid.&lt;br/&gt;Stress wordt 
       <risk external-id="R-8032" type="policy">
         <title>Medewerkers ontvangen regelmatig voorlichting en instructie over het veilig en gezond uitvoeren van hun werk.</title>
         <description>&lt;p&gt;Medewerkers moeten voorlichting krijgen over de risico's van hun werk. Deze voorlichting moet regelmatig worden herhaald.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-3549">
@@ -1452,25 +1452,25 @@ van de belangrijkste oorzaken van arbeidsongeschiktheid.&lt;br/&gt;Stress wordt 
       <risk external-id="R-8033" type="policy">
         <title>Alle betrokkenen kunnen de risico-inventarisatie inzien.</title>
         <description>&lt;p&gt;In de wet is vastgelegd dat medewerkers en andere betrokkenen het recht hebben om de risico-inventarisatie en het plan van aanpak in te zien.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-8034" type="policy">
         <title>De leiding ziet toe op gezond en veilig werken en geeft zelf het goede voorbeeld.</title>
         <description>&lt;p&gt;Veilig en gezond werken is niet alleen de verantwoordelijkheid van een individuele medewerker. De leiding van het bedrijf moet er op toe zien dat dit ook daadwerkelijk wordt gedaan en indien nodig passende maatregelen nemen. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;(Informeren, voorlichten, waarschuwen, sanctioneren en uiteindelijk ontslag.)&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Om aan te tonen dat het serieus is zal de leiding zelf het goede voorbeeld moeten geven.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-8035" type="policy">
         <title>De praktijk voert een actief verzuimbeleid.</title>
         <description>&lt;p&gt;Een actief verzuimbeleid houdt niet alleen in dat er afspraken gemaakt zijn met een arbodienst of een geregistreerde bedrijfsarts, maar ook dat er bijv. afspraken zijn gemaakt over:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;wie en hoe contacten worden onderhouden met zieke werknemers;&lt;/li&gt;&lt;li&gt;dat er gekeken wordt naar de mogelijkheden voor vervangend werk;&lt;/li&gt;&lt;li&gt;dat er een verzuimoverzicht wordt bijgehouden en dat overzicht regelmatig ge&#235;valueerd wordt om te zien of er signalen uit naar voren komen waar iets mee gedaan moet worden.&lt;/li&gt;&lt;/ul&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-25498" type="policy">
         <title>De praktijk heeft &#233;&#233;n of meerdere preventiemedewerkers.</title>
         <description>&lt;p&gt;Elke praktijk moet &#233;&#233;n of meerdere preventiemedewerkers aanstellen. De preventiemedewerker is het aanspreekpunt voor zowel de werkgever als werknemers in het bedrijf.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Belangrijke taken van de preventiemedewerker zijn het organiseren 'arbobeleid' in de praktijk, meewerken aan de risico-inventarisatie, het voorlichten van werkgever en werknemer over arbeidsomstandigheden.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Tot 25 werknemers mag de werkgever zelf de preventiemedewerker zijn.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-8036" type="policy">
@@ -1478,13 +1478,13 @@ van de belangrijkste oorzaken van arbeidsongeschiktheid.&lt;br/&gt;Stress wordt 
         <description>&lt;p&gt;Het registreren van ongevallen en het bekijken van de oorzaken vormen de basis &amp;#13;
 voor het nemen van gerichte maatregelen om deze ongevallen in de toekomst te &amp;#13;
 voorkomen.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Het registreren van ongevallen is verplicht in het kader van de risico-inventarisatie. Omdat in de meeste fysiotherapiepraktijken geen of weinig ongevallen voorkomen is het aan te bevelen om ook de bijna ongevallen mee te nemen in het overzicht. Ook bijna ongevallen geven een beeld van de mogelijke risico's in een bedrijf en waar maatregelen genomen kunnen worden om ongevallen in de toekomst te voorkomen.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
       <risk external-id="R-8037" type="risk">
         <title>De werktijden zijn conform de afspraken in de CAO.</title>
         <description></description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
       </risk>
     </module>

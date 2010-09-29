@@ -89,7 +89,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>De elektrische-, gas- en watervoorzieningen zijn in orde en worden goed onderhouden.</title>
           <description>&lt;p&gt;Een tweetal artikelen van het Arbobesluit gaat over elektriciteit t.w.:-&#160;Artikel 3.4 dat het ontwerp, de inrichting, de aanleg en het onderhoud van elektrische installaties regelt en-&#160;Artikel 3.5 dat ingaat op elektrotechnische werkzaamheden en bedienings-werkzaamheden.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;De volgende twee normen worden genoemd:-&#160;&#160; NEN EN 50110-1:1998&#160;Bedrijfsvoering van Elektrische installaties. Algemene bepalingen; deze Europese norm geldt zowel voor hoog- en laagspanning.-&#160;&#160; NEN 3140:1998&#160;Bedrijfsvoering van Elektrische installaties. Aanvullende Nederlandse bepalingen.De bovengenoemde normen zijn door het NNI samengevoegd in een norm bundel &#8220;Bedrijfsvoering van elektrische installatie, laagspanning, oktober 1998&#8221;. In artikel 5.3.3.1 van deze norm is omschreven, dat elektrische installaties met passende regelmaat moeten worden ge&#239;nspecteerd. In artikel 5.33.102.1 is dit omschreven voor elektrische arbeidsmiddelen.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit/artikel 3.5Arbobesluit/artikel 3.4&#160;&lt;/h3&gt;&lt;p&gt;Elektrotechnische, bedienings- en andere werkzaamheden aan of nabij een elektrische installatie&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -102,7 +102,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Alle werkruimtes in het gebouw worden goed onderhouden en schoongemaakt.</title>
           <description>&lt;p&gt;Er zijn geen duidelijk aantoonbare gebreken aan de werkruimtes in het gebouw en er is voldoende aandacht voor periodiek onderhoud (kapotte lampen, lekkageplekken losse plafondplaten of kapotte sloten) en schoonmaak.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit/artikel 3.2.&#160;&lt;/h3&gt;&lt;p&gt;Algemene vereisten&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -119,14 +119,14 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Er zijn sanitaire voorzieningen aanwezig.</title>
           <description></description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit artikel 3.24&lt;/h3&gt;&lt;p&gt;Toiletten en wastafels&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-4" type="risk">
           <title>Het sanitair wordt regelmatig schoongemaakt en goed onderhouden.</title>
           <description></description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit artikel 3.24&lt;/h3&gt;&lt;p&gt;Toiletten en wastafels&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -143,13 +143,13 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Er is pauzeruimte aanwezig, met voldoende zitgelegenheid.</title>
           <description>&lt;p&gt;In het bedrijf of de winkel of in de directe nabijheid daarvan is een gemakkelijk toegankelijke ruimte&lt;/p&gt;&lt;br/&gt;&lt;p&gt;beschikbaar waar de werknemers de pauzes kunnen doorbrengen.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit artikel 3.20&lt;/h3&gt;&lt;p&gt;Ontspannings-ruimten&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-6" type="risk">
           <title>De werk- en pauzeruimten zijn rookvrij.</title>
           <description>&lt;p&gt;Deze norm is van toepassing op iedere werkpleksituatie (werkkamers, maar ook alle ruimten waar werknemers kunnen komen zoals trappen, hallen, gangen, liften, toiletten, wachtruimten, recreatieruimten, kantines en dergelijke) en geeft de werkgever de verantwoordelijkheid om de niet-rokers te beschermen tegen hinder en overlast van tabaksrook.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -166,7 +166,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Overal zijn de vloeren opgeruimd, egaal en stroef.</title>
           <description>&lt;p&gt;Het gaat om struikelen of uitglijden te voorkomen. In een kantoor mag vloerbedekking liggen, als het goed wordt schoongehouden. Trappen/leuningen: antislipstroken op de randen van de treden en een goede verlichting dragen bij tot de preventievan glij- en&lt;/p&gt;&lt;br/&gt;&lt;p&gt;struikelpartijen op trappen. Andere niveauveranderingen zoals draaiingen zijn vaak moeilijk tezien. Deze moeten goed zijn aangegeven. met een adequaat gebruik van&lt;/p&gt;&lt;br/&gt;&lt;p&gt;veiligheidssignalering.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Morsen: ruim gemorste producten onmiddellijk op volgens een daartoe geeigende schoonmaakmethode (chemische behandeling kan noodzakelijkzijn). &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Maak gebruik van waarschuwingssignalen waar de vloer nat is en zorg voor alternatieve doorgangsroutes. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Waardoor is het morsen ontstaan? &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Kan je de werkmethoden of werkplek aanpassen om dit tot een minimum te beperken?&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Versperringen: waar mogelijk moet je versperringen laten verwijderen ter preventie van struikelpartijen. Indien dit niet mogelijk&lt;/p&gt;&lt;br/&gt;&lt;p&gt;is maak dan gebruik van adequate afzettingen en/of waarschuwingsborden.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Losliggende kabels: plaats materieel zodanig dat de kabels geen doorgang doorkruizen.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit Artikel 3.11, lid 1 en 2&lt;/h3&gt;&lt;p&gt;Vloeren, muren en plafonds van arbeidsplaatsen&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -179,7 +179,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Op plaatsen waar gewerkt wordt is goede verlichting aanwezig.</title>
           <description>&lt;p&gt;Arbeidsplaatsen en verbindingswegen zijn zodanig verlicht, dat het aanwezige licht geen risico oplevert voor de veiligheid en gezondheid van werknemers.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit/ Artikel 6.3, lid 2 en 3&lt;/h3&gt;&lt;p&gt;Daglicht en kunstlicht&#160;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -197,7 +197,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Op plaatsen waar niet gewerkt wordt (trappen, toiletten, dienstruimten is verlichting) aanwezig.</title>
           <description>&lt;p&gt;Het gaat hier om twee dingen: 1. de basisverlichting moet op een sterkte zijn dat niemand er zich onveilig voelt. 2. in geval van stroomuitval moet er ook noodverlichting aanwezig zijn.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit/ artikel 6.3, lid 2 en 3&lt;/h3&gt;&lt;p&gt;Daglicht en kunstlicht&#194;&#160;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -210,7 +210,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Het is bekend of er asbest in het gebouw is.</title>
           <description>&lt;p&gt;Werken met asbest is verboden. Alleen gespecialiseerde bedrijven mogen asbest verwijderen. Als er asbest aanwezig is, hoeft dat geen bezwaar te zijn, zolang het maar met rust wordt gelaten.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit/artikel 3.2.&#160;&lt;/h3&gt;&lt;p&gt;Algemene vereisten&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -222,7 +222,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
         <risk external-id="R-11" type="risk">
           <title>De medewerkers zijn in de regel tevreden over het klimaat op de werkplekken.</title>
           <description>&lt;p&gt;Denk hierbij aan zaken zoals:&lt;/p&gt;&lt;br/&gt;&lt;ol&gt;&lt;li&gt;Tocht&lt;/li&gt;&lt;li&gt;Koudegolven in winterse perioden&lt;/li&gt;&lt;li&gt;Luchtvochtigheid&lt;/li&gt;&lt;li&gt;Koelen bij warm zomers weer&lt;/li&gt;&lt;li&gt;Goed functionerende verwarming&lt;/li&gt;&lt;/ol&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
       </module>
@@ -232,14 +232,14 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
         <risk external-id="R-12" type="risk">
           <title>De opslagruimte is voldoende ruim</title>
           <description>&lt;p&gt;Opslagvoorzieningen: Een veilige stapeling van goederen kan ernstige ongevallen vaak voorkomen. Daarbij moet rekening worden gehouden met de maximaal toelaatbare belasting van de werkvloer of stelling. Voor magazijnstellingen gelden bovendien specifieke normen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-13" type="risk">
           <title>Stellingen hoger dan twee meter zijn geborgd</title>
           <description>&lt;p&gt;De staat van onderhoud moet, vanwege hun dragende functie, regelmatig worden ge&#258;&#379;nspecteerd. Ook moet worden gecontroleerd of de stelling&#194;&#160; nog veilig kan worden gebruikt.&lt;/p&gt;&lt;br/&gt;&lt;a href="http://www.arbo.nl/nieuws/veiligheid-in-magazijnen" rel="nofollow" target="_blank"&gt;www.arbo.nl/nieuws/veiligheid-in-magazijnen&lt;/a&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit/ artikel 3.3.&lt;/h3&gt;&lt;p&gt;Stabiliteit en stevigheid&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -256,7 +256,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>De stellingen / schappen zijn logisch ingericht</title>
           <description>&lt;p&gt;Opgeslagen voorwerpen en stoffen mogen geen gevaar opleveren door instorten, verschuiven, omvallen of kantelen. De praktijk leert namelijk dat een veilige stapeling van goederen, bijvoorbeeld in een magazijnstelling, vaak ernstige ongevallen kan voork&#243;men.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Zware dingen moeten op heuphoogte worden opgeslagen.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Verpakkingen mogen niet zwaarder zijn dan 23 kilo.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit/ artikel 3.3.&lt;/h3&gt;&lt;p&gt;Stabiliteit en stevigheid&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
       </module>
@@ -267,7 +267,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Er zijn&#160;afspraken over hoe te handelen bij calamiteiten, zoals brand.</title>
           <description></description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit/artikel 2.5c.&#160;&lt;/h3&gt;&lt;p&gt;Intern noodplan vastgelegd in bijvoorbeeld een personeelsreglement.&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -281,7 +281,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Nooduitgangen voldoen aan de eisen in de toelichting</title>
           <description>&lt;p&gt;De nooduitgang voldoet aan de onderstaande eisen:&lt;/p&gt;&lt;br/&gt;&lt;ol&gt;&lt;li&gt;Kunnen aanwezigen binnen 30 meter bij een (nood) uitgang zijn? Dit betreft alle ruimtes in het pand dus ook de studio, het magazijn en O&amp;amp;A.&lt;/li&gt;&lt;li&gt;de nooduitgang is goed bereikbaar en vrij van obstakels;&lt;/li&gt;&lt;li&gt;de nooduitgang is aangegeven middels (verlichte) pictogrammen;&lt;/li&gt;&lt;li&gt;de nooduitgang is gemakkelijk te openen (zit niet op slot) en draait naar buiten toe.&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Nb. Ook gemeenten of verzekeringsmaatschappijen kunnen specifieke eisen stellen aan het aantal nooduitgangen.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit Art 3.6 vluchtwegen en nooduitgangen&#160;Arbobesluit Art. 3.7Veilig gebruik van vluchtwegen en nooduitgangen&lt;/h3&gt;&lt;p&gt;1. Doeltreffende maatregelen zijn genomen teneinde het mogelijk te maken dat de werknemer, indien een toestand ontstaat waarin direct gevaar voor zijn veiligheid of gezondheid aanwezig is, zich snel via de kortst mogelijke weg in veiligheid kan stellen.&#194;&#160;2. Het aantal, de plaats en de afmetingen van de daartoe beschikbare vluchtwegen en nooduitgangen zijn afhankelijk van het gebruik, de uitrusting en de afmetingen van de arbeidsplaatsen alsmede van het maximum aantal werknemers en andere personen dat zich op deze plaatsen kan ophouden.&#194;&#160;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -298,13 +298,13 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Er zijn voldoende en juiste blusmiddelen aanwezig.</title>
           <description>&lt;p&gt;Criteria:&lt;/p&gt;&lt;br/&gt;&lt;ul&gt;&lt;li&gt;In een gebouw moet per 200 m&#178; tenminste een draagbaar blustoestel aanwezig zijn, per verdieping minstens 2 stuks;&lt;/li&gt;&lt;li&gt;Bij verdiepingen met een vloeroppervlak van minder dan 200 m&#178; kunt u met &#233;&#233;n blustoestel per verdieping volstaan&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;De keuze over het soort blusmiddel kunt u het beste aan een deskundige overlaten.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Veelal stellen ook verzekeringsmaatschappijen of gemeenten specifieke eisen aan het aantal en soort blusmiddel.&lt;/p&gt;&lt;a href="http://www.aegon.nl/multimedia/22830/90135/Preventiebulletin_Kleine_bl1.pdf" rel="nofollow" target="_blank"&gt;Informatie over blusmiddelen&lt;/a&gt;&lt;p&gt; &lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Bouwbesluit 2003 Art 2.21Bestrijding van brand lid 3.&#160;Arbobesluit Art. 3.8. Brandmelding en brandbestrijding&lt;/h3&gt;&lt;p&gt;Het aantal brandslanghaspels is zodanig dat de loopafstand tussen een brandslanghaspel en elk punt van de vloer van een gebruiksfunctie niet groter is dan de lengte van de brandslang, vermeerderd met 5 m. Dit geldt niet voor de vloer van een niet in een verblijfsgebied gelegen ruimte, die vanaf de toegang van de gebruiksfunctie niet door besloten ruimten kan worden bereikt.In aanvulling op artikel 15 van de wet zijn op arbeidsplaatsen, afhankelijk van de aard van de arbeid die daar wordt verricht, de daaraan verbonden gevaren en het maximum aantal werknemers en andere personen dat zich daar bevindt, voldoende passende brandbestrijdingsmiddelen aanwezig.&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-18" type="risk">
           <title>De blusmiddelen worden jaarlijks gekeurd volgens een onderhoudscontract.</title>
           <description>&lt;p&gt;Het onderhoud van blustoestellen moet worden uitgevoerd door een gespecialiseerd bedrijf of brandweerkorps. Dit onderhoud moet jaarlijks uitgevoerd worden.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;NEN 4000: 2006; Bedrijfshulpverlening&lt;/p&gt;&lt;br/&gt;&lt;p&gt;AI-blad 10 Bedrijfshulpverlening&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -320,13 +320,13 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
         <risk external-id="R-19" type="risk">
           <title>Er zijn verbandmiddelen aanwezig.</title>
           <description>&lt;p&gt;Een goedgekeurde trommel kunt u herkennen aan de tekst "goedgekeurd door" en het logo van het oranje kruis. Het aantal verbandtrommels is in sterke mate afhankelijk van de grootte van de onderneming. Een verbandtrommel moet binnen enkele minuten bereikbaar zijn.&lt;/p&gt;&lt;a href="http://www.ehabo.nl/index.php?pgid=603&amp;amp;sub=19" rel="nofollow" target="_blank"&gt;Voorbeelden van verbandtrommels&lt;/a&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-20" type="risk">
           <title>De verbandmiddelen worden gecontroleerd op houdbaarheid en volledigheid.</title>
           <description>&lt;p&gt;Steriele middelen hebben een uiterste gebruiksdatum. Na verstrijken van deze datum zijn niet alle middelen meer gegarandeerd steriel. Controleer de trommels regelmatig op de vervaldatum en volledigheid en vervang en/of vul deze op tijd aan. A.I.-Blad 10 Bedrijfshulpverlening&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -339,7 +339,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Er is tijdens openingstijden een bedrijfshulpverlener aanwezig.</title>
           <description>&lt;p&gt;De bedrijfshulpverlening moet in elk bedrijf zodanig georganiseerd worden dat binnen enkele minuten na het plaatsvinden van een ongeval of brand, de bedrijfshulpverleningstaken op een adequate wijze kunnen worden vervuld.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Ook &#226;&#8364;&#8482;s avonds en in vakanties moeten er regelingen zijn voor de bedrijfshulpverlening.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Onder adequate bedrijfshulpverlening wordt verstaan dat de bedrijfshulpverleners:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Eerste hulp moeten kunnen bieden, ook aan gasten/klanten;&lt;/li&gt;&lt;li&gt;Moeten kunnen omgaan met blusmiddelen;&lt;/li&gt;&lt;li&gt;De werknemers instructie geven hoe te handelen in geval van nood;&lt;/li&gt;&lt;li&gt;Zorgen voor de organisatie tijdens een calamiteit (o.a. contact leggen met hulpverlenende instanties);&lt;/li&gt;&lt;li&gt;Preventieve taken, zoals het inspecteren van nooduitgangen.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Nb. Het is wettelijk toegestaan dat bedrijven de taken op het gebied van bedrijfshulpverlening gezamenlijk organiseren. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Bijvoorbeeld is samenwerking met de andere ondernemingen in de omgeving. Deze samenwerking moet wel schriftelijk worden vastgelegd. De samenwerkende bedrijven worden in dergelijke situaties als een geheel beschouwd. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Ook in deze situaties geldt dat de bedrijfshulpverleners binnen enkele minuten ter plaatse moeten zijn van het ongeval of brand. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;In winkelcentra kan een gezamenlijke bedrijfshulpverlening worden georganiseerd.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader ArbowetArt. 15&lt;/h3&gt;&lt;p&gt;Een bedrijfshulpverlener co&#258;&#347;rdineert bij calamiteiten de acties. Dit kan gaan om het ontruimen van het pand, het informeren van hulpdiensten en het geven van instructies aan collega&#226;&amp;euro;&amp;trade;s m.b.t. de acties t.a.v. de calamiteit.&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -355,7 +355,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
         <risk external-id="R-22" type="top5">
           <title>In het bedrijf zijn instructies opgesteld, waarop op eenvoudige wijze is aangegeven wat te doen indien zich een calamiteit voordoet.</title>
           <description>&lt;p&gt;Het is belangrijk dat alle medewerkers weten hoe te handelen in geval van een ongeval of brand. U legt dit vast in het personeelsreglement.&#160; De instructies worden jaarlijks ge&#235;valueerd.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -367,7 +367,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
         <risk external-id="R-23" type="risk">
           <title>Belangrijke telefoonnummers die men moet gebruiken in noodsituaties liggen binnen handbereik op een voor iedereen bekende plek.</title>
           <description>&lt;p&gt;Het is belangrijk dat medewerkers belangrijke telefoonnummers snel kunnen vinden. U kunt deze op het toestel plakken maar ook een aparte lijst maken die bij de telefoons ligt is mogelijk.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -384,7 +384,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>In grote of onoverzichtelijke vestigingen&#160;wordt minstens &#233;&#233;n keer per jaar een ontruimingsoefening gehouden of met elkaar besproken hoe te handelen in geval van een calamiteit.</title>
           <description>&lt;p&gt;In een klein bedrijf is het houden van een ontruimingsoefening niet noodzakelijk. Wel is het belangrijk om jaarlijks met elkaar te bespreken of iedereen de regels kent hoe te handelen in geval van een calamiteit.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="http://www.mkbservicedesk.nl/1985/wat-bhv-plan.htm"&gt;Klik hier voor meer informatie over bedrijfshulpverlening&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -404,7 +404,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
         <risk external-id="R-25" type="risk">
           <title>De winkel is duidelijk afgescheiden van de kantoorruimte en het magazijn voor klanten, zodat zij deze ruimtes niet kunnen betreden.</title>
           <description>&lt;p&gt;In het kader van veiligheid is het belangrijk dat er een goede scheiding is tussen deze delen van de winkel. Dit voorkomt dat klanten ongewenst in het magazijn komen of in de ruimte van het kantoor. Het geeft de medewerkers tevens de mogelijkheid zich even terug te trekken uit het zicht van de klanten.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -416,7 +416,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
         <risk external-id="R-26" type="risk">
           <title>Er is voldoende loopruimte in de winkel, zoals aangegeven in de toelichting.</title>
           <description>&lt;p&gt;Dit is zowel van belang voor de klant als voor de eigen medewerkers. Om in geval van nood het gebouw snel te kunnen verlaten, dienen de gangen en de paden voldoende breed te zijn. De wettelijke vereiste breedte bedraagt ten minste;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- 0,60 meter voor loopwegen,&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- 0,90 meter voor delen van ruimte waar men elkaar moet kunnen passeren.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -428,7 +428,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
         <risk external-id="R-27" type="risk">
           <title>De hoogte van de toonbank is afgestemd op lengte van medewerkers en de werk&#173;zaamheden, die zij moeten uitvoeren.</title>
           <description>&lt;p&gt;De hoogte van de toonbank dient afgestemd te zijn op de lengte van de medewerkers. Dit betekent dat de medewerker een rechte houding moet kunnen aannemen tijdens de werkzaamheden (dus: niet hoeft te bukken of met opgetrokken schouders hoeft te werken). Dit betekent voor staand werk een hoogte van minimaal 100 cm (of 95 cm wanneer het merendeel van het personeel uit vrouwen bestaat) en voor zittend werk ca. 73 cm.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -440,7 +440,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
         <risk external-id="R-28" type="risk">
           <title>Er is voldoende bewegingsruimte achter de toonbank voor de werkzaamheden die er moeten plaatsvinden.</title>
           <description>&lt;p&gt;De benodigde ruimte achter de toonbank wordt bepaald door de aard van de werkzaamheden, het aantal medewerkers en de inrichting van de toonbank. Zitten er laden in de toonbank, of hangen achter de toonbank artikelen voor de verkoop, dan vraagt dit extra bewegingsruimte. Wanneer medewerkers elkaar snel in de weg lopen is dat een indicatie dat er onvoldoende ruimte achter de toonbank is. Uitgegaan dient te worden van de volgende breedtes;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- 0,60 meter voor loopwegen,&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- 0,90 meter voor delen van ruimte waar men elkaar moet kunnen passeren.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -453,7 +453,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Staand werk is waar mogelijk afgewisseld met lopend en/of zittend werk.</title>
           <description>&lt;p&gt;In de industrie verricht ruim 36% van de werknemers regelmatig meer dan twee uur achter elkaar staand werk. In de handel geldt dat voor 32,8%, en in overige bedrijfstakken ligt dat rond de 28%. Voorzichtig schattend betekent dit dat in Nederland bijna 2 miljoen mensen risico op blijvende gezondheidsschade lopen tengevolge van langdurig en eenzijdig staand werk. De arbowetgeving stelt per 1 januari 2007 geen kaders hiervoor.&lt;/p&gt;&lt;a href="http://www.arbobondgenoten.nl" rel="nofollow" target="_blank"&gt;www.arbobondgenoten.nl&lt;/a&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit/artikel 5.2.&#160;&lt;/h3&gt;&lt;p&gt;Afdeling 1 fysieke belasting/Voorkomen gevaren&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -466,7 +466,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>De medewerkers hebben geen last van tegenlicht bij het aankijken van de klant of het werken met de computer</title>
           <description></description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Artikel 5.11.&#160;&lt;/h3&gt;&lt;p&gt;Maatregelen met betrekking tot de bescherming van de ogen en hetgezichtsvermogen van de werknemers&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -484,7 +484,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <description>&lt;ul&gt;&lt;li&gt;&lt;a href="http://www.hbd.nl/"&gt;Klik hier voor meer informatie of online trainingen&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet/ artikel 8&lt;/h3&gt;&lt;p&gt;Voorlichting en onderricht&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -497,7 +497,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Het komt voor dat klanten agressief reageren.</title>
           <description>&lt;p&gt;Agressie heeft verschillende oorzaken. Door verstandig met agressie om te gaan kunnen medewerkers de rust in de winkel behouden en de agressie doen verminderen.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Door respectvol met klanten om te gaan is al veel te winnen. Agressie komt vaak ook voort uit de interactie: wanneer een klant onaangenaam is en het winkelpersoneel daar boos op reageert, dan kan dat escaleren.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit/artikel 2.15&#160;&lt;/h3&gt;&lt;p&gt;Maatregelen ter voorkoming of beperking van psychosociale arbeidsbelasting&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -515,7 +515,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <description>&lt;ul&gt;&lt;li&gt;&lt;a href="http://www.hbd.nl/"&gt;Klik hier voor meer informatie of online trainingen&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet/ artikel 8&lt;/h3&gt;&lt;p&gt;Voorlichting en onderricht&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -543,14 +543,14 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
         <risk external-id="R-34" type="risk">
           <title>De winkel is makkelijk toegankelijk voor medewerkers en bezoekers.</title>
           <description>&lt;p&gt;Denk hierbij aan goede verlichting, voorkomen van vallen en uitglijden en aan makkelijk te bereiken vluchtwegen bij calamiteiten.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-35" type="top5">
           <title>Er zijn afspraken gemaakt over orde en netheid in en rond de winkel</title>
           <description>&lt;p&gt;Veel winkels zijn gevestigd in winkelpanden welke verouderd kunnen zijn. Ook zijn vaak meerdere verdiepingen aanwezig. Spullen op een trap geeft struikelgevaar.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit/artikel 3.2.&#160;&lt;/h3&gt;&lt;p&gt;Algemene vereisten&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -562,7 +562,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
         <risk external-id="R-36" type="risk">
           <title>De winkel is overzichtelijk ingedeeld wat betreft het zicht houden op klanten en producten.</title>
           <description>&lt;p&gt;Het is belangrijk om overzicht te hebben op bezoekers en op de producten in de stellingen. Voorkom zo veel mogelijk dat klanten ongezien in de winkel kunnen lopen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -579,7 +579,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Er zijn passende maatregelen genomen waardoor het openen en sluiten van de winkels voor medewerkers veilig verloopt</title>
           <description>&lt;p&gt;Het moment van openen en sluiten is een overvalgevoelig moment. Zeker als de straat leeg is of als het donker is.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet/artikel 3&lt;/h3&gt;&lt;p&gt;Arbobeleid&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -604,7 +604,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Er zijn binnen het bedrijf maatregelen genomen om de kans op diefstal en overval zoveel mogelijk te beperken.</title>
           <description>&lt;p&gt;Diefstal kan zonder enige vorm van agressie plaatsvinden maar veroorzaakt schade en stress.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Het HBD heeft een nuttige instructie.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Het HBD heeft een alarmlijn en instructies.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Zie ook de maatregelen rondom orde, netheid en overzichtelijkheid in de winkel.&lt;/p&gt;&lt;a href="http://www.hbd.nl/view.cfm?page_id=3585" rel="nofollow" target="_blank"&gt;Preventie winkelcriminaliteit&lt;/a&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet/artikel 3&lt;/h3&gt;&lt;p&gt;Arbobeleid&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -622,7 +622,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Medewerkers zijn bekend met het veiligheidsprotocol zoals dit in de CAO is opgenomen.</title>
           <description>&lt;a href="http://www.snf-apeldoorn.nl/websites/snf/files/11085914_CAO_boekje_SNF.pdf" rel="nofollow" target="_blank"&gt;Collectieve Arbeidsovereenkomst&lt;/a&gt;&lt;p&gt; voor werknemers werkzaam in de detailhandel in fotografische artikelen &lt;/p&gt;&lt;br/&gt;&lt;p&gt;1 juni 2007 - 1 juni 2009&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader CAO/ artikel 24&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -639,7 +639,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Winkelpersoneel heeft een instructie gekregen over hoe te handelen bij geld afstorten</title>
           <description>&lt;p&gt;Maak afspraken en bespreek deze met het personeel; voorbeelden zijn:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- de kassa opmaken mag pas als de laatste klant het pand heeft verlaten.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;- de kassa mag niet meer dan een vastgesteld aantal euro bevatten. Het meerdere dienst steeds te worden afgestort.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet/ artikel 8&lt;/h3&gt;&lt;p&gt;Voorlichting en onderricht&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -655,7 +655,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
         <risk external-id="R-41" type="top5">
           <title>Er zijn maatregelen genomen om overvallers te ontmoedigen</title>
           <description>&lt;p&gt;Overvallers kiezen voor de winkel met het minste risico en de beste ontsnappingsmogelijkheden.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Nuttige tips treft u aan bij het HBD.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Preventiemogelijkheden zijn een paniekknop op de balie of de computer en een camera. Ontstaat er een onveilige situatie dan drukt een medewerker de knop in. De politie wordt dan snel gealarmeerd. Een andere mogelijkheid is videoregistratie zodat de mensen in de meldkamer kunnen meekijken en meeluisteren en politie en veiligheidsmensen snel en vooral adequaat kunnen ingrijpen.&lt;/p&gt;&lt;a href="http://www.hbd.nl/view.cfm?page_id=3585" rel="nofollow" target="_blank"&gt;Preventie winkelcriminaliteit&lt;/a&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -677,7 +677,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Het&#160;personeel weet hoe te handelen met de machines</title>
           <description>&lt;p&gt;Schriftelijke instructies worden verstrekt met betrekking tot de uitvoering van de arbeid waaronder het verwisselen van cartridges en papier&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#194;&#160;&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit, artikel 3.5f&lt;/h3&gt;&lt;p&gt;Bijzondere maatregelen&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -694,20 +694,20 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Er zijn preventieve maatregelen genomen om gevaarlijke situaties te voorkomen</title>
           <description>&lt;p&gt;Doeltreffende maatregelen zijn genomen om het ontstaan van risicovolle omstandigheden op de arbeidsplaats te voorkomen.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Denk daarbij aan chemicali&#258;&#356;n waarmee de huid of de ogen in contact kunnen komen.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit / artikel 3.5d&lt;/h3&gt;&lt;p&gt;Algemene preventieve maatregelen&#194;&#160;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-45" type="risk">
           <title>De opslag voldoet aan de richtlijnen</title>
           <description>&lt;p&gt;Het opslaan van gevaarlijke stoffen (verpakt) in uw bedrijf moet voldoen aan de eisen die gesteld worden in de richtlijn Publicatiereeks Gevaarlijke Stoffen 15(PGS 15). In PGS 15 zijn de eisen voor brandveiligheid, arbeidsveiligheid en milieuveiligheid samengevoegd. De PGS 15 wordt onder andere veel door gemeenten gebruikt bij het verlenen van vergunningen.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit /artikel 4.1b.&lt;/h3&gt;&lt;p&gt;Zorgplicht van de werkgever&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-46" type="risk">
           <title>De medewerkers zijn ge&#239;nformeerd over het verwisselen van de toner / cartridges</title>
           <description>&lt;p&gt;Door het gebruik van (laser)printers, toner in fotokopieermachines en faxen kunnen schadelijke stoffen worden geproduceerd en uitgestoten. Bijvoorbeeld:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Een aantal van deze stoffen kan last veroorzaken, en in sommige gevallen ook schade aan degezondheidvan medewerkers.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Bijvoorbeeld: &lt;/p&gt;&lt;ul&gt;&lt;li&gt;stikstofdioxide (NO2)&#160; &lt;/li&gt;&lt;li&gt;tonerpoeder (fijn stof, carbon black), dat soms deeltjes zware metalen kan bevatten (kwik, kobalt, nikkel)&#160; &lt;/li&gt;&lt;li&gt;gechloreerde koolstofverbindingen&#160; &lt;/li&gt;&lt;li&gt;papierstof&#160; &lt;/li&gt;&lt;li&gt;vluchtige organische stoffen, zoals benzeen, styreen en tolueen&#160; &lt;/li&gt;&lt;li&gt;ozon (O3): vooral oudere apparatuur, moderne apparatuur veel minder &lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Een aantal van deze stoffen kan last veroorzaken, en in sommige gevallen ook schade aan de gezondheid van medewerkers.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
       </module>
@@ -719,14 +719,14 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Er zijn maatregelen getroffen om de blootstelling aan gevaarlijke stoffen te beperken</title>
           <description></description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit / artikel 4.1c.&#160;&lt;/h3&gt;&lt;p&gt;Beperken van blootstelling; algemene preventieve maatregelen&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
         </risk>
         <risk external-id="R-49" type="top5">
           <title>De ruimte is voldoende geventileerd</title>
           <description></description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit /artikel 4.3Arbobesluit /artikel 4.5&#160;&#160;&lt;/h3&gt;&lt;p&gt;GrenswaardenVentilatie&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -743,7 +743,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Er zijn preventieve maatregelen genomen om gevaarlijke situaties te voorkomen.</title>
           <description>&lt;p&gt;Doeltreffende maatregelen zijn genomen om het ontstaan van risicovolle omstandigheden op de arbeidsplaats te voorkomen.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Denk daarbij aan chemicalien waarmee de huid of de ogen in contact kunnen komen.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit / artikel 3.5d&lt;/h3&gt;&lt;p&gt;Algemene preventieve maatregelen&#258;&#8218;&#194;&#160;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -756,7 +756,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>De opslag voldoet aan de richtlijnen.</title>
           <description>&lt;p&gt;Het opslaan van gevaarlijke stoffen (verpakt) in uw bedrijf moet voldoen aan de eisen die gesteld worden in de richtlijn Publicatiereeks Gevaarlijke Stoffen 15 (PGS 15). In PGS 15 zijn de eisen voor brandveiligheid, arbeidsveiligheid en milieuveiligheid samengevoegd. De PGS 15 wordt onder andere veel door gemeenten gebruikt bij het verlenen van vergunningen.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit /artikel 4.1b.&lt;/h3&gt;&lt;p&gt;Zorgplicht van de werkgever&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
       </module>
@@ -767,7 +767,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>De werknemers hebben instructie gekregen</title>
           <description>&lt;p&gt;De werkgever moet de werknemers voorlichting geven over het belang van persoonlijke beschermingsmiddelen. Hierbij moet ook worden uitgelegd hoe ze de middelen moeten gebruiken en onderhouden.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet / artikel 8&lt;/h3&gt;&lt;p&gt;Voorlichting en onderricht&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -780,7 +780,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>De werkgever stelt beschermingsmiddelen beschikbaar</title>
           <description>&lt;p&gt;Een persoonlijk beschermingsmiddel (PBM)&#194;&#160;is een middel dat door een persoon wordt gedragen of vastgehouden als bescherming tegen risico's die de gezondheid of veiligheid bedreigen&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet /artikel 16&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -792,7 +792,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
         <risk external-id="R-54" type="risk">
           <title>Werknemers gebruiken de beschermingsmiddelen op de juiste wijze</title>
           <description></description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -813,7 +813,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Personeel bereidt zich voor op mogelijke risico&#8217;s bij het werken op locatie.</title>
           <description>&lt;p&gt;Bij fotorapportages op locatie kunnen risicovolle werkzaamheden voorkomen:&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Bijvoorbeeld werken op hoogte (&amp;gt;2,5 meter), werken op een openbare weg etc; De werkgever is verantwoordelijk bij ongevallen.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet/ artikel 8&lt;/h3&gt;&lt;p&gt;Voorlichting en onderricht&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="large" default-frequency="constant" default-effect="high">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -835,7 +835,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>De medewerkers beschikken over een adequate werktafel.</title>
           <description>&lt;p&gt;Tenzij dit redelijkerwijs niet kan worden gevergd worden werkplekken ingericht volgens de ergonomische beginselen .&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Je kunt je benen en voeten breeduit neer zetten, zonder tegen ladenkasten, prullenmanden, tafelpoten, enz. aan te stoten of scheef te zitten.Een goede voetenplank is van de juiste hoogte, voldoende groot (minimaal 35 x 45 cm) en stabiel..&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit/ artikel 5.12&lt;/h3&gt;&lt;p&gt;Beeldscherm- en bureauwerk&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -849,7 +849,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Alle bureaustoelen zijn goed instelbaar.</title>
           <description>&lt;p&gt;Via &lt;/p&gt;&lt;a href="http://www.arbobondgenoten.nl/" rel="nofollow" target="_blank"&gt;www.arbobondgenoten&lt;/a&gt;&lt;p&gt; kan een RSI-test: Stoel, bureau en accessoires gedaan worden.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit/ artikel 5.12&lt;/h3&gt;&lt;p&gt;Beeldscherm- en bureauwerk&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -863,7 +863,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>In het kantoor zijn ramen aanwezig waardoor het daglicht naar binnenkomt.</title>
           <description>&lt;p&gt;Medewerkers mogen werkzaam zijn in een ruimte zonder daglicht als dat redelijkerwijs van ze kan worden verwacht. Bijvoorbeeld omdat de uit te voeren taak van korte duur is en er niet lang achter elkaar in deze ruimte moet worden gewerkt.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit/artikel 6.3&lt;/h3&gt;&lt;p&gt;Daglicht en kunstlicht&#160;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
       </module>
@@ -875,7 +875,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Na 2 uur computerwerk kan er minimaal 15 minuten gepauzeerd worden of kan er tijdelijk ander werk worden gedaan.</title>
           <description>&lt;p&gt;Voor het voorkomen van eenzijdige lichamelijke belasting (RSI) is pauzeren een mogelijkheid, maar afwisseling tussen verschillende taken is beter.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit / artikel 5.10&lt;/h3&gt;&lt;p&gt;Dagindeling van de arbeid&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -888,14 +888,14 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Personeel is ge&#239;nstrueerd over een goede werkhouding en beeldschermopstelling.</title>
           <description></description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet / artikel 8&lt;/h3&gt;&lt;p&gt;Voorlichting en onderricht&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-63" type="risk">
           <title>Medewerkers klagen regelmatig over pijn in de armen, schouders, polsen of nek.</title>
           <description>&lt;p&gt;Als deze situatie zich voordoet dan kan dit duiden op RSI klachten. Deze kunnen hardnekkig en langdurig zijn met dus als risico ziekteverzuim.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Bij dergelijk&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit/ artikel 5.12, beeldschermwerk&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -914,21 +914,21 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
         <description>&lt;p&gt;De CAO beschrijft nauwkeurig de regeling zodal deze in fotowinkels geldt.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="http://www.snf-apeldoorn.nl/view.cfm?page_id=10770"&gt;De CAo vindt u op de SNF site.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
         <legal-reference>&lt;h3&gt;Wettelijk kader Arbeidstijdenwet / artikel 4.&lt;/h3&gt;&lt;p&gt;Algemene verplichtingen&lt;/p&gt;</legal-reference>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
       </risk>
       <risk external-id="R-65" type="risk">
         <title>De afwijkende regels voor jongeren onder 18 jaar worden toegepast.</title>
         <description>&lt;a href="http://jongerenloket.szw.nl/index.cfm?fuseaction=dsp_document&amp;amp;link_id=25732" rel="nofollow" target="_blank"&gt;Jongerenloket&lt;/a&gt;</description>
         <legal-reference>&lt;h3&gt;Wettelijk kader Arbeidstijdenwet / artikel 4.2.&lt;/h3&gt;&lt;p&gt;Jeugdige werknemers&lt;/p&gt;</legal-reference>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
       </risk>
       <risk external-id="R-66" type="risk">
         <title>De afwijkende regels voor zwangere en pas bevallen vrouwen worden toegepast.</title>
         <description>&lt;p&gt;Een zwangere vrouw heeft recht op extra pauzes en is in principe niet verplicht om over te werken. Ook heeft een zwangere vrouw het recht om te werken in een bestendig en regelmatig arbeids- en rusttijdenpatroon.&lt;/p&gt;</description>
         <legal-reference>&lt;h3&gt;Wettelijk kader Arbeidstijdenwet / artikel 4.3.5.&lt;/h3&gt;&lt;p&gt;Arbeid en zwangerschap&lt;/p&gt;</legal-reference>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-1">
@@ -948,7 +948,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Tijdens openingstijden is een met preventie taken belast persoon aanwezig</title>
           <description>&lt;p&gt;1. Ieder bedrijf moet een preventiemedewerker hebben aangesteld. In bedrijven met minder dan 25 werknemers, mag de werkgever zelf deze taak uitoefenen&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#194;&#160;&lt;/p&gt;&lt;br/&gt;&lt;p&gt;2. Een preventiemedewerker is een medewerker die zorgt voor de dagelijkse veiligheid en gezondheid binnen een bedrijf. Heel veel bedrijven hebben al zo iemand, vaak met de titel 'arbo co&#258;&#347;rdinator'. De preventiemedewerker is daarbij niet eindverantwoordelijk: dat is de werkgever.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit/artikel 13&#160;&lt;/h3&gt;&lt;p&gt;Bijstand deskundige werknemers op het gebied van preventie en bescherming&#194;&#160;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -961,7 +961,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Medewerkers zijn ge&#239;nstrueerd over de aard van de werkzaamheden en de hieraan verbonden risico&#8217;s (zie hiervoor de toelichting) en deze zijn schriftelijk vastgelegd.</title>
           <description>&lt;p&gt;Voorlichting en instructies zijn &#233;&#233;n van de belangrijkste preventieve maatregelen om verzuim en ongevallen te voorkomen. Ook in het kader van aansprakelijkheid is het noodzakelijk dat medewerkers aantoonbaar ge&#239;nformeerd en ge&#239;nstrueerd zover de aard van de werkzaamheden en de hieraan verbonden (mogelijke) risico&#8217;s.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;Hierbij dient te worden gedacht aan het formuleren van de eisen en verwachtingen t.a.v. de taakuitoefening, de regels bij calamiteiten en het omgaan met lastige klanten.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#160;&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet/ artikel 8&lt;/h3&gt;&lt;p&gt;Voorlichting en onderricht&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -974,7 +974,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Er wordt op toegezien dat iedereen zijn werk op een juiste en veilige manier doet</title>
           <description>&lt;p&gt;Dat kan de leidinggevende doen, maar ook collega's kunnen elkaar daarbij helpen. Het toezicht houden gaat ver. Om aansprakelijkheid te kunnen ontlopen moet een werkgever kunnen aantonen dat hij er alles aangedaan heeft om een ongeval te voorkomen. Dit betekent dat de medewerkers weten wat de risico&#226;&#8364;&#8482;s zijn, hoe ze daarmee moeten omgaan en dat ze verplicht zijn (arbo)instructies op te volgen.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#194;&#160;&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit/artikel 4.1b&#160;&lt;/h3&gt;&lt;p&gt;Zorgplicht van de werkgever&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -987,14 +987,14 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Er is een bedrijfsreglement of huishoudelijk reglement waarin ook aandacht is voor afspraken over veiligheid, gezondheid en welzijn.</title>
           <description>&lt;p&gt;Een bedrijfsreglement bevat alle afspraken voor de dagelijkse gang van zaken binnen het bedrijf. U kunt hierbij denken aan zaken als verzuimprotocol, melden onveilige situaties, organisatie van bedrijfshulpverlening, sanctiebeleid, etc. Werknemers dienen zich hiernaar te gedragen.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet/ artikel 8&lt;/h3&gt;&lt;p&gt;Voorlichting en onderricht&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-71" type="risk">
           <title>De medewerkers zijn betrokken bij de uitvoering van de RI&amp;E.</title>
           <description></description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet/artikel 5.5&lt;/h3&gt;&lt;p&gt;Inventarisatie en evaluatie van risico&#8217;s&#160;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
         <risk external-id="R-72" type="risk">
@@ -1002,7 +1002,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <description>&lt;ul&gt;&lt;li&gt;&lt;a href="http://www.rie.nl/wetgeving/copy_of_toetsing-van-de-ri-e"&gt;Meer informatie over de toetsing van de RI&amp;E vindt u op www.rie.nl&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet/artikelen 13 en 14&#160;&lt;/h3&gt;&lt;p&gt;Bijstand deskundige werknemers op het gebied van preventie en bescherming&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -1015,7 +1015,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Er zijn jeugdige werknemers werkzaam in de winkel</title>
           <description>&lt;p&gt;Indien in een bedrijf/winkel jeugdige werknemers arbeid verrichten, wordt op die arbeid adequaat deskundig toezicht uitgeoefend.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit/artikel 1.37&lt;/h3&gt;&lt;p&gt;Deskundig toezicht&#194;&#160;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -1032,7 +1032,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Werknemers krijgen&#160; de gelegenheid een bedrijfsarts te raadplegen als zij zich zorgen maken over hun gezondheid in relatie tot het werk.</title>
           <description>&lt;p&gt;De werkgever stelt de werknemers periodiek in de gelegenheid een onderzoek te ondergaan, dat erop is gericht de risico&#226;&#8364;&#8482;s die de arbeid voor de gezondheid van de werknemers met zich brengt zoveel mogelijk te voorkomen of te beperken.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet/artikel 18&lt;/h3&gt;&lt;p&gt;Arbeidsgezondheidskundig onderzoek&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -1045,7 +1045,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>De werkgever informeert de werknemer over de risico's bij zwangerschap</title>
           <description></description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit/artikel 1.40Arbeidstijdenwet/ artikel 4:8.&#160;&lt;/h3&gt;&lt;p&gt;Zwangere werknemers en werknemers tijdens de lactatieVoedingsrecht&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -1062,7 +1062,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Bij de uitvoering van het arbeidsomstandighedenbeleid werken de werkgever en werknemers samen.</title>
           <description>&lt;p&gt;De werkgever voert overleg met zijn werknemers over de uitvoering van het beleid t.a.v. veiligheid en gezondheid.&lt;/p&gt;&lt;br/&gt;&lt;p&gt;&#194;&#160;&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet/&#160;&#160;&#160; artikel 12&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -1078,7 +1078,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
         <risk external-id="R-77" type="policy">
           <title>Het verzuimprotocol uit de CAO wordt met de medewerkers besproken en toegepast?</title>
           <description></description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         </risk>
       </module>
@@ -1089,7 +1089,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
           <title>Er zijn afspraken gemaakt over wie binnen het bedrijf de arbeidsongeschikte medewerker begeleidt en op welke manier.</title>
           <description>&lt;p&gt;Bij de uitvoering van de taken, bedoeld in artikel 14, eerste lid, onder b, van de wet ondersteunt de bedrijfarts, bedoeld in artikel 2.14a, tweede lid, van het besluit of de arbodienst de werkgever bij het adequaat begeleiden van werknemers die door ziekte niet in staat zijn om hun arbeid te verrichten teneinde een verantwoorde werkhervatting te bevorderen.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbowet artikel 13 en 14Arbobesluit artikel 2.14a2e lidArboregeling artikel 2.2&lt;/h3&gt;&lt;p&gt;Bijstand deskundige werknemers op het gebied van preventie en bescherming&#194;&#160;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -1101,7 +1101,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
         <risk external-id="R-79" type="risk">
           <title>Vanuit het bedrijf wordt minimaal &#233;&#233;n keer per week contact gehouden met de arbeidsongeschikte werknemer</title>
           <description>&lt;p&gt;De werkgever neemt minimaal een keer per week contact op met de werknemer. Dit draagt bij aan een lage terugkeerdrempel.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -1118,7 +1118,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
         <risk external-id="R-80" type="policy">
           <title>Het verzuim wordt geregistreerd en periodiek geanalyseerd.</title>
           <description>&lt;p&gt;Door het registreren van ziekteverzuim krijgt u beter inzicht waardoor gericht beleid ontwikkelen meer kansen biedt.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">
@@ -1130,7 +1130,7 @@ V1ZY////4+LkJiUnDg0PFBMVFBMVFBQVFBQUDQ0NMzMz0dHRmpqajo6Orq6uCTxr/f38/v7+////
         <risk external-id="R-81" type="risk">
           <title>Voor werknemers die langer dan 6 weken ziek zijn wordt een re&#239;ntegratieplan gemaakt.</title>
           <description>&lt;p&gt;De Wet Verbetering Poortwachter schrijft dit voor.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
           <solutions>
             <solution external-id="O-1">

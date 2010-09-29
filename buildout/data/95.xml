@@ -22,7 +22,7 @@
         <risk external-id="R-18601" type="policy">
           <title>Voor elke functie is vastgelegd welke opleiding en ervaring noodzakelijk is om deze functie goed en veilig te kunnen uitvoeren.</title>
           <description>&lt;p&gt;Dit betekent dat medewerkers passend werk hebben: niet te moeilijk en niet te makkelijk. Hierdoor raken medewerkers niet over- of onderbelast.&#194;&#160; Duidelijk moet zijn welke opleidings- en ervaringseisen gelden bij het uitvoeren van werkzaamheden binnen een functie. &lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9663">
@@ -34,7 +34,7 @@
         <risk external-id="R-18603" type="policy">
           <title>Er wordt bij het verdelen van taken aandacht besteed aan kwetsbare groepen.</title>
           <description>&lt;p class="MsoBodyTextIndent2"&gt;Onder kwetsbare groepen vallen oproepkrachten, uitzendkrachten, onervaren krachten (nieuwkomers), arbeidsgehandicapten, jongeren onder de 18 jaar, oudere werknemers , zwangere vrouwen en medewerkers die de Nederlandse taal onvoldoende beheersen. Deze groepen zijn kwetsbaar omdat ze onervaren, minder belastbaar zijn of waarschuwingen en&#160; instructies niet verstaan&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9664">
@@ -46,7 +46,7 @@
         <risk external-id="R-18604" type="risk">
           <title>In werkbesprekingen wordt regelmatig gesproken over arbeidsomstandigheden en verzuim.</title>
           <description>&lt;p class="MsoNormal"&gt;Door arbeidsomstandigheden en verzuim regelmatig te bespreken kan snel tot een gerichte oplossing worden gekomen en wordt er voortdurend gewerkt aan de verbetering van de arbeidsomstandigheden .&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9665">
@@ -58,7 +58,7 @@
         <risk external-id="R-18605" type="policy">
           <title>De leidinggevende geeft zelf het goede voorbeeld en spreekt werknemers aan op onveilig gedrag.</title>
           <description></description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9666">
@@ -70,7 +70,7 @@
         <risk external-id="R-18606" type="policy">
           <title>Binnen het bedrijf is duidelijk welke problemen medewerkers zelf kunnen oplossen en voor welke problemen ze naar hun leidinggevende moeten</title>
           <description>&lt;p&gt;Het zo snel mogelijk kunnen oplossen van problemen is belangrijk. Problemen, die onopgelost blijven, kunnen werkdruk veroorzaken. Taken en verantwoordelijkheden moeten duidelijk vastgelegd zijn.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9667">
@@ -82,7 +82,7 @@
         <risk external-id="R-18607" type="policy">
           <title>Er worden functioneringsgesprekken gehouden.</title>
           <description>&lt;p class="MsoNormal"&gt;Door het&#160; functionerings- of voortgangsgesprek en werkoverleg weten medewerkers duidelijker wat van hun verwacht wordt en wat hun bijdrage in de werkzaamheden is m.b.t. het totaalresultaat.&#160; Er wordt helderheid verkregen over verantwoordelijkheden en bevoegdheden. Dit werkt motiverend en vermindert stress.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9668">
@@ -94,7 +94,7 @@
         <risk external-id="R-18608" type="policy">
           <title>Medewerkers verrichten zo min mogelijk repeterend werk en kunnen zelf het tempo bepalen.</title>
           <description>&lt;p class="MsoBodyTextIndent2"&gt;Repeterend werk is werk waarbij in een korte tijd dezelfde handeling alsmaar wordt herhaald. Bij dat soort werk kan slijtage van spieren, pezen, gewrichten optreden met als gevolg verzuim. Een ander belangrijk effect is de afname van motivatie en inzet. &lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9669">
@@ -110,7 +110,7 @@
         <risk external-id="R-18609" type="policy">
           <title>Uitzendkrachten of ingeleende krachten worden voorafgaand aan de werkzaamheden voorgelicht over risico's en maatregelen</title>
           <description>&lt;p class="MsoBodyTextIndent2"&gt;Als er arbeid wordt verricht door een werknemer die wordt ingehuurd, wordt voor aanvang van de werkzaamheden informatie verstrekt over de risico&#226;&#8364;&#8482;s van de werkzaamheden en de maatregelen die moeten worden genomen om de risico&#226;&#8364;&#8482;s te verminderen. &lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9670">
@@ -126,7 +126,7 @@
         <risk external-id="R-18610" type="risk">
           <title>Er wordt  aan alle nieuwe werknemers  bij de indiensttreding voorlichting en instructie gegeven met betrekking tot risico's en maatregelen om op de werkplek en veilig en gezond werken</title>
           <description>&lt;p class="MsoBodyTextIndent2"&gt;Veilig gedrag. Van elke werknemer wordt verwacht dat deze zich verantwoord gedraagt. Van de werkgever wordt verwacht om op effectieve wijze voorlichting en onderricht te geven over arbeidsomstandigheden. Alleen als werknemers beschikken over de nodige kennis, inzicht en vaardigheden zijn ze in staat de voorzichtigheid en zorgvuldigheid in acht te nemen die de wet hen voorschrijft.&lt;/p&gt;&lt;p class="MsoBodyTextIndent2"&gt;Nieuwe werknemers Voorlichting en onderricht over arbeidsomstandigheden wordt in elk geval gegeven bij indiensttreding van nieuwe werknemers en bij werknemers die tijdelijk werkzaamheden verrichten, zoals uitzendkrachten, stagiairs en ingeleende werknemers.&lt;/p&gt;&lt;p class="MsoBodyTextIndent2"&gt;Jeugdigen. Bijzondere aandacht moet worden besteed aan jeugdigen [&amp;lt; 18 jaar]. Het criterium daarbij is dat de jeugdige werknemers met de ontvangen voorlichting en instructie zo goed mogelijk kunnen functioneren, daarbij hun gebrek aan werkervaring in aanmerking genomen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9671">
@@ -138,7 +138,7 @@
         <risk external-id="R-18611" type="policy">
           <title>Er wordt op toegezien dat iedereen zijn werk op een juiste en veilige manier doet.</title>
           <description>&lt;p&gt;Dat kan de leidinggevende doen, maar ook collega's kunnen elkaar daarbij helpen. De werkgever moet aan kunnen tonen dat hij er alles aangedaan heeft om de veiligheid op de werkvloer te borgen en hierdoor ongevallen voorkomen wordt. Dit betekent dat de medewerkers weten wat de risico&#226;&#8364;&#8482;s zijn, hoe ze daarmee moeten omgaan en dat ze verplicht zijn (arbo)instructies op te volgen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9672">
@@ -150,7 +150,7 @@
         <risk external-id="R-18612" type="policy">
           <title>Voor aanvang van een nieuwe klus worden met de betrokken werknemers afspraken gemaakt over een veilige werkwijze</title>
           <description>&lt;p&gt;Het is belangrijk om goed ge&#239;nformeerd met de werkzaamheden&#160;aan te vangen. Daarmee stijgt de kwaliteit van het werk en het veilig en gezond gedrag van de werknemer&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9673">
@@ -162,7 +162,7 @@
         <risk external-id="R-18613" type="policy">
           <title>Er wordt op toegezien dat iedereen zijn werk op een juiste en veilige manier doet.</title>
           <description>&lt;p class="MsoNormal"&gt;Dat kan de leidinggevende doen, maar ook collega's kunnen elkaar daarbij helpen. Het toezicht houden gaat ver. Om aansprakelijkheid te kunnen ontlopen moet een werkgever kunnen aantonen dat hij er alles aangedaan heeft om een ongeval te voorkomen. Dit betekent dat de medewerkers weten wat de risico&#8217;s zijn, hoe ze daarmee moeten omgaan en dat ze verplicht zijn (arbo)instructies op te volgen. &lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9674">
@@ -178,7 +178,7 @@
         <risk external-id="R-18614" type="policy">
           <title>Er zijn afspraken gemaakt over het tegengaan van ongewenste gedragingen van medewerkers onderling. Alle medewerkers kennen deze afspraken.</title>
           <description>&lt;p class="MsoNormal"&gt;Ongewenst gedrag gaat over (seksuele) intimidatie, pesten, agressie en geweld, discriminatie, en gebruik van alcohol en drugs.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9675">
@@ -190,7 +190,7 @@
         <risk external-id="R-18615" type="policy">
           <title>Er is een vertrouwenspersoon in het bedrijf aanwezig.</title>
           <description>&lt;p&gt;E&#233;n van de collega's in het bedrijf kan de vaste vertrouwenspersoon zijn. Het kunnen praten over onzekerheid als gevolg van ongewenst gedrag en het krijgen van hulp bij het bespreekbaar maken ervan met de "dader", voorkomt dat bijvoorbeeld pesten lang voortduurt en helpt om ongewenst gedrag te snel te stoppen&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9676">
@@ -202,7 +202,7 @@
         <risk external-id="R-18616" type="policy">
           <title>Er zijn afspraken gemaakt over wat te doen als een klant of bezoeker agressief reageert</title>
           <description>&lt;p class="MsoNormal"&gt;Het gaat hier om agressie en geweld van klanten/bezoekers naar het eigen personeel. Hieronder wordt ook verstaan seksuele intimidatie, vandalisme en discriminatie. &lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9677">
@@ -218,7 +218,7 @@
         <risk external-id="R-18617" type="policy">
           <title>De werk en rusttijden binnen de organisatie worden nageleefd.</title>
           <description>&lt;p&gt;Een werkweek is maximaal 45 uur en de gemiddelde werktijd binnen 13 weken is maximaal 40 uur per week.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9678">
@@ -230,7 +230,7 @@
         <risk external-id="R-18618" type="policy">
           <title>Een werkweek is maximaal 60 uur per week, maximaal 55 uur per 4 weken en over 16 weken niet meer dan 48 uur gemiddeld.</title>
           <description>&lt;p&gt;In de Arbeidstijdenwet staan regels over de lengte van een werkdag, een werkweek en pauzes&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9679">
@@ -242,7 +242,7 @@
         <risk external-id="R-18620" type="policy">
           <title>De regels over werktijden voor jongeren onder 18 jaar worden toegepast</title>
           <description>&lt;p&gt;Jongeren mogen bijv. niet&#160;gedurende de&#160;nacht werken en niet overwerken&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9681">
@@ -254,7 +254,7 @@
         <risk external-id="R-18621" type="policy">
           <title>De regels over werktijden voor zwangeren en pas bevallen vrouwen worden toegepast.</title>
           <description>&lt;p&gt;Deze regels gaan over niet 's nachts werken, niet overwerken, een regelmatig arbeidspatroon&#194;&#160;en tijd krijgen om borstvoeding te geven.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9682">
@@ -270,7 +270,7 @@
         <risk external-id="R-18623" type="policy">
           <title>Er is een bedrijfshulpverleningsplan.</title>
           <description>&lt;p&gt;Op basis van dit plan en het goed functioneren ervan is de werkgever of de BHV-er degene die bij bijv. brand zeker weet of de brandweer nog naar mogelijke slachtoffers moet zoeken en welke wegen de brandweer kan volgen aan de hand van de plattegrond.Het plan bevat onder meer wie de leiding geeft aan de BHV, wie de BHV-ers zijn, dienstroosters van de BHV-ers, plattegronden van het bedrijf met daarop aangegeven vluchtwegen, de plaats van de blusmiddelen, verzamelplaatsen van de mensen die het pand verlaten, eventuele plattegronden voor de brandweer met daarop aangegeven de risicovolle (opslag)plaatsen, opslag van brandbare stoffen of drukvaten (b.v. gasflessen) en de hoofdafsluiter van de gasleiding.&lt;/p&gt;&lt;p&gt;Als kleine incidenten kunnen leiden tot calamiteiten voor het gehele bedrijf en de omgeving, dan is het nodig een bedrijfsnoodplan te maken.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9684">
@@ -282,7 +282,7 @@
         <risk external-id="R-18624" type="policy">
           <title>Er zijn  altijd voldoende BHV-ers aanwezig en inzetbaar.</title>
           <description>&lt;p&gt;Op een locatie tot 50 werknemers is er minimaal 1 bedrijfshulpverlener (BHV-er) aanwezig. Op een locatie tot 250 werknemers is er tenminste 1 per 50 werknemers aanwezig. Bij het aantal werknemers moet het aantal bezoekers/stagiaires worden opgeteld.&#194;&#160; Er zal altijd een BHV-er aanwezig en inzetbaar moeten zijn op het bedrijf. &lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9685">
@@ -294,7 +294,7 @@
         <risk external-id="R-18625" type="policy">
           <title>De bedrijfshulpverleners hebben een adequate opleiding gevolgd.</title>
           <description>&lt;p&gt;Een BHV-er moet levensreddende handelingen kunnen verrichten, een beginnende brand kunnen bestrijden, een ontruiming kunnen begeleiden. De specifieke eisen&#160; van een BHV-er zijn afhankelijk van de risico's in het bedrijf. In de timmerindustrie dient men bekend te zijn in het bestrijden van een beginnende brand in houtopslag, zaagsel, motbunkers en filter- of afzuiginstallatie&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9686">
@@ -306,7 +306,7 @@
         <risk external-id="R-18626" type="policy">
           <title>Er zijn voldoende en juiste blusmiddelen.</title>
           <description>&lt;p&gt;Er zijn blusmiddelen op basis van poeder, kooldioxide en schuim en brandslangen voor water. Welk&#194;&#160; blusmiddel het juiste is, is afhankelijk van de risico's in het bedrijf. &lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9687">
@@ -318,7 +318,7 @@
         <risk external-id="R-18627" type="policy">
           <title>Er is een onderhoudscontract met de leverancier van blusmiddelen</title>
           <description>&lt;p&gt;Vraag bij uw leverancier hoe vaak bijv. het blusapparaat moet worden gecontroleerd op juiste werking&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9688">
@@ -330,7 +330,7 @@
         <risk external-id="R-18628" type="policy">
           <title>Er zijn op voldoende plekken EHBO-middelen aanwezig</title>
           <description>&lt;p class="MsoBodyTextIndent2"&gt;EHBO-middelen dienen in directe omgeving van de werkplekken met&#160; risico beschikbaar te zijn&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9689">
@@ -342,7 +342,7 @@
         <risk external-id="R-18629" type="policy">
           <title>De EHBO-middelen worden regelmatig gecontroleerd op houdbaarheid en volledigheid</title>
           <description>&lt;p&gt;EHBO-middelen dienen op elk moment gereed voor gebruik te zijn en voldoen daarbij aan de gestelde eisen voor bijvoorbeeld steriliteit, houdbaarheid. Verpakkingen dienen altijd in gesloten vorm beschikbaar te zijn. Geopende verpakkingen worden vervangen. Geopende verpakkingen/materialen kunnen altijd nog ingezet worden bij oefeningen. &lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9690">
@@ -354,7 +354,7 @@
         <risk external-id="R-18630" type="policy">
           <title>Alle medewerkers kennen de vluchtroutes en nooduitgangen</title>
           <description>&lt;p class="MsoNormal"&gt;Dit geldt zowel voor de vaste werklocatie als voor de locatie waarop op dat moment gewerkt wordt. Doordat medewerkers zichzelf kunnen redden, kunnen de gevolgen bij calamiteiten beperkt blijven. &lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9691">
@@ -366,7 +366,7 @@
         <risk external-id="R-18631" type="policy">
           <title>De organisatie heeft de preventietaken toegewezen aan &#233;&#233;n of meer preventie medewerker(s).</title>
           <description>&lt;p class="MsoNormal"&gt;Een werkgever met m&#233;&#233;r dan 15 medewerkers moet preventietaken toewijzen werknemers. Een werkgever met ten hoogste 15 medewerkers mag de preventietaken zelf uitvoeren. &lt;/p&gt;&lt;p class="MsoNormal"&gt;Takenpakket Arbocoordinator/ Preventiemedewerker&lt;br/&gt;&#8226;&#160;&#160;&#160; Vervult een intermediair functie tussen personeel arbodienst, werkgever en Arbeidsinspectie&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Is vraagbaak/ informatiepunt voor de arbeidsorganisatie&lt;/li&gt;&lt;li&gt;Beheert de&#160; BHV-organisatie en het Bedrijfsnoodplan&lt;/li&gt;&lt;li&gt;Geeft beleidsondersteuning en/of&#160; adviseert het management&lt;/li&gt;&lt;li&gt;Helpt om bedrijfsnormen, richtlijnen, instructies verder te ontwikkelen&lt;/li&gt;&lt;li&gt;Begeleidt implementaties van diverse normen, richtlijnen, regels en procedures&lt;/li&gt;&lt;li&gt;Voert evaluaties uit en stelt (jaar)verslagen op&lt;/li&gt;&lt;li&gt;Neemt zonodig deel in arbo-commissies of overlegt met de OR/PV&lt;/li&gt;&lt;li&gt;Geeft voorlichting en instructies of laat deze geven&lt;/li&gt;&lt;li&gt;Participeert bij belangrijke investeringen, organisatiewijzigingen en&#160; nieuw- of verbouwplannen&lt;/li&gt;&lt;li&gt;Houdt zich op de hoogte van wetswijzigingen&lt;/li&gt;&lt;li&gt;Houdt het deskundigheidsniveau bij en ontwikkelt dit.&lt;/li&gt;&lt;li&gt;uitvoeren van de maatregelen uit het plan van aanpak, &lt;/li&gt;&lt;li&gt;het geven van voorlichting, het meewerken aan of het opstellen van een RI&amp;amp;E,&lt;/li&gt;&lt;li&gt;het signaleren van risico's en het treffen van maatregelen tegen die risico&#8217;s. &lt;/li&gt;&lt;/ul&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9692">
@@ -378,7 +378,7 @@
         <risk external-id="R-18632" type="policy">
           <title>Bij grotere kantoren en gebouwen is op een plattegrond aangegeven waar men zich bevindt en welke vluchtroutes gebruikt kunnen worden</title>
           <description>&lt;p class="MsoNormal"&gt;Op diverse plekken is goed zichtbaar een plattegrond opgehangen waar medewerkers, bezoekers/derden kunnen zien waar ze nu zijn en waar in geval van nood de nooduitgangen zich bevinden. Er wordt een wenselijke looproute naar de uitgang aangegeven. &lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9693">
@@ -401,7 +401,7 @@ het signaleren van risico's en het treffen van maatregelen tegen die risico&#821
 &#13;
 De preventiemedewerkers (het aantal hangt af van preventietaken en de gewenste organisatie) hebben de kennis en ervaring, de middelen en de tijd, zodat zij de werkgever goed kunnen bijstaan bij de preventietaken. De preventiemedewerker werkt hierbij samen met de OR, de personeelsvertegenwoordiging of de medewerkers die het betreft. Werkgevers die hun preventietaken goed uitvoeren besparen doorgaans aanzienlijk op de kosten van ongevallen, verzuim en stressproblemen. Investeringen in arbeidsomstandigheden en in het personeel renderen meestal goed als het gaat om de sfeer en productiviteit van het bedrijf.</problem-description>
           <description>&lt;p class="MsoBodyText"&gt;Een werkgever met m&#233;&#233;r dan 25 medewerkers moet preventietaken toewijzen aan &#233;&#233;n of meer werknemers. Een werkgever met ten hoogste 25 medewerkers mag de preventietaken zelf uitvoeren. De werkgever hoeft geen speciale medewerker aan te trekken met preventietaken. Preventie kan een onderdeel zijn van de taak van de werkgever zelf of van de taak van &#233;&#233;n of meer werknemers. Voor het gemak wordt echter steeds gesproken over preventiemedewerker. Preventietaken zijn:het meewerken aan of het opstellen van een RI&amp;amp;E, uitvoeren van de maatregelen uit het plan van aanpak, het geven van voorlichting, het signaleren van risico's en het treffen van maatregelen tegen die risico&#8217;s. &lt;/p&gt;&lt;p class="MsoBodyText"&gt;De preventiemedewerkers (het aantal hangt af van preventietaken en de gewenste organisatie) hebben de kennis en ervaring, de middelen en de tijd, zodat zij de werkgever goed kunnen bijstaan bij de preventietaken. De preventiemedewerker werkt hierbij samen met de OR, de personeelsvertegenwoordiging of de medewerkers die het betreft. Werkgevers die hun preventietaken goed uitvoeren besparen doorgaans aanzienlijk op de kosten van ongevallen, verzuim en stressproblemen. Investeringen in arbeidsomstandigheden en in het personeel renderen meestal goed als het gaat om de sfeer en productiviteit van het bedrijf.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9695">
@@ -413,7 +413,7 @@ De preventiemedewerkers (het aantal hangt af van preventietaken en de gewenste o
         <risk external-id="R-18635" type="policy">
           <title>Bij investeringen (machines en hulpmiddelen) worden aspecten met betrekking tot arbeidsomstandigheden en milieu meegenomen in het programma van eisen.</title>
           <description>&lt;p&gt;De preventiemedewerker kan binnen de organisatie er op letten dat er aandacht is voor het opstellen van het programma van eisen aangaande arbeidsomstandigheden.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9696">
@@ -425,7 +425,7 @@ De preventiemedewerkers (het aantal hangt af van preventietaken en de gewenste o
         <risk external-id="R-18636" type="policy">
           <title>Bij nieuwbouw en verbouw en bij de (her)inrichting van werkplekken wordt rekening gehouden met  de eisen op het gebied van arbeidsomstandigheden en milieu (VG&amp;M).</title>
           <description>&lt;p&gt;Bijvoorbeeld op plaatsen in het bedrijf waar het ongevalsrisico hoger ligt door heftruckverkeer, kunnen transportroute en looproute worden&#160; gescheiden. Dit kan in nieuw- of verbouwingsplannen worden meegenomen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9697">
@@ -437,7 +437,7 @@ De preventiemedewerkers (het aantal hangt af van preventietaken en de gewenste o
         <risk external-id="R-18637" type="policy">
           <title>De RI&amp;E wordt aangevuld als zich veranderende risico&#8217;s aandienen.</title>
           <description>&lt;p&gt;De RI&amp;amp;E moet actueel zijn.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9698">
@@ -453,7 +453,7 @@ De preventiemedewerkers (het aantal hangt af van preventietaken en de gewenste o
         <risk external-id="R-18638" type="policy">
           <title>Alle afspraken m.b.t. verzuim en ziekmelding zijn vastgelegd,en met alle betrokkenen besproken, zodat iedereen weet wat van hem verwacht wordt.</title>
           <description>&lt;p&gt;Het vastleggen van afspraken voorkomt onduidelijkheden bij verzuim en verzuim begeleiding. Het maken van afspraken tussen werkgever en werknemer&#194;&#160; is verplicht bij bijv. re&#258;&#379;ntegratie&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9699">
@@ -465,7 +465,7 @@ De preventiemedewerkers (het aantal hangt af van preventietaken en de gewenste o
         <risk external-id="R-18639" type="policy">
           <title>De ondernemingsraad of de personeelsvertegenwoordiging is betrokken geweest bij de afspraken over verzuim.</title>
           <description>&lt;p&gt;De ondernemingsraad heeft instemmingsrecht bij het opzetten van het verzuimbeleid. In kleinere bedrijvenmet 10-50 medewerkers kan de werkgever een personeelsvertegenwoordiging oprichten. Bij geen OR of pvt moet de werkgever minimaal 2 keer per jaar een plenaire personeelsbijeenkomst beleggen voor het voltallige personeel&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9700">
@@ -481,7 +481,7 @@ De preventiemedewerkers (het aantal hangt af van preventietaken en de gewenste o
         <risk external-id="R-18640" type="policy">
           <title>U heeft een contract met een verzuimsteunpunt, arbodienst of gecertificeerde medewerkers.</title>
           <description>&lt;p&gt;Bedrijven en organisaties zijn niet meer verplicht om zich aan te sluiten bij een gecertificeerde arbodienst. Ze zijn in principe vrij om zelf te kiezen welke ondersteuning nodig of gewenst is.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9701">
@@ -493,7 +493,7 @@ De preventiemedewerkers (het aantal hangt af van preventietaken en de gewenste o
         <risk external-id="R-18642" type="policy">
           <title>Medewerkers worden in de gelegenheid gesteld om deel te nemen aan het (periodiek) arbeidsgezondheidkundig onderzoek (PAGO, tegenwoordig PMO geheten).</title>
           <description>&lt;p class="MsoBodyTextIndent" align="left"&gt;Het PAGO (tegenwoordig PMO geheten)&#194;&#160;is een onderzoek op vrijwillige basis. Het onderzoek houdt verband met de risico's tijdens het werk. Uit de RI&amp;amp;E volgt welke risico's er zijn. Een voorbeeld is gehooronderzoek bij hard (schadelijk) geluid op de werkplek. Oogonderzoek bij beeldschermarbeid is een ander voorbeeld. Maar ook onderzoek naar RSI of werkdruk is mogelijk, als dat een risico is in het bedrijf. &lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9703">
@@ -505,7 +505,7 @@ De preventiemedewerkers (het aantal hangt af van preventietaken en de gewenste o
         <risk external-id="R-18644" type="policy">
           <title>Voor de beoordeling van de risico-inventarisatie en -evaluatie wordt een gecertificeerde deskundige ingeschakeld.</title>
           <description>&lt;p&gt;Voor bedrijven met ten hoogste 25 werknemers is toetsing niet nodig indien u gebruik heeft gemaakt van een RI&amp;amp; E instrument, zoals opgenomen in of bij uw CAO. Toetsing van de RI&amp;amp;E vindt plaats onder verantwoordelijkheid van &#233;&#233;n van de vier gecertificeerde deskundigen (bedrijfsarts; veiligheidskundige; arbeidshygi&#235;nist; arbeids- en organisatiedeskundige). Indien u &#233;&#233;n van de vier gecertificeerde deskundigen in dienst heeft, dan kan toetsing van de RI&amp;amp;E door deze medewerker gedaan worden. In de maatwerkregeling kunnen de partijen die de maatwerkregeling aangaan (CAO-partijen, werkgever en OR of PVT) in overleg met gecertificeerde deskundigen bepalen hoe licht of zwaar de toetsing van de RI&amp;amp;E zal zijn. (Dus niet de individuele werkgever.)&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9705">
@@ -521,7 +521,7 @@ De preventiemedewerkers (het aantal hangt af van preventietaken en de gewenste o
         <risk external-id="R-18645" type="policy">
           <title>Ongevallen worden geregistreerd, de oorzaken worden onderzocht en maatregelen worden genomen.</title>
           <description>&lt;p&gt;Het registreren en analyseren van ongevallen en het beoordelen van de risico&#8217;s in de betrokken arbeidssituatie vormen de&#160; basis voor het nemen van gerichte maatregelen om de risico&#8217;s te elimineren of te verminderen en daarmee ook de ernst of of de kans&#160; op ongevallen in de toekomst te verkleinen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9706">
@@ -533,7 +533,7 @@ De preventiemedewerkers (het aantal hangt af van preventietaken en de gewenste o
         <risk external-id="R-18646" type="policy">
           <title>Ongevallen met ernstige gevolgen worden meteen gemeld bij de Arbeidsinspectie.</title>
           <description>&lt;p class="MsoBodyTextIndent2"&gt;Onder een "ernstig ongeval" wordt verstaan lichamelijk of geestelijk letsel dat binnen 24 uur leidt tot opname in een ziekenhuis of letsel dat de dood tot gevolg heeft of grote materi&#258;&#356;le schade. De Arbeidsinspectie verricht dan een ongevalsonderzoek. Het niet melden van ernstige ongevallen wordt gezien als een beboetbaar feit.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9707">
@@ -555,7 +555,7 @@ De preventiemedewerkers (het aantal hangt af van preventietaken en de gewenste o
           <title>Alle machines en gereedschappen in het bedrijf met een productiedatum na 1-1-1995 zijn voorzien van CE-markering en voldoen aan de eisen van de Machinerichtlijn.</title>
           <description>&lt;p&gt;CE-markering is een Europees merkteken.&#194;&#160; Apparatuur met dit merk wordt geacht te voldoen aan de veiligheidseisen zoals deze zijn weergegeven in de Machinerichtlijn. Deze eisen en de bijbehorende CE-markering zijn verplicht voor alle machines met een productiedatum na 1-1-1995.&#194;&#160;&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit  art. 3.19.&lt;/h3&gt;&lt;p&gt;Een arbeidsmiddel wordt vermoed te voldoen aan de artikelen 7.4, eerste en tweede lid, 7.7, 7.10, 7.13, 7.14, 7.15, 7.16. 7.17a, 7.17b, met uitzondering van het vierde lid, en 7.18b, eerste lid, onder a, indien het, overeenkomstig de daarvoor geldende EG-richtlijnen, is voorzien van een CE-markering, vergezeld van een EG-verklaring van overeenstemming, en het arbeidsmiddel overeenkomstig de daarbij behorende gebruiksvoorschriften wordt gebruikt.Indien een arbeidsmiddel slechts voor een of meer onderdelen is voorzien van een CE-markering, vergezeld van een EG-verklaring van overeenstemming, wordt slechts ten aanzien van dat onderdeel respectievelijk die onderdelen vermoed dat het arbeidsmiddel voldoet aan de in het eerste lid genoemde artikelen.&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9656">
@@ -568,7 +568,7 @@ De preventiemedewerkers (het aantal hangt af van preventietaken en de gewenste o
           <title>Alle arbeidsmiddelen in het bedrijf met een productiedatum voor 1-1-1995 voldoen aan de Richtlijn arbeidsmiddelen</title>
           <description>&lt;p&gt;Apparatuur met een productiedatum voor 1-1-1995 moet voldoen aan de Richtlijn arbeidsmiddelen. Deze richtlijn geeft regels voor de minimale veiligheidseisen van het arbeidsmiddel. De richtlijn arbeidsmiddelen en de Machinerichtlijn overlappen elkaar in grote mate. Bij de Machinerichtlijn is men echter in de ontwerpfase al gericht op een veilig ontwerp. &lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit art. 4.6.&lt;/h3&gt;&lt;p&gt;De eisen zijn ontleent aan de Europese richtlijn 89/655/Eeg en 95/63/EG&#194;&#160; (L 335) en vertaald naar het Arbobesluit H7 afd. 1 t/m 4 art. 7.1 t/m 7.22; afd 6 art. 7.38 t/m 7.42 en eventueel daar aan gekoppelde beleidsregels en NEN-EN normering.&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-10176">
@@ -580,7 +580,7 @@ De preventiemedewerkers (het aantal hangt af van preventietaken en de gewenste o
         <risk external-id="R-18596" type="policy">
           <title>Alle houtbewerkingsmachines zijn in goede staat en voldoen aan de uitvoeringseisen.</title>
           <description>&lt;p&gt;Houtbewerkingsmachines zijn gevaarlijke machines. Zij zijn onderworpen aan strenge veiligheidseisen die zijn vastgelegd in de Machinerichtlijn voor machines met een productie datum na 1-1-1995&#160;( deze machines hebben een CE-markering) en in de richtlijn Arbeidsmiddelen voor machines met een productiedatum voor 1-1-1995. Als machines met productie datum voor 1-1-1995 ingrijpend worden veranderd (aangepast) dan moeten zij daarna voldoen aan de Machinerichtlijn. Het voorgaande geldt uiteraard ook voor combinaties van machines in een lijn direct aan elkaar verbonden (zogenaamde straat). De eigenaar van de machine is in de meeste gevallen verantwoordelijk&#160;(bij ingrijpende aanpassingen) en moet zorg dragen voor de (veiligheids) beoordeling en juiste documentatie bij de (combinatie)machine. Beitelblokken (snijgereedschap) voor houtbewerkingsmachines met handmatige invoer (MAN-machines) moeten voldoen aan NEN-EN 847-1.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9658">
@@ -593,7 +593,7 @@ De preventiemedewerkers (het aantal hangt af van preventietaken en de gewenste o
           <title>Alle houtbewerkingsmachines zijn in goede staat.</title>
           <description>&lt;p&gt;Houtbewerkingsmachines zijn onderworpen aan strenge veiligheidseisen die zijn vastgelegd in de Machinerichtlijn voor machines met een productie datum voor 1-1-1995&#194;&#160; en in de richtlijn Arbeidsmiddelen voor machines met een productiedatum voor 1-1-1995. Als machines met productie datum voor 1-1-1995 ingrijpend worden veranderd (aangepast) dan moeten zij daarna voldoen aan de Machinerichtlijn. De eigenaar van de machine is in de meeste gevallen verantwoordelijk bij (ingrijpende aanpassingen) en moet zorg dragen voor de (veiligheids) beoordeling en juiste documentatie bij de machine. &lt;/p&gt;&lt;br/&gt;&lt;p&gt;Beitelblokken (snijgereedschap) voor houtbewerkingsmachines met handmatige invoer (MAN-machines) moeten voldoen aan NEN-EN 847-1.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit art. 4.4.&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9659">
@@ -606,7 +606,7 @@ De preventiemedewerkers (het aantal hangt af van preventietaken en de gewenste o
           <title>De afzuig- en filterinstallatie(s) in gebruik bij de houtbewerking worden periodiek onderhouden en beoordeeld op juiste werking.</title>
           <description>&lt;p class="MsoBodyTextIndent2"&gt;Afzuig- en filterinstallatie(s) bij houtbewerking moeten aan veel regels voldoen. Van toepassing is o.a. de regelgeving op het gebied van explosiebeveiliging (ATEX) Deze voorschriften moeten worden vertaald naar de installatie in uw bedrijf en daaraan voldoen (Explosieveiligheidsdocument). Indien de installatie is voorzien van CE merkteken en Ex markering en de overige bijbehorende verklaringen dan moet verondersteld worden dat aan de voorschriften is voldaan en alle minimaal vereiste maatregelen zijn genomen.&#194;&#160; &lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit art. 4.5&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9660">
@@ -621,7 +621,7 @@ De preventiemedewerkers (het aantal hangt af van preventietaken en de gewenste o
           <legal-reference>&lt;h3&gt;Wettelijk kader Europese richtlijn 1999/92/EG (ATEX-137)  voor arbeidsplaatsen (werkgever).&#13;
 &#13;
 Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9661">
@@ -642,7 +642,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-18662" type="risk">
           <title>Er is voldoende ruimte om bij de verfapplicatie goed en veilig te kunnen werken</title>
           <description>&lt;p&gt;Het is belangrijk dat er rondom, in de spuitcabine en voor de afzuigwand voldoende ruimte is voor de werknemer. Hij of zij moet de werkzaamheden op zodanige wijze kunnen uitvoeren dat de met oplosmiddelendamp en verfdeeltjes verontreingde lucht niet via zijn&#160; ademzone wordt afgevoerd. Belangrijk&#160; aspect hierbij is dat de gespoten of gedompelde producten uitdampen en drogen in een daarvoor geschikte ruimte niet zijnde een werkruimte&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9721">
@@ -654,7 +654,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-18663" type="risk">
           <title>De aanmaak van verfproducten geschiedt in een daarvoor geschikte ruimte.</title>
           <description>&lt;p&gt;Het mengen en aanmaken van verfproducten vindt plaats onder lokale afzuiging en het gebruik van de afgesproken hulpmiddelen. Hierbij wordt inademing van dampen zoveel mogelijk voorkomen&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9723">
@@ -666,7 +666,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-18666" type="risk">
           <title>De afzuiginrichting met bijhorende spuitbox of wand voorkomt risico's op blootstelling aan gevaarlijke stoffen</title>
           <description>&lt;p&gt;Er is vastgesteld dat de afzuiginstallatie een juiste werking heeft en voorkomt dat bij spuitwerkzaamheden met gevaarlijke stoffen risico's&#160;voor de gezondheid optreden bij de werknemers&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9725">
@@ -678,7 +678,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-18668" type="policy">
           <title>De afzuig- en filterinstallatie(s) in gebruik bij spuitwerkzaamheden worden periodiek onderhouden en beoordeeld op juiste werking.</title>
           <description>&lt;p&gt;Afzuig- en filterinstallatie(s) in gebruik bij verwerking van verfproducten worden periodiek beoordeeld op veiligheid en juiste werking conform de voorschriften van de fabrikant/leverancier. De gegevens worden vastgelegd in een logboek.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9726">
@@ -690,7 +690,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-18669" type="policy">
           <title>De afzuig- en filterinstallatie(s) bij spuitwerkzaamheden voldoen aan de wet- en regelgeving.</title>
           <description>&lt;p&gt;Afzuig- en filterinstallatie(s) bij spuitwerkzaamheden moeten aan veel regels voldoen. Van toepassing is o.a. de regelgeving op het gebied van explosiebeveiliging (ATEX) Deze voorschriften moeten worden vertaald naar de installatie in uw bedrijf en daaraan voldoen (Explosieveiligheidsdocument). Indien de installatie is voorzien van CE merkteken en Ex markering en de overige bijbehorende conformiteitsverklaringen dan moet verondersteld worden dat aan de voorschriften is voldaan en alle minimaal vereiste maatregelen zijn genomen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9727">
@@ -711,7 +711,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-18700" type="policy">
           <title>Er zijn voldoende sanitaire voorzieningen aanwezig.</title>
           <description>&lt;p&gt;Als richtlijn kan hetvolgende gehanteerd worden: in elk bedrijf waar mensen werken moet ten minste 1 [schoon en goed geventileerd] toilet aanwezig zijn. Als in een bedrijf doorgaans &amp;gt; 10 werknemers gelijktijdig werken, is voor iedere 15 werknemers van hetzelfde geslacht ten minste 1 toilet aanwezig. Voor mannen mag voor een deel met urinoirs worden volstaan mits er ten minste 1 toilet voor iedere 25 of minder mannen aanwezig is. In of in de onmiddellijke nabijheid van de ruimten waarin de toiletten en urinoirs zich bevinden, zijn voldoende wasbakken aanwezig. De wasbakken zijn doelmatig geplaatst en beschikken over stromend water. Afhankelijk van het soort werk zijn er ook douches aanwezig&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9751">
@@ -723,7 +723,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-18701" type="policy">
           <title>Er is een ruimte waar het personeel zich kan omkleden en eigen kleding kan opbergen.</title>
           <description>&lt;p&gt;Als werknemers werkkleding moeten dragen moet in de nabijheid van de werkplek kleedruimte beschikbaar zijn. Voor de kleding die de werknemer tijdens het werk niet draagt moet een afsluitbare kledingkast beschikbaar te zijn. Voor mannen en vrouwen moeten gebruik kunnen maken van gescheiden kleedruimtes.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9750">
@@ -744,7 +744,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-18702" type="policy">
           <title>Er is pauzeruimte aanwezig, met voldoende zitgelegenheid.</title>
           <description>&lt;p&gt;Als werknemers volgens het Arbeidstijdenbesluit recht hebben op een pauze, moeten zij deze buiten de werkruimte kunnen houden.&#160;Het schaftlokaal / de kantine moet schoon zijn, voldoende groot&#160; en voorzien van voldoende zitplaatsen en tafels&#160;voor het verwachte aantal personen dat tegelijkertijd pauzeert.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9752">
@@ -756,7 +756,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-18703" type="policy">
           <title>De werk- en pauzeruimten zijn rookvrij.</title>
           <description>&lt;p&gt;Er geldt in bedrijfsruimten en op werkplekken een rookverbod. Per 1 januari 2004 moet elke medewerker op een rookvrije werkplek kunnen werken en pauzeren.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9753">
@@ -778,7 +778,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-18677" type="policy">
           <title>Er is voldoende opbergruimte.</title>
           <description>&lt;p&gt;Bij voldoende opbergruimte (afsluitbare kasten en eventueel stellingen) in de kantoorruimte hoeven de vloeren en bureaus niet gebruikt te worden als (tijdelijke) opslag.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9733">
@@ -790,7 +790,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-18678" type="risk">
           <title>Printers en kopieermachines staan gescheiden opgesteld van de medewerkers.</title>
           <description>&lt;p&gt;In verband met geluid, stof (en bij oudere typen ook ozon) en de opwarming van de werkruimte is plaatsing van deze kantoormachines in de directe nabijheid van de medewerker(s) niet gewenst. Het beste kan men deze apparaten onderbrengen in een andere ruimte, met als voordeel dat er voor printen en kopi&#258;&#356;ren door de betrokken medewerkers gelopen moet worden. Dit lopen onderbreekt het langdurig in dezelfde houding werken en zorgt voor een goede doorbloeding van het lichaam. Een extra voordeel is dat deze ruimte tevens goed kan worden geventileerd.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9734">
@@ -802,7 +802,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-18681" type="risk">
           <title>Alle snoeren en kabels in het kantoor zijn netjes weggewerkt.</title>
           <description>&lt;p class="MsoBodyTextIndent2"&gt;Losse snoeren en kabels zorgen voor struikelrisico en extra risico op slijtage of breuk.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9735">
@@ -815,7 +815,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
           <title>De temperatuur en verse luchttoevoer zijn goed te regelen.</title>
           <description>&lt;p&gt;Door een thermostaat en door het openen van ramen kunnen individuele medewerkers het klimaat regelen in hun directe werkomgeving. Bij een klimaatinstallatie en mechanische ventilatie kunnen het beste op afdelingsniveau en per ruimte afspraken worden gemaakt over de instelling.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit art. 6.1, art. 6.2.&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9736">
@@ -828,7 +828,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
           <title>Alle kantoorstoelen zijn instelbaar.</title>
           <description>&lt;p class="MsoBodyTextIndent2"&gt;De hoogte, het zitvlak en de rugleuning zijn instelbaar en de rugleuning heeft een lendensteun. De armleuningen zijn instelbaar en hebben een korte armsteun. Dit geldt niet voor vergaderstoelen.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader NEN 1824&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9741">
@@ -841,7 +841,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
           <title>Er zijn voldoende grote werktafels of bureaus aanwezig en deze zijn eventueel in hoogte verstelbaar.</title>
           <description>&lt;p&gt;Voldoende groot is minimaal 120 cm bij 60 cm, maar het liefst dieper (80 cm). Dieper omdat er vaak een beeldscherm en toetsenbord op geplaatst worden en het beeldscherm op een afstand van ca. 60 cm van een werknemer moet staan.&#194;&#160; In hoogte verstelbare tafels zijn geschikt voor medewerkers met verschillende lengtes. Zorg er voor dat hoogte instelbare tafels door de medewerker zelf kunnen worden ingesteld, door bijvoorbeeld een hendeltje. Anders moet telkens de technische dienst worden ingeschakeld.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arboregeling art. 5.1&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9743">
@@ -854,7 +854,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
           <title>Er wordt op juiste wijze gewerkt met beeldschermen (Beeldschermarbeid).</title>
           <description>&lt;p&gt;Het veelvuldig moeten aannemen van statische werkhoudingen, zoals bij beeldschermwerk&#194;&#160; lijkt lichamelijk weinig belastend. Wie een groot deel van de dag lekker kan zitten, heeft toch nergens last van? Dit is echter een groot misverstand. Langdurig zitten prijkt boven aan de lijst van belastende werkhoudingen. Spieren worden namelijk onvoldoende of verkeerd belast, de rug zakt door. De werknemer wordt niet alleen moe, maar krijgt ook klachten door verkorting van spieren en overbelasting van de wervelkolom. Bij het werken met beeldschermen komen daar nog de vermoeidheidsklachten aan de ogen en pijn in de handen van het typen bij. Voor beeldschermarbeid gelden speciale regels m.b.t. tijd, werkplekafmetingen.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arboregeling 5.1&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9746">
@@ -867,7 +867,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
           <title>Spiegeling van verlichting of daglicht in beeldschermen is afwezig.</title>
           <description>&lt;p&gt;Onbeschermde t.l.-buizen spiegelen altijd in het beeldscherm Plaats afgeschermde t.l.-verlichting in de lengterichting op het beeldscherm: er ontstaat als het ware een kruis tussen verlichting en bureaulengte.&lt;/p&gt;</description>
           <legal-reference>&lt;h3&gt;Wettelijk kader Arboregeling art. 5.2.&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9748">
@@ -888,7 +888,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-18704" type="policy">
           <title>Magazijn of opslagruimte voldoen aan wet- en regelgeving.</title>
           <description>&lt;p class="MsoBodyTextIndent" align="left"&gt;Bij deze vraag is bedoeld opslag van grondstoffen en hout . Opslag en magazijnen moeten aan bepaalde regels voldoen m.b.t. brand- en explosie alsmede veiligheid rond o.a. vallende voorwerpen, sterktes van stellingen en verkeersroutes. Het Arbo Informatieblad AI-14 geeft uitgebreide informatie over bedrijfsruimten, inrichting, transport en opslag.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9754">
@@ -900,7 +900,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-18705" type="policy">
           <title>De opslag of het magazijn wordt goed onderhouden.</title>
           <description>&lt;p&gt;Onder onderhoud wordt verstaan schoon en opgeruimd. Opruimen heeft ook te maken met een vrije vloerruimte zodat struikelgevaar wordt voorkomen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9756">
@@ -912,7 +912,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-18707" type="risk">
           <title>Materialen worden in de stellingen en kasten volgens de voorschriften opgeslagen.</title>
           <description>&lt;p&gt;Hierbij valt te denken aan:&lt;/p&gt;&lt;p&gt;- maximale belastbaarheid van stellingen;&lt;/p&gt;&lt;p&gt;- borgen van liggers van stellingen tegen uitlichten;&lt;/p&gt;&lt;p&gt;- geen beschadigde staanders of liggers;&lt;/p&gt;&lt;p&gt;- goede basis/hoogte verhouding (zonodig koppelstangen of verankering;&lt;/p&gt;&lt;p&gt;- stellingen moeten loodrecht staan;&lt;/p&gt;&lt;p&gt;- goed (verticaal) stapelen i.o.m. het product (voorkom wegzakken);&lt;/p&gt;&lt;p&gt;- geen kapotte pallets gebruiken.&lt;/p&gt;&lt;p&gt;De leverancier van de stellingen en kasten kan informatie verstrekken over de maximale belasting van de leggers van de stellingen en de belasting van de borden in de kasten en over eventuele aanvullende voorschriften.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9757">
@@ -924,7 +924,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-18709" type="risk">
           <title>Stellingen en kasten zijn zo geplaatst dat zij niet kunnen omvallen.</title>
           <description>&lt;p&gt;De leverancier van de stellingen en kasten kan over plaatsingsvoorschriften informatie verstrekken. Stellingen zijn bijv. altijd voorzien van schoorbanden. Smalle en hoge stellingen moeten bijv. aan de bovenzijde ook worden vastgemaakt. Dat is zeker belangrijk als er regelmatig alleen boven in goederen liggen of als er botsgevaar door bijv. heftrucks mogelijk is.&lt;/p&gt;&lt;p&gt;Verder is het van belang om te zorgen voor aanrijdbeveiligingen bij inrijdstellingen en bij de kopse kant van palletstellingen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9759">
@@ -936,7 +936,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-18711" type="risk">
           <title>De vloer beschikt over voldoende draagvermogen.</title>
           <description>&lt;p&gt;Het draagvermogen van (verdiepings)vloeren dient minimaal gelijk te zijn aan het gewicht van de kast(en)&#160; of stelling(en) inclusief de goederen die erop geplaatst kunnen worden in combinatie met de gebruikte transportmiddelen met daarop de te transporteren goederen die op dat moment vervoerd worden.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9760">
@@ -948,7 +948,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-18712" type="policy">
           <title>Klimmateriaal zoals trapjes en ladders voldoen aan de eisen voor klimmateriaal.</title>
           <description>&lt;p&gt;Met name eigen gemaakte ladders en trappen moeten voldoen aan de voor klimmateriaal eisen. Bij voorkeur wordt klimmateriaal periodiek gekeurd (1 x per jaar).&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9761">
@@ -960,7 +960,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-18713" type="risk">
           <title>Er worden alleen materialen handmatig getransporteerd (aan- en afvoer) als de belasting is toegestaan.</title>
           <description>&lt;p&gt;Materialen&#160;worden in een aantal gevallen handmatig aangevoerd om&#160;te bewerken zoals panelen, spaanplaat, planken, balken, etc. Afvoer, opslag alsmede expeditie van eindproducten, betreffen ook regelmatig producten&#160;die zwaarder zijn dan 25 kg.&#160; Goede afspraken voorkomen onduidelijkheden over tilfrequentie met bijbehorend maximum tilgewicht en daardoor te zware belasting voor leveranciers, afnemers en werknemers. &lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9762">
@@ -972,7 +972,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-18716" type="policy">
           <title>Er zijn voldoende transport- en hulpmiddelen aanwezig om het materiaal in het bedrijf te transporteren.</title>
           <description>&lt;p class="MsoBodyTextIndent" align="left"&gt;Bij transport- en hulpmiddelen moet gedacht worden aan karretjes, hondjes, heftafels, handbediende palletheffers, heftruck, zijladers, etc.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9763">
@@ -984,7 +984,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-25320" type="policy">
           <title>Verbindingswegen, deuren, hekken en doorgangen zijn veilig uitgevoerd voor transport.</title>
           <description>&lt;p&gt;Een aantal aandachtspunten voor verbindingswegen zijn:&lt;/p&gt;&lt;p&gt;- bij grotere ruimten: scheiding van voetgangers en transportmiddelen; (looproute minimaal 80 cm breed; transportroute voldoende breed gegeven maximale breedte transportvoertuig en &#233;&#233;n- of tweerichtingverkeer);&lt;br/&gt;-voldoende ruimte bij bochten en hulpmiddelen bij onoverzichtelijke bochten/kruisingen (spiegels, waarschuwingslichten);&lt;br/&gt;-verbindingswegen met valgevaar voorzien van opstaande randen;&lt;br/&gt;- geen arbeidsplaatsen bij de transportroute.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-15956">
@@ -996,7 +996,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-18718" type="policy">
           <title>Als er transportmiddelen of hulpmiddelen worden gebruikt voor het laden en lossen van goederen, dan zijn de gangpaden voldoende breed.</title>
           <description>&lt;p&gt;Magazijnheftrucks en andere typen transportmiddelen moeten de ruimte hebben om te kunnen rijden en draaien. Die ruimte betreft de omvang van het transportmiddel plus de omvang of de lengte van het te verplaatsen materiaal.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9766">
@@ -1008,7 +1008,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-25321" type="risk">
           <title>Vloeren zijn schoon en vrij van obstakels en oneffenheden.</title>
           <description></description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-15959">
@@ -1020,7 +1020,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-25322" type="risk">
           <title>Heftrucks zijn veilig uitgerust.</title>
           <description>&lt;p&gt;Denk hierbij aan maatregelen bij kantelgevaar: cabine met deuren, veiligheidsgordel of -beugel.&lt;/p&gt;&lt;p&gt;Verder de aanwezigheid van een stroomonderbreker bij heftrucks met vaste zit- of staanplaats.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-15960">
@@ -1032,7 +1032,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-25323" type="policy">
           <title>Voertuigen voor intern transport worden electrisch aangedreven of hebben voorzieningen om uitstoot van uitlaatgassen te beperken.</title>
           <description>&lt;p&gt;Ter voorkoming van de uitstoot van roet- en fijnstofdeeltjes (dieselmotoremissie) mogen in omsloten ruimten (tenminste drie aansluitende wanden en een dak) geen dieselheftrucks worden gebruikt met een lastvermogen van minder dan 4 ton. Dieselheftrucks met een lastvermogen van meer dan 4 ton mogen alleen gebruikt worden als ze voorzien zijn van een goed roetfilter (rendement minstens 70 %).&lt;/p&gt;&lt;p&gt;LPG-heftrucks moeten zijn voorzien van een uitlaatgaskatalysator op de uitlaat.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-15961">
@@ -1044,7 +1044,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-18719" type="policy">
           <title>Alle transport- en hijsmiddelen zijn in goede staat.</title>
           <description>&lt;p&gt;Beoordelingslijsten voor transport- en hijsmiddelen zijn ontwikkeld door SKH ten behoeve van o.a. de timmerindustrie. U kunt ze downloaden via de URL: &lt;/p&gt;&lt;a href="http://www.skh.org/" rel="nofollow" target="_blank"&gt;www.skh.org&lt;/a&gt;&lt;p&gt;.&#160;&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9767">
@@ -1056,7 +1056,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-18720" type="risk">
           <title>De medewerkers volgen de gebruiksinstructies voor de hijs- en transportmiddelen op.</title>
           <description>&lt;p&gt;Medewerkers dienen voorlichting en instructie te hebben ontvangen over de inzet van hijs- en transportmiddelen alvorens zij hiermee arbeid gaan verrichten. In een aantal gevallen is een wettelijk erkend rijbewijs noodzakelijk zoals bij vrachtauto's.&lt;/p&gt;&lt;p&gt;Bij heftruck dient veel aandacht besteed te worden aan veilig rijgedrag: stabiele last op de vorken, geen hoog geheven lasten, vooruitrijden, geven van geluidsignalen in onoverzichtelijke situaties, lage snelheid, vergrendelde vorken, en heftruck niet gebruiken voor vervoer of heffen van andere werknemers.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9768">
@@ -1068,7 +1068,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-25349" type="policy">
           <title>In vracht- en bestelauto's voldoet de chauffeursstoel aan ergonomische eisen.</title>
           <description>&lt;p&gt;Chauffeursstoelen voldoen bij voorkeur aan de&#160; specificaties van BGZ-wegvervoer (kwaliteitsmerk) en de norm NEN 5518:1994.&lt;br/&gt;Belangrijke specificaties zijn:&lt;br/&gt;- basis van de stoel bestaat uit een solide open frame (goede ventilatie);&lt;br/&gt;- de zitting is voor- en achterwaarts te verstellen;&lt;br/&gt;- de rugleuning is traploos kantelbaar en voorzien van instelbare zijwangen en een mechanische lendensteun;&lt;br/&gt;- de hoofdsteun is kantelbaar en in hoogte verstelbaar;&lt;br/&gt;- de armleuningen zijn traploos verstelbaar;&lt;br/&gt;- de stoel is trillingsvrij (bijv. door luchtvering);&lt;br/&gt;&#160;&lt;br/&gt;Meer informatie hierover is te verkrijgen via BGZ Wegvoer (URL: &lt;a href="http://www.bgzwegvervoer.nl/" rel="nofollow" target="_blank"&gt;www.bgzwegvervoer.nl&lt;/a&gt;).&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-15981">
@@ -1080,7 +1080,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-25350" type="policy">
           <title>Chauffeurs zijn geinstrueerd over de instelmogelijkheden van de stoel.</title>
           <description>&lt;p&gt;Een juiste instelling van de chauffeursstoel kan fysieke klachten en vermoeidheid voorkomen.&lt;/p&gt;</description>
-          <show-not-applicable>yes</show-not-applicable>
+          <show-not-applicable>true</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-15982">
@@ -1101,7 +1101,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-25351" type="risk">
           <title>Er is voldoende ruimte op de werkplekken om goed en veilig te kunnen werken.</title>
           <description>&lt;p&gt;Het is van belang dat er rondom machines en gevaarlijke gereedschappen voldoende ruimte is en dat er geen risico is op vallen, struikelen en stoten.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-15983">
@@ -1113,7 +1113,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-25352" type="policy">
           <title>De werkplekken worden regelmatig opgeruimd en schoongehouden.</title>
           <description>&lt;p&gt;Goed opgeruimde en schone werkplekken verminderen het risico op ongelukken en dragen bij aan het beperken van blootstelling aan gevaarlijke stoffen.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-15984">
@@ -1125,7 +1125,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-25353" type="policy">
           <title>Alle machines en gereedschappen verkeren in goede staat.</title>
           <description>&lt;p&gt;Machines met een productie datum na 1-1-1995 moeten voldoen aan de Machinerichtlijn en met een productiedatum&#160;voor 1-1-1995 aan de richtlijn Arbeidsmiddelen. De eigenaar van de machine&#160; moet zorg dragen voor de (veiligheids) beoordeling en juiste documentatie bij de machine.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-15985">
@@ -1137,7 +1137,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-25354" type="risk">
           <title>Bij werkzaamheden als schuren, slijpen en lassen wordt gebruik gemaakt van goede afzuiging.</title>
           <description>&lt;p&gt;Bij dit soort werkzaamheden komen stof en dampen vrij. Deze dienen direct afgevoerd te worden via een afzuiginstallatie.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-15986">
@@ -1149,7 +1149,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-25355" type="risk">
           <title>Bij het werken met olie, smeermiddelen, oplosmiddelen, etc. wordt contact met de handen zoveel mogelijk voorkomen.</title>
           <description>&lt;p&gt;Bij het gebruik van dit soort producten kan er bij blootstelling van de handen opname van stoffen via de huid in het lichaam plaatsvinden. Daarnaast zijn sommige producten irriterend voor de huid of kunnen allergieen veroorzaken.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-15987">
@@ -1166,7 +1166,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18648" type="policy">
         <title>Het gebouw  en de bedrijfsruimten worden goed onderhouden.</title>
         <description>&lt;p&gt;Goed onderhouden gebouwen en ruimten vormen een basis voor&#160;gemotiveerde arbeid in een goede werkomgeving. Dit komt de kwaliteit van het werk en het product ten goede.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9709">
@@ -1178,7 +1178,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18649" type="policy">
         <title>De elektriciteitsleidingen, verwarming, gas- en watervoorzieningen zijn in orde en worden goed onderhouden.</title>
         <description>&lt;p class="MsoBodyTextIndent" align="left"&gt;Kunnen de elektrische installaties veilig worden gebruikt? Zijn beveiligings-, meet-, controle- en signaleringstoestellen, schakelaars en contactdozen veilig uitgevoerd en liggen er geen losse leidingen en bedrading op de vloer.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9710">
@@ -1190,7 +1190,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18650" type="policy">
         <title>Op plaatsen waar gewerkt wordt is goede verlichting en daglichttoetreding aanwezig.</title>
         <description>&lt;p class="MsoBodyTextIndent" align="left"&gt;Daglicht en uitzicht. Iedereen heeft behoefte aan daglicht en uitzicht naar buiten. Niet omdat dat lekker afleidt, maar omdat je zonder daglicht en uitzicht minder blijkt te presteren. Zonder daglicht en uitzicht kan een 'opgesloten' gevoel ontstaan. De meeste mensen zouden dan ook het liefst altijd in daglicht werken. Iedereen moet goed kunnen lezen en zien, zonder extra inspanning.&lt;/p&gt;&lt;p&gt;Werkplekverlichting. Kunstlicht is in vrijwel alle binnensituaties onmisbaar voor een goede werkplekverlichting. Een slechte werkplekverlichting leidt tot oogklachten, vermoeidheid [branderige en droge ogen] en hoofdpijnklachten. Hinder ontstaat bij te veel of te weinig licht, en bij spiegeling. De kans op het maken van fouten neemt hierdoor toe. Bovendien werkt een slechte verlichting een slechte werkhouding in de hand, met als mogelijke gevolgen rug-, schouder- of nekklachten.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9711">
@@ -1202,7 +1202,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18651" type="policy">
         <title>Op plaatsen waar niet gewerkt wordt, zoals een trappenhuis, is verlichting aanwezig.</title>
         <description>&lt;p class="MsoBodyTextIndent" align="left"&gt;Trappenhuizen met in begrip van vluchtwegen moeten onder alle omstandigheden zodanig verlicht zijn dat werknemers zonder risico&#8217;s deze route kunnen nemen. Er mag geen onveiligheid noch een onveilig gevoel zijn. In noodgevallen moet de verlichting onafhankelijk van het elektriciteitsnet binnen 15 seconden branden daar waar het een vluchtroute betreft (noodverlichting).&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9712">
@@ -1214,7 +1214,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18652" type="risk">
         <title>Het gebouw is asbestvrij of het aanwezige asbest kan niet vrijkomen.</title>
         <description>&lt;p&gt;Als er asbest aanwezig is hoeft dat geen bezwaar te zijn, zolang het maar met rust wordt gelaten. Onderhoudspersoneel moet weten op welke plekken asbest aanwezig is. Een gat boren in asbesthoudend materiaal of plaatwerk is verboden.&#160; Alleen gespecialiseerde bedrijven mogen asbest verwijderen. Werken met asbesthoudende materialen&#160; als halffabrikaat of grondstof is verboden.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9713">
@@ -1226,7 +1226,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18653" type="policy">
         <title>Nooduitgangen zijn duidelijk aangegeven en zijn vrij toegankelijk.</title>
         <description>&lt;p class="MsoBodyTextIndent2"&gt;Zonder dat er iets verschoven hoeft te worden of zonder dat er een sleutel gehaald hoeft te worden, kan de nooduitgang meteen geopend worden. Boven de nooduitgang zit de voorgeschreven aanduiding voor vluchtweg die onafhankelijk van het elektriciteitsnet verlicht wordt bij calamiteiten.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9714">
@@ -1238,7 +1238,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18654" type="policy">
         <title>De werkplekken in de bedrijfsruimte worden goed schoongemaakt.</title>
         <description>&lt;p class="MsoBodyTextIndent" align="left"&gt;Om veilig en gezond de werkzaamheden te kunnen verrichten moet op de arbeidsplaats afval&#160;regelmatig worden verwijderd. Zaagsel, stof en spaanders moeten worden opgezogen met een geschikte stofzuiger.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9715">
@@ -1250,7 +1250,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18656" type="policy">
         <title>Alle machines en gereedschappen in het bedrijf met een productiedatum na 1-1-1995 zijn voorzien van CE-markering en voldoen aan de eisen van de Machinerichtlijn. Dit geldt ook voor combinaties van machines (een zogenaamde straat)</title>
         <description>&lt;p&gt;CE-markering is een Europees merkteken.&#160; Apparatuur met dit merk wordt geacht te voldoen aan de veiligheidseisen zoals deze zijn weergegeven in de Machinerichtlijn. Deze eisen en de bijbehorende CE-markering zijn verplicht voor alle machines en combinaties van machines met een productiedatum na 1-1-1995. Machines met een productiedatum voor 1-1-1995 moeten voldoen aan de Arbeidsmiddelenrichtlijn&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9716">
@@ -1262,7 +1262,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18657" type="policy">
         <title>Alle arbeidsmiddelen in het bedrijf met een productiedatum voor 1-1-1995 voldoen aan de Richtlijn arbeidsmiddelen.</title>
         <description>&lt;p class="MsoBodyTextIndent2"&gt;Apparatuur met een productiedatum voor 1-1-1995 moet voldoen aan de Richtlijn arbeidsmiddelen. Deze richtlijn geeft regels voor de minimale veiligheidseisen van het arbeidsmiddel. De richtlijn arbeidsmiddelen en de Machinerichtlijn overlappen elkaar in grote mate. Bij de Machinerichtlijn is men echter in de ontwerpfase al gericht op een veilig ontwerp.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9717">
@@ -1274,7 +1274,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18658" type="policy">
         <title>Er is een onderhoudslogboek van alle gereedschappen, machines, hijs- en transportmiddelen.</title>
         <description>&lt;p&gt;Op elk arbeidsmiddel zijn onderhoudsvoorschriften van toepassing.&#160; In een aantal gevallen dient periodiek een keuring/beoordeling&#160; plaats te vinden door een deskundige. Deze voorschriften zijn in een logboek vastgelegd en telkens wordt opgetekend als uitvoering heeft plaats gevonden.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9718">
@@ -1294,7 +1294,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-18727" type="policy">
           <title>Wanneer werknemers op een andere locatie moeten werken worden ze voorafgaand aan de werkzaamheden voorgelicht over risico&#8217;s en maatregelen.</title>
           <description>&lt;p&gt;Als er arbeid wordt verricht door&#160; werknemers op andere plaatsen buiten het eigen bedrijf, ontvangen&#160; ze&#160; voor aanvang van de werkzaamheden alle noodzakelijke informatie over de risico&#8217;s en de maatregelen ter beperking daarvan. Het is belangrijk dat er duidelijke afspraken zijn gemaakt met de opdrachtgever over wat wel- en niet op de betrokken locatie mag worden gedaan&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9773">
@@ -1306,7 +1306,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-18728" type="risk">
           <title>Het personeel is deskundig om met deze risico&#8217;s op lokatie om te gaan.</title>
           <description>&lt;p&gt;Deskundig betekent dat ze de risico&#8217;s&#160; kennen en weten hoe er mee om te gaan. In sommige bedrijfstakken is het gebruikelijk om gecertificeerd personeel in te huren: Mensen die op een bepaald terrein een goede en vastgestelde basisopleiding hebben gehad. Bijvoorbeeld het VCA-certificaat voor bedrijven werkzaam in de bouw&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9774">
@@ -1318,7 +1318,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-18729" type="policy">
           <title>Alle werknemers zijn voorgelicht over de juiste manier van werken.</title>
           <description>&lt;p&gt;De voorlichting kan gaan over:&lt;br/&gt;- de manier van werken, inclusief het gebruik van de hulpmiddelen;&lt;br/&gt;- waar en bij wie problemen gemeld kunnen worden.&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;br/&gt;Denk ook aan het inwerken van uitzendkrachten en houdt bij voorlichting rekening met eventuele bijzondere groepen als anderstaligen. &lt;/p&gt;&lt;p&gt;Als er&#160; werknemers van meerdere werkgevers samenwerken, dan is het nodig duidelijke afspraken te maken waar problemen gemeld moeten worden. &lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9775">
@@ -1330,7 +1330,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-18730" type="policy">
           <title>De hulpmiddelen die gebruikt moeten worden zijn aanwezig.</title>
           <description>&lt;p&gt;Bij hulpmiddelen moet gedacht worden aan ladders, steekwagens voor transport, eventueel steigerwerk, sanitaire unit, etc.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9776">
@@ -1342,7 +1342,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <risk external-id="R-18731" type="policy">
           <title>Er is een duidelijke afspraak over wie toezicht houdt op het (gezamenlijke) werk.</title>
           <description>&lt;p&gt;Als er werknemers van meerdere werkgevers samenwerken, dan moet duidelijk zijn wie eindverantwoordelijk is voor de juiste manier van werken en de controle daarvan.&lt;/p&gt;</description>
-          <show-not-applicable>no</show-not-applicable>
+          <show-not-applicable>false</show-not-applicable>
           <evaluation-method>direct</evaluation-method>
           <solutions>
             <solution external-id="O-9777">
@@ -1360,7 +1360,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18732" type="risk">
         <title>In de bedrijfsruimten kan men elkaar op 1 meter afstand goed verstaan zonder luid te praten.</title>
         <description>&lt;p&gt;Als dat niet het geval is, dan kunt u er van uitgaan dat het geluid schadelijk is en boven de 80 dB(A) en zal een nadere inventarisatie moeten plaatsvinden van de geluidsniveau's op de arbeidsplaatsen. Ook de meetkoffer/oplossingenboek onderdeel geluid/houtstof kan u hierbij helpen. Deze is te downloaden vanaf de volgende URL: &lt;a href="http://www.timmerslimmer.nl" rel="nofollow" target="_blank"&gt;www.timmerslimmer.nl&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;&#160;Boven de 80 dB(A) dient u ook voorlichting te geven aan werknemers en persoonlijke beschermingsmiddelen voor geluid ter beschikking te stellen.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9778">
@@ -1372,7 +1372,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18733" type="risk">
         <title>Op werkplekken waar een schadelijk geluidsniveau  &gt;85 dB(A) heerst, wordt dat aangegeven.</title>
         <description>&lt;p&gt;Het&#160; risico op gehoorschade wordt aangegeven met een rond blauw gebodsbord eventueel in combinatie met zonering. Werknemers en bezoekers kunnen zien dat op deze werkplek gehoorbescherming verplicht gedragen moet worden.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9779">
@@ -1384,7 +1384,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-25337" type="risk">
         <title>Op werkplekken waar een schadelijk geluidsniveau  &gt;85 dB(A) heerst, wordt gehoorbescherming gedragen.</title>
         <description></description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-15973">
@@ -1396,7 +1396,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18734" type="risk">
         <title>Bij calamiteiten merken de werknemers met gehoorbescherming het noodsignaal op.</title>
         <description>&lt;p&gt;Bij het dragen van gehoorbescherming valt het geluidssignaal niet altijd op. Lichtsignalen of geluidssignalen via de intercomfunctie van gehoorbescherming,&#160; maken ook aan hen duidelijk dat er een noodsituatie is.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9780">
@@ -1408,7 +1408,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18735" type="policy">
         <title>Medewerkers die te maken hebben met schadelijk geluid kunnen op vrijwillige basis  periodiek een Preventief Medisch Onderzoek (PMO) ondergaan (dit is het vroegere PAGO).</title>
         <description>&lt;p class="MsoBodyTextIndent" align="left"&gt;Onder verantwoordelijkheid van een gecertificeerd bedrijfsarts wordt het PMO "Gehoor en Arbeid" uitgevoerd. Er wordt gekeken of de&#160;medewerker schade heeft ondervonden en of er aanvullende maatregelen nodig zijn ter voorkoming van gehoorschade. Bij dit PMO wordt tevens individuele voorlichting gegeven en het gebruik van hulp- of persoonlijke beschermingsmiddelen gestimuleerd om (verdere) gehoorschade te voorkomen.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9781">
@@ -1420,7 +1420,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18737" type="risk">
         <title>De trillingsbelasting door hand-, arm- of lichaamstrillingen is onder de wettelijke actiewaarden.</title>
         <description>&lt;p&gt;Hand- arm-&#160; of lichaamstrillingen kunnen respectievelijk afkomstig zijn van trillend of stotend gereedschap en trillende of schokkende machines zoals heftrucks. Als hier sprake van is, dient een beoordeling te worden gemaakt van de trillingsbelasting.&lt;/p&gt;&lt;p&gt;Als actiewaarde&#160;voor de&#160;gemiddelde blootstelling als dagdosis geldt: &lt;/p&gt;&lt;p&gt;- Actiewaarde lichaamstrillingen: 0,5 m.s-2 &lt;br/&gt;- Actiewaarde hand- armtrillingen: 2,5 m.s-2&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9783">
@@ -1432,7 +1432,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18738" type="risk">
         <title>Het contact met trillende of schokkende gereedschappen alsmede machines wordt zoveel mogelijk beperkt</title>
         <description>&lt;p&gt;Lichaamstrillingen kunnen onder meer rugaandoeningen en bewegingsziekten veroorzaken. Het beperken van trillingen kan bijv. door vlakke vloeren, een trillingsisolerende stoel bij heftrucks en vrachtwagens, isolatie of demping van de trilling, en bediening op afstand.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Actiewaarde lichaamstrillingen: 0,5 m.s&lt;sup&gt;-2&lt;/sup&gt;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;/li&gt;&lt;li&gt;Actiewaarde hand- armtrillingen: 2,5 m.s&lt;sup&gt;-2&lt;/sup&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;Max. blootstellingswaarde lichaamstrillingen: 1,15 m.s&lt;sup&gt;-2&#160;&lt;/sup&gt;&#160;&#160;&#160; &lt;/li&gt;&lt;li&gt;Max. &#160;blootstellingswaarde hand- armtrillingen: 5 m.s&lt;sup&gt;-2 &lt;/sup&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method default-probability="none" default-frequency="none" default-effect="none">calculated</evaluation-method>
         <solutions>
           <solution external-id="O-9784">
@@ -1449,7 +1449,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18740" type="risk">
         <title>Bij het werken onder extreme warmte of straling zijn er regels afgesproken hoe er gewerkt moet worden.</title>
         <description>&lt;p&gt;Voorbeelden zijn droogruimten voor hout, infra rood straling voor drogen van verf. Af te spreken regels kunnen gaan over bijv. over kleding, beschermende kleding tegen straling, extra pauzetijden en voldoende water en thee. &lt;/p&gt;&lt;p&gt;Denk ook aan werken in de buitenlucht! Maak bijvoorbeeld een planning waarbij op het heetst van de dag (11.00 - 15.00 uur) zoveel mogelijk in de schaduw gewerkt kan worden.&lt;/p&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9785">
@@ -1461,7 +1461,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18741" type="risk">
         <title>In (koude) buitensituaties zijn regels afgesproken hoe er gewerkt kan worden.</title>
         <description>&lt;p&gt;Afspraken kunnen gaan over het beschikken over werkkleding die de temperatuurswisseling en neerslag opvangt, een schuilplaats met schaftmogelijkheid, het plaatsen van windschermen, of extra pauzetijden om op te warmen. Voor&#160; buitenwerk is er ook toiletgelegenheid nodig.&lt;/p&gt;</description>
-        <show-not-applicable>yes</show-not-applicable>
+        <show-not-applicable>true</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9786">
@@ -1477,7 +1477,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18789" type="risk">
         <title>Er is een inventarisatie gemaakt van de fysieke belasting bij alle werkzaamheden</title>
         <description>&lt;p&gt;Voor de fysieke belasting van medewerkers tijdens het werk bestaat een nadere inventarisatieverplichting. De werkhouding in samenhang met tillen, duwen en trekken kunnen risico's voor de werknemer inhouden. Een nadere inventarisatie en beoordeling moet daarover uitsluitsel geven. Oplossingen of oplossingsrichtingen worden aangereikt als deze van toepassing zijn&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9802">
@@ -1489,7 +1489,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18790" type="risk">
         <title>De medewerkers werken handmatig altijd met lasten lichter dan 25 kg</title>
         <description>&lt;p class="MsoNormal"&gt;Voor te zwaar tillen wordt 25 kg vaak als richtlijn gebruikt. Het is overigens zwaarder om:&lt;/p&gt;&lt;p class="MsoNormal"&gt;15 kg in een voorover gebogen houding neer te moeten zetten&#160;als ;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;met 15 kg het lichaam te moeten draaien;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;deze handelingen ook nog heel vaak of de hele dag&#160; te moeten doen. Voor het gemak wordt hier de norm 25 kg gebruikt, waarbij ook gedacht wordt aan de andere situaties. &lt;/li&gt;&lt;/ul&gt;&lt;p class="MsoNormal"&gt;Zie ook de vraagstelling over Intern en extern transport&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9804">
@@ -1501,7 +1501,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18792" type="risk">
         <title>Er zijn voldoende goede hulpmiddelen aanwezig om medewerkers te helpen bij het werken met lasten zwaarder dan 25 kg</title>
         <description>&lt;p class="MsoBodyTextIndent" align="left"&gt;Bij transport- en hulpmiddelen moet gedacht worden aan karretjes, hondjes, heftafels, handbediende palletheffers, heftrucks, zijladers, etc.&lt;/p&gt;&lt;p&gt;Het met twee mensen tegelijk werken kan ook als een "hulpmiddel" worden gezien&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9805">
@@ -1513,7 +1513,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18798" type="risk">
         <title>Er is per soort werk vastgesteld welke hulpmiddelen moeten worden gebruikt</title>
         <description>&lt;p class="MsoNormal"&gt;Naast hulpmiddelen kan ook gedacht worden aan roulatie van werk zodat iemand niet de hele dag hetzelfde zware werk hoeft te doen&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9806">
@@ -1525,7 +1525,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18802" type="risk">
         <title>Er is voldoende ruimte om de hulpmiddelen te gebruiken</title>
         <description>&lt;p&gt;Om hulpmiddelen op juiste wijze te kunnen inzetten is vaak ruimte nodig. Om een palletheffer te kunnen gebruiken is bijvoorbeeld ruimte nodig om het hulpmiddel onder de last te kunnen rijden. Ook manoeuvreerruimte voor een heftruck is essentieel om het hulpmiddel adequaat en veilig te kunnen inzetten&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9807">
@@ -1537,7 +1537,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18803" type="risk">
         <title>De medewerkers zijn goed op de hoogte hoe zij de hulpmiddelen moeten gebruiken</title>
         <description>&lt;p&gt;Werknemers hebben een goede instructie en voorlichting ontvangen om de beschikbare hulpmiddelen op juiste wijze in te zetten&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9808">
@@ -1549,7 +1549,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18804" type="risk">
         <title>Elke medewerker heeft de mogelijkheid om werkzaamheden af te wisselen</title>
         <description>&lt;p&gt;Voorkomen moet worden dat een medewerker de hele werkdag dezelfde handelingen uitvoert.&lt;/p&gt;&lt;p&gt;Het voortdurend in &#233;&#233;n&#160; houding werken is een zware belasting voor het lichaam en moet&#160;waar mogelijk afgewisseld worden met andere werkzaamheden&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9809">
@@ -1561,7 +1561,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18805" type="risk">
         <title>De werkplekken zijn zo ingericht dat voorkomen wordt dat werknemers boven hun macht moeten werken</title>
         <description>&lt;p&gt;Het structureel werken of tillen boven schouderhoogte wordt zeer sterk ontraden vanwege de fysieke belasting.&#160;&#160;Een bordes, of verhoogd plateau&#160; kan worden aangebracht of hulpmiddelen worden ingezet zoals heftafels die verzinken in de vloer bij stapelen op bijvoorbeeld een pallet. Het programma "Fysieke belasting" in de meetkoffer&#160;kan u ondersteuning geven bij het zoeken naar oplossingen. Deze is te downloaden via de URL: &lt;/p&gt;&lt;a href="http://www.timmerslimmer.nl" rel="nofollow" target="_blank"&gt;www.timmerslimmer.nl&lt;/a&gt;&lt;p&gt; .&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9810">
@@ -1573,7 +1573,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18806" type="risk">
         <title>Er zijn maatregelen genomen om veelvuldig bukken bij gebruik van machines te voorkomen</title>
         <description>&lt;p&gt;Veelvuldig bukken is een belastende werkwijze voor de rug van de werknemer en moet zoveel mogelijk worden voorkomen&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9811">
@@ -1585,7 +1585,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18807" type="risk">
         <title>De werkplekken zijn zo ingericht dat voorkomen wordt dat met gebogen of gedraaide rug gewerkt wordt</title>
         <description>&lt;p&gt;Werken met een gedraaide of gebogen rug veroorzaakt extra belasting van de gewrichten en dus extra slijtage&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9812">
@@ -1601,7 +1601,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18808" type="risk">
         <title>Bij het op hoogte werken weten de werknemers welke voorzorgen moeten zijn genomen</title>
         <description>&lt;p&gt;Werknemers moeten bij de uitvoering van hun werkzaamheden in het bedrijf of bij klanten soms op hoogte (zolders, bordessen of steigers) werken van meer dan 2.5 m. Er bestaan daardoor risico's op vallen&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9813">
@@ -1613,7 +1613,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18809" type="risk">
         <title>Bij werken op hoogte is vastgesteld  hoe en met welke hulpmiddelen moet worden gewerkt</title>
         <description>&lt;p class="MsoNormal"&gt;Werken op hoogte is het niet werken op de begane grond of op een normale etagevloer. Hulpmiddelen zijn trappen, ladders en steigers en in bepaalde situaties moet ook valbeveiliging worden gedragen. Steigers worden op de voorgeschreven manier ge&#239;nstalleerd&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9814">
@@ -1625,7 +1625,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18810" type="risk">
         <title>Bij werkzaamheden in kruip- of besloten ruimten weten de werknemers welke voorzorgen zij moeten nemen</title>
         <description>&lt;p&gt;Besloten ruimten zijn moeilijk toegankelijke vaak kleine ruimten met beperkte bewegingsvrijheid die slecht of in het geheel niet geventileerd worden. Men moet hierbij denken aan kruipruimten onder vloeren, houtmotbunkers, silo's, etc&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9815">
@@ -1637,7 +1637,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18811" type="risk">
         <title>Bij werken in besloten ruimten is vastgesteld hoe en met welke hulpmiddelen moet worden gewerkt</title>
         <description>&lt;p class="MsoBodyTextIndent2"&gt;Bij het verrichten van werkzaamheden in houtmotbunkers en silo's gelden strenge eisen i.v.m. met explosierisico en verstikking. De hulpmiddelen en het toezicht moeten strikt en goed geregeld zijn&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9816">
@@ -1654,7 +1654,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18743" type="policy">
         <title>Er zijn actuele veiligheidsinformatiebladen van alle relevante producten in het bedrijf aanwezig.</title>
         <description>&lt;p&gt;Gevaarlijke stoffen zijn stoffen die op korte of lange termijn een nadelige invloed hebben voor de veiligheid en gezondheid van werknemers. De fabrikant is verplicht om de gevaaraspecten van een product op de verpakking aan te geven. De gevaarsaspecten zijn op het etiket van het product te herkennen aan de gevaarsymbolen en risicozinnen (R-zinnen). &lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9787">
@@ -1667,7 +1667,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <title>Uit de veiligheidsinformatiebladen blijkt dat er gevaarlijke stoffen worden gebruikt diemogelijk kankerverwekkende eigenschappen hebben.</title>
         <description>&lt;p&gt;Het werken met kankerverwekkende moet zoveel mogelijk vermeden worden. Indien u deze stoffen wel gebruikt, kunt u bij uw leveranciers nagaan hoe deze stoffen vervangen kunnen worden. Indien er in een specifiek geval geen vervangend alternatief is, dan moet de blootstelling verminderd worden door bijvoorbeeld de stof&#160; &#8220;in te pakken&#8221;. &lt;/p&gt;</description>
         <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit art. 4.2, art. 4.11, art. 4.13, art. 4.15.&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9788">
@@ -1679,7 +1679,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18745" type="risk">
         <title>Het bedrijf beschikt over een actueel register van gevaarlijke stoffen</title>
         <description>&lt;p class="MsoBodyTextIndent2"&gt;Om&#160;beter inzicht te krijgen in de in uw bedrijf gebruikte stoffen moet u een gevaarlijke stoffenregister bijhouden. In deze lijst staat welke&#160;gevaarlijke stoffen u heeft, hoeveel, waar en door wie ze worden gebruikt en welke maatregelen zijn getroffen om de blootstelling zoveel mogelijk te voorkomen.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9791">
@@ -1691,7 +1691,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18747" type="risk">
         <title>In het bedrijf wordt blootstelling aan houtstof voorkomen</title>
         <description>&lt;p&gt;Houtstof van hardhout (loofhout) is voor mensen kankerverwekkend: inademing ervan kan leiden tot het optreden van adenocarcinoom (bepaalde vorm van kanker) van de neus en de neusbijholten. Verder kan contact met houtstof leiden tot astma en allergische reacties waaronder jeuk en huidontstekingen. Houtstof komt vrij bij het bewerken van hout, zoals schuren, zagen, frezen en kan diep in de longen doordringen. Stof van hout met lijm- of verflagen of impregneermiddelen vormt een extra risico&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9792">
@@ -1703,7 +1703,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18749" type="risk">
         <title>In het bedrijf wordt alleen gewerkt met watergedragen producten waardoor blootstelling aan vluchtige organische stoffen (VOS) wordt voorkomen</title>
         <description>&lt;p class="MsoBodyTextIndent2"&gt;Blootstelling aan oplosmiddelen kan duizeligheid, vergeetachtigheid tot zelfs persoonlijkheidsverandering tot gevolg hebben. Deze aantasting van het centrale zenuwstelsel wordt OPS (organo psycho syndroom) genoemd. Binnen de meubelindustrie zijn het vooral contactlijmen, verven, lakken en schoonmaakmiddelen die oplosmiddelen bevatten. Staat het gehalte aan oplosmiddelen niet in het veiligheidsinformatieblad vermeld, dan kan dit bij de leverancier worden opgevraagd.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9793">
@@ -1715,7 +1715,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18755" type="risk">
         <title>Er is beoordeeld of producten met gevaarlijke stoffen vervangen kunnen worden door andere minder gevaarlijke producten</title>
         <description>&lt;p class="MsoBodyTextIndent2"&gt;De eerste stap in deze strategie is bronbestrijding. Een belangrijke afweging bij bronbestrijding is de beoordeling of het vervangen van de gevaarlijke stoffen door minder gevaarlijke stoffen mogelijk is. Het vervangen van gevaarlijke stoffen levert naast minder blootstelling ook vaak voordelen voor het milieu op. &lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9794">
@@ -1727,7 +1727,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18756" type="risk">
         <title>Op de werkplek vrijkomende gevaarlijke stoffen worden doelmatig afgezogen en er is voldoende ventilatie in de ruimte</title>
         <description>&lt;p&gt;Als inademen van gevaarlijke stoffen kan optreden moet de blootstelling beperkt worden door ventilatie en afzuiging. Als er vervuilde lucht uit een ruimte wordt gezogen moet&#160;daarvoor in de plaats&#160;dezelfde hoeveelheid schone lucht worden toegevoerd &lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9795">
@@ -1739,7 +1739,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18757" type="risk">
         <title>Het risico op blootstelling aan gevaarlijke stoffen is gering</title>
         <description>&lt;p class="MsoBodyTextIndent2"&gt;De blootstelling aan gevaarlijke stoffen kan verminderd worden door de processen waarin de schadelijke stoffen worden gebruikt zoveel mogelijk af te schermen. Zo wordt blootstelling aan schadelijke stoffen voorkomen bij werknemers die niet direct bij het proces betrokken zijn. Ook heeft het de voorkeur dat er zo min mogelijk werknemers met gevaarlijke stoffen werken.&lt;/p&gt;&lt;p&gt;Aparte ruimtes voor machinale houtbewerking (waarbij veel houtstof kan ontstaan), het aanbrengen van lakken, het drogen van gelakte producten en aparte plaatsen voor het werken met contactlijmen zijn voorbeelden van deze maatregelen&#160;in de meubelindustrie&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9796">
@@ -1751,7 +1751,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18758" type="risk">
         <title>Er zijn organisatorische of technische maatregelen getroffen voor de afscherming van werknemers van de risicobron</title>
         <description>&lt;p&gt;Bij het werk is het van belang dit zo te organiseren dat bij de gekozen werkmethoden blootstellingsrisico's aan gevaarlijke stoffen zoveel mogelijk zijn tegengegaan. Als er oplosmiddelhoudende producten worden gespoten is het van belang dat de lucht in de spuitrichting wordt afgezogen. Voorkomen moet worden dat de spuiter in de lucht van de uitdampende en drogende producten staat.&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9797">
@@ -1763,7 +1763,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18760" type="risk">
         <title>Er is beoordeeld in hoeverre werknemers worden blootgesteld aan schadelijke concentraties stoffen</title>
         <description>&lt;p class="MsoBodyTextIndent2"&gt;Wanneer er met gevaarlijke stoffen gewerkt wordt, moet de blootstelling door metingen (of andere doeltreffende methode, zoals een schatting) bepaald worden. Het volgende moet vastgelegd worden:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;de aard (welke stoffen, welke situaties en welke gevaren) van de stoffen &lt;/li&gt;&lt;li&gt;de mate (meting of schatting) waar in de stoffen voorkomen&lt;/li&gt;&lt;li&gt;de duur van die blootstelling aan gevaarlijke stoffen&lt;/li&gt;&lt;/ul&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9798">
@@ -1776,7 +1776,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
         <title>Het type persoonlijke beschermingsmiddelen is afgestemd op het gevaar van de stof waartegen beschermd moet worden</title>
         <description>&lt;p&gt;De werkgever dient van tevoren duidelijk&#160;aan de werknemer&#160; uit te leggen tegen welke risico&#8217;s het&#160; persoonlijke beschermingsmiddel bescherming biedt. Op de veiligheidsinformatiebladen van gevaarlijke stoffen staat vermeld welk type handschoen of adembescherming moet worden toegepast&lt;/p&gt;</description>
         <legal-reference>&lt;h3&gt;Wettelijk kader Arbobesluit art. 8.1; 8.2 en 8.3&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;</legal-reference>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9826">
@@ -1788,7 +1788,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18869" type="risk">
         <title>De gegevens over het gebruik, onderhoud en beheer van persoonlijke beschermingsmiddelen worden schriftelijk vastgelegd</title>
         <description>&lt;p&gt;Het verdient de aanbeveling een overzicht te hebben van het gebruik, onderhoud en beheer van de persoonlijke beschermingsmiddelen&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9827">
@@ -1800,7 +1800,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18870" type="risk">
         <title>Er wordt gecontroleerd op het (juiste) gebruik van persoonlijke beschermingsmiddelen</title>
         <description>&lt;p&gt;Het gebruik van persoonlijke beschermingsmiddelen moet (ongewenste) blootstellingsrisico's voorkomen. De werkgever moet toezicht houden op het juiste gebruik en inzet van het persoonlijke beschermingsmiddel&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9828">
@@ -1812,7 +1812,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18871" type="risk">
         <title>Er wordt voorlichting en instructie gegeven hoe veilig kan worden gewerkt met gevaarlijke stoffen</title>
         <description>&lt;p&gt;Het is van belang dat alle medewerkers in het bedrijf goed voorgelicht zijn over de gevaarsaspecten en veiligheidshandelingen van de stoffen waarmee zij werken. Dit om ongelukken vanwege onwetendheid te voorkomen&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9829">
@@ -1824,7 +1824,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18872" type="risk">
         <title>Er wordt  voorlichting gegeven over en toegezien op de naleving van specifieke regels voor kwetsbare groepen werknemers (zoals jeugdigen en zwangeren)</title>
         <description>&lt;p class="MsoBodyTextIndent2"&gt;Bij aanwezigheid van kwetsbare groepen werknemers dient extra aandacht te worden besteed aan de voorlichting. Hierbij valt te denken aan:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;werken met gevaarlijke stoffen door jeugdigen (&amp;lt; 18 jaar) &lt;/li&gt;&lt;li&gt;zwangere vrouwen &lt;/li&gt;&lt;li&gt;werknemers met huidproblemen of luchtwegklachten &lt;li&gt;allochtone werknemers met taalproblemen &lt;ul&gt;&lt;li&gt;werknemers met huidproblemen of luchtwegklachten&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;allochtone werknemers met taalproblemen &lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;werknemers met huidproblemen of luchtwegklachten&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;allochtone werknemers met taalproblemen &lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;allochtone werknemers met taalproblemen &lt;ul&gt;&lt;li&gt;werknemers met huidproblemen of luchtwegklachten&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;allochtone werknemers met taalproblemen &lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;werknemers met huidproblemen of luchtwegklachten&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;allochtone werknemers met taalproblemen &lt;/li&gt;&lt;/ul&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9830">
@@ -1836,7 +1836,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18873" type="risk">
         <title>Er is voldaan aan de voorschriften uit de Wet milieugevaarlijke stoffen (WMS)</title>
         <description>&lt;p&gt;Alle milieu gevaarlijke stoffen en de eisen die hieraan worden gesteld bij bedrijfsmatig toepassing zijn vastgelegd in het register. Voorbeelden zijn oplosmiddelen, verf-, beits- en lijmproducten met een verplichte etikettering volgens de WMS classificatie&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9831">
@@ -1848,7 +1848,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18874" type="risk">
         <title>De milieuvergunning is door de gemeente afgegeven en nog steeds geldig of de aanvraag is in behandeling</title>
         <description>&lt;p&gt;Een bedrijf heeft toestemming van de gemeente nodig om in bedrijf te kunnen zijn. Daarvoor is een Milieuvergunning noodzakelijk. Hierin staan het productieproces, de arbeidsmiddelen en de stoffen die hierbij gebruikt worden&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9833">
@@ -1860,7 +1860,7 @@ Europese richtlijn 94/9/EG (ATEX-95) voor het product fabrikant).&lt;/h3&gt;&lt;
       <risk external-id="R-18875" type="risk">
         <title>Bij de werkzaamheden wordt voorkomen dat medewerkers met gevaarlijke stoffen in aanraking komen anders dan oplosmiddelen of houtstof</title>
         <description>&lt;p&gt;Te denken valt aan schimmels, bacteri&#235;n zoals legionella (bij bevochtiging), uitwerpselen, restanten bestrijdings-, of conserveringsmiddelen. Gevolgen kunnen zijn: risico's voor het nageslacht, longproblemen, allergie&#235;n,&#160; hepatitis en onvruchtbaarheid&lt;/p&gt;</description>
-        <show-not-applicable>no</show-not-applicable>
+        <show-not-applicable>false</show-not-applicable>
         <evaluation-method>direct</evaluation-method>
         <solutions>
           <solution external-id="O-9834">

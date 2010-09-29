@@ -4,6 +4,9 @@ import os.path
 import subprocess
 
 working_surveys = [
+    ( "Kunststofindustrie", "nrk", "NRK", 21, False),
+    ( "Goud- en Zilversmeden", "fgz", "Federatie Goud en Zilver", 49, True),
+
     ( "Fiets- en Bromfietsbedrijf", "Ambachten", "Hoofdbedrijfschap Ambachten (HBA)", 19, True),
     ( "Algemene MKB RI&E", "MKB", "MKB", 1, True),
     ( "Betonmortelfabrikanten", "Betonmortelfabrikanten", "VOBN", 89, True),
@@ -36,7 +39,6 @@ working_surveys = [
     ( "Reisbranche", "Reisbranche", "ANVR", 14, True),
     ( "Reprobedrijven", "Reprobedrijven", "Vereniging Repro Nederland", 59, True),
     ( "Slagerbedrijf", "Slagerbedrijf", "Koninklijke Nederlandse Slagersorganisatie", 69, True),
-    ( "Sloopaannemers", "Sloopaannemers", "Vereniging van Sloopaannemers", 57, True),
     ( "Akkerbouw en Vollegrondsgroenteteelt", "Stigas", "Stigas", 30, True),
     ( "Bloembollenteelt, -handel en -broeierij", "Stigas", "Stigas / LTO", 46, True),
     ( "Bomen en vaste planten teelt", "Stigas", "Stigas", 65, True),
@@ -87,8 +89,7 @@ working_surveys = [
     ( "Levensmiddelendetailhandel", "Levensmiddelen", "Vakcentrum Levensmiddelen", 72, True),
     ( "Kottervisserij", "Vis", "Productschap Vis", 34, True),
     ( "Visdetailhandel", "Vis", "Productschap Vis", 2, True),
-    ( "Goud- en Zilversmeden", "fgz", "Federatie Goud en Zilver", 49, True),
-    ( "Kunststofindustrie", "nrk", "NRK", 21, False),
+    ( "Sloopaannemers", "Sloopaannemers", "Vereniging van Sloopaannemers", 57, True),
     ]
 
 pending_surveys = [
@@ -123,7 +124,7 @@ surveys = working_surveys + pending_surveys
 
 devnull=open("/dev/null", "w")
 
-for (name, login, sector, index, publish) in working_surveys:
+for (name, login, sector, index, publish) in working_surveys[2:]:
     login=login.lower()
     logo="data/%s.png" % index
     input="data/%s.xml" % index
@@ -144,6 +145,6 @@ for (name, login, sector, index, publish) in working_surveys:
         command.append("--publish")
     command.append(input)
 
-    popen=subprocess.Popen(command, stderr=devnull)
+    popen=subprocess.Popen(command) #, stderr=devnull)
     popen.wait()
 

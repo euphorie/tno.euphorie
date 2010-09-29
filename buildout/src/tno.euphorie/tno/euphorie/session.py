@@ -194,7 +194,7 @@ class Upload(form.SchemaForm):
                 plan.responsible=el_unicode(pva, "uitvoerder")
                 try:
                     plan.budget=int(pva.budget.text)
-                except ValueError:
+                except (TypeError,ValueError):
                     pass
                 timeline=pva.planning.text.split()
                 plan.planning_start=parse_date(timeline[0])

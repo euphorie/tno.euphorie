@@ -4,7 +4,9 @@ Changelog
 1.2 - Unreleased
 ----------------
 
-* ....
+* Handle missing action plan measure data. This fixes part of `TNO ticket 122
+  http://code.simplon.biz/tracker/tno-euphorie/ticket/114>`_.
+  [wichert]
 
 
 1.1 - September 23, 2010

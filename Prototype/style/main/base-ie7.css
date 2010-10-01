@@ -179,3 +179,12 @@ dfn.infoPanel.open span.title {
 	margin: -55px -35px 0 -132px;
 } 
 /* @end */
+
+/* @group Site menu */
+
+object#siteMenu {
+	display: none;
+}
+
+/* @end */
+

@@ -4,7 +4,9 @@ Changelog
 1.3 - Unreleased
 ----------------
 
-* ...
+* Copy the company details handling in the client from euphorie.client here in
+  preparation for changes in Euphorie.
+  [wichert]
 
 
 1.2 - September 29, 2010

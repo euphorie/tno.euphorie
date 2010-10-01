@@ -12,6 +12,12 @@
       provides="zope.publisher.interfaces.IPublishTraverse"
       />
 
+  <adapter
+      factory=".survey.TnoSurveyPublishTraverser"
+      for="euphorie.content.survey.ISurvey .interfaces.ITnoClientSkinLayer"
+      provides="zope.publisher.interfaces.IPublishTraverse"/>
+      />
+
   <genericsetup:registerProfile
        name="default"
        title="TNO/Euphorie website"

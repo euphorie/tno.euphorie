@@ -527,7 +527,9 @@ var mapal = {
 	        .attr("id", $object.attr("id"))
                 .attr("class", $object.attr("class"))
                 .attr("src", $object.attr("data"))
-                .attr("frameborder", "0");
+                .attr("frameborder", "0")
+                .attr("allowtransparency", "true")
+                .attr("style", "background-color:transparent");
             $object.replaceWith($iframe);
         });
     },

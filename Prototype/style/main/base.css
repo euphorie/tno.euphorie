@@ -642,6 +642,7 @@ object#siteMenu {
 	overflow: hidden;
 	width: 500px;
 	z-index: 2000;
+	background-color: transparent;
 }
 
 ul#siteMenu
@@ -655,6 +656,7 @@ ul#siteMenu
 
 body.siteMenu {
 	overflow: hidden;
+	background-color: transparent;
 }
 
 ul#siteMenu li
@@ -3129,10 +3131,6 @@ ul.radioRow li label {
 #portlets .portlet h3 a sup {
 	font-weight: normal;
 	text-transform: capitalize;
-}
-
-* {
-	
 }
 
 #portlets .portlet h4 {

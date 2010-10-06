@@ -143,10 +143,9 @@ class Upload(form.SchemaForm):
             mapping={}
         for child in root.values():
             external_id=getattr(aq_base(child), "external_id", None)
-            if external_id is None:
-                continue
             newpath=zodb_path+[child.id]
-            mapping[external_id]="/".join(newpath)
+            if external_id is not None:
+                mapping[external_id]="/".join(newpath)
             if IQuestionContainer.providedBy(child):
                 self.buildExternalIdMap(child, newpath, mapping)
         return mapping

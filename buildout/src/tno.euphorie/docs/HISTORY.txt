@@ -1,6 +1,13 @@
 Changelog
 =========
 
+1.4 - Unreleased
+----------------
+
+* Small robustness improvement in id-mapping logic: continue processing a
+  module even if it has no external id itself.
+  [wichert]
+
 1.3 - October 5, 2010
 ---------------------
 

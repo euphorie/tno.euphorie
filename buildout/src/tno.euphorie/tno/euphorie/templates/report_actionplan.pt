@@ -77,12 +77,12 @@
         <tal:span condition="python:company.employees=='over25'" i18n:translate="employee_numbers_above_25">More than 25 employees</tal:span>
       </dd>
       <dt i18n:translate="label_absentee_percentage">Absentee percentage</dt>
-      <dd><em tal:condition="not:company/absentee_percentage" i18n:translate="missing_data">Not provided</em><tal:span condition="company/absentee_percentage">${python:tools.formatPercentage(company.absentee_percentage)}</tal:span></dd>
+      <dd tal:define="has_value python:company.absentee_percentage is not None"><em tal:condition="not:has_value" i18n:translate="missing_data">Not provided</em><tal:span condition="has_value">${python:tools.formatPercentage(company.absentee_percentage)}</tal:span></dd>
       <dt i18n:translate="label_accidents">Number of accidents last year</dt>
-      <dd><em tal:condition="not:company/accidents" i18n:translate="missing_data">Not provided</em>${company/accidents}</dd>
+      <dd tal:define="has_value python:company.accidents is not None"><em tal:condition="not:has_value" i18n:translate="missing_data">Not provided</em><tal:span condition="has_value">${company/accidents}</tal:span></dd>
       <dt i18n:translate="label_incapacitated_workers">Number of incapacitated workers last year</dt>
-      <dd><em tal:condition="not:company/incapacitated_workers" i18n:translate="missing_data">Not provided</em>${company/incapacitated_workers}</dd>
-      <dt i18n:translate="label_arbo_expert">Arbo export</dt>
+      <dd tal:define="has_value python:company.incapacitated_workers is not None"><em tal:condition="not:has_value" i18n:translate="missing_data">Not provided</em><tal:span condition="has_value">${company/incapacitated_workers}</tal:span></dd>
+      <dt i18n:translate="label_arbo_expert">Arbo expert</dt>
       <dd><em tal:condition="not:company/arbo_expert" i18n:translate="missing_data">Not provided</em>${company/arbo_expert}</dd>
     </dl>
 

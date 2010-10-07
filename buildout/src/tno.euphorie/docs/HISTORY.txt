@@ -1,8 +1,8 @@
 Changelog
 =========
 
-1.4 - Unreleased
-----------------
+1.4 - October 7, 2010
+---------------------
 
 * Do not treat 0 as not-filled-in when rendering the action plan report.
   This fixes `TNO ticket 130

@@ -23,6 +23,7 @@ from euphorie.content.profilequestion import IProfileQuestion
 from euphorie.content.upload import el_unicode
 from euphorie.content.upload import attr_unicode
 from euphorie.client.session import SessionManager
+from tno.euphorie.model import DutchCompany
 from tno.euphorie import MessageFactory as _
 
 grok.templatedir("templates")
@@ -91,7 +92,7 @@ class Upload(form.SchemaForm):
                     }
 
         data=input.gegevens
-        company=session.company=model.Company()
+        company=session.dutch_company=DutchCompany()
 
         for (old, new) in mapping.items():
             setattr(company, new[0], new[1](data, old))

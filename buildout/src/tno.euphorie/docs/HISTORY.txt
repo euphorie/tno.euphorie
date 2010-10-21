@@ -4,7 +4,10 @@ Changelog
 1.5 - Unreleased
 ----------------
 
-* ...
+* Update RI&E session loader to update ``dutch_company`` instead of
+  ``company``. This fixes `TNO ticket 140
+  http://code.simplon.biz/tracker/tno-euphorie/ticket/140>`_.
+  [wichert]
 
 
 1.4 - October 7, 2010

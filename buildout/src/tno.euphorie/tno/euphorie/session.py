@@ -204,6 +204,39 @@ class Upload(form.SchemaForm):
         session.touch()
 
 
+    def parseInput(self, input):
+        """Try to parse a RI&E session file. The parsed data is
+        returned as a lxml.objectified element. If the file could
+        not be parsed or has the wrong format None is returned instead.
+        """
+        try:
+            input=lxml.objectify.fromstring(input)
+        except lxml.etree.XMLSyntaxError:
+            return None
+
+        if input.tag!="rieprogress":
+            return None
+
+        rie_path=input.attrib["rie_path"]
+        if not rie_path.startswith("/rie/data/"):
+            return None
+
+        return input
+
+
+    def findSurvey(self, input):
+        """Find the survey to match the (already parsed) input data."""
+        rie=input.attrib["rie_path"].split("/")[3]
+
+        for sector in aq_inner(self.context).values():
+            if not IClientSector.providedBy(sector):
+                continue
+            for survey in sector.values():
+                if ISurvey.providedBy(survey) and getattr(aq_base(survey), "external_id", None)==rie:
+                    return survey
+
+        return None
+
 
     @button.buttonAndHandler(_("button_upload", default=u"Upload"), name="upload")
     def handleUpload(self, action):
@@ -211,36 +244,17 @@ class Upload(form.SchemaForm):
         if errors:
             return
 
-        input=data["file"].data
-        try:
-            input=lxml.objectify.fromstring(input)
-        except lxml.etree.XMLSyntaxError:
+        input=self.parseInput(data["file"].data)
+        if input is None:
             raise WidgetActionExecutionError("file",
-                    Invalid(_("error_invalid_xml", default=u"Geen valide RI&E bestand.")))
+                    Invalid(_("error_invalid_session_file", default=u"Geen valide RI&E bestand.")))
 
-        if input.tag!="rieprogress":
-            raise WidgetActionExecutionError("file",
-                    Invalid(_("error_no_session_file", default=u"Geen valide RI&E besetand.")))
 
-        rie_path=input.attrib["rie_path"]
-        if not rie_path.startswith("/rie/data/"):
+        survey=self.findSurvey(input)
+        if survey is None:
             raise WidgetActionExecutionError("file",
-                    Invalid(_("error_no_session_file", default=u"Geen valide RI&E bestand.")))
-        rie=rie_path.split("/")[3]
-
-        found=False
-        for sector in aq_inner(self.context).values():
-            if not IClientSector.providedBy(sector):
-                continue
-            for survey in sector.values():
-                if ISurvey.providedBy(survey) and getattr(aq_base(survey), "external_id", None)==rie:
-                    found=True
-                    break
-            if found:
-                break
-        else:
-            raise WidgetActionExecutionError("file",
-                    Invalid(_("error_unknown_survey", default=u"De gebruikte vragenlijst bestaat niet op deze site.")))
+                    Invalid(_("error_unknown_survey",
+                        default=u"De gebruikte vragenlijst bestaat niet op deze site.")))
 
         session=SessionManager.start(attr_unicode(input, "rienaam", u"RI&E import"), survey)
         self.updateCompany(input, session)

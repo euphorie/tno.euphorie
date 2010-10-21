@@ -4,6 +4,9 @@ Changelog
 1.5 - Unreleased
 ----------------
 
+* Add base infrastructure to run tests for :py:mod:`tno.euphorie`.
+  [wichert]
+
 * Update RI&E session loader to update ``dutch_company`` instead of
   ``company``. This fixes `TNO ticket 140
   http://code.simplon.biz/tracker/tno-euphorie/ticket/140>`_.

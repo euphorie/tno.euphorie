@@ -97,7 +97,7 @@ class Upload(form.SchemaForm):
         for (old, new) in mapping.items():
             setattr(company, new[0], new[1](data, old))
 
-        employees=attr_int(input.gegevens,"aantalindienst")
+        employees=attr_int(data, "aantalindienst")
         if employees is not None:
             if employees<=1:
                 company.employees="40h"

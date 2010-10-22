@@ -32,7 +32,7 @@ class CompanyForm(formapi.Form):
                   submit_date_month=int,
                   submit_date_year=int,
                   employees=str,
-                  absentee_percentage=int,
+                  absentee_percentage=float,
                   accidents=int,
                   incapacitated_workers=int,
                   arbo_expert=unicode,
@@ -105,6 +105,8 @@ class ReportCompanyDetails(grok.View):
         if self.request.environ["REQUEST_METHOD"]=="POST":
             reply=dict([(key,value) for (key,value) in self.request.form.items()
                         if value and (not isinstance(value, basestring) or value.strip())])
+            if reply.get("absentee_percentage"):
+                reply["absentee_percentage"]=reply["absentee_percentage"].replace(",", ".")
             company=session.dutch_company
             form=CompanyForm(params=reply)
             if not form.validate():

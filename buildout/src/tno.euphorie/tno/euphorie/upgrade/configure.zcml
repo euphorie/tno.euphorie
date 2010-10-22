@@ -1,0 +1,20 @@
+<configure
+  xmlns="http://namespaces.zope.org/zope"
+  xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
+  i18n_domain="plone">
+
+  <genericsetup:upgradeSteps
+    source="100"
+    destination="101"
+    profile="tno.euphorie:default"
+    >
+
+    <genericsetup:upgradeStep
+      title="Allow non-integer absentee percentages."
+      description="Modify the company schema in the database to allow 2 decimals for the absentee percentage."
+      handler=".v1.updateAbsenteePercentage"
+      />
+
+  </genericsetup:upgradeSteps>
+
+</configure>

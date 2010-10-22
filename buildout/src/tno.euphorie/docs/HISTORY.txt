@@ -4,6 +4,20 @@ Changelog
 1.5 - Unreleased
 ----------------
 
+Upgrade notes
+~~~~~~~~~~~~~
+
+This release updates the profile version to *101*. Please use the upgrade
+feature in portal_setup to upgrade the ``tno.euphorie:default`` profile to
+this version.
+
+Features
+~~~~~~~~
+
+* Allow non-integer absentee percentages in company data. This fixes
+  `TNO ticket 142 <http://code.simplon.biz/tracker/tno-euphorie/ticket/142>`_.
+  [wichert]
+
 Bugfixes
 ~~~~~~~~
 
@@ -12,7 +26,7 @@ Bugfixes
 
 * Update RI&E session loader to update ``dutch_company`` instead of
   ``company``. This fixes `TNO ticket 140
-  http://code.simplon.biz/tracker/tno-euphorie/ticket/140>`_.
+  <http://code.simplon.biz/tracker/tno-euphorie/ticket/140>`_.
   [wichert]
 
 

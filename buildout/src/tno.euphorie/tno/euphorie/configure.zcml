@@ -3,9 +3,11 @@
            xmlns:grok="http://namespaces.zope.org/grok"
            i18n_domain="tno.euphorie">
 
-           <include package="plone.browserlayer" />
+  <include package="plone.browserlayer" />
 
   <grok:grok package="." />
+
+  <include package=".upgrade" />
            
   <adapter
       factory=".client.ClientPublishTraverser"

@@ -36,7 +36,7 @@ class DutchCompany(BaseObject):
     location = schema.Column(types.Unicode(64))
     submit_date = schema.Column(types.Date(), default=functions.now())
     employees = schema.Column(Enum([None, "40h", "max25", "over25"]))
-    absentee_percentage = schema.Column(types.Integer())
+    absentee_percentage = schema.Column(types.Numeric(precision=5, scale=2))
     accidents = schema.Column(types.Integer())
     incapacitated_workers = schema.Column(types.Integer())
     arbo_expert = schema.Column(types.Unicode(128))

@@ -69,9 +69,12 @@
           <label><input type="radio" name="employees" value="over25" selected="${python:'selected' if value=='over25' else None}"/> <tal:span i18n:translate="employee_numbers_above_25">More than 25 employees</tal:span> <br/><span class="discrete">(<tal:span i18n:translate="employees_not_fte">please count using people, not FTEs</tal:span>)</span></label>
         </fieldset>
 
-        <label><tal:span i18n:translate="label_absentee_percentage">Absentee percentage</tal:span> <input type="text" class="span-1 numeric" name="absentee_percentage" value="${request/form/absentee_percentage|company/absentee_percentage}"/></label> 
-        <label><tal:span i18n:translate="label_accidents">Number of accidents last year</tal:span> <input type="text" class="span-1 numeric" name="accidents" value="${request/form/accidents|company/accidents}" /></label> 
-        <label><tal:span i18n:translate="label_incapacitated_workers">Number of incapacitated workers last year</tal:span> <input type="text" class="span-2 numeric" name="incapacitated_workers" value="${request/form/incapacitated_workers|company/incapacitated_workers}"/></label> 
+        <label><tal:span i18n:translate="label_absentee_percentage">Absentee percentage</tal:span> <input type="text" class="span-1" name="absentee_percentage" value="${request/form/absentee_percentage|company/absentee_percentage}"/>
+          <em class="message warning" tal:condition="view/errors/absentee_percentage|nothing">Vul een percentage in</em></label> 
+        <label><tal:span i18n:translate="label_accidents">Number of accidents last year</tal:span> <input type="text" class="span-1 numeric" name="accidents" value="${request/form/accidents|company/accidents}" />
+          <em class="message warning" tal:condition="view/errors/accidents|nothing">Vul een (geheel) getal in</em></label> 
+        <label><tal:span i18n:translate="label_incapacitated_workers">Number of incapacitated workers last year</tal:span> <input type="text" class="span-2 numeric" name="incapacitated_workers" value="${request/form/incapacitated_workers|company/incapacitated_workers}"/>
+          <em class="message warning" tal:condition="view/errors/incapacitated_workers|nothing">Vul een (geheel) getal in</em></label> 
         <label><tal:span i18n:translate="label_arbo_expert">Arbo expert</tal:span> <br/><span class="discrete">(<tal:span i18n:translate="label_arbo_expert_info">name, contact person, address, email</tal:span>) </span> <input type="text" name="arbo_expert" maxlength="128" value="${request/form/arbo_expert|company/arbo_expert}"/></label> 
         <hr/>
         <label><tal:span i18n:translate="label_works_council_approved">Approved by works council</tal:span>  <input type="checkbox" name="works_council" value="yes" id="works_council" checked="${python:'checked' if request.form.get('works_council', company.works_council_approval) else None}" /></label>

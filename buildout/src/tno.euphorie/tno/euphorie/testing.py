@@ -41,3 +41,14 @@ class TnoEuphorieTestCase(PloneTestCase.PloneTestCase):
 class TnoEuphorieFunctionalTestCase(EuphorieFunctionalTestCase):
     layer = TnoEuphorieLayer
 
+
+def registerUserInClient(browser):
+    """Register a new user in the client. This is pretty much a direct copy
+    of :py:func:`euphorie.client.tests.utils.registerUserInClient`, but updated
+    to use Dutch language for butotn labels.
+    """
+    browser.getLink("Registreer").click()
+    browser.getControl(name="email").value="guest"
+    browser.getControl(name="password1:utf8:ustring").value="guest"
+    browser.getControl(name="password2:utf8:ustring").value="guest"
+    browser.getControl(name="next", index=1).click()

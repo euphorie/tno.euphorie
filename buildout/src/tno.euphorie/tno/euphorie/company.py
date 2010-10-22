@@ -81,6 +81,7 @@ class CompanyForm(formapi.Form):
             pass
 
 
+
 class ReportCompanyDetails(grok.View):
     """Intro page for report phase.
 

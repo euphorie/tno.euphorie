@@ -33,6 +33,19 @@ class CompanyBrowserTests(testing.TnoEuphorieFunctionalTestCase):
                 "http://nohost/plone/client/nl/ict/software-development/report/company")
         self.assertTrue("Bezoekadres bedrijf" in browser.contents)
 
+    def testDutchCompanyReportViewUsed(self):
+        self.createSurvey()
+        browser=self.startSurveySession()
+        browser.open("http://nohost/plone/client/nl/ict/software-development/report/view")
+        self.assertTrue("Bezoekadres bedrijf" in browser.contents)
+
+    def testDutchCompanyReportDownloadUsed(self):
+        self.createSurvey()
+        browser=self.startSurveySession()
+        browser.handleErrors=False
+        browser.open("http://nohost/plone/client/nl/ict/software-development/report/download")
+        self.assertTrue("Bezoekadres bedrijf" in browser.contents)
+
     def testDecimalAbsenteePercentage(self):
         self.createSurvey()
         browser=self.startSurveySession()

@@ -21,6 +21,10 @@ Features
 Bugfixes
 ~~~~~~~~
 
+* Override action plan report download as well. This fixes 
+  `TNO ticket 143 <http://code.simplon.biz/tracker/tno-euphorie/ticket/143>`_.
+  [wichert]
+
 * Add base infrastructure to run tests for :py:mod:`tno.euphorie`.
   [wichert]
 

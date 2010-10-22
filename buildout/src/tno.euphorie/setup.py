@@ -31,4 +31,11 @@ setup(name="tno.euphorie",
           "z3c.form",
           "zope.i18nmessageid",
       ],
+      tests_require = [
+          "Euphorie [tests]",
+      ],
+      extras_require = {
+        "tests" : [ "Euphorie [tests]",
+                  ],
+      },
       )

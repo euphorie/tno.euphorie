@@ -1,6 +1,6 @@
 import unittest
 from lxml import objectify
-from tno.euphorie.testing import TnoEuphorieTestCase
+from tno.euphorie import testing
 
 
 class parse_dateTests(unittest.TestCase):
@@ -42,7 +42,7 @@ class attr_dateTests(unittest.TestCase):
 
 
     
-class UploadTests(TnoEuphorieTestCase):
+class UploadTests(testing.TnoEuphorieTestCase):
     BASE_SNIPPET = """
             <rieprogress>
               <gegevens
@@ -102,5 +102,28 @@ class UploadTests(TnoEuphorieTestCase):
         input.gegevens.attrib["aantalindienst"]="999"
         view.updateCompany(input, session)
         self.assertEqual(session.dutch_company.employees, "over25")
+
+
+
+class SessionBrowserTests(testing.TnoEuphorieFunctionalTestCase):
+    def createSurvey(self):
+        from euphorie.content.tests.utils import BASIC_SURVEY
+        from euphorie.client.tests.utils import addSurvey
+        self.loginAsPortalOwner()
+        addSurvey(self.portal, BASIC_SURVEY)
+
+    def createClientBrowser(self):
+        from Products.Five.testbrowser import Browser
+        from euphorie.client.tests.utils import registerUserInClient
+        browser=Browser()
+        browser.open(self.portal.client.nl["ict"]["software-development"].absolute_url())
+        registerUserInClient(browser)
+        return browser
+
+    def testUploadFormIsMentionedOnSessionScreen(self):
+        self.createSurvey()
+        browser=self.createClientBrowser()
+        browser.open(self.portal.client.nl.absolute_url())
+        self.assertTrue("Als u bestanden van de oude RI&amp;E omgeving heeft" in browser.contents)
 
 

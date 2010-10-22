@@ -17,6 +17,9 @@ class TnoEuphorieTestLayer(ptc.BasePTCLayer):
 
         installPackage("tno.euphorie")
         self.addProduct("tno.euphorie")
+        # Reinstalling tno.euphorie zaps the membrane_tool contens, so manually
+        # reindex the client.
+        self.portal.membrane_tool.indexObject(self.portal.client)
 
         import tno.euphorie.model
         assert tno.euphorie.model._instrumented

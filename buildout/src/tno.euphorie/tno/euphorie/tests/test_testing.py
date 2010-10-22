@@ -8,3 +8,8 @@ class TestingTests(TnoEuphorieTestCase):
                 quickinstaller.isProductInstalled("tno.euphorie"),
                 True)
 
+    def testClientUserCataloged(self):
+        self.assertNotEqual(
+                self.portal.acl_users.getUserById("client"), None)
+
+

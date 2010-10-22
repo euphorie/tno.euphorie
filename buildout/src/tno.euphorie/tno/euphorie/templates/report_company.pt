@@ -59,7 +59,7 @@
  
             <label for="submit_date_year" i18n:translate="label_year">Year</label>
             <input class="year numeric" type="text" name="submit_date_year" id="submit_date_year" maxlength="4" value="${request/form/submit_date_year|company/submit_date/year|nothing}" />
-            <em class="message warning" tal:condition="view/errors/works_council_approval_year|nothing" i18n:translate="error_invalid_year">Invalid year</em>
+            <em class="message warning" tal:condition="view/errors/submit_date_year|nothing">Voer een jaartal na 1900 in</em>
         </fieldset>
         
         <fieldset class="comprehensive radioList" tal:define="value request/form/employees|company/employees">
@@ -93,7 +93,7 @@
  
             <label for="works_council_approval_year" i18n:translate="label_year">Year</label>
             <input class="year numeric" type="text" name="works_council_approval_year" id="works_council_approval_year" maxlength="4" value="${request/form/works_council_approval_year|company/works_council_approval/year|nothing}" />
-            <em class="message warning" tal:condition="view/errors/works_council_approval_year|nothing" i18n:translate="error_invalid_year">Invalid year</em>
+            <em class="message warning" tal:condition="view/errors/works_council_approval_year|nothing">Voer een jaartal na 1900 in</em>
         </fieldset>
       </fieldset>
       

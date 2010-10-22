@@ -18,8 +18,13 @@ Features
   `TNO ticket 142 <http://code.simplon.biz/tracker/tno-euphorie/ticket/142>`_.
   [wichert]
 
+
 Bugfixes
 ~~~~~~~~
+
+* Improve check for valid years in company edit form. This fixes
+  `TNO ticket 138 <http://code.simplon.biz/tracker/tno-euphorie/ticket/138>`_.
+  [wichert]
 
 * Override action plan report download as well. This fixes 
   `TNO ticket 143 <http://code.simplon.biz/tracker/tno-euphorie/ticket/143>`_.

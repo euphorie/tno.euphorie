@@ -42,7 +42,6 @@ class CompanyBrowserTests(testing.TnoEuphorieFunctionalTestCase):
     def testDutchCompanyReportDownloadUsed(self):
         self.createSurvey()
         browser=self.startSurveySession()
-        browser.handleErrors=False
         browser.open("http://nohost/plone/client/nl/ict/software-development/report/download")
         self.assertTrue("Bezoekadres bedrijf" in browser.contents)
 
@@ -71,3 +70,19 @@ class CompanyBrowserTests(testing.TnoEuphorieFunctionalTestCase):
         browser.getControl(name="absentee_percentage").value="4.0.1"
         browser.getControl(name="next", index=1).click()
         self.assertTrue("Vul een percentage in" in browser.contents)
+
+    def testPartialYear(self):
+        self.createSurvey()
+        browser=self.startSurveySession()
+        browser.open("http://nohost/plone/client/nl/ict/software-development/report/company")
+        browser.getControl(name="submit_date_day").value="10"
+        browser.getControl(name="submit_date_month").value=["9"]
+        browser.getControl(name="submit_date_year").value="8"
+        browser.getControl(name="next", index=1).click()
+        self.assertTrue("Voer een jaartal na 1900 in" in browser.contents)
+        browser.getControl(name="submit_date_year").value="2008"
+        browser.getControl(name="next", index=1).click()
+        self.assertEqual(browser.url,
+                "http://nohost/plone/client/nl/ict/software-development/report/view")
+        self.assertTrue("10 september 2008" in browser.contents)
+

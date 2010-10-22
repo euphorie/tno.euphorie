@@ -42,7 +42,7 @@ class CompanyForm(formapi.Form):
                   works_council_approval_year=int)
 
     @formapi.validator("submit_date_day")
-    def valid_submit_date(self):
+    def valid_submit_day(self):
         day=self.data["submit_date_day"]
         if day is None:
             return
@@ -57,6 +57,15 @@ class CompanyForm(formapi.Form):
         except TypeError:
             # Invalid year most likely
             pass
+
+
+    @formapi.validator("submit_date_year")
+    def valid_submit_year(self):
+        year=self.data["submit_date_year"]
+        if year is None:
+            return
+        if year<1900:
+            yield u"Het jaartal moet 1900 of later zijn"
 
 
     @formapi.validator("works_council_approval_day")
@@ -79,6 +88,16 @@ class CompanyForm(formapi.Form):
         except TypeError:
             # Invalid year most likely
             pass
+
+
+    @formapi.validator("works_council_approval_year")
+    def valid_works_council_approval_year(self):
+        year=self.data["works_council_approval_year"]
+        if year is None:
+            return
+        if year<1900:
+            yield u"Het jaartal moet 1900 of later zijn"
+
 
 
 

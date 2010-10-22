@@ -4,7 +4,11 @@ Changelog
 1.6 - Unreleased
 ----------------
 
-- ...
+Bugfixes
+~~~~~~~~
+
+- Correct reStructuredText syntax errors in the changelog.
+  [wichert]
 
 
 1.5 - October 22, 2010
@@ -36,7 +40,7 @@ Bugfixes
   `TNO ticket 143 <http://code.simplon.biz/tracker/tno-euphorie/ticket/143>`_.
   [wichert]
 
-* Add base infrastructure to run tests for :py:mod:`tno.euphorie`.
+* Add base infrastructure to run tests for `tno.euphorie`.
   [wichert]
 
 * Update RI&E session loader to update ``dutch_company`` instead of
@@ -53,7 +57,7 @@ Bugfixes
 
 * Do not treat 0 as not-filled-in when rendering the action plan report.
   This fixes `TNO ticket 130
-  http://code.simplon.biz/tracker/tno-euphorie/ticket/130>`_.
+  <http://code.simplon.biz/tracker/tno-euphorie/ticket/130>`_.
   [wichert]
 
 * Small robustness improvement in id-mapping logic: continue processing a
@@ -78,7 +82,7 @@ Bugfixes
 ~~~~~~~~
 
 * Handle missing action plan measure data. This fixes part of `TNO ticket 122
-  http://code.simplon.biz/tracker/tno-euphorie/ticket/114>`_.
+  <http://code.simplon.biz/tracker/tno-euphorie/ticket/114>`_.
   [wichert]
 
 
@@ -96,12 +100,12 @@ Bugfixes
 
 * Correct test for existence of profile questions when parsing a session file.
   This fixes part of `TNO ticket 114
-  http://code.simplon.biz/tracker/tno-euphorie/ticket/114>`_.
+  <http://code.simplon.biz/tracker/tno-euphorie/ticket/114>`_.
   [wichert]
 
 * Gracefully handle risks listed in a session file which no longer exist in the
   system. This fixes part of `TNO ticket 114
-  http://code.simplon.biz/tracker/tno-euphorie/ticket/114>`_.
+  <http://code.simplon.biz/tracker/tno-euphorie/ticket/114>`_.
   [wichert]
 
 
@@ -110,3 +114,4 @@ Bugfixes
 
 * Initial release
   [wichert]
+

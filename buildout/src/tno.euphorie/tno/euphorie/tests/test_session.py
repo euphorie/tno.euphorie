@@ -1,8 +1,47 @@
+import unittest
 from lxml import objectify
-
 from tno.euphorie.testing import TnoEuphorieTestCase
 
 
+class parse_dateTests(unittest.TestCase):
+    def parse_date(self, value, default=None):
+        from tno.euphorie.session import parse_date
+        return parse_date(value, default)
+
+    def testMissingValue(self):
+        self.assertEqual(self.parse_date(""), None)
+        marker=[]
+        self.assertTrue(self.parse_date("", marker) is marker)
+
+    def testInvalidValue(self):
+        self.assertEqual(self.parse_date("invalid"), None)
+
+    def testDutchDateOrder(self):
+        import datetime
+        self.assertEqual(self.parse_date("06/08/2010"),
+                datetime.date(2010, 8, 6))
+
+
+
+class attr_dateTests(unittest.TestCase):
+    def attr_date(self, node, tag, default=None):
+        from tno.euphorie.session import attr_date
+        return attr_date(node, tag, default)
+
+    def testMissingValue(self):
+        from lxml import etree
+        node=etree.Element("node")
+        self.assertEqual(self.attr_date(node, "date"), None)
+        marker=[]
+        self.assertTrue(self.attr_date(node, "date", marker) is marker)
+
+    def testEmptyValue(self):
+        from lxml import etree
+        node=etree.Element("node", date=u"")
+        self.assertEqual(self.attr_date(node, "date"), None)
+
+
+    
 class UploadTests(TnoEuphorieTestCase):
     BASE_SNIPPET = """
             <rieprogress>

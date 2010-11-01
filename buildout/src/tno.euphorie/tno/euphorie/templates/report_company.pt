@@ -17,89 +17,91 @@
     tal:define="company view/session/dutch_company">
     <h1 i18n:translate="hader_company_details">Company details</h1>
 
-    <p class="message error" tal:condition="view/errors" i18n:translate="warn_fix_errors">Please fix the indicated errors.</p>
+    <p class="message error" tal:condition="view/status" i18n:translate="warn_fix_errors">Please fix the indicated errors.</p>
  
     <p i18n:translate="company_details_intro">Please fill out your company details on this form. The data on this form will also appear in the report.</p>
 
-    <form method="post" class="concise" action="${request/URL}">
+    <form action="${request/getURL}" method="${view/method}" enctype="${view/enctype}" class="concise">
       <fieldset>
-        <label><tal:span i18n:translate="label_company_title">Company name</tal:span> <input type="text" name="title" maxlength="128" value="${request/form/title|company/title}"/></label> 
+        <tal:widget replace="structure view/widgets/title/render" />
         
         <fieldset class="comprehensive inputList">
-          <legend i18n:translate="label_address_visit">Visitor's address</legend> 
-          <label class="superImpose" for="visit-address" i18n:translate="label_address">Address</label><input class="span-5" id="visit-address" name="address_visit_address" type="text"  value="${request/form/address_visit_address|company/address_visit_address}"/> <br/>
-          <label class="superImpose" for="visit-postal" i18n:translate="label_postal">Postal Code</label><input class="span-5" id="visit-postal" name="address_visit_postal" maxlength="16" type="text" value="${request/form/address_visit_postal|company/address_visit_postal}" /><br/>
-          <label class="superImpose" for="visit-city" i18n:translate="label_city">City</label><input class="span-5" id="visit-city" name="address_visit_city" maxlength="64" type="text" value="${request/form/address_visit_city|company/address_visit_city}" />
+          <legend>Bezoekadres bedrijf</legend>
+          <tal:block define="widget view/widgets/address_visit_address"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text"  value="${widget/value}"/> <br/></tal:block>
+          <tal:block define="widget view/widgets/address_visit_postal"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text"  value="${widget/value}"/> <br/></tal:block>
+          <tal:block define="widget view/widgets/address_visit_city"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text"  value="${widget/value}"/> <br/></tal:block>
         </fieldset>
         
         <fieldset class="comprehensive inputList">
-          <legend i18n:translate="label_address_postal">Postal address</legend> 
-          <label class="superImpose" for="postal-address" i18n:translate="label_address">Address</label><input class="span-5" id="postal-address" name="address_postal_address" type="text"  value="${request/form/address_postal_address|company/address_postal_address}"/> <br/>
-          <label class="superImpose" for="postal-postal" i18n:translate="label_postal">Postal Code</label><input class="span-5" id="postal-postal" name="address_postal_postal" maxlength="16" type="text" value="${request/form/address_postal_postal|company/address_postal_postal}" /><br/>
-          <label class="superImpose" for="postal-city" i18n:translate="label_city">City</label><input class="span-5" id="postal-city" name="address_postal_city" type="text"  maxlength="64" value="${request/form/address_postal_city|company/address_postal_city}" />
-        </fieldset>
-        <label><tal:span i18n:translate="label_email">Email address</tal:span> <input type="text" class="span-6" name="email" maxlength="128" value="${request/form/email|company/email}"/></label> 
-        <label><tal:span i18n:translate="label_telephone">Telephone number</tal:span> <input type="text" name="phone" maxlength="32" value="${request/form/phone|company/phone}"/></label> 
-        <label><tal:span i18n:translate="label_activity">Activity</tal:span> <input type="text" name="activity" maxlength="64" value="${request/form/activity|company/activity}"/></label> 
-        <label><tal:span i18n:translate="label_submitter_name">Name submitter</tal:span> <input type="text" name="submitter_name" maxlength="64" value="${request/form/submitter_name|company/submitter_name}" /></label> 
-        <label><tal:span i18n:translate="label_submitter_function">Function submitter</tal:span> <input type="text"  name="submitter_function" maxlength="64" value="${request/form/submitter_function|company/submitter_function}"/></label> 
-        <label><tal:span i18n:translate="label_department">Department</tal:span> <input type="text" name="department" maxlength="64" value="${request/form/department|company/department}"/></label> 
-        <label><tal:span i18n:translate="label_location">Location</tal:span> <input type="text" name="location" maxlength="64" value="${request/form/location|company/location}"/></label> 
-        <fieldset class="comprehensive date-eu">
-          <legend><tal:span i18n:translate="label_submit_date">Date</tal:span> (<span class="discrete" i18n:translate="label_submit_date_data_collected">date on which data was collected</span>)</legend>
-          <label for="submit_date_day" i18n:translate="label_day">Day</label>
-            <input class="day numeric" type="text" name="submit_date_day" id="submit_date_day" maxlength="2" value="${request/form/submit_date_day|company/submit_date/day|nothing}"/>
-            <em class="message warning" tal:condition="view/errors/works_council_approval_day|nothing" i18n:translate="error_invalid_day">Invalid day</em>
-  
-            <label for="submit_date_month" i18n:translate="label_month">Month</label> 
-            <select class="month" name="submit_date_month" id="submit_date_month" tal:define="value request/form/submit_date_month|company/submit_date/month|nothing">
-              <option tal:repeat="month webhelpers/months"
-                  value="${python:month[0]}" selected="${python:'selected' if str(value)==str(month[0]) else None}">${python:month[1]}</option>
-            </select>
- 
-            <label for="submit_date_year" i18n:translate="label_year">Year</label>
-            <input class="year numeric" type="text" name="submit_date_year" id="submit_date_year" maxlength="4" value="${request/form/submit_date_year|company/submit_date/year|nothing}" />
-            <em class="message warning" tal:condition="view/errors/submit_date_year|nothing">Voer een jaartal na 1900 in</em>
-        </fieldset>
-        
-        <fieldset class="comprehensive radioList" tal:define="value request/form/employees|company/employees">
-          <legend i18n:translate="label_employee_numbers">Number of employees</legend>
-          <label><input type="radio" name="employees" value="40h" selected="${python:'selected' if value=='40h' else None}"/> <tal:span i18n:translate="employee_numbers_max_40_hours">40 hours or less of paid work</tal:span> <br/><span class="discrete">(<tal:span i18n:translate="all_employees_combined)">all employees combined</tal:span>)</span></label>
-          <label><input type="radio" name="employees" value="max25" selected="${python:'selected' if value=='max25' else None}"/> <tal:span i18n:translate="employee_numbers_below_25">25 employees or less</tal:span> <br/><span class="discrete">(<tal:span i18n:translate="employees_not_fte">please count using people, not FTEs</tal:span>)</span></label>
-          <label><input type="radio" name="employees" value="over25" selected="${python:'selected' if value=='over25' else None}"/> <tal:span i18n:translate="employee_numbers_above_25">More than 25 employees</tal:span> <br/><span class="discrete">(<tal:span i18n:translate="employees_not_fte">please count using people, not FTEs</tal:span>)</span></label>
+          <legend>Postadres bedrijfAdres</legend>
+          <tal:block define="widget view/widgets/address_postal_address"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text"  value="${widget/value}"/> <br/></tal:block>
+          <tal:block define="widget view/widgets/address_postal_postal"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text"  value="${widget/value}"/> <br/></tal:block>
+          <tal:block define="widget view/widgets/address_postal_city"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text"  value="${widget/value}"/> <br/></tal:block>
         </fieldset>
 
-        <label><tal:span i18n:translate="label_absentee_percentage">Absentee percentage</tal:span> <input type="text" class="span-1" name="absentee_percentage" value="${request/form/absentee_percentage|company/absentee_percentage}"/>
-          <em class="message warning" tal:condition="view/errors/absentee_percentage|nothing">Vul een percentage in</em></label> 
-        <label><tal:span i18n:translate="label_accidents">Number of accidents last year</tal:span> <input type="text" class="span-1 numeric" name="accidents" value="${request/form/accidents|company/accidents}" />
-          <em class="message warning" tal:condition="view/errors/accidents|nothing">Vul een (geheel) getal in</em></label> 
-        <label><tal:span i18n:translate="label_incapacitated_workers">Number of incapacitated workers last year</tal:span> <input type="text" class="span-2 numeric" name="incapacitated_workers" value="${request/form/incapacitated_workers|company/incapacitated_workers}"/>
-          <em class="message warning" tal:condition="view/errors/incapacitated_workers|nothing">Vul een (geheel) getal in</em></label> 
-        <label><tal:span i18n:translate="label_arbo_expert">Arbo expert</tal:span> <br/><span class="discrete">(<tal:span i18n:translate="label_arbo_expert_info">name, contact person, address, email</tal:span>) </span> <input type="text" name="arbo_expert" maxlength="128" value="${request/form/arbo_expert|company/arbo_expert}"/></label> 
+        <tal:widget replace="structure view/widgets/email/render" />
+        <tal:widget replace="structure view/widgets/phone/render" />
+        <tal:widget replace="structure view/widgets/activity/render" />
+        <tal:widget replace="structure view/widgets/submitter_name/render" />
+        <tal:widget replace="structure view/widgets/submitter_function/render" />
+        <tal:widget replace="structure view/widgets/department/render" />
+        <tal:widget replace="structure view/widgets/location/render" />
+
+        <fieldset class="comprehensive date-eu" tal:define="widget view/widgets/submit_date">
+          <legend>${widget/label} (<span class="discrete">${widget/field/description}</span>)</legend>
+          <input type="hidden" value="1" tal:attributes="name string:${widget/name}-empty-marker" />
+          <label for="${widget/id}_day" i18n:translate="label_day">Day</label>
+          <input class="day numeric" type="text" name="${widget/name}-day" id="${widget/id}_day" maxlength="2" value="${widget/day}"/>
+          <label class="month" tal:attributes="for string:${widget/id}_month" i18n:translate="label_month">Month</label>
+          <select id="${widget/id}_month" name="${widget/name}-month">
+            <option tal:repeat="month widget/months" value="${month/value}" selected="${python:'selected' if month['selected'] else None}">${month/name}</option>
+          </select>
+          <label for="${widget/id}_year" i18n:translate="label_year">Year</label>
+          <input class="year numeric" type="text" name="${widget/name}-year" id="${widget/id}_year" maxlength="4" value="${widget/year}"/>
+          <em tal:condition="widget/error" class="message warning">Geef een datum na 1 januari 2000 op.</em>
+        </fieldset>
+
+        <fieldset class="comprehensive radioList" tal:define="widget view/widgets/employees; value widget/value">
+          <legend>${widget/label}</legend>
+          <label><input type="radio" name="${widget/name}" value="40h" selected="${python:'selected' if value=='40h' else None}"/> Maximaal 40 uur betaalde arbeid per week <br/><span class="discrete">(alle werknemers samen)</span></label>
+          <label><input type="radio" name="${widget/name}" value="max25" selected="${python:'selected' if value=='max25' else None}"/> Maximaal 25 werknemers <br/><span class="discrete">(let op het gaat hier niet om FTE's, maar om daadwerkelijke personen)</span></label>
+          <label><input type="radio" name="${widget/name}" value="over25" selected="${python:'selected' if value=='over25' else None}"/> Meer dan 25 werknemers <br/><span class="discrete">(let op het gaat hier niet om FTE's, maar om daadwerkelijke personen)</span></label>
+          <tal:error condition="widget/error" replace="structure widget/error/render|nothing"/>
+        </fieldset>
+
+        <label tal:define="widget view/widgets/absentee_percentage">${widget/label}
+          <input type="text" id="${widget/id}" name="${widget/name}" class="${widget/klass}" size="${widget/size}" maxlength="${widget/maxlength}"/>
+          <em tal:condition="widget/error" class="message warning">Vul een percentage in.</em>
+        </label>
+        <tal:widget replace="structure view/widgets/accidents/render" />
+        <tal:widget replace="structure view/widgets/incapacitated_workers/render" />
+
+        <label tal:define="widget view/widgets/arbo_expert">${widget/label}  <br/><span class="discrete">(${widget/field/description})</span>
+          <input type="text" name="${widget/name}" maxlength="128" value="${widget/value}"/> <tal:error condition="widget/error" replace="structure widget/error/render|nothing"/></label> 
         <hr/>
-        <label><tal:span i18n:translate="label_works_council_approved">Approved by works council</tal:span>  <input type="checkbox" name="works_council" value="yes" id="works_council" checked="${python:'checked' if request.form.get('works_council', company.works_council_approval) else None}" /></label>
-        <fieldset class="comprehensive date-eu dependsOn-works_council" >
-            <legend i18n:translate="label_works_council_approval_date">Date of works council approval</legend>
 
-            <label for="works_council_approval_day" i18n:translate="label_day">Day</label> 
-            <input class="day numeric" type="text" name="works_council_approval_day" id="works_council_approval_day" maxlength="2" value="${request/form/works_council_approval_day|company/works_council_approval/day|nothing}"/>
-            <em class="message warning" tal:condition="view/errors/works_council_approval_day|nothing" i18n:translate="error_invalid_day">Invalid day</em>
-  
-            <label for="works_council_approval_month" i18n:translate="label_month">Month</label> 
-            <select class="month" name="works_council_approval_month" id="works_council_approval_month" tal:define="value request/form/works_council_approval_month|company/works_council_approval/month|nothing">
-              <option tal:repeat="month webhelpers/months"
-                  value="${python:month[0]}" selected="${python:'selected' if str(value)==str(month[0]) else None}">${python:month[1]}</option>
+        <tal:block define="widget view/widgets/works_council_approval">
+          <label>Akkoord OR/medewerkersvertegenwoordiging
+            <input type="checkbox" name="works_council" value="yes" id="works_council" checked="${python:'checked' if filter(None, widget.value) else None}" /></label>
+          <fieldset class="comprehensive date-eu dependsOn-works_council">
+            <legend>${widget/label} (<span class="discrete">${widget/field/description}</span>)</legend>
+            <input type="hidden" value="1" tal:attributes="name string:${widget/name}-empty-marker" />
+            <label for="${widget/id}_day" i18n:translate="label_day">Day</label>
+            <input class="day numeric" type="text" name="${widget/name}-day" id="${widget/id}_day" maxlength="2" value="${widget/day}"/>
+            <label class="month" tal:attributes="for string:${widget/id}_month" i18n:translate="label_month">Month</label>
+            <select id="${widget/id}_month" name="${widget/name}-month">
+              <option tal:repeat="month widget/months" value="${month/value}" selected="${python:'selected' if month['selected'] else None}">${month/name}</option>
             </select>
- 
-            <label for="works_council_approval_year" i18n:translate="label_year">Year</label>
-            <input class="year numeric" type="text" name="works_council_approval_year" id="works_council_approval_year" maxlength="4" value="${request/form/works_council_approval_year|company/works_council_approval/year|nothing}" />
-            <em class="message warning" tal:condition="view/errors/works_council_approval_year|nothing">Voer een jaartal na 1900 in</em>
-        </fieldset>
+            <label for="${widget/id}_year" i18n:translate="label_year">Year</label>
+            <input class="year numeric" type="text" name="${widget/name}-year" id="${widget/id}_year" maxlength="4" value="${widget/year}"/>
+            <em tal:condition="widget/error" class="message warning">Geef een datum na 1 januari 2000 op.</em>
+          </fieldset>
+        </tal:block>
       </fieldset>
       
       <p class="buttonBar">
-        <button type="submit" name="next" value="previous" i18n:translate="label_previous" class="previous floatBefore back">Previous</button>
-        <button type="submit" name="next" value="next" i18n:translate="label_next" class="next floatAfter">Next</button>
+        <button type="submit" name="form.buttons.previous" i18n:translate="label_previous" class="previous floatBefore back">Previous</button>
+        <button type="submit" name="form.buttons.next" i18n:translate="label_next" class="next floatAfter">Next</button>
       </p>
     </form>
 

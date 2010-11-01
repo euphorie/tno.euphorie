@@ -1,108 +1,123 @@
-import calendar
 import datetime
+import decimal
 from five import grok
-from repoze import formapi
-from euphorie.client import MessageFactory as _
-from euphorie.client.survey import PathGhost
+from zope.interface import directlyProvides
+from zope import schema
+from zope.schema.vocabulary import SimpleTerm
+from zope.schema.vocabulary import SimpleVocabulary
+from plone.directives import form
+from plonetheme.nuplone.z3cform.form import FieldWidgetFactory
+from euphorie.client.company import Company as GenericCompany
 from euphorie.client.session import SessionManager
+from euphorie.client.survey import PathGhost
 from tno.euphorie.interfaces import ITnoReportPhaseSkinLayer
 from tno.euphorie.model import DutchCompany
+
 
 grok.templatedir("templates")
 
 
-class CompanyForm(formapi.Form):
-    """A single action plan item."""
-
-    fields = dict(title=unicode,
-                  address_visit_address=unicode,
-                  address_visit_postal=unicode,
-                  address_visit_city=unicode,
-                  address_postal_address=unicode,
-                  address_postal_postal=unicode,
-                  address_postal_city=unicode,
-                  email=str,
-                  phone=str,
-                  activity=unicode,
-                  submitter_name=unicode,
-                  submitter_function=unicode,
-                  department=unicode,
-                  location=unicode,
-                  submit_date_day=int,
-                  submit_date_month=int,
-                  submit_date_year=int,
-                  employees=str,
-                  absentee_percentage=float,
-                  accidents=int,
-                  incapacitated_workers=int,
-                  arbo_expert=unicode,
-                  works_council=bool,
-                  works_council_approval_day=int,
-                  works_council_approval_month=int,
-                  works_council_approval_year=int)
-
-    @formapi.validator("submit_date_day")
-    def valid_submit_day(self):
-        day=self.data["submit_date_day"]
-        if day is None:
-            return
-        if not 1<=day<=31:
-            yield _(u"Invalid day of month")
-
-        try:
-            (__, maxday)=calendar.monthrange(self.data["submit_date_year"],
-                                            self.data["submit_date_month"])
-            if day>maxday:
-                yield _(u"Invalid day of month")
-        except TypeError:
-            # Invalid year most likely
-            pass
+TextSpan1 = FieldWidgetFactory("z3c.form.browser.text.TextFieldWidget", klass="span-1")
+TextSpan6 = FieldWidgetFactory("z3c.form.browser.text.TextFieldWidget", klass="span-6")
 
 
-    @formapi.validator("submit_date_year")
-    def valid_submit_year(self):
-        year=self.data["submit_date_year"]
-        if year is None:
-            return
-        if year<1900:
-            yield u"Het jaartal moet 1900 of later zijn"
+class DutchCompanySchema(form.Schema):
+    title = schema.TextLine(
+            title=u"Bedrijfsnaam",
+            max_length=128,
+            required=False)
+    address_visit_address = schema.TextLine(
+            title=u"Adres",
+            required=False)
+    address_visit_postal = schema.TextLine(
+            title=u"Postcode",
+            max_length=16,
+            required=False)
+    address_visit_city = schema.TextLine(
+            title=u"Plaats",
+            max_length=64,
+            required=False)
+
+    address_postal_address = schema.TextLine(
+            title=u"Adres",
+            required=False)
+    address_postal_postal = schema.TextLine(
+            title=u"Postcode",
+            max_length=16,
+            required=False)
+    address_postal_city = schema.TextLine(
+            title=u"Plaats",
+            max_length=64,
+            required=False)
+    email = schema.ASCIILine(
+            title=u"E-mailadres",
+            max_length=128,
+            required=False)
+    form.widget(email="tno.euphorie.company.TextSpan6")
+    phone = schema.ASCIILine(
+            title=u"Telefoonnummer",
+            max_length=32,
+            required=False)
+    activity = schema.TextLine(
+            title=u"Bedrijfsactiviteit",
+            max_length=64,
+            required=False)
+    submitter_name = schema.TextLine(
+            title=u"Naam invuller",
+            max_length=64,
+            required=False)
+    submitter_function = schema.TextLine(
+            title=u"Functie invuller",
+            max_length=64,
+            required=False)
+    department = schema.TextLine(
+            title=u"Afdeling",
+            max_length=64,
+            required=False)
+    location = schema.TextLine(
+            title=u"Lokatie",
+            max_length=64,
+            required=False)
+    submit_date = schema.Date(
+            title=u"Datum",
+            description=u"Datum waarop de gegevens verzameld zijn",
+            min=datetime.date(2000,1,1),
+            required=False)
+    employees = schema.Choice(
+            title=u"Aantal werknemers",
+            vocabulary=SimpleVocabulary([
+                SimpleTerm(u"40h", title=u"Maximaal 40 uur betaalde arbeid per week"),
+                SimpleTerm(u"max25", title=u"Maximaal 25 werknemers"),
+                SimpleTerm(u"over25", title=u"Meer dan 25 werknemers"),
+                ]),
+            required=False)
+    absentee_percentage = schema.Decimal(
+            title=u"Verzuimpercentage",
+            min=decimal.Decimal(0), max=decimal.Decimal(100),
+            required=False)
+    form.widget(absentee_percentage="tno.euphorie.company.TextSpan1")
+    accidents = schema.Int(
+            title=u"Aantal ongevallen vorig jaar",
+            required=False)
+    form.widget(accidents="tno.euphorie.company.TextSpan1")
+    incapacitated_workers = schema.Int(
+            title=u"Aantal mensen in de WIA vorig jaar",
+            required=False)
+    form.widget(incapacitated_workers="tno.euphorie.company.TextSpan1")
+    arbo_expert = schema.TextLine(
+            title=u"Gegevens arbodienst/-deskundige",
+            description=u"naam, contactperson, adres, postcode, plaats, e-mail",
+            max_length=128,
+            required=False)
+    works_council_approval = schema.Date(
+            title=u"Datum van akkoord OR/medewerkersvertegenwoordiging",
+            min=datetime.date(2000,1,1),
+            required=False)
 
 
-    @formapi.validator("works_council_approval_day")
-    def valid_works_council_approval_day(self):
-        if not self.data["works_council"]:
-            # Do not validate of works council did not approve
-            return
 
-        day=self.data["works_council_approval_day"]
-        if day is None:
-            return
-        if not 1<=day<=31:
-            yield _(u"Invalid day of month")
-
-        try:
-            (__, maxday)=calendar.monthrange(self.data["works_council_approval_year"],
-                                            self.data["works_council_approval_month"])
-            if day>maxday:
-                yield _(u"Invalid day of month")
-        except TypeError:
-            # Invalid year most likely
-            pass
-
-
-    @formapi.validator("works_council_approval_year")
-    def valid_works_council_approval_year(self):
-        year=self.data["works_council_approval_year"]
-        if year is None:
-            return
-        if year<1900:
-            yield u"Het jaartal moet 1900 of later zijn"
-
-
-
-
-class ReportCompanyDetails(grok.View):
-    """Intro page for report phase.
+class Company(GenericCompany):
+    """Update the company details.
 
     This view is registered for :py:class:`PathGhost` instead of
     :py:obj:`euphorie.content.survey.ISurvey` since the
@@ -115,49 +130,17 @@ class ReportCompanyDetails(grok.View):
     grok.template("report_company")
     grok.name("company")
 
-    def update(self):
-        self.session=session=SessionManager.session
+    schema = DutchCompanySchema
+    company = None
+    errors = {}
 
+    def _assertCompany(self):
+        if self.company is not None:
+            return
+        session=SessionManager.session
         if session.dutch_company is None:
             session.dutch_company=DutchCompany(submit_date=datetime.date.today())
+        directlyProvides(session.dutch_company, DutchCompanySchema)
+        self.company=session.dutch_company
 
-        self.errors={}
-        if self.request.environ["REQUEST_METHOD"]=="POST":
-            reply=dict([(key,value) for (key,value) in self.request.form.items()
-                        if value and (not isinstance(value, basestring) or value.strip())])
-            if reply.get("absentee_percentage"):
-                reply["absentee_percentage"]=reply["absentee_percentage"].replace(",", ".")
-            company=session.dutch_company
-            form=CompanyForm(params=reply)
-            if not form.validate():
-                self.errors=form.errors._dict
-            else:
-                for key in [ "title", "address_visit_address",
-                             "address_visit_postal", "address_visit_city",
-                             "address_postal_address", "address_postal_postal",
-                             "address_postal_city", "email", "phone",
-                             "activity", "submitter_name",
-                             "submitter_function", "department", "location",
-                             "employees", "absentee_percentage", "accidents",
-                             "incapacitated_workers", "arbo_expert"]:
-                    setattr(company, key, form.data[key])
-
-                if reply.get("works_council"):
-                    try:
-                        company.works_council_approval=datetime.date(form.data["works_council_approval_year"],
-                                form.data["works_council_approval_month"], form.data["works_council_approval_day"])
-                    except TypeError:
-                        pass
-                if form.data["submit_date_day"] and form.data["submit_date_year"]:
-                    try:
-                        company.submit_date=datetime.date(form.data["submit_date_year"],
-                                form.data["submit_date_month"], form.data["submit_date_day"])
-                    except TypeError:
-                        pass
-
-                if reply["next"]=="previous":
-                    url="%s/report" % self.request.survey.absolute_url()
-                else:
-                    url="%s/report/view" % self.request.survey.absolute_url()
-                self.request.response.redirect(url)
 

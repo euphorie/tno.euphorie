@@ -7,6 +7,10 @@ Changelog
 Bugfixes
 ~~~~~~~~
 
+- Rewrite company form to use z3c.form as form toolkit. This should
+  improve form robustness greatly.
+  [wichert]
+
 - Correct reStructuredText syntax errors in the changelog.
   [wichert]
 

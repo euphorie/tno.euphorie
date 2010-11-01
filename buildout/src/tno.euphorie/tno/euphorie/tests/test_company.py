@@ -20,6 +20,7 @@ class CompanyBrowserTests(testing.TnoEuphorieFunctionalTestCase):
         browser.getControl(name="next", index=1).click()
         # Start the survey
         browser.getForm().submit()
+        browser.handleErrors=False
         return browser
 
     def testDutchCompanyFormUsed(self):
@@ -49,8 +50,8 @@ class CompanyBrowserTests(testing.TnoEuphorieFunctionalTestCase):
         self.createSurvey()
         browser=self.startSurveySession()
         browser.open("http://nohost/plone/client/nl/ict/software-development/report/company")
-        browser.getControl(name="absentee_percentage").value="50,1"
-        browser.getControl(name="next", index=1).click()
+        browser.getControl(name="form.widgets.absentee_percentage").value="50,1"
+        browser.getControl(name="form.buttons.next").click()
         self.assertEqual(browser.url,
                 "http://nohost/plone/client/nl/ict/software-development/report/view")
 
@@ -58,30 +59,29 @@ class CompanyBrowserTests(testing.TnoEuphorieFunctionalTestCase):
         self.createSurvey()
         browser=self.startSurveySession()
         browser.open("http://nohost/plone/client/nl/ict/software-development/report/company")
-        browser.getControl(name="absentee_percentage").value="40.1"
-        browser.getControl(name="next", index=1).click()
-        self.assertEqual(browser.url,
-                "http://nohost/plone/client/nl/ict/software-development/report/view")
+        browser.getControl(name="form.widgets.absentee_percentage").value="40.1"
+        browser.getControl(name="form.buttons.next").click()
+        self.assertTrue("Vul een percentage in" in browser.contents)
 
     def testInvalidAbsenteePercentageGetsErrorMessage(self):
         self.createSurvey()
         browser=self.startSurveySession()
         browser.open("http://nohost/plone/client/nl/ict/software-development/report/company")
-        browser.getControl(name="absentee_percentage").value="4.0.1"
-        browser.getControl(name="next", index=1).click()
+        browser.getControl(name="form.widgets.absentee_percentage").value="4.0.1"
+        browser.getControl(name="form.buttons.next").click()
         self.assertTrue("Vul een percentage in" in browser.contents)
 
     def testPartialYear(self):
         self.createSurvey()
         browser=self.startSurveySession()
         browser.open("http://nohost/plone/client/nl/ict/software-development/report/company")
-        browser.getControl(name="submit_date_day").value="10"
-        browser.getControl(name="submit_date_month").value=["9"]
-        browser.getControl(name="submit_date_year").value="8"
-        browser.getControl(name="next", index=1).click()
-        self.assertTrue("Voer een jaartal na 1900 in" in browser.contents)
-        browser.getControl(name="submit_date_year").value="2008"
-        browser.getControl(name="next", index=1).click()
+        browser.getControl(name="form.widgets.submit_date-day").value="10"
+        browser.getControl(name="form.widgets.submit_date-month").value=["9"]
+        browser.getControl(name="form.widgets.submit_date-year").value="8"
+        browser.getControl(name="form.buttons.next").click()
+        self.assertTrue("Geef een datum na 1 januari 2000 op." in browser.contents)
+        browser.getControl(name="form.widgets.submit_date-year").value="2008"
+        browser.getControl(name="form.buttons.next").click()
         self.assertEqual(browser.url,
                 "http://nohost/plone/client/nl/ict/software-development/report/view")
         self.assertTrue("10 september 2008" in browser.contents)

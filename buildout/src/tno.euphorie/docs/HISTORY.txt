@@ -8,7 +8,8 @@ Bugfixes
 ~~~~~~~~
 
 - Rewrite company form to use z3c.form as form toolkit. This should
-  improve form robustness greatly.
+  improve form robustness greatly. Fixes `TNO ticket 145
+  <http://code.simplon.biz/tracker/tno-euphorie/ticket/145>`_.
   [wichert]
 
 - Correct reStructuredText syntax errors in the changelog.

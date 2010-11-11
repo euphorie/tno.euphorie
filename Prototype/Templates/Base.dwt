@@ -17,7 +17,7 @@
     <link rel="icon" type="image/png" href="../media/favicon.png" /><!--[if IE]>
       <link rel="shortcut icon" type="image/x-icon" href="media/favicon-pink.ico" />
     <![endif]-->
-    <script type="text/javascript" src="../libraries/jquery-1.4.2.js">
+    <script type="text/javascript" src="../libraries/jquery-1.4.3.js">
 </script>
     <script type="text/javascript" src="../libraries/jquery.tools.min.js">
 </script>

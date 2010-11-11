@@ -274,6 +274,17 @@ var mapal = {
         $("legend", root).each(function() {
             $(this).replaceWith('<p class="legend">'+$(this).html()+'</p>');
         });
+
+        $("label dfn.infoPanel", root).each(function() {
+            var $panel = $(this),
+                $label = $panel.closest("label"),
+                $body = $("body"),
+                offset = $panel.offset();
+            $panel
+                .remove()
+                .appendTo($body)
+                .css({position: "absolute", left: offset.left, top: offset.top});
+        });
     },
 
 
@@ -460,21 +471,12 @@ var mapal = {
     initTooltip: function(root) {
         $("dfn.infoPanel:not(span)").each(function() {
             var $panel = $(this),
-                title = $panel.attr("title"),
-	        $label, position;
+                title = $panel.attr("title");
 
             if ($panel.data("mapal.tooltip")) {
                 return;
             }
 
-	    $label=$panel.closest("label");
-	    if ($label.length) {
-	        position=$panel.position();
-		$panel
-		    .remove()
-		    .insertAfter($label)
-		    .css({position: "absolute", left: position.left, top: position.top});
-	    }
 
             if (title) {
                 $("<span/>")
@@ -485,7 +487,7 @@ var mapal = {
             }
 
             $panel
-		.click(function(event) {
+                .click(function(event) {
                     if ($panel.hasClass("open")) {
                         $panel.removeClass("open");
                         $("body").unbind("click.tooltip");

@@ -3790,7 +3790,6 @@ dfn.infoPanel {
 	border-style: none;
 	display: inline-block;
 	overflow: hidden;
-	margin-top: 2px;
 	font-weight: normal;
 	font-style: normal;
 	-webkit-user-select: none;
@@ -3802,6 +3801,11 @@ dfn.infoPanel {
 	-moz-transform-origin: 8px -23px;
 	-o-transform-origin: 8px -23px;
 	transform-origin: 8px -23px;
+}
+
+label dfn.infoPanel,
+legend dfn.infoPanel {
+	margin-top: 2px;
 }
 
 dfn.infoPanel.open {

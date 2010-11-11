@@ -44,7 +44,7 @@
 
         <fieldset class="comprehensive date-eu">
           <legend>Single date<sup class="required">*</sup></legend> 
-          <dfn class="infoPanelUI" title="Information">This is a short statement about a possible risk </dfn>
+          <dfn class="infoPanel" title="Information">This is a short statement about a possible risk </dfn>
           <label for="date-day">Date</label>
           <input name="day" type="text" maxlength="2" class="day" />
           <label for="date-month">Month</label>
@@ -68,7 +68,7 @@
         
         <fieldset class="comprehensive">
           <legend>Comprehensive set. <em class="discrete">Comprehensive fieldsets are used for questions that require more than one answer field.</em></legend> 
-          <dfn class="infoPanelUI" title="Information">Comprehensive fieldsets are used for questions that require more than one answer field.</dfn>
+          <dfn class="infoPanel" title="Information">Comprehensive fieldsets are used for questions that require more than one answer field.</dfn>
           <label><input type="text" name="bla" class="span-1" length="2" /> Lorem</label>
           <label><input type="radio" name="bla" /> Lorem</label>
           <label><input type="checkbox" name="bla" /> Lorem</label>
@@ -88,8 +88,8 @@
           </select>
         </fieldset>
         <label>Concise set <input type="text" value="Concise" />
-          <dfn class="infoPanelUI" title="Information">This is a short statement about a possible risk </dfn>
         </label> 
+          <dfn class="infoPanel" title="Information">This is a short statement about a possible risk </dfn>
         <label>Concise set <input type="password" /> <em class="message warning">Password doesn't match</em></label>
         <fieldset class="richInput condensed">
           <legend>Rich text (Condensed setting)</legend>
@@ -306,24 +306,5 @@
       <p id="appendix">
         <a href="#">Link to sector organisation</a> | <a href="#">Disclaimer</a> | Design by <a href="http://www.cornae.com">Cornae</a>
       </p>
-      <script type="text/javascript">
-// <![CDATA[
-        $(document).ready(function() {
-              $("dfn.infoPanelUI").tooltip({
-                items: ".infoPanelUI",
-                content: function() {
-                    var $panel = $(this),
-                        $content = $("<div/>");
-
-                    $("<span/>").text($panel.attr("title")).appendTo($content);
-                    $("<p/>").html($panel.html()).appendTo($content);
-
-                    return $content.html();
-                }
-            });
-        });
-// ]]>
-      </script>
-
   </body>
 <!-- InstanceEnd --></html>

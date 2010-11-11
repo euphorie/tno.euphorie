@@ -460,11 +460,21 @@ var mapal = {
     initTooltip: function(root) {
         $("dfn.infoPanel:not(span)").each(function() {
             var $panel = $(this),
-                title = $panel.attr("title");
+                title = $panel.attr("title"),
+	        $label, position;
 
             if ($panel.data("mapal.tooltip")) {
                 return;
             }
+
+	    $label=$panel.closest("label");
+	    if ($label.length) {
+	        position=$panel.position();
+		$panel
+		    .remove()
+		    .insertAfter($label)
+		    .css({position: "absolute", left: position.left, top: position.top});
+	    }
 
             if (title) {
                 $("<span/>")

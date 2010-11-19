@@ -3192,6 +3192,7 @@ ul.radioRow li label {
 }
 
 #portlets .comprehensive .question,
+#portlets .comprehensive .legend,
 #portlets .concise label {
 	color: black;
 	font-weight: bold;

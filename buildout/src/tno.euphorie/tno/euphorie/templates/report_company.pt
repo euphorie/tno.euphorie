@@ -63,9 +63,9 @@
 
         <fieldset class="comprehensive radioList" tal:define="widget view/widgets/employees; value widget/value">
           <legend>${widget/label}</legend>
-          <label><input type="radio" name="${widget/name}" value="40h" selected="${python:'selected' if value=='40h' else None}"/> Maximaal 40 uur betaalde arbeid per week <br/><span class="discrete">(alle werknemers samen)</span></label>
-          <label><input type="radio" name="${widget/name}" value="max25" selected="${python:'selected' if value=='max25' else None}"/> Maximaal 25 werknemers <br/><span class="discrete">(let op het gaat hier niet om FTE's, maar om daadwerkelijke personen)</span></label>
-          <label><input type="radio" name="${widget/name}" value="over25" selected="${python:'selected' if value=='over25' else None}"/> Meer dan 25 werknemers <br/><span class="discrete">(let op het gaat hier niet om FTE's, maar om daadwerkelijke personen)</span></label>
+          <label><input type="radio" name="${widget/name}" value="40h" checked="${python:'checked' if '40h' in value else None}"/> Maximaal 40 uur betaalde arbeid per week <br/><span class="discrete">(alle werknemers samen)</span></label>
+          <label><input type="radio" name="${widget/name}" value="max25" checked="${python:'checked' if 'max25' in value else None}"/> Maximaal 25 werknemers <br/><span class="discrete">(let op het gaat hier niet om FTE's, maar om daadwerkelijke personen)</span></label>
+          <label><input type="radio" name="${widget/name}" value="over25" checked="${python:'checked' if 'over25' in value else None}"/> Meer dan 25 werknemers <br/><span class="discrete">(let op het gaat hier niet om FTE's, maar om daadwerkelijke personen)</span></label>
           <tal:error condition="widget/error" replace="structure widget/error/render|nothing"/>
         </fieldset>
 

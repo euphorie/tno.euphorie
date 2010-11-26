@@ -4,7 +4,12 @@ Changelog
 1.7 - Unreleased
 ----------------
 
-- ...
+Bugfixes
+~~~~~~~~
+
+- Fix display of current number of employees in the company data form. This fixes
+  `TNO ticket 151 <http://code.simplon.biz/tracker/tno-euphorie/ticket/151>`_.
+  [wichert]
 
 
 

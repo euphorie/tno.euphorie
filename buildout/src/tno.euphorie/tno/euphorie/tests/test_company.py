@@ -86,3 +86,17 @@ class CompanyBrowserTests(testing.TnoEuphorieFunctionalTestCase):
                 "http://nohost/plone/client/nl/ict/software-development/report/view")
         self.assertTrue("10 september 2008" in browser.contents)
 
+    def testEmployeeSaved(self):
+        # Test for http://code.simplon.biz/tracker/tno-euphorie/ticket/151
+        self.createSurvey()
+        browser=self.startSurveySession()
+        browser.open("http://nohost/plone/client/nl/ict/software-development/report/company")
+        browser.getControl(name="form.widgets.employees").value=["over25"]
+        browser.getControl(name="form.buttons.next").click()
+        self.assertEqual(browser.url,
+                "http://nohost/plone/client/nl/ict/software-development/report/view")
+        browser.open("http://nohost/plone/client/nl/ict/software-development/report/company")
+        self.assertEqual(
+            browser.getControl(name="form.widgets.employees").value,
+            ["over25"])
+

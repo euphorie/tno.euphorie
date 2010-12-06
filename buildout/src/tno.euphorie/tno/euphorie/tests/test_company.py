@@ -46,7 +46,7 @@ class CompanyBrowserTests(testing.TnoEuphorieFunctionalTestCase):
         browser.open("http://nohost/plone/client/nl/ict/software-development/report/download")
         self.assertTrue("Bezoekadres bedrijf" in browser.contents)
 
-    def testDecimalAbsenteePercentage(self):
+    def testDecimalAbsenteePercentage_DutchNotation(self):
         self.createSurvey()
         browser=self.startSurveySession()
         browser.open("http://nohost/plone/client/nl/ict/software-development/report/company")
@@ -70,6 +70,15 @@ class CompanyBrowserTests(testing.TnoEuphorieFunctionalTestCase):
         browser.getControl(name="form.widgets.absentee_percentage").value="4.0.1"
         browser.getControl(name="form.buttons.next").click()
         self.assertTrue("Vul een percentage in" in browser.contents)
+
+    def testDecimalAbsenteePercentageNotRoundedInReport(self):
+        # Test for http://code.simplon.biz/tracker/tno-euphorie/ticket/162
+        self.createSurvey()
+        browser=self.startSurveySession()
+        browser.open("http://nohost/plone/client/nl/ict/software-development/report/company")
+        browser.getControl(name="form.widgets.absentee_percentage").value="50,1"
+        browser.getControl(name="form.buttons.next").click()
+        self.assertTrue("50,1%" in browser.contents)
 
     def testPartialYear(self):
         self.createSurvey()

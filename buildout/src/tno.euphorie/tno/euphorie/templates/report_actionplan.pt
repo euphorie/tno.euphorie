@@ -77,7 +77,7 @@
         <tal:span condition="python:company.employees=='over25'" i18n:translate="employee_numbers_above_25">More than 25 employees</tal:span>
       </dd>
       <dt i18n:translate="label_absentee_percentage">Absentee percentage</dt>
-      <dd tal:define="has_value python:company.absentee_percentage is not None"><em tal:condition="not:has_value" i18n:translate="missing_data">Not provided</em><tal:span condition="has_value">${python:tools.formatPercentage(company.absentee_percentage)}</tal:span></dd>
+      <dd tal:define="has_value python:company.absentee_percentage is not None"><em tal:condition="not:has_value" i18n:translate="missing_data">Not provided</em><tal:span condition="has_value">${python:tools.formatDecimal(company.absentee_percentage)}%</tal:span></dd>
       <dt i18n:translate="label_accidents">Number of accidents last year</dt>
       <dd tal:define="has_value python:company.accidents is not None"><em tal:condition="not:has_value" i18n:translate="missing_data">Not provided</em><tal:span condition="has_value">${company/accidents}</tal:span></dd>
       <dt i18n:translate="label_incapacitated_workers">Number of incapacitated workers last year</dt>

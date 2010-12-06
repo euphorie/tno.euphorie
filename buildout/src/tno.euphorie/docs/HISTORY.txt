@@ -7,6 +7,12 @@ Changelog
 Bugfixes
 ~~~~~~~~
 
+- Show decimals for absentee percentages. This employes a workaround for a
+  `zope.i18n bug 686058 <https://bugs.launchpad.net/zope.i18n/+bug/686058>`_.
+  This fixes `TNO ticket 162
+  <http://code.simplon.biz/tracker/tno-euphorie/ticket/162>`_.
+  [wichert]
+
 - Fix display of current number of employees in the company data form. This fixes
   `TNO ticket 151 <http://code.simplon.biz/tracker/tno-euphorie/ticket/151>`_.
   [wichert]

@@ -33,7 +33,7 @@
         </fieldset>
         
         <fieldset class="comprehensive inputList">
-          <legend>Postadres bedrijfAdres</legend>
+          <legend>Postadres bedrijf</legend>
           <tal:block define="widget view/widgets/address_postal_address"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text"  value="${widget/value}"/> <br/></tal:block>
           <tal:block define="widget view/widgets/address_postal_postal"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text"  value="${widget/value}"/> <br/></tal:block>
           <tal:block define="widget view/widgets/address_postal_city"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text"  value="${widget/value}"/> <br/></tal:block>

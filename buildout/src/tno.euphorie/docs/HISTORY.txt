@@ -7,6 +7,9 @@ Changelog
 Bugfixes
 ~~~~~~~~
 
+- Do not use (now missing) translations for texts specific to this package.
+  [wichert]
+
 - Show decimals for absentee percentages. This employes a workaround for a
   `zope.i18n bug 686058 <https://bugs.launchpad.net/zope.i18n/+bug/686058>`_.
   This fixes `TNO ticket 162

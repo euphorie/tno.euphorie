@@ -36,53 +36,53 @@
     </div>
 
     <dl class="grid companyDetails span-15">
-      <dt i18n:translate="label_company_title">Bedrijfsnaam</dt>
+      <dt>Bedrijfsnaam</dt>
       <dd><em tal:condition="not:company/title" i18n:translate="missing_data">Not provided</em>${company/title}</dd>
-      <dt i18n:translate="label_address_postal">Postal address</dt>
+      <dt>Postadres bedrijf</dt>
       <dd tal:define="valid python:company.address_postal_address or company.address_postal_postal or company.address_postal_city">
         <em tal:condition="not:valid" i18n:translate="missing_data">Not provided</em><address tal:condition="valid">
           ${company/address_postal_address}<br/>
           ${company/address_postal_postal} ${company/address_postal_city}
         </address>
       </dd>
-      <dt i18n:translate="label_address_visit">Visitor's address</dt>
+      <dt>Bezoekadres bedrijf</dt>
       <dd tal:define="valid python:company.address_visit_address or company.address_visit_postal or company.address_visit_city">
         <em tal:condition="not:valid" i18n:translate="missing_data">Not provided</em><address tal:condition="valid">
           ${company/address_visit_address}<br/>
           ${company/address_visit_postal} ${company/address_visit_city}
         </address>
       </dd>
-      <dt i18n:translate="label_email">Email address</dt>
+      <dt>E-mailadres</dt>
       <dd><em tal:condition="not:company/email" i18n:translate="missing_data">Not provided</em>${company/email}</dd>
-      <dt i18n:translate="label_telephone">Telephone number</dt>
+      <dt>Telefoonnummer</dt>
       <dd><em tal:condition="not:company/phone" i18n:translate="missing_data">Not provided</em>${company/phone}</dd>
-      <dt i18n:translate="label_activity">Activity</dt>
+      <dt>Bedrijfsactiviteit</dt>
       <dd><em tal:condition="not:company/activity" i18n:translate="missing_data">Not provided</em>${company/activity}</dd>
-      <dt i18n:translate="label_submitter_name">Name submitter</dt>
+      <dt>Naam invuller</dt>
       <dd><em tal:condition="not:company/submitter_name" i18n:translate="missing_data">Not provided</em>${company/submitter_name}</dd>
-      <dt i18n:translate="label_submitter_function">Function submitter</dt>
+      <dt>Functie invuller</dt>
       <dd><em tal:condition="not:company/submitter_function" i18n:translate="missing_data">Not provided</em>${company/submitter_function}</dd>
-      <dt i18n:translate="label_department">Department</dt>
+      <dt>Afdeling</dt>
       <dd><em tal:condition="not:company/department" i18n:translate="missing_data">Not provided</em>${company/department}</dd>
-      <dt i18n:translate="label_location">Location</dt>
+      <dt>Lokatie</dt>
       <dd><em tal:condition="not:company/location" i18n:translate="missing_data">Not provided</em>${company/location}</dd>
-      <dt i18n:translate="label_submit_date_report">Submitted on</dt>
+      <dt>Data verzameld op</dt>
       <dd><em tal:condition="not:company/submit_date" i18n:translate="missing_data">Not provided</em>${python:tools.formatDate(company.submit_date) if company.submit_date else None}</dd>
-      <dt i18n:translate="label_email">Email address</dt>
+      <dt>E-mailadres</dt>
       <dd><em tal:condition="not:company/email" i18n:translate="missing_data">Not provided</em>${company/email}</dd>
-      <dt i18n:translate="label_employee_numbers">Number of employees</dt>
+      <dt>Aantal werknemers</dt>
       <dd><em tal:condition="not:company/employees" i18n:translate="missing_data">Not provided</em>
-        <tal:span condition="python:company.employees=='40h'" i18n:translate="employee_numbers_max_40_hours">40 hours or less of paid work</tal:span>
-        <tal:span condition="python:company.employees=='max25'" i18n:translate="employee_numbers_below_25">25 employees or less</tal:span>
-        <tal:span condition="python:company.employees=='over25'" i18n:translate="employee_numbers_above_25">More than 25 employees</tal:span>
+        <tal:span condition="python:company.employees=='40h'">Maximaal 40 uur betaalde arbeid per week</tal:span>
+        <tal:span condition="python:company.employees=='max25'">Maximaal 25 werknemers</tal:span>
+        <tal:span condition="python:company.employees=='over25'">Meer dan 25 werknemers</tal:span>
       </dd>
-      <dt i18n:translate="label_absentee_percentage">Absentee percentage</dt>
+      <dt>Verzuimpercentage</dt>
       <dd tal:define="has_value python:company.absentee_percentage is not None"><em tal:condition="not:has_value" i18n:translate="missing_data">Not provided</em><tal:span condition="has_value">${python:tools.formatDecimal(company.absentee_percentage)}%</tal:span></dd>
-      <dt i18n:translate="label_accidents">Number of accidents last year</dt>
+      <dt>Aantal ongevallen vorig jaar</dt>
       <dd tal:define="has_value python:company.accidents is not None"><em tal:condition="not:has_value" i18n:translate="missing_data">Not provided</em><tal:span condition="has_value">${company/accidents}</tal:span></dd>
-      <dt i18n:translate="label_incapacitated_workers">Number of incapacitated workers last year</dt>
+      <dt>Aantal mensen in de WIA vorig jaar</dt>
       <dd tal:define="has_value python:company.incapacitated_workers is not None"><em tal:condition="not:has_value" i18n:translate="missing_data">Not provided</em><tal:span condition="has_value">${company/incapacitated_workers}</tal:span></dd>
-      <dt i18n:translate="label_arbo_expert">Arbo expert</dt>
+      <dt>Arbodienst/-deskundige</dt>
       <dd><em tal:condition="not:company/arbo_expert" i18n:translate="missing_data">Not provided</em>${company/arbo_expert}</dd>
     </dl>
 
@@ -186,11 +186,10 @@
 
     <ul class="discrete">
       <li tal:condition="python:isinstance(getattr(context, 'published', None), tuple)" i18n:translate="report_survey_revision">This report was based on the survey '<tal:span i18n:name="title">${python:context.published[1]}</tal:span>' of revision date <tal:span i18n:name="date">${python:tools.formatDate(context.published[2])}</tal:span>.</li>
-      <li tal:condition="company/works_council_approval" i18n:translate="report_works_council_approved">
-      The works council has approved this report on <strong class="date" i18n:name="date">${python:tools.formatDate(company.works_council_approval)}</strong>.
+      <li tal:condition="company/works_council_approval">De OR/medewerkersvertegenwoordiging heeft dit rapport goedgekeurd op
+      <strong class="date">${python:tools.formatDate(company.works_council_approval)}</strong>.
       </li><li tal:condition="not:company/works_council_approval" i18n:translate="report_works_council_not_approved">
-      The works council has not approved this report.
-      </li>
+      De OR/medewerkersvertegenwoordiging heeft dit rapport niet goedgekeurd.</li>
     </ul>
 
     <ol id="steps" tal:define="survey_url webhelpers/survey_url">

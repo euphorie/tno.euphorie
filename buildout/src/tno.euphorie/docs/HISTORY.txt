@@ -7,7 +7,8 @@ Changelog
 Bugfixes
 ~~~~~~~~
 
-- Do not use (now missing) translations for texts specific to this package.
+- Do not use (now missing) translations for texts specific to this package. This
+  fixes `TNO ticket 152 <http://code.simplon.biz/tracker/tno-euphorie/ticket/1512`_.
   [wichert]
 
 - Show decimals for absentee percentages. This employes a workaround for a

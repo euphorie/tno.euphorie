@@ -1,8 +1,14 @@
 Changelog
 =========
 
-1.8 - Unreleased
+1.9 - Unreleased
 ----------------
+
+- ...
+
+
+1.8 - January 11, 2011
+----------------------
 
 - Use the new homelink METAL macro to render the logo and site URL. This is part
   of `TNO ticket 12 <http://code.simplon.biz/tracker/tno-euphorie/ticket/12>`_.

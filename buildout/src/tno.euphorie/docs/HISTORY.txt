@@ -4,6 +4,10 @@ Changelog
 1.8 - Unreleased
 ----------------
 
+- Use the new homelink METAL macro to render the logo and site URL. This is part
+  of `TNO ticket 12 <http://code.simplon.biz/tracker/tno-euphorie/ticket/12>`_.
+  [wichert]
+
 - Do not accidentily check the *akkoort OR/medewerkersvertegenwoordiging* flag
   after a validation error elsewhere on the company form. This fixes
   `TNO ticket 152 <http://code.simplon.biz/tracker/tno-euphorie/ticket/163>`_.

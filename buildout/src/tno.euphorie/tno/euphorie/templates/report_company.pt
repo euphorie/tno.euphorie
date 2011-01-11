@@ -82,7 +82,7 @@
 
         <tal:block define="widget view/widgets/works_council_approval">
           <label>Akkoord OR/medewerkersvertegenwoordiging
-            <input type="checkbox" name="works_council" value="yes" id="works_council" checked="${python:'checked' if filter(None, widget.value) else None}" /></label>
+            <input type="checkbox" name="works_council" value="yes" id="works_council" checked="${python:'checked' if widget.value[0] or widget.value[2] else None}" /></label>
           <fieldset class="comprehensive date-eu dependsOn-works_council">
             <legend>${widget/label} (<span class="discrete">${widget/field/description}</span>)</legend>
             <input type="hidden" value="1" tal:attributes="name string:${widget/name}-empty-marker" />

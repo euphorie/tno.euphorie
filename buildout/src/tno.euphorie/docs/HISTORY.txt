@@ -4,7 +4,10 @@ Changelog
 1.8 - Unreleased
 ----------------
 
-- ...
+- Do not accidentily check the *akkoort OR/medewerkersvertegenwoordiging* flag
+  after a validation error elsewhere on the company form. This fixes
+  `TNO ticket 152 <http://code.simplon.biz/tracker/tno-euphorie/ticket/163>`_.
+  [wichert]
 
 
 1.7 - December 7, 2010
@@ -14,7 +17,7 @@ Bugfixes
 ~~~~~~~~
 
 - Do not use (now missing) translations for texts specific to this package. This
-  fixes `TNO ticket 152 <http://code.simplon.biz/tracker/tno-euphorie/ticket/1512>`_.
+  fixes `TNO ticket 152 <http://code.simplon.biz/tracker/tno-euphorie/ticket/152>`_.
   [wichert]
 
 - Show decimals for absentee percentages. This employes a workaround for a

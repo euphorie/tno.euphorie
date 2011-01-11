@@ -109,3 +109,13 @@ class CompanyBrowserTests(testing.TnoEuphorieFunctionalTestCase):
             browser.getControl(name="form.widgets.employees").value,
             ["over25"])
 
+    def testWorksCouncilApprovalNotSetAfterOtherError(self):
+        # Test for http://code.simplon.biz/tracker/tno-euphorie/ticket/163
+        self.createSurvey()
+        browser=self.startSurveySession()
+        browser.open("http://nohost/plone/client/nl/ict/software-development/report/company")
+        browser.getControl(name="form.widgets.absentee_percentage").value="ABC"
+        browser.getControl(name="form.buttons.next").click()
+        self.assertEqual(browser.getControl(name="works_council").value, [])
+
+

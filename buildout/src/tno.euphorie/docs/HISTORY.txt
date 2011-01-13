@@ -4,6 +4,10 @@ Changelog
 1.9 - Unreleased
 ----------------
 
+- Update error text for invalid absentee percentage. This fixes 
+  `TNO ticket 167 <http://code.simplon.biz/tracker/tno-euphorie/ticket/167>`_.
+  [wichert]
+
 - Fix display of absentee in the company data form. This fixes
   `TNO ticket 166 <http://code.simplon.biz/tracker/tno-euphorie/ticket/166>`_.
   [wichert]

@@ -61,7 +61,7 @@ class CompanyBrowserTests(testing.TnoEuphorieFunctionalTestCase):
         browser.open("http://nohost/plone/client/nl/ict/software-development/report/company")
         browser.getControl(name="form.widgets.absentee_percentage").value="40.1"
         browser.getControl(name="form.buttons.next").click()
-        self.assertTrue("Vul een percentage in" in browser.contents)
+        self.assertTrue("Vul een getal (maximaal 100) in." in browser.contents)
 
     def testInvalidAbsenteePercentageGetsErrorMessage(self):
         self.createSurvey()
@@ -69,7 +69,7 @@ class CompanyBrowserTests(testing.TnoEuphorieFunctionalTestCase):
         browser.open("http://nohost/plone/client/nl/ict/software-development/report/company")
         browser.getControl(name="form.widgets.absentee_percentage").value="4.0.1"
         browser.getControl(name="form.buttons.next").click()
-        self.assertTrue("Vul een percentage in" in browser.contents)
+        self.assertTrue("Vul een getal (maximaal 100) in." in browser.contents)
 
     def testDecimalAbsenteePercentageNotRoundedInReport(self):
         # Test for http://code.simplon.biz/tracker/tno-euphorie/ticket/162

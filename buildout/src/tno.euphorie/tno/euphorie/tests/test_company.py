@@ -118,4 +118,17 @@ class CompanyBrowserTests(testing.TnoEuphorieFunctionalTestCase):
         browser.getControl(name="form.buttons.next").click()
         self.assertEqual(browser.getControl(name="works_council").value, [])
 
+    def testAbsenteePercentageNotLost(self):
+        # Test for http://code.simplon.biz/tracker/tno-euphorie/ticket/167
+        self.createSurvey()
+        browser=self.startSurveySession()
+        browser.open("http://nohost/plone/client/nl/ict/software-development/report/company")
+        browser.getControl(name="form.widgets.absentee_percentage").value="50"
+        browser.getControl(name="form.buttons.next").click()
+        self.assertEqual(browser.url,
+                "http://nohost/plone/client/nl/ict/software-development/report/view")
+        browser.open("http://nohost/plone/client/nl/ict/software-development/report/company")
+        self.assertEqual(browser.getControl(name="form.widgets.absentee_percentage").value, "50")
+
+
 

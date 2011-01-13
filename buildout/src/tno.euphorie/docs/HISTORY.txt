@@ -4,7 +4,9 @@ Changelog
 1.9 - Unreleased
 ----------------
 
-- ...
+- Fix display of absentee in the company data form. This fixes
+  `TNO ticket 166 <http://code.simplon.biz/tracker/tno-euphorie/ticket/166>`_.
+  [wichert]
 
 
 1.8 - January 11, 2011

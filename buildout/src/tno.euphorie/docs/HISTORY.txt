@@ -4,7 +4,9 @@ Changelog
 1.10 - Unreleased
 ----------------
 
-- ...
+- Update markup for absentee percentage field to hint that it is a percentage.
+  This is related to `TNO ticket 167`_.
+  [cornae,wichert]
 
 
 1.9 - January 13, 2011

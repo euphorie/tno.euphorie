@@ -70,7 +70,7 @@
         </fieldset>
 
         <label tal:define="widget view/widgets/absentee_percentage">${widget/label}
-          <input type="text" id="${widget/id}" name="${widget/name}" class="${widget/klass} numeri percentage" size="${widget/size}" maxlength="${widget/maxlength}" value="${widget/value}"/>
+          <input type="text" id="${widget/id}" name="${widget/name}" class="${widget/klass} numeri percentage" size="${widget/size}" maxlength="2" value="${widget/value}"/>
           <em tal:condition="widget/error" class="message warning">Vul een getal (maximaal 100) in.</em>
         </label>
         <tal:widget replace="structure view/widgets/accidents/render" />

@@ -26,6 +26,7 @@ class DutchCompanySchema(form.Schema):
             title=u"Bedrijfsnaam",
             max_length=128,
             required=False)
+
     address_visit_address = schema.TextLine(
             title=u"Adres",
             required=False)

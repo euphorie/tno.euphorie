@@ -27,6 +27,7 @@ def formatAddress(address, postal, city):
     return u"".join(output) if output else None
 
 
+
 class TnoActionPlanReportView(ActionPlanReportView):
     grok.layer(ITnoReportPhaseSkinLayer)
     grok.name("view")
@@ -36,6 +37,7 @@ class TnoActionPlanReportView(ActionPlanReportView):
         super(TnoActionPlanReportView, self).update()
         if self.session.dutch_company is None:
             self.session.dutch_company=DutchCompany()
+
 
 
 class TnoActionPlanReportDownload(ActionPlanReportDownload):

@@ -477,7 +477,6 @@ var mapal = {
                 return;
             }
 
-
             if (title) {
                 $("<span/>")
                     .addClass("title")
@@ -547,13 +546,13 @@ var mapal = {
 
     // Setup a DOM tree.
     initContent: function(root) {
+        mapal.initTransforms(root);
         mapal.initAutofocus(root);
         mapal.initAutocomplete(root);
         mapal.initDepends(root);
         mapal.initSuperImpose(root);
-        mapal.initTransforms(root);
+        mapal.initTooltip(root);
         mapal.initMenu(root);
-	mapal.initTooltip(root);
         // Replace objects with iframes for IE 8 and older.
         if ($.browser.msie ) {
             var version = Number( $.browser.version.split(".", 2).join(""));

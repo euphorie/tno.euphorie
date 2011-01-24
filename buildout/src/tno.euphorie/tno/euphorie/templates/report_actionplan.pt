@@ -39,14 +39,14 @@
       <dt>Bedrijfsnaam</dt>
       <dd><em tal:condition="not:company/title" i18n:translate="missing_data">Not provided</em>${company/title}</dd>
       <dt>Postadres bedrijf</dt>
-      <dd tal:define="valid python:company.address_postal_address or company.address_postal_postal or company.address_postal_city">
+      <dd tal:define="valid python:bool(company.address_postal_address or company.address_postal_postal or company.address_postal_city)">
         <em tal:condition="not:valid" i18n:translate="missing_data">Not provided</em><address tal:condition="valid">
           ${company/address_postal_address}<br/>
           ${company/address_postal_postal} ${company/address_postal_city}
         </address>
       </dd>
       <dt>Bezoekadres bedrijf</dt>
-      <dd tal:define="valid python:company.address_visit_address or company.address_visit_postal or company.address_visit_city">
+      <dd tal:define="valid python:bool(company.address_visit_address or company.address_visit_postal or company.address_visit_city)">
         <em tal:condition="not:valid" i18n:translate="missing_data">Not provided</em><address tal:condition="valid">
           ${company/address_visit_address}<br/>
           ${company/address_visit_postal} ${company/address_visit_city}

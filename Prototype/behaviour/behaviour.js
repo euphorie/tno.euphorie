@@ -164,6 +164,8 @@ var mapal = {
         $("*[class*='dependsOn-']", root).each(function() {
             var slave = this,
                 $slave = $(this),
+                $visible = $(this),
+                $panel = $slave.data("mapal.infoPanel"),
                 classes = $slave.attr("class").split(" "),
                 command = {"on" : [],
                            "action" : "show",
@@ -187,12 +189,15 @@ var mapal = {
             }
 
             state=mapal.verifyDependencies($slave, command);
+            if ($panel!==undefined) {
+                $visible=$visible.add($panel);
+            }
 
             if (command.action==="show") {
                 if (state) {
-                    $slave.show();
+                    $visible.show();
                 } else {
-                    $slave.hide();
+                    $visible.hide();
                 }
             } else if (command.action==="enable") {
                 if (state) {
@@ -208,9 +213,9 @@ var mapal = {
                 state=mapal.verifyDependencies($slave, command);
                 if (command.action==="show") {
                     if (state) {
-                        $slave.slideDown();
+                        $visible.slideDown();
                     } else {
-                        $slave.slideUp();
+                        $visible.slideUp();
                     }
                 } else if (command.action==="enable" ) {
                     if (state) {
@@ -284,6 +289,7 @@ var mapal = {
                 .remove()
                 .appendTo($body)
                 .css({position: "absolute", left: offset.left, top: offset.top});
+            $label.data("mapal.infoPanel", $panel);
         });
     },
 

@@ -1,6 +1,6 @@
 /** Markup Pattern Library.
  *
- * Copyright 2009-2010 W. Akkerman
+ * Copyright 2009-2011 W. Akkerman
  */
 
 /*jslint browser: true, undef: true, eqeqeq: true, regexp: true */

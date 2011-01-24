@@ -503,7 +503,7 @@ var mapal = {
                     }
                     event.stopPropagation();
                 })
-		.data("mapal.tooltip", true);
+                .data("mapal.tooltip", true);
         });
     },
 
@@ -541,13 +541,36 @@ var mapal = {
                 $iframe = $("<iframe allowtransparency='true'/>");
 
             $iframe
-	        .attr("id", $object.attr("id"))
+                .attr("id", $object.attr("id"))
                 .attr("class", $object.attr("class"))
                 .attr("src", $object.attr("data"))
                 .attr("frameborder", "0")
                 .attr("style", "background-color:transparent");
             $object.replaceWith($iframe);
         });
+    },
+
+    // Older IE versions need extra help to handle buttons.
+    initIEButtons: function() {
+        if ($.browser.msie ) {
+            var version = Number( $.browser.version.split(".", 2).join(""));
+            if (version>80) {
+                return;
+            }
+        }
+
+        $("form button[type=submit]").live("click", function() {
+            var name = this.name,
+                $el = $("<input/>"),
+                value = this.attributes.getNamedItem("value").nodeValue;
+
+            $el.attr("type", "hidden")
+               .attr("name", name)
+               .val(value)
+               .appendTo(this.form);
+            $("button[type=submit]", this.form).attr("name", "_buttonfix");
+        });
+
     },
 
     // Setup a DOM tree.
@@ -576,6 +599,7 @@ var mapal = {
         mapal.initWidthClasses();
         mapal.initDomInjection();
         mapal.initPanels();
+        mapal.initIEButtons();
     }
 };
 

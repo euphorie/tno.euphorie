@@ -16,18 +16,7 @@
     <link rel="icon" type="image/png" href="media/favicon.png" /><!--[if IE]>
       <link rel="shortcut icon" type="image/x-icon" href="media/favicon-pink.ico" />
     <![endif]-->
-    <script type="text/javascript" src="libraries/jquery-1.4.3.js">
-</script>
-    <script type="text/javascript" src="libraries/jquery.tools.min.js">
-</script>
-    <script type="text/javascript" src="libraries/ui-1.8/jquery-ui.js">
-</script>
-<script type="text/javascript" src="libraries/jquery.ui.tooltip.js">
-</script>
-    <script type="text/javascript" src="libraries/css_browser_selector.js">
-</script>
-    <script type="text/javascript" src="behaviour/behaviour.js">
-</script><!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+    <!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
   </head>
   <body>
   	<div id="content">
@@ -93,9 +82,17 @@
         <label>Concise set <input type="password" /> <em class="message warning">Password doesn't match</em></label>
         <fieldset class="richInput condensed">
           <legend>Rich text (Condensed setting)</legend>
+          <dfn class="infoPanel" title="Information">Include any relevant information here.</dfn>
           <label for="rich1" class="superImpose">Please enter text here.</label>
-          <textarea id="rich1" class="input rich"></textarea>
+          <textarea id="rich1" class="input rich">
+            <p>Om het werken veilig en gezond te houden, hebben werkgevers en werknemers in de Horeca sector een arbocatalogus opgesteld met praktische maatregelen die risico’s in het werk verkleinen. De arbocatalogus staat op de speciaal daarvoor ingerichte website <a href="http://www.gezondengastvrij.nl" rel="nofollow" target="_blank">www.gezondengastvrij.nl</a> Kies links de sector waarin je werkt of onderneemt en klik op het risico waarover je meer wilt weten. </p><p>In deze RI&amp;E zijn links aangebracht met de arbocatalogus bij de diverse thema's. </p><p>Informatie voor en over preventiemedewerkers:</p><p><a href="http://www.gezondengastvrij.nl/preventiemedewerker" rel="nofollow" target="_blank">http://www.gezondengastvrij.nl/preventiemedewerker</a></p>
+          </textarea>
         </fieldset> 
+        <label>This is a quick checkbox
+          <dfn class="infoPanel" title="Information">Include any relevant information here.</dfn>
+          <input type="checkbox"/>
+        </label>
+
         <fieldset class="richInput comprehensive">
           <legend>Rich text (Comprehensive setting)</legend>
           <label for="rich2" class="superImpose">Please enter text here.</label>
@@ -121,7 +118,7 @@
       <fieldset>
         <legend>Separation header</legend>
         <label>Concise checkbox <input type="checkbox" name="condition" /></label>
-        <label class="dependsOn-condition">A detail
+        <label id="labelDetail" class="dependsOn-condition">A detail
           <dfn class="infoPanel" title="Information">This is a short explanation.</dfn>
           <input type="text"/></label>
       </fieldset>
@@ -231,11 +228,13 @@
       </li>
     </ul>
     <p>
+<!--
       <object id="siteMenu" type="text/html" data="modules/site-menu.html">
         <p>
           Oops! That didn't work...
         </p>
       </object>
+      -->
     </p>
     <div id="portlets" class="sortable">
    	
@@ -310,5 +309,28 @@
       <p id="appendix">
         <a href="#">Link to sector organisation</a> | <a href="#">Disclaimer</a> | Design by <a href="http://www.cornae.com">Cornae</a>
       </p>
+      <script type="text/javascript" src="libraries/jquery-1.4.3.js"></script>
+      <script type="text/javascript" src="libraries/jquery.tools.min.js"> </script>
+      <script type="text/javascript" src="libraries/ui-1.8/jquery-ui.js"> </script>
+      <script type="text/javascript" src="libraries/jquery.ui.tooltip.js"> </script>
+      <script type="text/javascript" src="libraries/css_browser_selector.js"> </script>
+      <script type="text/javascript">
+// <![CDATA[
+      $(document).ready(function() {
+            $("textarea.rich").each(function() {
+                var $textarea = $(this),
+                    id = this.id,
+                    $div = $("<div/>");
+
+                $div
+                    .attr("id", id)
+                    .addClass("rich input")
+                    .html($textarea.val());
+                $textarea.replaceWith($div);
+            });
+        });
+// ]]>
+      </script>
+      <script type="text/javascript" src="behaviour/behaviour.js"> </script>
   </body>
 <!-- InstanceEnd --></html>

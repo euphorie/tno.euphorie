@@ -4,11 +4,13 @@
            i18n_domain="tno.euphorie">
 
   <include package="plone.browserlayer" />
+  <include package="z3c.appconfig" file="meta.zcml"/>
 
+  <appconfig file="euphorie.ini" />
   <grok:grok package="." />
 
   <include package=".upgrade" />
-           
+
   <adapter
       factory=".client.ClientPublishTraverser"
       provides="zope.publisher.interfaces.IPublishTraverse"

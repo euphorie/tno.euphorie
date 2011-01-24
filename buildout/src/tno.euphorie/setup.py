@@ -30,6 +30,7 @@ setup(name="tno.euphorie",
           "setuptools",
           "z3c.form",
           "zope.i18nmessageid",
+          "z3c.appconfig",
       ],
       tests_require = [
           "Euphorie [tests]",

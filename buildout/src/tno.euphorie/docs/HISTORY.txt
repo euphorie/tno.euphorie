@@ -1,8 +1,14 @@
 Changelog
 =========
 
-1.10 - Unreleased
+1.11 - Unreleased
 ----------------
+
+- ...
+
+
+1.10 - January 25, 2011
+-----------------------
 
 - Add local `z3c.appconfig <http://pypi.python.org/pypi/z3c.appconfig>`_
   configuration to disable the terms-and-condtions feature from Euphorie.

@@ -105,7 +105,7 @@ class TnoActionPlanReportDownload(ActionPlanReportDownload):
         field=DutchCompanySchema["submit_date"]
         table.append(
                 Cell(Paragraph(normal_style, field.title)),
-                Cell(Paragraph(normal_style, formatDate(company.submit_date) if company.submit_date else missing)))
+                Cell(Paragraph(normal_style, formatDate(request, company.submit_date) if company.submit_date else missing)))
 
         field=DutchCompanySchema["employees"]
         table.append(

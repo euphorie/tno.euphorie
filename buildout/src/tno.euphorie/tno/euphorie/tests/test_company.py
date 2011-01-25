@@ -46,7 +46,7 @@ class CompanyBrowserTests(testing.TnoEuphorieFunctionalTestCase):
         browser.open("http://nohost/plone/client/nl/ict/software-development/report/download")
         self.assertTrue("Bezoekadres bedrijf" in browser.contents)
 
-    def testDecimalAbsenteePercentage(self):
+    def testDecimalAbsenteePercentage_DutchNotation(self):
         self.createSurvey()
         browser=self.startSurveySession()
         browser.open("http://nohost/plone/client/nl/ict/software-development/report/company")
@@ -61,7 +61,7 @@ class CompanyBrowserTests(testing.TnoEuphorieFunctionalTestCase):
         browser.open("http://nohost/plone/client/nl/ict/software-development/report/company")
         browser.getControl(name="form.widgets.absentee_percentage").value="40.1"
         browser.getControl(name="form.buttons.next").click()
-        self.assertTrue("Vul een percentage in" in browser.contents)
+        self.assertTrue("Vul een getal (maximaal 100) in." in browser.contents)
 
     def testInvalidAbsenteePercentageGetsErrorMessage(self):
         self.createSurvey()
@@ -69,7 +69,16 @@ class CompanyBrowserTests(testing.TnoEuphorieFunctionalTestCase):
         browser.open("http://nohost/plone/client/nl/ict/software-development/report/company")
         browser.getControl(name="form.widgets.absentee_percentage").value="4.0.1"
         browser.getControl(name="form.buttons.next").click()
-        self.assertTrue("Vul een percentage in" in browser.contents)
+        self.assertTrue("Vul een getal (maximaal 100) in." in browser.contents)
+
+    def testDecimalAbsenteePercentageNotRoundedInReport(self):
+        # Test for http://code.simplon.biz/tracker/tno-euphorie/ticket/162
+        self.createSurvey()
+        browser=self.startSurveySession()
+        browser.open("http://nohost/plone/client/nl/ict/software-development/report/company")
+        browser.getControl(name="form.widgets.absentee_percentage").value="50,1"
+        browser.getControl(name="form.buttons.next").click()
+        self.assertTrue("50,1%" in browser.contents)
 
     def testPartialYear(self):
         self.createSurvey()
@@ -85,4 +94,41 @@ class CompanyBrowserTests(testing.TnoEuphorieFunctionalTestCase):
         self.assertEqual(browser.url,
                 "http://nohost/plone/client/nl/ict/software-development/report/view")
         self.assertTrue("10 september 2008" in browser.contents)
+
+    def testEmployeeSaved(self):
+        # Test for http://code.simplon.biz/tracker/tno-euphorie/ticket/151
+        self.createSurvey()
+        browser=self.startSurveySession()
+        browser.open("http://nohost/plone/client/nl/ict/software-development/report/company")
+        browser.getControl(name="form.widgets.employees").value=["over25"]
+        browser.getControl(name="form.buttons.next").click()
+        self.assertEqual(browser.url,
+                "http://nohost/plone/client/nl/ict/software-development/report/view")
+        browser.open("http://nohost/plone/client/nl/ict/software-development/report/company")
+        self.assertEqual(
+            browser.getControl(name="form.widgets.employees").value,
+            ["over25"])
+
+    def testWorksCouncilApprovalNotSetAfterOtherError(self):
+        # Test for http://code.simplon.biz/tracker/tno-euphorie/ticket/163
+        self.createSurvey()
+        browser=self.startSurveySession()
+        browser.open("http://nohost/plone/client/nl/ict/software-development/report/company")
+        browser.getControl(name="form.widgets.absentee_percentage").value="ABC"
+        browser.getControl(name="form.buttons.next").click()
+        self.assertEqual(browser.getControl(name="works_council").value, [])
+
+    def testAbsenteePercentageNotLost(self):
+        # Test for http://code.simplon.biz/tracker/tno-euphorie/ticket/167
+        self.createSurvey()
+        browser=self.startSurveySession()
+        browser.open("http://nohost/plone/client/nl/ict/software-development/report/company")
+        browser.getControl(name="form.widgets.absentee_percentage").value="50"
+        browser.getControl(name="form.buttons.next").click()
+        self.assertEqual(browser.url,
+                "http://nohost/plone/client/nl/ict/software-development/report/view")
+        browser.open("http://nohost/plone/client/nl/ict/software-development/report/company")
+        self.assertEqual(browser.getControl(name="form.widgets.absentee_percentage").value, "50")
+
+
 

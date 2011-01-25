@@ -16,7 +16,7 @@
     <link rel="icon" type="image/png" href="media/favicon.png" /><!--[if IE]>
       <link rel="shortcut icon" type="image/x-icon" href="media/favicon-pink.ico" />
     <![endif]-->
-    <script type="text/javascript" src="libraries/jquery-1.4.3.js">
+    <script type="text/javascript" src="libraries/jquery-1.4.4.js">
 </script>
     <script type="text/javascript" src="libraries/jquery.tools.min.js">
 </script>
@@ -217,14 +217,29 @@
           <div class="portletContent">
           	<form action="#">
             	<fieldset class="version">
+            	<legend>Survey 2011 <strong>(Unpublished)</strong></legend>
+              <fieldset class="headerButtons">
+              	<button type="submit" class="micro" title="Create a duplicate of the selected survey">Duplicate</button>
+              	<button type="submit" class="micro" disabled="disabled" title="De-publicise this survey">Retract</button>
+              	<button type="submit" class="micro floatAfter" title="Push the selected version live with its latest changes">Publish</button>
+              </fieldset>
+              <ul class="radioList surveyVersions">
+            		<li>
+                	<em class="sample">Unpublished</em><input type="radio" name="version-2011" value="jan" /> <label><a href="#">January 12 2011</a></label> <a href="#" class="floatAfter">Preview</a> <a href="#" class="floatAfter">Edit</a>
+                 </li>
+              </ul>
+              </fieldset>
+              
+            	<fieldset class="version">
             	<legend>Survey 2010</legend>
               <fieldset class="headerButtons">
               	<button type="submit" class="micro" title="Create a duplicate of the selected survey">Duplicate</button>
-              	<button type="submit" class="micro" title="Push the selected version live with its latest changes">Publish</button>
+              	<button type="submit" class="micro" title="De-publicise this survey">Retract</button>
+              	<button type="submit" class="micro floatAfter" title="Push the selected version live with its latest changes">Publish</button>
               </fieldset>
               <ul class="radioList surveyVersions">
             		<li class="published current">
-                	<em class="sample published current">Current / Published</em><input type="radio" name="version" checked="checked" value="dec" /> <label><a href="#">January 4 2009</a></label> <a href="#" class="floatAfter">Preview</a> <a href="#" class="floatAfter">Edit</a>
+                	<em class="sample published current">Current / Published</em><input type="radio" name="version-2010" checked="checked" value="dec" /> <label><a href="#">January 4 2009</a></label> <a href="#" class="floatAfter">Preview</a> <a href="#" class="floatAfter">Edit</a>
                  </li>
               </ul>
               </fieldset>
@@ -233,7 +248,8 @@
             	<legend>Survey 2009</legend>
               <fieldset class="headerButtons">
               	<button type="submit" class="micro" title="Create a duplicate of the selected survey">Duplicate</button>
-              	<button type="submit" class="micro" title="Push the selected version live with its latest changes">Publish</button>
+              	<button type="submit" class="micro" title="De-publicise this survey">Retract</button>
+              	<button type="submit" class="micro floatAfter" title="Push the selected version live with its latest changes">Publish</button>
               </fieldset>
               <ul class="radioList surveyVersions">
             		<li class="current">

@@ -33,7 +33,7 @@
         </fieldset>
         
         <fieldset class="comprehensive inputList">
-          <legend>Postadres bedrijfAdres</legend>
+          <legend>Postadres bedrijf</legend>
           <tal:block define="widget view/widgets/address_postal_address"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text"  value="${widget/value}"/> <br/></tal:block>
           <tal:block define="widget view/widgets/address_postal_postal"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text"  value="${widget/value}"/> <br/></tal:block>
           <tal:block define="widget view/widgets/address_postal_city"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text"  value="${widget/value}"/> <br/></tal:block>
@@ -63,15 +63,15 @@
 
         <fieldset class="comprehensive radioList" tal:define="widget view/widgets/employees; value widget/value">
           <legend>${widget/label}</legend>
-          <label><input type="radio" name="${widget/name}" value="40h" selected="${python:'selected' if value=='40h' else None}"/> Maximaal 40 uur betaalde arbeid per week <br/><span class="discrete">(alle werknemers samen)</span></label>
-          <label><input type="radio" name="${widget/name}" value="max25" selected="${python:'selected' if value=='max25' else None}"/> Maximaal 25 werknemers <br/><span class="discrete">(let op het gaat hier niet om FTE's, maar om daadwerkelijke personen)</span></label>
-          <label><input type="radio" name="${widget/name}" value="over25" selected="${python:'selected' if value=='over25' else None}"/> Meer dan 25 werknemers <br/><span class="discrete">(let op het gaat hier niet om FTE's, maar om daadwerkelijke personen)</span></label>
+          <label><input type="radio" name="${widget/name}" value="40h" checked="${python:'checked' if '40h' in value else None}"/> Maximaal 40 uur betaalde arbeid per week <br/><span class="discrete">(alle werknemers samen)</span></label>
+          <label><input type="radio" name="${widget/name}" value="max25" checked="${python:'checked' if 'max25' in value else None}"/> Maximaal 25 werknemers <br/><span class="discrete">(let op het gaat hier niet om FTE's, maar om daadwerkelijke personen)</span></label>
+          <label><input type="radio" name="${widget/name}" value="over25" checked="${python:'checked' if 'over25' in value else None}"/> Meer dan 25 werknemers <br/><span class="discrete">(let op het gaat hier niet om FTE's, maar om daadwerkelijke personen)</span></label>
           <tal:error condition="widget/error" replace="structure widget/error/render|nothing"/>
         </fieldset>
 
         <label tal:define="widget view/widgets/absentee_percentage">${widget/label}
-          <input type="text" id="${widget/id}" name="${widget/name}" class="${widget/klass}" size="${widget/size}" maxlength="${widget/maxlength}"/>
-          <em tal:condition="widget/error" class="message warning">Vul een percentage in.</em>
+          <input type="text" id="${widget/id}" name="${widget/name}" class="${widget/klass} numeri percentage" size="${widget/size}" maxlength="2" value="${widget/value}"/>
+          <em tal:condition="widget/error" class="message warning">Vul een getal (maximaal 100) in.</em>
         </label>
         <tal:widget replace="structure view/widgets/accidents/render" />
         <tal:widget replace="structure view/widgets/incapacitated_workers/render" />
@@ -82,7 +82,7 @@
 
         <tal:block define="widget view/widgets/works_council_approval">
           <label>Akkoord OR/medewerkersvertegenwoordiging
-            <input type="checkbox" name="works_council" value="yes" id="works_council" checked="${python:'checked' if filter(None, widget.value) else None}" /></label>
+            <input type="checkbox" name="works_council" value="yes" id="works_council" checked="${python:'checked' if widget.value[0] or widget.value[2] else None}" /></label>
           <fieldset class="comprehensive date-eu dependsOn-works_council">
             <legend>${widget/label} (<span class="discrete">${widget/field/description}</span>)</legend>
             <input type="hidden" value="1" tal:attributes="name string:${widget/name}-empty-marker" />
@@ -139,7 +139,7 @@
     </ol>
 
     <ul id="navigation">
-      <li id="home"><a href="${webhelpers/client_url}">${webhelpers/sector_title}</a></li>
+      <metal:home use-macro="webhelpers/macros/homelink"/>
       <li><a href="${webhelpers/country_url}/logout" i18n:translate="navigation_logout">Logout</a></li>
       <li><a href="${webhelpers/session_overview_url}" i18n:translate="navigation_surveys">Surveys</a></li>
       <li><a href="${webhelpers/help_url}#actionplan" i18n:translate="navigation_help">Help</a></li>

@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = "1.7"
+version = "1.10"
 
 setup(name="tno.euphorie",
       version=version,
@@ -22,7 +22,7 @@ setup(name="tno.euphorie",
       include_package_data=True,
       zip_safe=False,
       install_requires=[
-          "Euphorie >=2.1",
+          "Euphorie >=2.4dev-r17930",
           "plone.browserlayer",
           "five.grok",
           "plone.directives.form",
@@ -30,6 +30,7 @@ setup(name="tno.euphorie",
           "setuptools",
           "z3c.form",
           "zope.i18nmessageid",
+          "z3c.appconfig",
       ],
       tests_require = [
           "Euphorie [tests]",

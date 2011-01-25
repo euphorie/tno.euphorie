@@ -1,10 +1,62 @@
 Changelog
 =========
 
-1.7 - Unreleased
-----------------
+1.10 - January 25, 2011
+-----------------------
 
-- ...
+- Add local `z3c.appconfig <http://pypi.python.org/pypi/z3c.appconfig>`_
+  configuration to disable the terms-and-condtions feature from Euphorie.
+  [wichert]
+
+- Update markup for absentee percentage field to hint that it is a percentage.
+  This is related to `TNO ticket 167`_.
+  [cornae,wichert]
+
+
+1.9 - January 13, 2011
+----------------------
+
+- Update error text for invalid absentee percentage. This fixes 
+  `TNO ticket 167 <http://code.simplon.biz/tracker/tno-euphorie/ticket/167>`_.
+  [wichert]
+
+- Fix display of absentee in the company data form. This fixes
+  `TNO ticket 166 <http://code.simplon.biz/tracker/tno-euphorie/ticket/166>`_.
+  [wichert]
+
+
+1.8 - January 11, 2011
+----------------------
+
+- Use the new homelink METAL macro to render the logo and site URL. This is part
+  of `TNO ticket 12 <http://code.simplon.biz/tracker/tno-euphorie/ticket/12>`_.
+  [wichert]
+
+- Do not accidentily check the *akkoort OR/medewerkersvertegenwoordiging* flag
+  after a validation error elsewhere on the company form. This fixes
+  `TNO ticket 152 <http://code.simplon.biz/tracker/tno-euphorie/ticket/163>`_.
+  [wichert]
+
+
+1.7 - December 7, 2010
+----------------------
+
+Bugfixes
+~~~~~~~~
+
+- Do not use (now missing) translations for texts specific to this package. This
+  fixes `TNO ticket 152 <http://code.simplon.biz/tracker/tno-euphorie/ticket/152>`_.
+  [wichert]
+
+- Show decimals for absentee percentages. This employes a workaround for a
+  `zope.i18n bug 686058 <https://bugs.launchpad.net/zope.i18n/+bug/686058>`_.
+  This fixes `TNO ticket 162
+  <http://code.simplon.biz/tracker/tno-euphorie/ticket/162>`_.
+  [wichert]
+
+- Fix display of current number of employees in the company data form. This fixes
+  `TNO ticket 151 <http://code.simplon.biz/tracker/tno-euphorie/ticket/151>`_.
+  [wichert]
 
 
 

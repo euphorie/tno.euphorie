@@ -1,6 +1,6 @@
 /** Markup Pattern Library.
  *
- * Copyright 2009-2010 W. Akkerman
+ * Copyright 2009-2011 W. Akkerman
  */
 
 /*jslint browser: true, undef: true, eqeqeq: true, regexp: true */
@@ -164,6 +164,8 @@ var mapal = {
         $("*[class*='dependsOn-']", root).each(function() {
             var slave = this,
                 $slave = $(this),
+                $visible = $(this),
+                $panel = $slave.data("mapal.infoPanel"),
                 classes = $slave.attr("class").split(" "),
                 command = {"on" : [],
                            "action" : "show",
@@ -187,12 +189,15 @@ var mapal = {
             }
 
             state=mapal.verifyDependencies($slave, command);
+            if ($panel!==undefined) {
+                $visible=$visible.add($panel);
+            }
 
             if (command.action==="show") {
                 if (state) {
-                    $slave.show();
+                    $visible.show();
                 } else {
-                    $slave.hide();
+                    $visible.hide();
                 }
             } else if (command.action==="enable") {
                 if (state) {
@@ -208,9 +213,9 @@ var mapal = {
                 state=mapal.verifyDependencies($slave, command);
                 if (command.action==="show") {
                     if (state) {
-                        $slave.slideDown();
+                        $visible.slideDown();
                     } else {
-                        $slave.slideUp();
+                        $visible.slideUp();
                     }
                 } else if (command.action==="enable" ) {
                     if (state) {
@@ -284,6 +289,7 @@ var mapal = {
                 .remove()
                 .appendTo($body)
                 .css({position: "absolute", left: offset.left, top: offset.top});
+            $label.data("mapal.infoPanel", $panel);
         });
     },
 
@@ -477,7 +483,6 @@ var mapal = {
                 return;
             }
 
-
             if (title) {
                 $("<span/>")
                     .addClass("title")
@@ -498,7 +503,7 @@ var mapal = {
                     }
                     event.stopPropagation();
                 })
-		.data("mapal.tooltip", true);
+                .data("mapal.tooltip", true);
         });
     },
 
@@ -536,7 +541,7 @@ var mapal = {
                 $iframe = $("<iframe allowtransparency='true'/>");
 
             $iframe
-	        .attr("id", $object.attr("id"))
+                .attr("id", $object.attr("id"))
                 .attr("class", $object.attr("class"))
                 .attr("src", $object.attr("data"))
                 .attr("frameborder", "0")
@@ -545,15 +550,38 @@ var mapal = {
         });
     },
 
+    // Older IE versions need extra help to handle buttons.
+    initIEButtons: function() {
+        if ($.browser.msie ) {
+            var version = Number( $.browser.version.split(".", 2).join(""));
+            if (version>80) {
+                return;
+            }
+        }
+
+        $("form button[type=submit]").live("click", function() {
+            var name = this.name,
+                $el = $("<input/>"),
+                value = this.attributes.getNamedItem("value").nodeValue;
+
+            $el.attr("type", "hidden")
+               .attr("name", name)
+               .val(value)
+               .appendTo(this.form);
+            $("button[type=submit]", this.form).attr("name", "_buttonfix");
+        });
+
+    },
+
     // Setup a DOM tree.
     initContent: function(root) {
+        mapal.initTransforms(root);
         mapal.initAutofocus(root);
         mapal.initAutocomplete(root);
         mapal.initDepends(root);
         mapal.initSuperImpose(root);
-        mapal.initTransforms(root);
+        mapal.initTooltip(root);
         mapal.initMenu(root);
-	mapal.initTooltip(root);
         // Replace objects with iframes for IE 8 and older.
         if ($.browser.msie ) {
             var version = Number( $.browser.version.split(".", 2).join(""));
@@ -571,6 +599,7 @@ var mapal = {
         mapal.initWidthClasses();
         mapal.initDomInjection();
         mapal.initPanels();
+        mapal.initIEButtons();
     }
 };
 

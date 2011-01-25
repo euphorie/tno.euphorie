@@ -8,6 +8,12 @@ needed for the `Dutch RI&E <http://instrumenten.rie.nl/>`_ site.
 Modifications
 =============
 
+Dutch company data
+------------------
+
+The company data collected and printed during the report phase is extended
+with numerous extra fields.
+
 Old RI&E session import
 -----------------------
 

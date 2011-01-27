@@ -1,10 +1,11 @@
 Changelog
 =========
 
-1.11 - Unreleased
-----------------
+1.10.1 - January 27, 2011
+-------------------------
 
-- ...
+- Fix release bug which broke RTF reports.
+  [wichert]
 
 
 1.10 - January 25, 2011

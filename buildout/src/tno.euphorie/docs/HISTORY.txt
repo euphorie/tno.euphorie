@@ -4,7 +4,10 @@ Changelog
 1.11 - Unreleased
 ----------------
 
-- ...
+- Limit the number of characters for postal code and city fields in the
+  company details form, preventing illegal input. This fixes `TNO ticket
+  180 <http://code.simplon.biz/tracker/tno-euphorie/ticket/180>`_.
+  [wichert]
 
 
 1.10 - January 25, 2011

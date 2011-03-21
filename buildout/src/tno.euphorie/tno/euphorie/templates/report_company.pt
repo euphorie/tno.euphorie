@@ -27,16 +27,16 @@
         
         <fieldset class="comprehensive inputList">
           <legend>Bezoekadres bedrijf</legend>
-          <tal:block define="widget view/widgets/address_visit_address"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text"  value="${widget/value}"/> <br/></tal:block>
-          <tal:block define="widget view/widgets/address_visit_postal"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text"  value="${widget/value}"/> <br/></tal:block>
-          <tal:block define="widget view/widgets/address_visit_city"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text"  value="${widget/value}"/> <br/></tal:block>
+          <tal:block define="widget view/widgets/address_visit_address"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text" value="${widget/value}"/> <br/></tal:block>
+          <tal:block define="widget view/widgets/address_visit_postal"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text" maxlength="7" value="${widget/value}"/> <br/></tal:block>
+          <tal:block define="widget view/widgets/address_visit_city"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text" maxlength="64" value="${widget/value}"/> <br/></tal:block>
         </fieldset>
         
         <fieldset class="comprehensive inputList">
           <legend>Postadres bedrijf</legend>
-          <tal:block define="widget view/widgets/address_postal_address"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text"  value="${widget/value}"/> <br/></tal:block>
-          <tal:block define="widget view/widgets/address_postal_postal"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text"  value="${widget/value}"/> <br/></tal:block>
-          <tal:block define="widget view/widgets/address_postal_city"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text"  value="${widget/value}"/> <br/></tal:block>
+          <tal:block define="widget view/widgets/address_postal_address"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text" value="${widget/value}"/> <br/></tal:block>
+          <tal:block define="widget view/widgets/address_postal_postal"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text" maxlength="7" value="${widget/value}"/> <br/></tal:block>
+          <tal:block define="widget view/widgets/address_postal_city"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text" maxlength="64" value="${widget/value}"/> <br/></tal:block>
         </fieldset>
 
         <tal:widget replace="structure view/widgets/email/render" />

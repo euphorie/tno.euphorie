@@ -4,6 +4,9 @@ Changelog
 1.11 - Unreleased
 ----------------
 
+- Update templates for new account settings tab from Euphorie 2.6.
+  [wichert]
+
 - Limit the number of characters for postal code and city fields in the
   company details form, preventing illegal input. This fixes `TNO ticket
   180 <http://code.simplon.biz/tracker/tno-euphorie/ticket/180>`_.

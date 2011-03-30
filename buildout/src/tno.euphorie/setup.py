@@ -22,7 +22,7 @@ setup(name="tno.euphorie",
       include_package_data=True,
       zip_safe=False,
       install_requires=[
-          "Euphorie >=2.4dev-r17930",
+          "Euphorie >=2.6dev-r18059",
           "plone.browserlayer",
           "five.grok",
           "plone.directives.form",

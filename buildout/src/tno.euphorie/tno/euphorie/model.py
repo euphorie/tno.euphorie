@@ -10,7 +10,7 @@ from euphorie.client.enum import Enum
 class DutchCompany(BaseObject):
     """Information about a Dutch company."""
     __tablename__ = "dutch_company"
-    __table_args__ = schema.UniqueConstraint("session_id", "path")
+    __table_args__ = (schema.UniqueConstraint("session_id", "path"), {})
 
     id = schema.Column(types.Integer(), primary_key=True, autoincrement=True)
     session_id = schema.Column(types.Integer(),

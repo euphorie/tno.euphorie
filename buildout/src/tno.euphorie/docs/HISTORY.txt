@@ -4,6 +4,9 @@ Changelog
 1.11 - Unreleased
 ----------------
 
+- Fix SQLAlchemy 0.6 compatibility.
+  [wichert]
+
 - Update templates for new account settings tab from Euphorie 2.6.
   [wichert]
 

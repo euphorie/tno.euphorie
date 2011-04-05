@@ -76,8 +76,8 @@
         <tal:widget replace="structure view/widgets/accidents/render" />
         <tal:widget replace="structure view/widgets/incapacitated_workers/render" />
 
-        <label tal:define="widget view/widgets/arbo_expert">${widget/label}  <br/><span class="discrete">(${widget/field/description})</span>
-          <input type="text" name="${widget/name}" maxlength="128" value="${widget/value}"/> <tal:error condition="widget/error" replace="structure widget/error/render|nothing"/></label> 
+        <label tal:define="widget view/widgets/arbo_expert">${widget/label}  <br/><span class="discrete">(naam, contactpersoon, adres, e-mail. Deze zal de rapportage <strong>niet</strong> automatisch ontvangen.)</span>
+        <input type="text" name="${widget/name}" maxlength="128" value="${widget/value}"/> <tal:error condition="widget/error" replace="structure widget/error/render|nothing"/></label> 
         <hr/>
 
         <tal:block define="widget view/widgets/works_council_approval">

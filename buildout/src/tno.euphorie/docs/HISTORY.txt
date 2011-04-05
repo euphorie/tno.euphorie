@@ -4,6 +4,10 @@ Changelog
 1.11 - Unreleased
 ----------------
 
+- Add note that arbo experts will not automatically receive reports. This fixes
+  `TNO ticket 181 <http://code.simplon.biz/tracker/tno-euphorie/ticket/181>`_.
+  [wichert]
+
 - Fix SQLAlchemy 0.6 compatibility.
   [wichert]
 

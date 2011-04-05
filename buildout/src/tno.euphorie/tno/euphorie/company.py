@@ -107,7 +107,6 @@ class DutchCompanySchema(form.Schema):
     form.widget(incapacitated_workers="tno.euphorie.company.TextSpan1")
     arbo_expert = schema.TextLine(
             title=u"Gegevens arbodienst/-deskundige",
-            description=u"naam, contactperson, adres, postcode, plaats, e-mail",
             max_length=128,
             required=False)
     works_council_approval = schema.Date(

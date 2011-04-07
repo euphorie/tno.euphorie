@@ -78,7 +78,7 @@ class CompanyBrowserTests(testing.TnoEuphorieFunctionalTestCase):
         browser.open("http://nohost/plone/client/nl/ict/software-development/report/company")
         browser.getControl(name="form.widgets.absentee_percentage").value="50,1"
         browser.getControl(name="form.buttons.next").click()
-        self.assertTrue("50,1%" in browser.contents)
+        self.assertTrue("50,1" in browser.contents)
 
     def testPartialYear(self):
         self.createSurvey()
@@ -128,7 +128,7 @@ class CompanyBrowserTests(testing.TnoEuphorieFunctionalTestCase):
         self.assertEqual(browser.url,
                 "http://nohost/plone/client/nl/ict/software-development/report/view")
         browser.open("http://nohost/plone/client/nl/ict/software-development/report/company")
-        self.assertEqual(browser.getControl(name="form.widgets.absentee_percentage").value, "50")
+        self.assertEqual(browser.getControl(name="form.widgets.absentee_percentage").value, "50,00")
 
 
 

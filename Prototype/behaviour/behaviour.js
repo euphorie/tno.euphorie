@@ -585,7 +585,7 @@ var mapal = {
         // Replace objects with iframes for IE 8 and older.
         if ($.browser.msie ) {
             var version = Number( $.browser.version.split(".", 2).join(""));
-            if (version<=80) {
+            if (version<=90) {
                 mapal.initIframes(root);
             }
         }

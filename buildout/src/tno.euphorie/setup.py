@@ -6,13 +6,13 @@ version = "1.12"
 setup(name="tno.euphorie",
       version=version,
       description="TNO specific extensions for Euphorie",
-      long_description=open("README.txt").read() + "\n" +
-                       open(os.path.join("docs", "HISTORY.txt")).read(),
+      long_description=open("README.rst").read() + "\n" +
+                       open(os.path.join("docs", "changes.rst")).read(),
       classifiers=[
         "Framework :: Plone",
-        "Programming Language :: Python",
+        "Programming Language :: Python :: 2.6",
         ],
-      keywords="Euphorie OIRAT RIE",
+      keywords="Euphorie OIRA RIE",
       author="Wichert Akkerman",
       author_email="wichert@simplon.biz",
       url="http://instrumenten.rie.nl/",

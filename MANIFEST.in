@@ -1,0 +1,7 @@
+include *.rst
+include *.zcml
+recursive-include src/tno/euphorie *.ini
+graft docs
+prune docs/.build
+graft src/tno/euphorie/profiles
+graft src/tno/euphorie/templates

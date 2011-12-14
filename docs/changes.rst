@@ -4,7 +4,8 @@ Changelog
 1.12 - Unreleased
 -----------------
 
-- ...
+- Add timeline report option for actionplan report. This required Euphorie 3.
+  [wichert]
 
 
 1.11 - April 7, 2011

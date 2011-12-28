@@ -1,6 +1,13 @@
 Changelog
 =========
 
+1.13 - December 28, 2011
+------------------------
+
+- Update MANIFEST to include missing zcml files.
+  [wichert]
+
+
 1.12 - December 28, 2011
 ------------------------
 

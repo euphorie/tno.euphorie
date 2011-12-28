@@ -128,7 +128,6 @@ class CompanyBrowserTests(testing.TnoEuphorieFunctionalTestCase):
         self.assertEqual(browser.url,
                 "http://nohost/plone/client/nl/ict/software-development/report/view")
         browser.open("http://nohost/plone/client/nl/ict/software-development/report/company")
-        self.assertEqual(browser.getControl(name="form.widgets.absentee_percentage").value, "50,00")
-
-
-
+        value = browser.getControl(
+                name="form.widgets.absentee_percentage").value
+        self.assertTrue(value.startswith('50'))

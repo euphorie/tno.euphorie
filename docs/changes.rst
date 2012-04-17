@@ -4,7 +4,9 @@ Changelog
 1.14 - Unreleased
 -----------------
 
-- ...
+- Do not allow changing the priority for top5 and policy risks: they always
+  get a high priority.
+  [wichert]
 
 
 1.13 - December 28, 2011

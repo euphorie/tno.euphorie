@@ -1,8 +1,8 @@
 Changelog
 =========
 
-1.14 - Unreleased
------------------
+1.14 - April 17, 2012
+---------------------
 
 - Skip policy and top-5 risks in action plan phase if they are not
   present.

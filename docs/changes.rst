@@ -4,6 +4,10 @@ Changelog
 1.14 - Unreleased
 -----------------
 
+- Skip policy and top-5 risks in action plan phase if they are not
+  present.
+  [wichert]
+
 - Do not allow changing the priority for top5 and policy risks: they always
   get a high priority.
   [wichert]

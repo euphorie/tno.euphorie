@@ -2,9 +2,12 @@ from rtfng.document.paragraph import Paragraph
 from rtfng.document.paragraph import Cell
 from rtfng.document.paragraph import Table
 from rtfng.PropertySets import TabPropertySet
+from sqlalchemy import sql
+from z3c.saconfig import Session
 from five import grok
 from zope.i18n import translate
 from plonetheme.nuplone.utils import formatDate
+from euphorie.client import model
 from euphorie.client.report import ActionPlanReportView
 from euphorie.client.report import ActionPlanReportDownload
 from euphorie.client.report import createSection
@@ -33,6 +36,15 @@ class TnoActionPlanReportView(ActionPlanReportView):
     grok.name("view")
     grok.template("report_actionplan")
 
+    def getNodes(self):
+        query = Session.query(model.SurveyTreeItem)\
+                .filter(model.SurveyTreeItem.session == self.session)\
+                .filter(sql.not_(model.SKIPPED_PARENTS))\
+                .filter(sql.or_(model.MODULE_WITH_RISK_FILTER,
+                                model.RISK_PRESENT_FILTER))\
+                .order_by(model.SurveyTreeItem.path)
+        return  query.all()
+
     def update(self):
         super(TnoActionPlanReportView, self).update()
         if self.session.dutch_company is None:
@@ -44,11 +56,19 @@ class TnoActionPlanReportDownload(ActionPlanReportDownload):
     grok.layer(ITnoReportPhaseSkinLayer)
     grok.name("download")
 
+    def getNodes(self):
+        query = Session.query(model.SurveyTreeItem)\
+                .filter(model.SurveyTreeItem.session == self.session)\
+                .filter(sql.not_(model.SKIPPED_PARENTS))\
+                .filter(sql.or_(model.MODULE_WITH_RISK_OR_TOP5_FILTER,
+                                model.RISK_PRESENT_OR_TOP5_FILTER))\
+                .order_by(model.SurveyTreeItem.path)
+        return  query.all()
+
     def update(self):
         super(TnoActionPlanReportDownload, self).update()
         if self.session.dutch_company is None:
             self.session.dutch_company=DutchCompany()
-
 
     def addCompanyInformation(self, document):
         request=self.request

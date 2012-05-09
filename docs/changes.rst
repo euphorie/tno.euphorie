@@ -4,12 +4,21 @@ Changelog
 1.15 - Unreleased
 ---------------------
 
+- Update actionplan report footnote to reflect current behaviour of top-5
+  risks. This fixes `TNO ticket 217
+  <https://code.simplon.biz/tracker/tno-euphorie/ticket/217>`_.
+  [wichert]
+
+- If a module has no description skip it in the client. This fixes the
+  tno.euphorie part of `TNO ticket 213
+  <https://code.simplon.biz/tracker/tno-euphorie/ticket/213>`_.
+  [wichert]
+
 - Really make priority dropdown for top-5 and policy risks readonly.
   Apparently the select HTML element does not support the readonly
   attribute, so use disabled instead. This fixes `TNO ticket 221
   <https://code.simplon.biz/tracker/tno-euphorie/ticket/221>`_.
   [wichert]
-
 
 - Remove warning-icon for risks with a problem description in the action plan
   report. Since this report only contains present risks the icon was not

@@ -182,9 +182,7 @@
 
     <hr/>
 
-    <p id="top5-footnote" class="discrete">*) <tal:span i18n:translate="top5_risk_not_present">
-    This risk is not present in your organisation, but since the sector organisation considers this one of the top 5 most
-    critical risks it must be included in this report.</tal:span></p>
+    <p id="top5-footnote" class="discrete">*) Dit is een top-5 risico.</p>
 
     <ul class="discrete">
       <li tal:condition="python:isinstance(getattr(context, 'published', None), tuple)" i18n:translate="report_survey_revision">This report was based on the survey '<tal:span i18n:name="title">${python:context.published[1]}</tal:span>' of revision date <tal:span i18n:name="date">${python:tools.formatDate(context.published[2])}</tal:span>.</li>

@@ -4,8 +4,11 @@ Changelog
 1.15 - Unreleased
 ---------------------
 
-- ...
-
+- Remove warning-icon for risks with a problem description in the action plan
+  report. Since this report only contains present risks the icon was not
+  useful. This fixes `TNO ticket 219
+  <https://code.simplon.biz/tracker/tno-euphorie/ticket/219>`_.
+  [wichert]
 
 
 1.14 - April 17, 2012

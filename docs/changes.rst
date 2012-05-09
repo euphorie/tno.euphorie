@@ -4,6 +4,13 @@ Changelog
 1.15 - Unreleased
 ---------------------
 
+- Really make priority dropdown for top-5 and policy risks readonly.
+  Apparently the select HTML element does not support the readonly
+  attribute, so use disabled instead. This fixes `TNO ticket 221
+  <https://code.simplon.biz/tracker/tno-euphorie/ticket/221>`_.
+  [wichert]
+
+
 - Remove warning-icon for risks with a problem description in the action plan
   report. Since this report only contains present risks the icon was not
   useful. This fixes `TNO ticket 219

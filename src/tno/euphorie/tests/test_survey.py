@@ -7,7 +7,7 @@ NORMAL_SURVEY =  \
               <title>Software development</title>
               <module optional="no">
                 <title>Module one</title>
-                <description/>
+                <description>Hello</description>
                  <risk type="risk">
                    <title>New hires are not aware of design patterns.</title>
                    <description>&lt;p&gt;Every developer should know about them..&lt;/p&gt;</description>
@@ -25,7 +25,7 @@ TOP5_SURVEY =  \
               <title>Software development</title>
               <module optional="no">
                 <title>Module one</title>
-                <description/>
+                <description>Hello</description>
                  <risk type="top5">
                    <title>New hires are not aware of design patterns.</title>
                    <description>&lt;p&gt;Every developer should know about them..&lt;/p&gt;</description>

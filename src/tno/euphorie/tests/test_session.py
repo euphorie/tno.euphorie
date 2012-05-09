@@ -122,10 +122,12 @@ class SessionBrowserTests(testing.TnoEuphorieFunctionalTestCase):
 
     def testUploadFormIsMentionedOnSessionScreen(self):
         self.createSurvey()
-        browser=self.createClientBrowser()
+        browser = self.createClientBrowser()
         browser.open(self.portal.client.nl.absolute_url())
-        self.assertTrue("Als u bestanden van de oude RI&amp;E omgeving heeft" in browser.contents)
+        self.assertTrue(
+                "Als u bestanden van de oude RI&amp;E omgeving heeft" 
+                in browser.contents)
         browser.getLink("dit formulier").click()
-        self.assertEqual(browser.url, "http://nohost/plone/client/nl/rie-session")
-
-
+        self.assertEqual(
+                browser.url,
+                "http://nohost/plone/client/nl/rie-session")

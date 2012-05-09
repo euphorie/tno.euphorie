@@ -7,7 +7,7 @@ NORMAL_SURVEY =  \
               <title>Software development</title>
               <module optional="no">
                 <title>Module one</title>
-                <description/>
+                <description>Hallo</description>
                  <risk type="risk">
                    <title>New hires are not aware of design patterns.</title>
                    <description>&lt;p&gt;Every developer should know about them..&lt;/p&gt;</description>
@@ -25,7 +25,7 @@ TOP5_SURVEY =  \
               <title>Software development</title>
               <module optional="no">
                 <title>Module one</title>
-                <description/>
+                <description>Hallo</description>
                  <risk type="top5">
                    <title>New hires are not aware of design patterns.</title>
                    <description>&lt;p&gt;Every developer should know about them..&lt;/p&gt;</description>
@@ -77,7 +77,7 @@ class ActionPlanBrowserTests(testing.TnoEuphorieFunctionalTestCase):
         # Jump to action plan 
         url = url.replace('identification', 'actionplan')
         browser.open(url)
-        self.assertEqual(browser.getControl(name='priority').mech_control.readonly, True)
+        self.assertEqual(browser.getControl(name='priority').type, 'hidden')
 
     def test_priority_field__writable_for_normal_risk(self):
         self.createSurvey(NORMAL_SURVEY)
@@ -91,7 +91,9 @@ class ActionPlanBrowserTests(testing.TnoEuphorieFunctionalTestCase):
         # Jump to action plan 
         url = url.replace('identification', 'actionplan')
         browser.open(url)
-        self.assertEqual(browser.getControl(name='priority').mech_control.readonly, False)
+        self.assertEqual(
+                browser.getControl(name='priority').mech_control.readonly,
+                False)
 
     def test_skip_top5_risk_if_not_present(self):
         # This is a deviation from standard Euphorie which always asks for

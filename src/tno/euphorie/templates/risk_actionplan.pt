@@ -22,8 +22,9 @@
     <div class="warning last span-15" tal:define="show_statement python:True">
       <metal:call use-macro="webhelpers/macros/risk_info" />
       <fieldset tal:define="value data/priority; readonly python:context.risk_type in ['top5', 'policy']">
+        <strong>${python:context.risk_type}</strong>
         <input type="hidden" name="priority" value="${python:value}" tal:condition="readonly"/>
-        <label i18n:translate="risk_priority">This is a <select name="_priority" i18n:name="priority" disabled="${python:'disabled' if readonly else None}">
+        <label i18n:translate="risk_priority">This is a <select name="${python:'_priority' if readonly else 'priority'}" i18n:name="priority" disabled="${python:'disabled' if readonly else None}">
           <option value="low" selected="${python:'selected' if value=='low' else None}" i18n:translate="risk_priority_low">low priority risk</option>
           <option value="medium" selected="${python:'selected' if value=='medium' else None}" i18n:translate="risk_priority_medium">medium priority risk</option>
           <option value="high" selected="${python:'selected' if value=='high' else None}" i18n:translate="risk_priority_high">high priority risk</option>

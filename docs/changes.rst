@@ -1,8 +1,8 @@
 Changelog
 =========
 
-1.15 - Unreleased
----------------------
+1.15 - May 20, 2012
+-------------------
 
 - Prepare for client API changes in Euphorie 4.
   [wichert]

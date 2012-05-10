@@ -4,6 +4,11 @@ Changelog
 1.15 - Unreleased
 ---------------------
 
+- Do not list present risk as warnings in the action plan report. This
+  fixes `TNO ticket 219
+  <https://code.simplon.biz/tracker/tno-euphorie/ticket/219>`_.
+  [wichert]
+
 - Update actionplan report footnote to reflect current behaviour of top-5
   risks. This fixes `TNO ticket 217
   <https://code.simplon.biz/tracker/tno-euphorie/ticket/217>`_.

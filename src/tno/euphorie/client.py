@@ -6,7 +6,11 @@ from ZPublisher.BaseRequest import DefaultPublishTraverse
 from tno.euphorie.interfaces import IProductLayer
 from tno.euphorie.interfaces import ITnoClientSkinLayer
 from euphorie.client.client import IClient
-from euphorie.client.api.entry import access_api
+try:
+    from euphorie.client.api.entry import access_api
+    HAVE_API = True
+except ImportError:
+    HAVE_API = False
 
 
 class ClientPublishTraverser(DefaultPublishTraverse):
@@ -22,7 +26,7 @@ class ClientPublishTraverser(DefaultPublishTraverse):
         setRequest(request)
         request.client = self.context
 
-        if name == 'api':
+        if HAVE_API and name == 'api':
             return access_api(request).__of__(self.context)
 
         ifaces = [iface for iface in directlyProvidedBy(request)

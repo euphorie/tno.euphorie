@@ -8,6 +8,10 @@ class ClientPublishTraverserTests(TnoEuphorieFunctionalTestCase):
 
     def test_api_access(self):
         from Products.Five.testbrowser import Browser
-        browser = Browser()
-        browser.open('http://nohost/plone/client/api')
-        self.assertEqual(browser.headers['Content-Type'], 'application/json')
+        from tno.euphorie.client import HAVE_API
+        if HAVE_API:
+            browser = Browser()
+            browser.open('http://nohost/plone/client/api')
+            self.assertEqual(
+                    browser.headers['Content-Type'],
+                    'application/json')

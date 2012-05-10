@@ -4,6 +4,9 @@ Changelog
 1.15 - Unreleased
 ---------------------
 
+- Prepare for client API changes in Euphorie 4.
+  [wichert]
+
 - Do not list present risk as warnings in the action plan report. This
   fixes `TNO ticket 219
   <https://code.simplon.biz/tracker/tno-euphorie/ticket/219>`_.

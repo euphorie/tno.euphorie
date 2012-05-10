@@ -6,6 +6,8 @@ from ZPublisher.BaseRequest import DefaultPublishTraverse
 from tno.euphorie.interfaces import IProductLayer
 from tno.euphorie.interfaces import ITnoClientSkinLayer
 from euphorie.client.client import IClient
+from euphorie.client.api.entry import access_api
+
 
 class ClientPublishTraverser(DefaultPublishTraverse):
     """Publish traverser to setup the skin layer.
@@ -18,9 +20,13 @@ class ClientPublishTraverser(DefaultPublishTraverse):
     def publishTraverse(self, request, name):
         from euphorie.client.utils import setRequest
         setRequest(request)
-        request.client=self.context
-        ifaces=[iface for iface in directlyProvidedBy(request)
-                if not IBrowserSkinType.providedBy(iface)]
-        directlyProvides(request, ITnoClientSkinLayer, ifaces)
-        return super(ClientPublishTraverser, self).publishTraverse(request, name)
+        request.client = self.context
 
+        if name == 'api':
+            return access_api(request).__of__(self.context)
+
+        ifaces = [iface for iface in directlyProvidedBy(request)
+                  if not IBrowserSkinType.providedBy(iface)]
+        directlyProvides(request, ITnoClientSkinLayer, ifaces)
+        return super(ClientPublishTraverser, self)\
+                .publishTraverse(request, name)

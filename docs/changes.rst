@@ -119,7 +119,7 @@ Changelog
 
 - Do not accidentily check the *akkoort OR/medewerkersvertegenwoordiging* flag
   after a validation error elsewhere on the company form. This fixes
-  `TNO ticket 152 <http://code.simplon.biz/tracker/tno-euphorie/ticket/163>`_.
+  `TNO ticket 163 <http://code.simplon.biz/tracker/tno-euphorie/ticket/163>`_.
   [wichert]
 
 

@@ -7,7 +7,7 @@ clean:
 bin/buildout: bootstrap.py
 	$(PYTHON) bootstrap.py
 
-bin/test: bin/buildout buildout.cfg cfg devel.cfg setup.py
+bin/test: bin/buildout buildout.cfg devel.cfg setup.py
 	bin/buildout -c devel.cfg
 	touch bin/test
 

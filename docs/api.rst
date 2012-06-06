@@ -41,7 +41,7 @@ response will be set to ``dutch-company``. The possible fields are:
 |                         |               |          | fields: ``address``, ``city``  |
 |                         |               |          | and ``postal``.                |
 +-------------------------+---------------+----------+--------------------------------+
-| ``porstal-address``     | object        | No       | Postal address. This is an     |
+| ``postal-address``      | object        | No       | Postal address. This is an     |
 |                         |               |          | object with three string       |
 |                         |               |          | fields: ``address``, ``city``  |
 |                         |               |          | and ``postal``.                |

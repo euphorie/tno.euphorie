@@ -4,6 +4,8 @@ from euphorie.client.interfaces import IIdentificationPhaseSkinLayer
 from euphorie.client.interfaces import IEvaluationPhaseSkinLayer
 from euphorie.client.interfaces import IActionPlanPhaseSkinLayer
 from euphorie.client.interfaces import IReportPhaseSkinLayer
+from euphorie.client.api.interfaces import IClientAPISkinLayer
+
 
 class IProductLayer(Interface):
     """Marker interface for requests indicating the tno.euphorie
@@ -30,3 +32,6 @@ class ITnoActionPlanPhaseSkinLayer(IActionPlanPhaseSkinLayer):
 class ITnoReportPhaseSkinLayer(IReportPhaseSkinLayer):
     """Marker interface for the report phase in a tno.euphorie site."""
 
+
+class ITnoClientAPISkinLayer(IClientAPISkinLayer):
+    """Marker itnerface for the tno.euphorie extensions to the client API."""

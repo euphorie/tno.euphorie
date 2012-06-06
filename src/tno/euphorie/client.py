@@ -5,12 +5,9 @@ from zope.publisher.interfaces.browser import IBrowserSkinType
 from ZPublisher.BaseRequest import DefaultPublishTraverse
 from tno.euphorie.interfaces import IProductLayer
 from tno.euphorie.interfaces import ITnoClientSkinLayer
+from tno.euphorie.interfaces import ITnoClientAPISkinLayer
 from euphorie.client.client import IClient
-try:
-    from euphorie.client.api.entry import access_api
-    HAVE_API = True
-except ImportError:
-    HAVE_API = False
+from euphorie.client.api.entry import access_api
 
 
 class ClientPublishTraverser(DefaultPublishTraverse):
@@ -26,8 +23,10 @@ class ClientPublishTraverser(DefaultPublishTraverse):
         setRequest(request)
         request.client = self.context
 
-        if HAVE_API and name == 'api':
-            return access_api(request).__of__(self.context)
+        if name == 'api':
+           api = access_api(request).__of__(self.context)
+           directlyProvides(request, ITnoClientAPISkinLayer, [])
+           return api
 
         ifaces = [iface for iface in directlyProvidedBy(request)
                   if not IBrowserSkinType.providedBy(iface)]

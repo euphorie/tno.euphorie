@@ -74,7 +74,8 @@ class TnoActionPlanReportDownload(ActionPlanReportDownload):
         request=self.request
         company=self.session.dutch_company
         t=lambda txt: translate(txt, context=request)
-        section=createSection(document, self.context, self.request)
+        section = createSection(document, self.context, self.session,
+                self.request)
         normal_style=document.StyleSheet.ParagraphStyles.Normal
         missing=t(eu_("missing_data", default=u"Not provided"))
 
@@ -138,4 +139,3 @@ class TnoActionPlanReportDownload(ActionPlanReportDownload):
                 Cell(Paragraph(normal_style, company.arbo_expert if company.arbo_expert else missing)))
 
         section.append(table)
-

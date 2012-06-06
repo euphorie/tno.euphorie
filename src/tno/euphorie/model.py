@@ -41,11 +41,10 @@ class DutchCompany(BaseObject):
     arbo_expert = schema.Column(types.Unicode(128))
     works_council_approval = schema.Column(types.Date())
 
+
 _instrumented = False
 if not _instrumented:
     from sqlalchemy.ext import declarative
     from euphorie.client import model
     declarative.instrument_declarative(DutchCompany, model.metadata._decl_registry, model.metadata)
     _instrumented = True
-
-

@@ -5,6 +5,7 @@
 /.mr.developer.cfg
 /bin
 /dist
+/docs/build
 /develop-eggs
 /parts
 /src/tno.euphorie.egg-info

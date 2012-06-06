@@ -1,10 +1,14 @@
 Changelog
 =========
 
-1.16 - Unreleased
+2.0 - Unreleased
 -------------------
 
-- ...
+- Setup Sphinx-based documentation.
+  [wichert]
+
+- Update to support the client API introduced in Euphorie 4.
+  [wichert]
 
 
 1.15 - May 20, 2012
@@ -263,4 +267,3 @@ Bugfixes
 
 * Initial release
   [wichert]
-

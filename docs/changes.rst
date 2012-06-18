@@ -7,7 +7,8 @@ Changelog
 - Setup Sphinx-based documentation.
   [wichert]
 
-- Update to support the client API introduced in Euphorie 4.
+- Update to support the client API introduced in Euphorie 4. Euphorie 4
+  is now a minimal requirement.
   [wichert]
 
 

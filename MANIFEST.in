@@ -3,6 +3,6 @@ include *.zcml
 recursive-include src/tno/euphorie *.ini
 recursive-include src/tno/euphorie *.zcml
 graft docs
-prune docs/.build
+prune docs/build
 graft src/tno/euphorie/profiles
 graft src/tno/euphorie/templates

@@ -1,7 +1,7 @@
 Changelog
 =========
 
-2.0 - Unreleased
+2.0 - June 18, 2012
 -------------------
 
 - Setup Sphinx-based documentation.

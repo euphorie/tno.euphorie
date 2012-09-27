@@ -65,7 +65,7 @@ class CompanyTests(TnoEuphorieFunctionalTestCase):
         self.assertEqual(response['employees'], '40h')
         self.assertEqual(response['submitted'], '2012-06-06')
 
-    def do_PUT(self):
+    def test_do_PUT(self):
         import datetime
         from zope.publisher.browser import TestRequest
         context = self.create_context()
@@ -83,7 +83,7 @@ class CompanyTests(TnoEuphorieFunctionalTestCase):
                 context.dutch_company.address_visit_address,
                 u'Dorpsstraat 15')
         self.assertEqual(
-                context.dutch_company.address_visis_city,
+                context.dutch_company.address_visit_city,
                 u'Ons Dorp')
         self.assertEqual(context.dutch_company.department, u'Incasso')
         self.assertEqual(context.dutch_company.accidents, 15)

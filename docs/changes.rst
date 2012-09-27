@@ -4,7 +4,9 @@ Changelog
 2.1 - Unreleased
 ----------------
 
-- ...
+- Client API fix: do not copy address field to postal code field on
+  update of company data..
+  [wichert]
 
 
 2.0 - June 18, 2012

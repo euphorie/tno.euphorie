@@ -84,7 +84,7 @@ class Company(JsonView):
                         default=company.address_visit_address)
                 company.address_visit_postal = get_json_string(
                         input, 'postal',
-                        default=company.address_visit_address, length=16)
+                        default=company.address_visit_postal, length=16)
                 company.address_visit_city = get_json_string(
                         input, 'city',
                         default=company.address_visit_city, length=64)
@@ -95,7 +95,7 @@ class Company(JsonView):
                         default=company.address_postal_address)
                 company.address_postal_postal = get_json_string(
                         input, 'postal',
-                        default=company.address_postal_address, length=16)
+                        default=company.address_postal_postal, length=16)
                 company.address_postal_city = get_json_string(
                         input, 'city',
                         default=company.address_postal_city, length=64)

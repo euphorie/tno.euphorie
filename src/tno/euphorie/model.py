@@ -6,7 +6,6 @@ from euphorie.client.model import BaseObject
 from euphorie.client.enum import Enum
 
 
-
 class DutchCompany(BaseObject):
     """Information about a Dutch company."""
     __tablename__ = "dutch_company"

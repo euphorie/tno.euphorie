@@ -4,6 +4,9 @@ Changelog
 2.1 - Unreleased
 ----------------
 
+- Client API fix: fix handling of absentee percentage in company data.
+  [wichert]
+
 - Client API fix: do not copy address field to postal code field on
   update of company data..
   [wichert]

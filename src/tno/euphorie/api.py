@@ -1,3 +1,4 @@
+import decimal
 from five import grok
 from tno.euphorie.model import DutchCompany
 from tno.euphorie.module import TnoActionPlanView as TnoModuleActionPlan
@@ -21,6 +22,16 @@ def apply_monkeys():
     RiskActionPlan.question_filter = TnoRiskActionPlan.question_filter
     ModuleActionPlan.question_filter = TnoModuleActionPlan.question_filter
 
+
+def get_json_decimal(input, name, required=False, default=None):
+    value = input.get(name)
+    if value is None:
+        if not required:
+            return default
+        raise KeyError('Required field %s is missing' % name)
+    if not isinstance(value, (int, float)):
+        raise ValueError('Field %s has wrong type' % name)
+    return decimal.Decimal(str(value))  # Use str to prevent rounding issues
 
 
 class Company(JsonView):
@@ -57,17 +68,18 @@ class Company(JsonView):
                     if company.employees else None,
                 'employees-options': vocabulary_options(
                     DutchCompanySchema['employees'], self.request),
-                'absentee-percentage': company.absentee_percentage,
+                'absentee-percentage': float(company.absentee_percentage)
+                    if company.absentee_percentage is not None else None,
                 'accidents': company.accidents,
                 'incapacitated-workers': company.incapacitated_workers,
                 'submitter': {
                     'name': company.submitter_name,
                     'function': company.submitter_function,
                 },
-                'submitted': company.submit_date.isoformat() 
+                'submitted': company.submit_date.isoformat()
                         if company.submit_date is not None else None,
                 'arbo-expert': company.arbo_expert,
-                'works-council-approval': 
+                'works-council-approval':
                     company.works_council_approval.isoformat()
                     if company.works_council_approval is not None else None,
                 }
@@ -113,7 +125,7 @@ class Company(JsonView):
                     default=company.submit_date)
             company.employees = get_json_token(self.input, 'employees',
                     DutchCompanySchema['employees'], company.employees)
-            company.absentee_percentage = get_json_int(self.input,
+            company.absentee_percentage = get_json_decimal(self.input,
                     'absentee-percentage', default=company.absentee_percentage)
             company.accidents = get_json_int(self.input, 'accidents',
                     default=company.accidents)

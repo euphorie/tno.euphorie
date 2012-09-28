@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '2.1dev'
+version = '2.1'
 
 setup(name="tno.euphorie",
       version=version,
@@ -38,11 +38,11 @@ setup(name="tno.euphorie",
           "zope.i18nmessageid",
           "z3c.appconfig",
       ],
-      tests_require = [
+      tests_require=[
           "Euphorie [tests]",
       ],
-      extras_require = {
-        "tests" : [ "Euphorie [tests]",
+      extras_require={
+        "tests": ["Euphorie [tests]",
                   ],
       },
       )

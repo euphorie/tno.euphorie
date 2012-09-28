@@ -1,8 +1,8 @@
 Changelog
 =========
 
-2.1 - Unreleased
-----------------
+2.1 - September 28, 2012
+------------------------
 
 - Client API fix: fix handling of absentee percentage in company data.
   [wichert]

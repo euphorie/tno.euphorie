@@ -4,7 +4,9 @@ Changelog
 2.2 - Unreleased
 ------------------------
 
-- ...
+- Add link to identification report to introduction for action plan report.
+  This fixes `TNO ticket 228
+  <https://code.simplon.biz/tracker/tno-euphorie/ticket/228>`_.
 
 
 2.1 - September 28, 2012

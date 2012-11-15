@@ -1,8 +1,10 @@
 Changelog
 =========
 
-2.2 - Unreleased
+3.0 - Unreleased
 ------------------------
+
+- Synchronize with Euphorie 5.
 
 - Add link to identification report to introduction for action plan report.
   This fixes `TNO ticket 228

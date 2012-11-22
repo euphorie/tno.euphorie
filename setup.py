@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '2.2dev'
+version = '3.0dev'
 
 setup(name="tno.euphorie",
       version=version,
@@ -28,7 +28,7 @@ setup(name="tno.euphorie",
       package_dir={"": "src"},
       zip_safe=False,
       install_requires=[
-          "Euphorie >=5dev",
+          "Euphorie >=5.0",
           "plone.browserlayer",
           "five.grok",
           "plone.directives.form",

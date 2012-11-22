@@ -1,7 +1,7 @@
 Changelog
 =========
 
-3.0 - Unreleased
+3.0 - November 22, 2012
 ------------------------
 
 - Synchronize with Euphorie 5.

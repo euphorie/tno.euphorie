@@ -1,8 +1,8 @@
 Changelog
 =========
 
-3.0.1 - Unreleased
-------------------------
+3.0.1 - November 28, 2012
+-------------------------
 
 - Remove debugging leftover in risk action plan form.
 

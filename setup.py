@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '3.1dev'
+version = '3.0.1'
 
 setup(name="tno.euphorie",
       version=version,
@@ -9,13 +9,14 @@ setup(name="tno.euphorie",
       long_description=open("README.rst").read() + "\n" +
                        open(os.path.join("docs", "changes.rst")).read(),
       classifiers=[
-        "Framework :: Plone",
-        "License :: OSI Approved :: GNU General Public License (GPL)",
-        "Natural Language :: Dutch",
-        "Operating System :: OS Independent",
-        "Programming Language :: Python :: 2 :: Only",
-        "Programming Language :: Python :: 2.6",
-        "Topic :: Internet :: WWW/HTTP",
+          "Framework :: Plone",
+          "License :: OSI Approved :: GNU General Public License (GPL)",
+          "Natural Language :: Dutch",
+          "Operating System :: OS Independent",
+          "Programming Language :: Python :: 2 :: Only",
+          "Programming Language :: Python :: 2.6",
+          "Programming Language :: Python :: 2.7",
+          "Topic :: Internet :: WWW/HTTP",
         ],
       keywords="Euphorie OIRA RIE",
       author="Wichert Akkerman",
@@ -42,7 +43,6 @@ setup(name="tno.euphorie",
           "Euphorie [tests]",
       ],
       extras_require={
-        "tests": ["Euphorie [tests]",
-                  ],
+          "tests": ["Euphorie [tests]"],
       },
       )

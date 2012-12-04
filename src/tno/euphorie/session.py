@@ -37,14 +37,14 @@ def parse_date(value, default=None):
 
 
 def attr_date(node, tag, default=None):
-    value=unicode(node.attrib.get(tag, u"")).strip()
+    value = unicode(node.attrib.get(tag, u"")).strip()
     if not value:
         return default
     return parse_date(value, default)
 
 
 def attr_int(node, tag, default=None):
-    value=node.attrib.get(tag, None)
+    value = node.attrib.get(tag, None)
     if value is None:
         return default
     try:
@@ -55,9 +55,8 @@ def attr_int(node, tag, default=None):
 
 class UploadSchema(form.Schema):
     file = NamedFile(
-            title = _("label_session_file", default=u"RI&E bestand"),
-            required = True)
-    
+            title=_("label_session_file", default=u"RI&E bestand"),
+            required=True)
 
 
 class Upload(form.SchemaForm):
@@ -72,137 +71,132 @@ class Upload(form.SchemaForm):
     schema = UploadSchema
 
     def updateCompany(self, input, session):
-        mapping = { "afdeling"           : ("department", attr_unicode),
-                    "bezoekadres"        : ("address_visit_address", attr_unicode),
-                    "bezoekpostcode"     : ("address_visit_postal", attr_unicode),
-                    "bezoekwoonplaats"   : ("address_visit_city", attr_unicode),
-                    "postadres"          : ("address_postal_address", attr_unicode),
-                    "postcode"           : ("address_postal_postal", attr_unicode),
-                    "woonplaats"         : ("address_postal_city", attr_unicode),
-                    "emailadres"         : ("email", attr_unicode),
-                    "telefoonnummer"     : ("phone", attr_unicode),
-                    "auteur"             : ("submitter_name", attr_unicode),
-                    "datum"              : ("submit_date", attr_date),
-                    "bedrijfsactiviteit" : ("activity", attr_unicode),
-                    "invullerfunctie"    : ("submitter_function", attr_unicode),
-                    "lokatie"            : ("location", attr_unicode),
-                    "verzuimpercentage"  : ("absentee_percentage", attr_int),
-                    "ongevallen"         : ("accidents", attr_int),
-                    "WAO"                : ("incapacitated_workers", attr_int),
-                    }
-
-        data=input.gegevens
-        company=session.dutch_company=DutchCompany()
+        mapping = {"afdeling": ("department", attr_unicode),
+                   "bezoekadres": ("address_visit_address", attr_unicode),
+                   "bezoekpostcode": ("address_visit_postal", attr_unicode),
+                   "bezoekwoonplaats": ("address_visit_city", attr_unicode),
+                   "postadres": ("address_postal_address", attr_unicode),
+                   "postcode": ("address_postal_postal", attr_unicode),
+                   "woonplaats": ("address_postal_city", attr_unicode),
+                   "emailadres": ("email", attr_unicode),
+                   "telefoonnummer": ("phone", attr_unicode),
+                   "auteur": ("submitter_name", attr_unicode),
+                   "datum": ("submit_date", attr_date),
+                   "bedrijfsactiviteit": ("activity", attr_unicode),
+                   "invullerfunctie": ("submitter_function", attr_unicode),
+                   "lokatie": ("location", attr_unicode),
+                   "verzuimpercentage": ("absentee_percentage", attr_int),
+                   "ongevallen": ("accidents", attr_int),
+                   "WAO": ("incapacitated_workers", attr_int),
+                   }
+        data = input.gegevens
+        company = session.dutch_company = DutchCompany()
 
         for (old, new) in mapping.items():
             setattr(company, new[0], new[1](data, old))
 
-        employees=attr_int(data, "aantalindienst")
+        employees = attr_int(data, "aantalindienst")
         if employees is not None:
-            if employees<=1:
-                company.employees="40h"
-            elif 1<employees<=25:
-                company.employees="max25"
-            elif 25<employees:
-                company.employees="over25"
+            if employees <= 1:
+                company.employees = "40h"
+            elif 1 < employees <= 25:
+                company.employees = "max25"
+            elif 25 < employees:
+                company.employees = "over25"
 
-        if attr_int(data, "orakkoord")==1:
-            company.works_council_approved=attr_date(data, "orakkoorddatum")
-
+        if attr_int(data, "orakkoord") == 1:
+            company.works_council_approved = attr_date(data, "orakkoorddatum")
 
     def buildProfile(self, input, survey, session):
-        idmap={}
+        idmap = {}
         for profilequestion in survey.values():
             if not IProfileQuestion.providedBy(profilequestion):
                 continue
-            idmap[profilequestion.external_id]=profilequestion
+            idmap[profilequestion.external_id] = profilequestion
         if not idmap:
             return ({}, {})
 
-        profile={}
-        keuzemap={} # Map `keuze' to profile index
+        profile = {}
+        keuzemap = {}  # Map `keuze' to profile index
         for facet in input.profiel.facet:
-            question=idmap.get(facet.attrib["vraag-id"])
+            question = idmap.get(facet.attrib["vraag-id"])
             if question is None:
                 continue
-            if question.type=="optional":
-                profile[question.id]=True
-                keuzemap[facet.keuze.attrib["antwoord"]]=0
-            elif question.type=="repeat":
-                profile[question.id]=[]
-                for (i,keuze) in enumerate(facet.keuze):
-                    antwoord=attr_unicode(keuze, "antwoord")
+            if question.type == "optional":
+                profile[question.id] = True
+                keuzemap[facet.keuze.attrib["antwoord"]] = 0
+            elif question.type == "repeat":
+                profile[question.id] = []
+                for (i, keuze) in enumerate(facet.keuze):
+                    antwoord = attr_unicode(keuze, "antwoord")
                     profile[question.id].append(antwoord)
-                    keuzemap[keuze.attrib["antwoord"]]=i
+                    keuzemap[keuze.attrib["antwoord"]] = i
 
         return (profile, keuzemap)
 
-
-
     def buildExternalIdMap(self, root, zodb_path=[], mapping=None):
         if mapping is None:
-            mapping={}
+            mapping = {}
         for child in root.values():
-            external_id=getattr(aq_base(child), "external_id", None)
-            newpath=zodb_path+[child.id]
+            external_id = getattr(aq_base(child), "external_id", None)
+            newpath = zodb_path + [child.id]
             if external_id is not None:
-                mapping[external_id]="/".join(newpath)
+                mapping[external_id] = "/".join(newpath)
             if IQuestionContainer.providedBy(child):
                 self.buildExternalIdMap(child, newpath, mapping)
         return mapping
-            
 
     def updateAnswers(self, input, keuzemap, survey, session):
-        idmap=self.buildExternalIdMap(survey)
-        query=Session.query(model.Risk).filter(model.Risk.session_id==session.id)
-
-        identification_map={"1": "yes",
-                            "2": "no",
-                            "3": "n/a"}
-        priority_map={"laag" : "low",
-                      "midden": "medium",
-                      "hoog": "high"}
+        idmap = self.buildExternalIdMap(survey)
+        query = Session.query(model.Risk)\
+                .filter(model.Risk.session_id == session.id)
+        identification_map = {"1": "yes",
+                              "2": "no",
+                              "3": "n/a"}
+        priority_map = {"laag": "low",
+                        "midden": "medium",
+                        "hoog": "high"}
 
         for antwoord in input.antwoorden.antwoord:
-            risk_id=idmap.get(antwoord.attrib["risk-id"])
+            risk_id = idmap.get(antwoord.attrib["risk-id"])
             if risk_id is None:
                 continue
 
-            risk=query\
-                .filter(model.Risk.zodb_path==risk_id)\
-                .filter(model.Risk.profile_index==keuzemap.get(antwoord.attrib["keuze"], 0))\
+            risk = query\
+                .filter(model.Risk.zodb_path == risk_id)\
+                .filter(model.Risk.profile_index ==
+                        keuzemap.get(antwoord.attrib["keuze"], 0))\
                 .first()
             if risk is None:
                 continue
 
-            risk.identification=identification_map.get(antwoord.attrib["inventariseren"])
-            if antwoord.attrib["inventariseren"]=="-1":
-                risk.postponed=True
+            risk.identification = identification_map.get(antwoord.attrib["inventariseren"])
+            if antwoord.attrib["inventariseren"] == "-1":
+                risk.postponed = True
             elif risk.identification is not None:
-                risk.postponed=False
-            risk.probability=attr_int(antwoord, "evalueren1")
-            risk.frequency=attr_int(antwoord, "evalueren2")
-            risk.effect=attr_int(antwoord, "evalueren3")
-            risk.priority=priority_map.get(antwoord.attrib["prioriteit"])
+                risk.postponed = False
+            risk.probability = attr_int(antwoord, "evalueren1")
+            risk.frequency = attr_int(antwoord, "evalueren2")
+            risk.effect = attr_int(antwoord, "evalueren3")
+            risk.priority = priority_map.get(antwoord.attrib["prioriteit"])
             if hasattr(antwoord, "opmerking"):
-                risk.comment=el_unicode(antwoord, "opmerking")
+                risk.comment = el_unicode(antwoord, "opmerking")
             for pva in antwoord.iterchildren("pva"):
-                plan=model.ActionPlan(risk=risk)
-                plan.action_plan=el_unicode(pva, "maatregel")
-                plan.prevention_plan=el_unicode(pva, "preventietaken")
-                plan.requirements=el_unicode(pva, "preventiekennis")
-                plan.responsible=el_unicode(pva, "uitvoerder")
+                plan = model.ActionPlan(risk=risk)
+                plan.action_plan = el_unicode(pva, "maatregel")
+                plan.prevention_plan = el_unicode(pva, "preventietaken")
+                plan.requirements = el_unicode(pva, "preventiekennis")
+                plan.responsible = el_unicode(pva, "uitvoerder")
                 try:
-                    plan.budget=int(pva.budget.text)
-                except (TypeError,ValueError):
+                    plan.budget = int(pva.budget.text)
+                except (TypeError, ValueError):
                     pass
-                timeline=pva.planning.text.split()
-                plan.planning_start=parse_date(timeline[0])
-                plan.planning_end=parse_date(timeline[2])
+                timeline = pva.planning.text.split()
+                plan.planning_start = parse_date(timeline[0])
+                plan.planning_end = parse_date(timeline[2])
                 Session.add(plan)
 
         session.touch()
-
 
     def parseInput(self, input):
         """Try to parse a RI&E session file. The parsed data is
@@ -210,59 +204,56 @@ class Upload(form.SchemaForm):
         not be parsed or has the wrong format None is returned instead.
         """
         try:
-            input=lxml.objectify.fromstring(input)
+            input = lxml.objectify.fromstring(input)
         except lxml.etree.XMLSyntaxError:
             return None
 
-        if input.tag!="rieprogress":
+        if input.tag != "rieprogress":
             return None
 
-        rie_path=input.attrib["rie_path"]
+        rie_path = input.attrib["rie_path"]
         if not rie_path.startswith("/rie/data/"):
             return None
 
         return input
 
-
     def findSurvey(self, input):
         """Find the survey to match the (already parsed) input data."""
-        rie=input.attrib["rie_path"].split("/")[3]
-
+        rie = input.attrib["rie_path"].split("/")[3]
         for sector in aq_inner(self.context).values():
             if not IClientSector.providedBy(sector):
                 continue
             for survey in sector.values():
-                if ISurvey.providedBy(survey) and getattr(aq_base(survey), "external_id", None)==rie:
+                if ISurvey.providedBy(survey) and \
+                        getattr(aq_base(survey), "external_id", None) == rie:
                     return survey
-
         return None
-
 
     @button.buttonAndHandler(_("button_upload", default=u"Upload"), name="upload")
     def handleUpload(self, action):
-        (data,errors) = self.extractData()
+        (data, errors) = self.extractData()
         if errors:
             return
 
-        input=self.parseInput(data["file"].data)
+        input = self.parseInput(data["file"].data)
         if input is None:
             raise WidgetActionExecutionError("file",
-                    Invalid(_("error_invalid_session_file", default=u"Geen valide RI&E bestand.")))
+                    Invalid(_("error_invalid_session_file",
+                        default=u"Geen valide RI&E bestand.")))
 
-
-        survey=self.findSurvey(input)
+        survey = self.findSurvey(input)
         if survey is None:
             raise WidgetActionExecutionError("file",
                     Invalid(_("error_unknown_survey",
                         default=u"De gebruikte vragenlijst bestaat niet op deze site.")))
 
-        session=SessionManager.start(attr_unicode(input, "rienaam", u"RI&E import"), survey)
+        session = SessionManager.start(
+                attr_unicode(input, "rienaam", u"RI&E import"), survey)
         self.updateCompany(input, session)
-        (profile, keuzemap)=self.buildProfile(input, survey, session)
+        (profile, keuzemap) = self.buildProfile(input, survey, session)
         BuildSurveyTree(survey, profile, session)
         self.updateAnswers(input, keuzemap, survey, session)
 
-        question=FindFirstQuestion(dbsession=session)
-        self.request.response.redirect(QuestionURL(survey, question, phase="identification"))
-
-
+        question = FindFirstQuestion(dbsession=session)
+        self.request.response.redirect(
+                QuestionURL(survey, question, phase="identification"))

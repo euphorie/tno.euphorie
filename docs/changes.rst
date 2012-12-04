@@ -4,10 +4,15 @@ Changelog
 3.1 - Unreleased
 -------------------------
 
+- Improve survey matcher for old survey session importer:  never use survey
+  previews, and it multiple surveys are found with the same RI&E id use the
+  oldest published survey on the assumption that this is the original survey.
+   This fixes part of `TNO ticket 231
+   <https://code.simplon.biz/tracker/tno-euphorie/ticket/231>`_.
+
 - Update old survey session importer to detect surveys that can be found but
   where the contents differ so much no survey tree can be build. This fixes
-  part of `TNO ticket 231
-  <https://code.simplon.biz/tracker/tno-euphorie/ticket/231>`_.
+  part of `TNO ticket 231`_.
 
 
 3.0.1 - November 28, 2012

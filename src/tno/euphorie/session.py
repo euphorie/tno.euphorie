@@ -221,14 +221,21 @@ class Upload(form.SchemaForm):
     def findSurvey(self, input):
         """Find the survey to match the (already parsed) input data."""
         rie = input.attrib["rie_path"].split("/")[3]
+        matches = []
         for sector in aq_inner(self.context).values():
             if not IClientSector.providedBy(sector):
                 continue
             for survey in sector.values():
                 if ISurvey.providedBy(survey) and \
+                        survey.id != 'preview' and \
                         getattr(aq_base(survey), "external_id", None) == rie:
-                    return survey
-        return None
+                    matches.append(survey)
+        if not matches:
+            return None
+        # Pick the oldest published survey on the assumption this is not a
+        # modified copy.
+        matches.sort(key=lambda s: s.published[2], reverse=True)
+        return matches[0]
 
     @button.buttonAndHandler(_("button_upload", default=u"Upload"), name="upload")
     def handleUpload(self, action):

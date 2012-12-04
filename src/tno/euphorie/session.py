@@ -1,4 +1,5 @@
 import datetime
+import transaction
 from Acquisition import aq_base
 from Acquisition import aq_inner
 from plone.directives import form
@@ -255,5 +256,9 @@ class Upload(form.SchemaForm):
         self.updateAnswers(input, keuzemap, survey, session)
 
         question = FindFirstQuestion(dbsession=session)
+        if question is None:
+            transaction.get().doom()
+            raise WidgetActionExecutionError("file",
+                    Invalid(u"Deze RI&E is helaas teveel veranderd om te kunnen gebruiken."))
         self.request.response.redirect(
                 QuestionURL(survey, question, phase="identification"))

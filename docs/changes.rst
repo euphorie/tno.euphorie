@@ -4,7 +4,10 @@ Changelog
 3.1 - Unreleased
 -------------------------
 
-- ...
+- Update old survey session importer to detect surveys that can be found but
+  where the contents differ so much no survey tree can be build. This fixes
+  part of `TNO ticket 231
+  <https://code.simplon.biz/tracker/tno-euphorie/ticket/231>`_.
 
 
 3.0.1 - November 28, 2012

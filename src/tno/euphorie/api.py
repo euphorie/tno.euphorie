@@ -9,12 +9,20 @@ from tno.euphorie.report import TnoActionPlanReportDownload
 from euphorie.client.api.module import ActionPlan as ModuleActionPlan
 from euphorie.client.api.risk import ActionPlan as RiskActionPlan
 from euphorie.client.api import JsonView
-from euphorie.client.api import get_json_date
-from euphorie.client.api import get_json_int
-from euphorie.client.api import get_json_string
-from euphorie.client.api import get_json_token
-from euphorie.client.api import vocabulary_options
-from euphorie.client.api import vocabulary_token
+try:
+    from euphorie.json import get_json_date
+    from euphorie.json import get_json_int
+    from euphorie.json import get_json_string
+    from euphorie.json import get_json_token
+    from euphorie.json import vocabulary_options
+    from euphorie.json import vocabulary_token
+except ImportError:
+    from euphorie.client.api import get_json_date
+    from euphorie.client.api import get_json_int
+    from euphorie.client.api import get_json_string
+    from euphorie.client.api import get_json_token
+    from euphorie.client.api import vocabulary_options
+    from euphorie.client.api import vocabulary_token
 from euphorie.client.model import SurveySession
 
 

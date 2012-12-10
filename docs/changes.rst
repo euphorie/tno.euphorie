@@ -4,6 +4,9 @@ Changelog
 3.1 - Unreleased
 -------------------------
 
+- Remove extra space after risk severity in action plan report. This fixes
+  `TNO ticket 215 <https://code.simplon.biz/tracker/tno-euphorie/ticket/215>`_.
+
 - Improve survey matcher for old survey session importer:  never use survey
   previews, and it multiple surveys are found with the same RI&E id use the
   oldest published survey on the assumption that this is the original survey.

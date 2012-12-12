@@ -1,8 +1,8 @@
 Changelog
 =========
 
-3.1 - Unreleased
--------------------------
+3.1 - December 12, 2012
+-----------------------
 
 - Remove extra space after risk severity in action plan report. This fixes
   `TNO ticket 215 <https://code.simplon.biz/tracker/tno-euphorie/ticket/215>`_.

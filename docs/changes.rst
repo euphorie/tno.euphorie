@@ -4,7 +4,8 @@ Changelog
 3.1.1 - Unreleased
 -------------------------
 
-- ...
+- Fix loading of ZCML in tests. This fixes problems running tests in current
+  Plone versions which update zope.component.
 
 
 3.1 - December 12, 2012

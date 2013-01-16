@@ -7,16 +7,11 @@ from Products.PloneTestCase import PloneTestCase
 class TnoEuphorieTestLayer(ptc.BasePTCLayer):
     def afterSetUp(self):
         from Testing.ZopeTestCase import installPackage
-        from Products.Five import zcml
-        from Products.Five import fiveconfigure
         import tno.euphorie
 
-        fiveconfigure.debug_mode = True
-        zcml.load_config("configure.zcml", tno.euphorie)
-        fiveconfigure.debug_mode = False
-
-        installPackage("tno.euphorie")
-        self.addProduct("tno.euphorie")
+        self.loadZCML('configure.zcml', package=tno.euphorie)
+        installPackage('tno.euphorie')
+        self.addProduct('tno.euphorie')
         # Reinstalling tno.euphorie zaps the membrane_tool contens, so manually
         # reindex the client.
         self.portal.membrane_tool.indexObject(self.portal.client)
@@ -29,7 +24,7 @@ class TnoEuphorieTestLayer(ptc.BasePTCLayer):
 
     def beforeTearDown(self):
         pass
-    
+
 
 TnoEuphorieLayer = TnoEuphorieTestLayer([EuphorieLayer, ptc.ptc_layer])
 
@@ -45,10 +40,10 @@ class TnoEuphorieFunctionalTestCase(EuphorieFunctionalTestCase):
 def registerUserInClient(browser):
     """Register a new user in the client. This is pretty much a direct copy
     of :py:func:`euphorie.client.tests.utils.registerUserInClient`, but updated
-    to use Dutch language for butotn labels.
+    to use Dutch language for button labels.
     """
-    browser.getLink("Registreer").click()
-    browser.getControl(name="email").value="guest@example.com"
-    browser.getControl(name="password1:utf8:ustring").value="guest"
-    browser.getControl(name="password2:utf8:ustring").value="guest"
-    browser.getControl(name="next", index=1).click()
+    browser.getLink('Registreer').click()
+    browser.getControl(name='email').value = 'guest@example.com'
+    browser.getControl(name='password1:utf8:ustring').value = 'guest'
+    browser.getControl(name='password2:utf8:ustring').value = 'guest'
+    browser.getControl(name='next', index=1).click()

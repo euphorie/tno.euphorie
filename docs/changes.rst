@@ -4,6 +4,10 @@ Changelog
 3.1.1 - Unreleased
 -------------------------
 
+- Adjust code for navigation tree related fixed in Euphorie 6. This is part
+  of the fix for 
+  `TNO ticket 236 <https://code.simplon.biz/tracker/tno-euphorie/ticket/236>`_.
+
 - Fix loading of ZCML in tests. This fixes problems running tests in current
   Plone versions which update zope.component.
 

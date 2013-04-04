@@ -15,4 +15,4 @@ class TnoActionPlanView(ActionPlanView):
     grok.require('euphorie.client.ViewSurvey')
 
     question_filter = sql.or_(model.MODULE_WITH_RISK_FILTER,
-                              model.RISK_PRESENT_FILTER))
+                              model.RISK_PRESENT_FILTER)

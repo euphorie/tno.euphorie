@@ -29,4 +29,4 @@ class TnoActionPlanView(ActionPlan):
     grok.name('index_html')
 
     question_filter = sql.or_(model.MODULE_WITH_RISK_FILTER,
-                              model.RISK_PRESENT_FILTER))
+                              model.RISK_PRESENT_FILTER)

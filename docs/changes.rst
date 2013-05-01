@@ -1,7 +1,7 @@
 Changelog
 =========
 
-3.1.1 - Unreleased
+4.0 - Unreleased
 -------------------------
 
 - Adjust code for navigation tree related fixed in Euphorie 6. This is part

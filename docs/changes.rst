@@ -4,7 +4,7 @@ Changelog
 4.0.1 - Unreleased
 -------------------
 
-- ...
+- Support obsolete survey list from Euphorie 6.1
 
 
 4.0 - May 1, 2013

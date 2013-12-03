@@ -4,7 +4,7 @@ Changelog
 4.2 - Unreleased
 ----------------------
 
-- ...
+- Do not restrict absentee percentage to two characters.
 
 
 4.1 - October 30, 2013

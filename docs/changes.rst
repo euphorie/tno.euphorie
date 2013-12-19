@@ -1,8 +1,8 @@
 Changelog
 =========
 
-4.2 - Unreleased
-----------------------
+4.2 - December 19, 2013
+-----------------------
 
 - Do not restrict absentee percentage to two characters. This fixes
   `TNO ticket 246 <https://code.simplon.biz/tracker/tno-euphorie/ticket/246>`_.

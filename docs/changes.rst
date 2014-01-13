@@ -4,7 +4,8 @@ Changelog
 4.3 - Unreleased
 -----------------------
 
-- ...
+- Add `download` class to report download links to faciliate tracking downloads
+  in Google Analytics.
 
 
 4.2 - December 19, 2013

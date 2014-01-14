@@ -4,6 +4,8 @@ Changelog
 4.3 - January 14, 2014
 ----------------------
 
+- Update templates to support CSS changes in Euphorie 6.3.0.
+
 - Add `rel=download` to report download links to faciliate tracking downloads
   in Google Analytics (this requires Euphorie 6.3 or later).
 

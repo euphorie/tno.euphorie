@@ -1,11 +1,11 @@
 Changelog
 =========
 
-4.3 - Unreleased
------------------------
+4.3 - January 14, 2014
+----------------------
 
-- Add `download` class to report download links to faciliate tracking downloads
-  in Google Analytics.
+- Add `rel=download` to report download links to faciliate tracking downloads
+  in Google Analytics (this requires Euphorie 6.3 or later).
 
 
 4.2 - December 19, 2013

@@ -40,8 +40,8 @@ class TnoActionPlanReportView(ActionPlanReportView):
         query = Session.query(model.SurveyTreeItem)\
                 .filter(model.SurveyTreeItem.session == self.session)\
                 .filter(sql.not_(model.SKIPPED_PARENTS))\
-                .filter(sql.or_(model.MODULE_WITH_RISK_FILTER,
-                                model.RISK_PRESENT_FILTER))\
+                .filter(sql.or_(model.MODULE_WITH_RISK_OR_TOP5_FILTER,
+                                model.RISK_PRESENT_OR_TOP5_FILTER))\
                 .order_by(model.SurveyTreeItem.path)
         return  query.all()
 

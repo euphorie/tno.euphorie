@@ -27,16 +27,16 @@
         
         <fieldset class="comprehensive inputList">
           <legend>Bezoekadres bedrijf</legend>
-          <tal:block define="widget view/widgets/address_visit_address"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text" value="${widget/value}"/> <br/></tal:block>
-          <tal:block define="widget view/widgets/address_visit_postal"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text" maxlength="7" value="${widget/value}"/> <br/></tal:block>
-          <tal:block define="widget view/widgets/address_visit_city"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text" maxlength="64" value="${widget/value}"/> <br/></tal:block>
+          <tal:block define="widget nocall:view/widgets/address_visit_address"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text" value="${widget/value}"/> <br/></tal:block>
+          <tal:block define="widget nocall:view/widgets/address_visit_postal"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text" maxlength="7" value="${widget/value}"/> <br/></tal:block>
+          <tal:block define="widget nocall:view/widgets/address_visit_city"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text" maxlength="64" value="${widget/value}"/> <br/></tal:block>
         </fieldset>
         
         <fieldset class="comprehensive inputList">
           <legend>Postadres bedrijf</legend>
-          <tal:block define="widget view/widgets/address_postal_address"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text" value="${widget/value}"/> <br/></tal:block>
-          <tal:block define="widget view/widgets/address_postal_postal"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text" maxlength="7" value="${widget/value}"/> <br/></tal:block>
-          <tal:block define="widget view/widgets/address_postal_city"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text" maxlength="64" value="${widget/value}"/> <br/></tal:block>
+          <tal:block define="widget nocall:view/widgets/address_postal_address"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text" value="${widget/value}"/> <br/></tal:block>
+          <tal:block define="widget nocall:view/widgets/address_postal_postal"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text" maxlength="7" value="${widget/value}"/> <br/></tal:block>
+          <tal:block define="widget nocall:view/widgets/address_postal_city"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text" maxlength="64" value="${widget/value}"/> <br/></tal:block>
         </fieldset>
 
         <tal:widget replace="structure view/widgets/email/render" />
@@ -47,7 +47,7 @@
         <tal:widget replace="structure view/widgets/department/render" />
         <tal:widget replace="structure view/widgets/location/render" />
 
-        <fieldset class="comprehensive date-eu" tal:define="widget view/widgets/submit_date">
+        <fieldset class="comprehensive date-eu" tal:define="widget nocall:view/widgets/submit_date">
           <legend>${widget/label} (<span class="discrete">${widget/field/description}</span>)</legend>
           <input type="hidden" value="1" tal:attributes="name string:${widget/name}-empty-marker" />
           <label for="${widget/id}_day" i18n:translate="label_day">Day</label>
@@ -61,7 +61,7 @@
           <em tal:condition="widget/error" class="message warning">Geef een datum na 1 januari 2000 op.</em>
         </fieldset>
 
-        <fieldset class="comprehensive radioList" tal:define="widget view/widgets/employees; value widget/value">
+        <fieldset class="comprehensive radioList" tal:define="widget nocall:view/widgets/employees; value widget/value">
           <legend>${widget/label}</legend>
           <label><input type="radio" name="${widget/name}" value="40h" checked="${python:'checked' if '40h' in value else None}"/> Maximaal 40 uur betaalde arbeid per week <br/><span class="discrete">(alle werknemers samen)</span></label>
           <label><input type="radio" name="${widget/name}" value="max25" checked="${python:'checked' if 'max25' in value else None}"/> Maximaal 25 werknemers <br/><span class="discrete">(let op het gaat hier niet om FTE's, maar om daadwerkelijke personen)</span></label>
@@ -69,18 +69,18 @@
           <tal:error condition="widget/error" replace="structure widget/error/render|nothing"/>
         </fieldset>
 
-        <label tal:define="widget view/widgets/absentee_percentage">${widget/label}
+        <label tal:define="widget nocall:view/widgets/absentee_percentage">${widget/label}
           <input type="text" id="${widget/id}" name="${widget/name}" class="${widget/klass} percentage" size="${widget/size}" maxlength="5" value="${widget/value}"/>
           <em tal:condition="widget/error" class="message warning">Vul een getal (maximaal 100) in.</em>
         </label>
         <tal:widget replace="structure view/widgets/accidents/render" />
         <tal:widget replace="structure view/widgets/incapacitated_workers/render" />
 
-        <label tal:define="widget view/widgets/arbo_expert">${widget/label}  <br/><span class="discrete">(naam, contactpersoon, adres, e-mail. Deze zal de rapportage <strong>niet</strong> automatisch ontvangen.)</span>
+        <label tal:define="widget nocall:view/widgets/arbo_expert">${widget/label}  <br/><span class="discrete">(naam, contactpersoon, adres, e-mail. Deze zal de rapportage <strong>niet</strong> automatisch ontvangen.)</span>
         <input type="text" name="${widget/name}" maxlength="128" value="${widget/value}"/> <tal:error condition="widget/error" replace="structure widget/error/render|nothing"/></label> 
         <hr/>
 
-        <tal:block define="widget view/widgets/works_council_approval">
+        <tal:block define="widget nocall:view/widgets/works_council_approval">
           <label>Akkoord OR/medewerkersvertegenwoordiging
             <input type="checkbox" name="works_council" value="yes" id="works_council" checked="${python:'checked' if widget.value[0] or widget.value[2] else None}" /></label>
           <fieldset class="comprehensive date-eu dependsOn-works_council">

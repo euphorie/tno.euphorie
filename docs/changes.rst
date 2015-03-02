@@ -4,8 +4,13 @@ Changelog
 4.4 - Unreleased
 ----------------------
 
+
 - Include Top-5 risks in the online action plan report. This fixes
   `TNO ticket 252 <https://code.simplon.biz/tracker/tno-euphorie/ticket/252`_.
+
+- Explicitly do not render widgets when we try to use widget instances in the
+  report form. This fixes compatibility with current versions of Euphorie 7
+  and its underlying software stack.
 
 
 4.3 - January 14, 2014

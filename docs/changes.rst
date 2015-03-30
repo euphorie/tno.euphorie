@@ -1,8 +1,8 @@
 Changelog
 =========
 
-4.4 - Unreleased
-----------------------
+4.4 - March 29, 2015
+--------------------
 
 
 - Include Top-5 risks in the online action plan report. This fixes

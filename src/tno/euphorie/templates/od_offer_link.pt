@@ -1,0 +1,86 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:meta="http://xml.zope.org/namespaces/meta"
+      xmlns:metal="http://xml.zope.org/namespaces/metal"
+      xmlns:i18n="http://xml.zope.org/namespaces/i18n"
+      xmlns:tal="http://xml.zope.org/namespaces/tal"
+      meta:interpolation="true"
+      i18n:domain="euphorie"
+      id="sessions"
+      tal:define="webhelpers nocall:context/@@webhelpers; tools nocall:context/@@tools; client nocall:request/client">
+  <head>
+    <title i18n:translate="title_tool">OiRA</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <metal:css use-macro="webhelpers/macros/css"/>
+  </head>
+  <body>
+    <h1>Regelhulp ${context/title}</h1>
+
+    <p>
+      U heeft nog bestaande regelhulp in uw ondernemingsdossier. Als u al
+      eerder een RI&amp;E heeft gemaakt kunt u deze koppelen aan uw dossier. U
+      kunt er ook voor kiezen om een nieuwe RI&amp;E te beginnen.
+    </p>
+
+    <form action="${request/getURL}" enctype="${view/enctype}" method="${view/method}" id="${view/id}">
+      <input type="hidden" name="vestigingssleutel" value="${request/form/vestigingssleutel}"/>
+      <input type="hidden" name="webservice" value="${request/form/webservice}"/>
+
+      <fieldset class="comprehensive radioList" tal:define="widget nocall:view/widgets/existing; value widget/value">
+        <legend>${widget/label}</legend>
+        <label><input type="radio" name="${widget/name}" value="new" checked="${python:'checked' if 'new' in value else None}"/>
+          Nee<br/><span class="discrete">U kan een nieuwe RI&amp;E beginnen.</span></label>
+        <label><input type="radio" name="${widget/name}" value="existing" checked="${python:'checked' if 'existing' in value else None}"/>
+          Ja<br/><span class="discrete">U kan ervoor kiezen om een bestaande RI&amp;E koppelen aan het ondernemingsdossier.</span></label>
+        <tal:error condition="widget/error" replace="structure widget/error/render|nothing"/>
+      </fieldset>
+
+      <fieldset class="concise inputList pat-depends" data-pat-depends="condition:form.widgets.existing=existing">
+        <legend>RI&amp;E Login</legend>
+        <p class="discrete">Uw login gegevens zijn nodig om bestaande RI&amp;E's op te zoeken.</p>
+        <tal:widget replace="structure view/widgets/email/render" />
+        <tal:widget replace="structure view/widgets/password/render" />
+      </fieldset>
+
+      <div class="buttonBar" tal:define="actions view/actions/values|nothing" tal:condition="actions">
+        <tal:action repeat="action actions" replace="structure action/render" />
+      </div>
+    </form>
+
+    <ol id="steps">
+      <li id="step-1" class="disabled">
+        <tal:span condition="not:webhelpers/is_iphone" i18n:translate="label_preparation">Preparation</tal:span>
+        <tal:span condition="webhelpers/is_iphone" i18n:translate="iphone_label_preparation">Preparation</tal:span>
+      </li>
+      <li id="step-2" class="disabled">
+        <tal:span condition="not:webhelpers/is_iphone" i18n:translate="label_identification">Identification</tal:span>
+        <tal:span condition="webhelpers/is_iphone" i18n:translate="iphone_label_identification">Identification</tal:span>
+      </li>
+      <li id="step-3" class="disabled">
+        <tal:span condition="not:webhelpers/is_iphone" i18n:translate="label_evaluation">Evaluation</tal:span>
+        <tal:span condition="webhelpers/is_iphone" i18n:translate="iphone_label_evaluation">Evaluation</tal:span>
+      </li>
+      <li id="step-4" class="disabled">
+        <tal:span condition="not:webhelpers/is_iphone" i18n:translate="label_action_plan">Action Plan</tal:span>
+        <tal:span condition="webhelpers/is_iphone" i18n:translate="iphone_label_action_plan">Action Plan</tal:span>
+      </li>
+      <li id="step-5" class="disabled">
+        <tal:span condition="not:webhelpers/is_iphone" i18n:translate="label_report">Report</tal:span>
+        <tal:span condition="webhelpers/is_iphone" i18n:translate="iphone_report">Report</tal:span>
+      </li>
+    </ol>
+
+    <ul id="navigation">
+      <metal:home use-macro="webhelpers/macros/homelink"/>
+      <li><a href="${webhelpers/country_url}/logout" i18n:translate="navigation_logout">Logout</a></li>
+      <li><a href="${webhelpers/help_url}#sessions" i18n:translate="navigation_help">Help</a></li>
+      <li><a href="${webhelpers/country_url}/account-settings" i18n:translate="navigation_settings">Settings</a></li>
+    </ul>
+
+    <metal:css use-macro="webhelpers/macros/appendix"/>
+    <metal:css use-macro="webhelpers/macros/javascript"/>
+    <tal:block replace="tile:client-analytics"/>
+  </body>
+</html>
+

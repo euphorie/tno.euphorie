@@ -1,0 +1,79 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:meta="http://xml.zope.org/namespaces/meta"
+      xmlns:metal="http://xml.zope.org/namespaces/metal"
+      xmlns:i18n="http://xml.zope.org/namespaces/i18n"
+      xmlns:tal="http://xml.zope.org/namespaces/tal"
+      meta:interpolation="true"
+      i18n:domain="euphorie"
+      id="sessions"
+      tal:define="client nocall:request/client; webhelpers nocall:context/@@webhelpers; tools nocall:context/@@tools">
+  <head>
+    <title i18n:translate="title_tool">OiRA - Online interactive Risk Assessment</title>
+    <metal:meta use-macro="webhelpers/macros/headers"/>
+    <metal:css use-macro="webhelpers/macros/css"/>
+  </head>
+  <body tal:define="sessions view/sessions; country_url webhelpers/country_url" class="report ${webhelpers/extra_css}">
+    <h1 i18n:translate="header_session">Session</h1>
+
+    <tal:block condition="python:sessions">
+      <h2>Kies een sessie</h2>
+      <p>Deze sessie zal gekoppelt worden aan uw ondernemingsdossier. Het blijft mogelijk om de sessie
+      met uw normale RI&amp;E login te benaderen.</p>
+
+      <table id="sessionList">
+        <tr tal:repeat="session sessions">
+          <td><form method="post" class="startSessionForm">
+              <input type="hidden" name="session" value="${session/id}"/>
+              <button class="link" type="submit">${session/title}</button>,
+              <tal:span i18n:translate="lable_session_modified">saved on
+              <tal:block i18n:name="date">${python:tools.formatDate(session['modified'])}</tal:block></tal:span></form></td>
+        </tr>
+      </table>
+    </tal:block>
+
+    <tal:block condition="python:not sessions">
+      <p class="message error">Geen bestaande sessies gevonden.</p>
+    </tal:block>
+
+    <p class="buttonBar">
+      <a class="button-medium floatBefore back" href="${view/previous_url}" i18n:domain="euphorie" i18n:translate="label_previous">Previous</a>
+    </p>
+
+    <ol id="steps">
+      <li id="step-1">
+        <tal:span condition="not:webhelpers/is_iphone" i18n:translate="label_preparation">Preparation</tal:span>
+        <tal:span condition="webhelpers/is_iphone" i18n:translate="iphone_label_preparation">Preparation</tal:span>
+      </li>
+      <li id="step-2">
+        <tal:span condition="not:webhelpers/is_iphone" i18n:translate="label_identification">Identification</tal:span>
+        <tal:span condition="webhelpers/is_iphone" i18n:translate="iphone_label_identification">Identification</tal:span>
+      </li>
+      <li id="step-3">
+        <tal:span condition="not:webhelpers/is_iphone" i18n:translate="label_evaluation">Evaluation</tal:span>
+        <tal:span condition="webhelpers/is_iphone" i18n:translate="iphone_label_evaluation">Evaluation</tal:span>
+      </li>
+      <li id="step-4">
+        <tal:span condition="not:webhelpers/is_iphone" i18n:translate="label_action_plan">Action Plan</tal:span>
+        <tal:span condition="webhelpers/is_iphone" i18n:translate="iphone_label_action_plan">Action Plan</tal:span>
+      </li>
+      <li id="step-5">
+        <tal:span condition="not:webhelpers/is_iphone" i18n:translate="label_report">Report</tal:span>
+        <tal:span condition="webhelpers/is_iphone" i18n:translate="iphone_report">Report</tal:span>
+      </li>
+    </ol>
+
+    <ul id="navigation">
+      <metal:home use-macro="webhelpers/macros/homelink"/>
+      <li><a href="${country_url}/logout" i18n:translate="navigation_logout">Logout</a></li>
+      <li><a href="${webhelpers/help_url}#sessions" i18n:translate="navigation_help">Help</a></li>
+      <li><a href="${webhelpers/country_url}/account-settings" i18n:translate="navigation_settings">Settings</a></li>
+    </ul>
+    <metal:css use-macro="webhelpers/macros/appendix"/>
+    <metal:css use-macro="webhelpers/macros/javascript"/>
+    <tal:block replace="tile:client-analytics"/>
+  </body>
+</html>
+
+

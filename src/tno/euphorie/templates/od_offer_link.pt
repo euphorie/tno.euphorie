@@ -39,8 +39,21 @@
       <fieldset class="concise inputList pat-depends" data-pat-depends="condition:form.widgets.existing=existing">
         <legend>RI&amp;E Login</legend>
         <p class="discrete">Uw login gegevens zijn nodig om bestaande RI&amp;E's op te zoeken.</p>
-        <tal:widget replace="structure view/widgets/email/render" />
-        <tal:widget replace="structure view/widgets/password/render" />
+        <div class="z3cFieldContainer" tal:define="view nocall:view/widgets/email">
+          <label class="${python:'error' if view.error is not None else None}">${view/label} <sup tal:condition="view/required" class="required">*</sup>
+            <input type="email" id="${view/id}" name="${view/name}" value="${view/value}"
+                   class="email ${view/klass}" disabled="${view/disabled}"
+                   readonly="${view/readonly}" size="${view/size}"
+                   maxlength="${view/maxlength}"/><tal:error condition="view/error" replace="structure view/error/render|nothing"/></label>
+        </div>
+
+        <div class="z3cFieldContainer" tal:define="view nocall:view/widgets/password">
+          <label class="${python:'error' if view.error is not None else None}">${view/label} <sup tal:condition="view/required" class="required">*</sup>
+            <input type="password" id="${view/id}" name="${view/name}" value="${view/value}"
+                   class="password ${view/klass}" disabled="${view/disabled}"
+                   readonly="${view/readonly}" size="${view/size}"
+                   maxlength="${view/maxlength}"/><tal:error condition="view/error" replace="structure view/error/render|nothing"/></label>
+        </div>
       </fieldset>
 
       <div class="buttonBar" tal:define="actions view/actions/values|nothing" tal:condition="actions">

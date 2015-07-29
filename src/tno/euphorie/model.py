@@ -6,6 +6,20 @@ from euphorie.client.model import BaseObject
 from euphorie.client.enum import Enum
 
 
+class OdLink(BaseObject):
+    """Link to OndernemingsDossier."""
+    __tablename__ = 'od_link'
+
+    id = schema.Column(types.Integer(), primary_key=True, autoincrement=True)
+    session_id = schema.Column(types.Integer(),
+        schema.ForeignKey("session.id", onupdate="CASCADE", ondelete="CASCADE"),
+        nullable=False)
+    session = orm.relation("SurveySession")
+    vestigings_sleutel = schema.Column(types.String(), nullable=False, index=True)
+    webservice = schema.Column(types.String(), nullable=False)
+    postal_code = schema.Column(types.String())
+
+
 class DutchCompany(BaseObject):
     """Information about a Dutch company."""
     __tablename__ = "dutch_company"
@@ -46,4 +60,5 @@ if not _instrumented:
     from sqlalchemy.ext import declarative
     from euphorie.client import model
     declarative.instrument_declarative(DutchCompany, model.metadata._decl_registry, model.metadata)
+    declarative.instrument_declarative(OdLink, model.metadata._decl_registry, model.metadata)
     _instrumented = True

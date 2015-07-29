@@ -17,4 +17,17 @@
 
   </genericsetup:upgradeSteps>
 
+  <genericsetup:upgradeSteps
+    source="101"
+    destination="200"
+    profile="tno.euphorie:default"
+    >
+
+    <genericsetup:upgradeStep
+      title="Add Ondernemings Dossier tables"
+      description="Add the od_link table needed for the ondernemingsdossier."
+      handler=".v2.addOdTables"
+      />
+
+  </genericsetup:upgradeSteps>
 </configure>

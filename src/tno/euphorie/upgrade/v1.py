@@ -15,4 +15,3 @@ def updateAbsenteePercentage(context):
     log.info("Changing type for dutch_company.absentee_percentage to NUMERIC(5,2)")
     session.execute("ALTER TABLE dutch_company ALTER COLUMN absentee_percentage TYPE NUMERIC(5,2);")
     datamanager.mark_changed(session)
-

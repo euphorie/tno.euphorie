@@ -14,7 +14,7 @@ class OdLink(BaseObject):
     session_id = schema.Column(types.Integer(),
         schema.ForeignKey("session.id", onupdate="CASCADE", ondelete="CASCADE"),
         nullable=False)
-    session = orm.relation("SurveySession")
+    session = orm.relation("SurveySession", backref='od_link')
     vestigings_sleutel = schema.Column(types.String(), nullable=False, index=True)
     webservice = schema.Column(types.String(), nullable=False)
 

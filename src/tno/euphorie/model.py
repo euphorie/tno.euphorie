@@ -17,7 +17,6 @@ class OdLink(BaseObject):
     session = orm.relation("SurveySession")
     vestigings_sleutel = schema.Column(types.String(), nullable=False, index=True)
     webservice = schema.Column(types.String(), nullable=False)
-    postal_code = schema.Column(types.String())
 
 
 class DutchCompany(BaseObject):

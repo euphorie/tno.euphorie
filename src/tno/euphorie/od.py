@@ -14,6 +14,7 @@ from zExceptions import NotFound
 from five import grok
 from zope import schema
 from zope.component import getMultiAdapter
+from zope.interface import Interface
 from z3c.saconfig import Session
 from z3c.form import button
 from z3c.form.interfaces import IErrorViewSnippet
@@ -54,6 +55,22 @@ class EntrySchema(form.Schema):
             title=_('label_email', default=u'Email address'),
             required=True)
     password = schema.TextLine(title=u'Wachtwoord', required=True)
+
+
+class OdWebHelpers(grok.View):
+    """Modified @@webhelpers view.
+    """
+    grok.context(Interface)
+    grok.layer(ITnoClientSkinLayer)
+    grok.require('zope2.View')
+    grok.name('od')
+
+    def is_od_session(self):
+        account = aq_base(getSecurityManager().getUser())
+        return isinstance(account, model.Account) and account.password is None
+
+    def render(self):
+        pass
 
 
 class ODEntry(grok.View):

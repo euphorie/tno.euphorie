@@ -92,6 +92,9 @@ class ODEntry(grok.View):
         trigger_extra_pageview(self.request, v_url)
         self.request.response.redirect("%s/resume" % survey.absolute_url())
 
+    def update(self):
+        utils.setLanguage(self.request, self.context, self.context.language)
+
     def render(self):
         vestiging = self.request.form['vestigingssleutel']
         session = Session()

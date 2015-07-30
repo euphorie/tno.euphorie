@@ -1,6 +1,12 @@
 Changelog
 =========
 
+5.0a1 - July 30, 2015
+---------------------
+
+- Start integration support of Ondernemingsdossier
+
+
 4.4 - March 29, 2015
 --------------------
 

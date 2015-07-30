@@ -1,6 +1,7 @@
 *.pyc
 *.pyo
 *.pt.py
+*.sw[opq]
 /.installed.cfg
 /.mr.developer.cfg
 /bin

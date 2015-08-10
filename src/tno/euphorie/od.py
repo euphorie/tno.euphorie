@@ -1,4 +1,5 @@
 import datetime
+import hashlib
 import logging
 import urlparse
 import uuid
@@ -37,7 +38,13 @@ from tno.euphorie.model import OdLink
 from tno.euphorie.report import TnoActionPlanReportDownload
 
 
-EUPHORIE_NAMESPACE_UUID = uuid.UUID('0002320c-e708-4837-bfc4-8a92ad6e0579')
+NAMESPACE_EUPHORIE = uuid.UUID('0002320c-e708-4837-bfc4-8a92ad6e0579')
+
+REGELHULP_UUID = '9963734c-7003-4104-ac56-cc53744f9bae'
+WO_UUID = '32f0e6ea-b54f-45ef-b15e-b85f31d55655'  # Wettelijk onderwerp
+THEMA_UUID = '5f9a53a5-84f6-40f7-89ef-253e7d1fa842'  # Arbo thema
+PVA_UUID = '68487da9-18af-49e9-bece-fd4cb613c728'  # Plan van Aanpak voorschrift
+
 
 log = logging.getLogger(__name__)
 grok.templatedir("templates")
@@ -281,7 +288,7 @@ def create_response_metadata(survey, od_link, client):
     metadata.Vestigingssleutel = od_link.vestigings_sleutel
     metadata.Foutcode = u'0'
     metadata.Datum = datetime.datetime.now().strftime('%Y-%m-%dT%H:%M:%S')
-    metadata.RegelhulpId = 'Euphorie/tno.euphorie'
+    metadata.RegelhulpId = REGELHULP_UUID
     return metadata
 #    bijlage = etree.SubElement(metadata, _tag('RegelhulpBijlage'))
 #    etree.SubElement(bijlage, _tag('Bestandsnaam')).text = 'plan-van-aanpak.rtf'
@@ -292,8 +299,6 @@ def create_response_metadata(survey, od_link, client):
 
 # Thema is nu verplicht
 
-NUL_UUID = str(uuid.UUID(int=0))
-
 
 def create_response_kern(survey, od_link, client):
     kern = client.types.RegelhulpResponseKern(True)
@@ -301,39 +306,54 @@ def create_response_kern(survey, od_link, client):
     kern.LijstWettelijkeOnderwerpen = [wo]
 
     wo.WettelijkOnderwerpId = wid = client.types.Id(True)
-    wid.Uuid = NUL_UUID  # XXX UUID voor wettelijk onderwerp
+    wid.Uuid = WO_UUID
     wid.VersionMajor = '1'
     wid.VersionMinor = '1'
-    wo.Naam = u'Risico Inventarisatie & Evaludatie'
+    wo.Naam = u'Plan van aanpak RI&E'
 
     wo.Thema = thema = client.types.Thema(True)
-    thema.ThemaNaam = u'Arbo Wetgeving'
-    thema.ThemaId = NUL_UUID  # XXX ID voor thema?
+    thema.ThemaNaam = u'Arbeidsomstandighedenbeleid'
+    thema.ThemaId = THEMA_UUID
 
     wo.Definitie = u'Formele definitie wettelijk onderwerp, zoals opgenomen in bron'  # XXX Te bepalen
     wo.Naam = u'Risico Inventarisatie & Evaludatie'
-    wo.Bron = u'RI&E bron'  # XXX Te bepalen
-    wo.Verwijzing = u'URL voor RI&E besluit of wet'  # XXX Te bepalen
+    wo.Bron = u'Arbeidsomstandighedenwet 1998, Artikel 5 lid 3'
+    wo.Verwijzing = u'http://wetten.overheid.nl/BWBR0010346/geldigheidsdatum_10-08-2015#Hoofdstuk2_PAR624212'
 
     vs = client.types.Voorschrift(True)
     wo.LijstVoorschriften = [vs]
 
     vs.VoorschriftId = vsid = client.types.Id(True)
-    vsid.Uuid = NUL_UUID  # XXX UUID voor voorschrift
+    vsid.Uuid = PVA_UUID
     vsid.VersionMajor = '1'
     vsid.VersionMinor = '1'
-    vs.Aanduiding = u'Aanduiding uit bron waar voorschift uit komt (bv. artikel 123)'  # XXX Te bepalen
-    vs.Verwijzing = u'URL voor voorschrift'  # XXX Te bepalen
+    vs.Aanduiding = u'Artikel 5 lid 4'
+    vs.Citaat = (
+            u'Een plan van aanpak, waarin is aangegeven welke maatregelen '
+            u'zullen worden genomen in verband met de bedoelde risico\'s en '
+            u'de samenhang daartussen, een en ander overeenkomstig '
+            u'<a href="http://wetten.overheid.nl/BWBR0010346/geldigheidsdatum_10-08-2015#Hoofdstuk2_PAR623742_Artikel3">artikel 3</a>,'
+            u'maakt deel uit van de risico-inventarisatie en -evaluatie. '
+            u'In het plan van aanpak wordt tevens aangegeven binnen welke '
+            u'termijn deze maatregelen zullen worden genomen.')
+    vs.Bron = u'Arbeidsomstandighedenwet 1998'
+    vs.Verwijzing = u'http://wetten.overheid.nl/BWBR0010346/geldigheidsdatum_10-08-2015#Hoofdstuk2_PAR624212'
 
     mr = client.types.Maatregel(True)
     vs.LijstMaatregelen = [mr]
     mr.MaatregelId = mrid = client.types.Id(True)
-# XXX Must include vestigingssleutel in hash, since the maatregel has
-# session-specific data (URL for reports)
-    mrid.Uuid = str(uuid.uuid3(EUPHORIE_NAMESPACE_UUID, str(od_link.session.zodb_path)))
+    # This is a variant of standard version 5 UUIDs: we include two extras
+    # in the SHA1 hash isntead of one.
+    hash = hashlib.new('sha1')
+    hash.update(NAMESPACE_EUPHORIE.bytes)
+    hash.update(od_link.session.zodb_path)
+    hash.update(od_link.vestigings_sleutel)
+    mrid.Uuid = str(uuid.UUID(bytes=hash.digest()[:16], version=5))
+
     mrid.VersionMajor = u'1'
     mrid.VersionMinor = u'1'
-    mr.Omschrijving = u'Korte omschrijving maatregel'  # XXX Te bepalen
+    mr.Omschrijving = u'Controleren voortgang plan van aanpak en actualiteit RI&E'
+    mr.Toelichting = u'Controleer of de maatregelen in het plan van aanpak op tijd worden uitgevoerd.'
     mr.Brontype = u'regelhulp branche'
 
     mr.Terugkeerpatroon = tkp = client.types.Terugkeerpatroon(True)
@@ -365,9 +385,13 @@ class ODResponse(grok.View):
             if r.Foutcode != 0:
                 log.error('SetRegelhulpResponse error %d: %s',
                         r.Foutcode, r.Foutbericht)
-                raise
         except Exception as e:
             print e
             import pdb ; pdb.set_trace()
-        self.request.response.setHeader('content-text', 'text/plain')
-        return 'oops'
+
+        self.request.response.setHeader('content-type', 'text/xml')
+        import xml.etree.cElementTree as etree
+        from osa import xmlnamespace
+        body = etree.Element('{%s}Body' % xmlnamespace.NS_SOAP_ENV)
+        response.to_xml(etree.SubElement(body, 'b'), 'body')
+        return etree.tostring(body)

@@ -4,6 +4,7 @@ import urlparse
 import uuid
 from urllib import urlencode
 from lxml import etree
+import osa
 from sqlalchemy import orm
 from AccessControl.SecurityManagement import getSecurityManager
 from AccessControl.SecurityManagement import newSecurityManager
@@ -48,7 +49,7 @@ class EntrySchema(form.Schema):
             vocabulary=SimpleVocabulary([
                 SimpleTerm('new', title='Tralala'),
                 SimpleTerm('existing', title='Tralala'),
-                ]),
+            ]),
             required=True)
 
     email = schema.TextLine(
@@ -275,71 +276,77 @@ class ODReportDownload(grok.View):
             return view.render()
 
 
-NS_REGELHULP = 'http://ondernemingsdossier.nl/nta9040-1/2.0/regelhulpresponse.xsd'
-NS_XMLSI = 'http://www.w3.org/2001/XMLSchema-instance'
-NSMAP = {
-        None: NS_REGELHULP,
-        'xsi': NS_XMLSI,
-        }
+def create_response_metadata(survey, od_link, client):
+    metadata = client.types.RegelhulpResponseMetadata(True)
+    metadata.Vestigingssleutel = od_link.vestigings_sleutel
+    metadata.Foutcode = u'0'
+    metadata.Datum = datetime.datetime.now().strftime('%Y-%m-%dT%H:%M:%S')
+    metadata.RegelhulpId = 'Euphorie/tno.euphorie'
+    return metadata
+#    bijlage = etree.SubElement(metadata, _tag('RegelhulpBijlage'))
+#    etree.SubElement(bijlage, _tag('Bestandsnaam')).text = 'plan-van-aanpak.rtf'
+#    etree.SubElement(bijlage, _tag('DownloadUri')).text = '%s/@@od-report?vestigingssleutel=%s' % (survey.absolute_url(), od_link.vestigings_sleutel)
+#    etree.SubElement(bijlage, _tag('VestionMajor')).text = '1'
+#    etree.SubElement(bijlage, _tag('VestionMinor')).text = '1'
 
 
-def _tag(name, ns=NS_REGELHULP):
-    return etree.QName(ns, name)
+# Thema is nu verplicht
+
+NUL_UUID = str(uuid.UUID(int=0))
 
 
-def add_response_metadata(regelhulp, survey, od_link):
-    metadata = etree.SubElement(regelhulp, _tag('RegelhulpResponseMetadata'))
-    etree.SubElement(metadata, _tag('Vestigingssleutel')).text = od_link.vestigings_sleutel
-    etree.SubElement(metadata, _tag('Foutcode')).text = u'0'
-    etree.SubElement(metadata, _tag('Datum')).text = datetime.datetime.now().strftime('%Y-%m-%dT%H:%M:%S')
-    bijlage = etree.SubElement(metadata, _tag('RegelhulpBijlage'))
-    etree.SubElement(bijlage, _tag('Bestandsnaam')).text = 'plan-van-aanpak.rtf'
-    etree.SubElement(bijlage, _tag('DownloadUri')).text = '%s/@@od-report?vestigingssleutel=%s' % (survey.absolute_url(), od_link.vestigings_sleutel)
-    etree.SubElement(bijlage, _tag('VestionMajor')).text = '1'
-    etree.SubElement(bijlage, _tag('VestionMinor')).text = '1'
+def create_response_kern(survey, od_link, client):
+    kern = client.types.RegelhulpResponseKern(True)
+    wo = client.types.WettelijkOnderwerp(True)
+    kern.LijstWettelijkeOnderwerpen = [wo]
+
+    wo.WettelijkOnderwerpId = wid = client.types.Id(True)
+    wid.Uuid = NUL_UUID  # XXX UUID voor wettelijk onderwerp
+    wid.VersionMajor = '1'
+    wid.VersionMinor = '1'
+    wo.Naam = u'Risico Inventarisatie & Evaludatie'
+
+    wo.Thema = thema = client.types.Thema(True)
+    thema.ThemaNaam = u'Arbo Wetgeving'
+    thema.ThemaId = NUL_UUID  # XXX ID voor thema?
+
+    wo.Definitie = u'Formele definitie wettelijk onderwerp, zoals opgenomen in bron'  # XXX Te bepalen
+    wo.Naam = u'Risico Inventarisatie & Evaludatie'
+    wo.Bron = u'RI&E bron'  # XXX Te bepalen
+    wo.Verwijzing = u'URL voor RI&E besluit of wet'  # XXX Te bepalen
+
+    vs = client.types.Voorschrift(True)
+    wo.LijstVoorschriften = [vs]
+
+    vs.VoorschriftId = vsid = client.types.Id(True)
+    vsid.Uuid = NUL_UUID  # XXX UUID voor voorschrift
+    vsid.VersionMajor = '1'
+    vsid.VersionMinor = '1'
+    vs.Aanduiding = u'Aanduiding uit bron waar voorschift uit komt (bv. artikel 123)'  # XXX Te bepalen
+    vs.Verwijzing = u'URL voor voorschrift'  # XXX Te bepalen
+
+    mr = client.types.Maatregel(True)
+    vs.LijstMaatregelen = [mr]
+    mr.MaatregelId = mrid = client.types.Id(True)
+# XXX Must include vestigingssleutel in hash, since the maatregel has
+# session-specific data (URL for reports)
+    mrid.Uuid = str(uuid.uuid3(EUPHORIE_NAMESPACE_UUID, str(od_link.session.zodb_path)))
+    mrid.VersionMajor = u'1'
+    mrid.VersionMinor = u'1'
+    mr.Omschrijving = u'Korte omschrijving maatregel'  # XXX Te bepalen
+    mr.Brontype = u'regelhulp branche'
+
+    mr.Terugkeerpatroon = tkp = client.types.Terugkeerpatroon(True)
+    tkp.HerhaalFrequentie = u'Jaarlijks'
+    tkp.Interval = u'1'
+
+    return kern
 
 
-def add_response_kern(regelhulp, survey, od_link):
-    kern = etree.SubElement(regelhulp, _tag('RegelhulpResponseKern'))
-    wos = etree.SubElement(kern, _tag('WettelijkOnderwerpen'))
-    wo = etree.SubElement(wos, _tag('WettelijkOnderwerp'))
-    wid = etree.SubElement(wo, _tag('WettelijkOnderwerpId'))
-    etree.SubElement(wid, _tag('Uuid')).text = 'XXX'  # XXX UUID voor wettelijker onderwerp
-    etree.SubElement(wid, _tag('VersionMajor')).text = '1'
-    etree.SubElement(wid, _tag('VersionMinor')).text = '1'
-    etree.SubElement(wo, _tag('Naam')).text = u'Risico Inventarisatie & Evaludatie'
-    etree.SubElement(wo, _tag('Definitie')).text = u'Formele definitie wettelijk onderwerp, zoals opgenomen in bron'  # XXX Te bepalen
-    etree.SubElement(wo, _tag('Bron')).text = u'RI&E bron'  # XXX Te bepalen
-    etree.SubElement(wo, _tag('Verwijzing')).text = u'URL voor RI&E besluit of wet'  # XXX Te bepalen
-
-    voorschriften = etree.SubElement(wo, _tag('LijstVoorschriften'))
-    vs = etree.SubElement(voorschriften, _tag('Voorschrift'))
-    vsid = etree.SubElement(vs, _tag('VoorschriftId'))
-    etree.SubElement(vsid, _tag('Uuid')).text = 'XXX'  # XXX UUID voor voorschift
-    etree.SubElement(vsid, _tag('VersionMajor')).text = '1'
-    etree.SubElement(vsid, _tag('VersionMinor')).text = '1'
-    etree.SubElement(vs, _tag('Aanduiding')).text = 'Aanduiding uit bron waar voorschift uit komt (bv. artikel 123)'  # XXX Te bepalen
-    etree.SubElement(vs, _tag('Verwijzing')).text = 'URL voor voorschrift'  # XXX Te bepalen
-
-    maatregelen = etree.SubElement(vs, _tag('LijstMaatregelen'))
-    mr = etree.SubElement(maatregelen, _tag('Maatregel'))
-    mrid = etree.SubElement(mr, _tag('MaatregelId'))
-    etree.SubElement(mrid, _tag('Uuid')).text = str(uuid.uuid3(EUPHORIE_NAMESPACE_UUID, str(od_link.session.zodb_path)))
-    etree.SubElement(mrid, _tag('VersionMajor')).text = '1'
-    etree.SubElement(mrid, _tag('VersionMinor')).text = '1'
-    etree.SubElement(mr, _tag('Omschrijving')).text = u'Korte omschrijving maatregel'  # XXX Te bepalen
-    etree.SubElement(mr, _tag('Brontype')).text = u'regelhulp branche'
-
-    tkp = etree.SubElement(mr, _tag('Terugkeerpatroon'))
-    etree.SubElement(tkp, _tag('HerhaalFrequentie')).text = u'jaarlijks'
-    etree.SubElement(tkp, _tag('Interval')).text = u'1'
-
-
-def create_response(survey, od_link):
-    response = etree.Element(_tag('RegelhulpResponse'), nsmap=NSMAP)
-    response.attrib[_tag('schemalocation', NS_XMLSI)] = 'http://www.ondernemingsdossier.nl/nta9040-1/2.0/regelhulpresponse.xsd'
-    add_response_metadata(response, survey, od_link)
-    add_response_kern(response, survey, od_link)
+def create_response(survey, od_link, client):
+    response = client.types.RegelhulpResponse(True)
+    response.RegelhulpResponseMetadata = create_response_metadata(survey, od_link, client)
+    response.RegelhulpResponseKern = create_response_kern(survey, od_link, client)
     return response
 
 
@@ -351,6 +358,16 @@ class ODResponse(grok.View):
 
     def render(self):
         session = SessionManager.session
-        response = create_response(aq_inner(self.context), session.od_link)
-        self.request.response.setHeader('content-text', 'text/html')
-        return etree.tostring(response, pretty_print=True, xml_declaration=True, encoding='utf-8')
+        client = osa.Client(session.od_link.wsdl_url)
+        response = create_response(aq_inner(self.context), session.od_link, client)
+        try:
+            r = client.service.SetRegelhulpResponse(response)
+            if r.Foutcode != 0:
+                log.error('SetRegelhulpResponse error %d: %s',
+                        r.Foutcode, r.Foutbericht)
+                raise
+        except Exception as e:
+            print e
+            import pdb ; pdb.set_trace()
+        self.request.response.setHeader('content-text', 'text/plain')
+        return 'oops'

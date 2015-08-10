@@ -38,6 +38,7 @@ setup(name="tno.euphorie",
           "z3c.form",
           "zope.i18nmessageid",
           "z3c.appconfig",
+          "osa",
       ],
       tests_require=[
           "Euphorie [tests]",

@@ -18,6 +18,10 @@ class OdLink(BaseObject):
     vestigings_sleutel = schema.Column(types.String(), nullable=False, index=True)
     webservice = schema.Column(types.String(), nullable=False)
 
+    @property
+    def wsdl_url(self):
+        return self.webservice + '&wsdl'
+
 
 class DutchCompany(BaseObject):
     """Information about a Dutch company."""

@@ -1,6 +1,7 @@
 import datetime
 import hashlib
 import logging
+import os
 import urlparse
 import uuid
 from urllib import urlencode
@@ -31,11 +32,17 @@ from euphorie.client import model
 from euphorie.client import utils
 from euphorie.content.survey import ISurvey
 from euphorie.client.authentication import authenticate
+from euphorie.client.profile import Profile
 from euphorie.client.session import SessionManager
 from tno.euphorie.interfaces import ITnoClientSkinLayer
 from tno.euphorie.model import DutchCompany
 from tno.euphorie.model import OdLink
 from tno.euphorie.report import TnoActionPlanReportDownload
+from euphorie import client
+
+
+#: Path to original Euphorie client templates
+ORIG_TEMPLATE_PATH = os.path.join(client.__path__[0], 'templates')
 
 
 NAMESPACE_EUPHORIE = uuid.UUID('0002320c-e708-4837-bfc4-8a92ad6e0579')
@@ -395,3 +402,41 @@ class ODResponse(grok.View):
         body = etree.Element('{%s}Body' % xmlnamespace.NS_SOAP_ENV)
         response.to_xml(etree.SubElement(body, 'b'), 'body')
         return etree.tostring(body)
+
+
+class OdProfile(Profile):
+    """(Re)set the survey profile, while keeping the OD link uptodate.
+    """
+    grok.context(ISurvey)
+    grok.require("euphorie.client.ViewSurvey")
+    grok.layer(ITnoClientSkinLayer)
+    grok.name("profile")
+    grok.template(os.path.join(ORIG_TEMPLATE_PATH, "profile"))
+
+    def setupSession(self):
+        od_link = self.session.od_link
+        super(OdProfile, self).setupSession()
+        s = Session()
+        if od_link.session in s.deleted:
+            s.expunge(od_link)
+            new_link = OdLink(
+                    session=self.session,
+                    vestigings_sleutel=od_link.vestigings_sleutel,
+                    webservice=od_link.webservice)
+            s.add(new_link)
+
+
+class OdProfileUpdate(OdProfile):
+    """Update a survey session after a survey has been republished. If a
+    the survey has a profile the user is asked to confirm the current
+    profile before continueing.
+
+    The behaviour is exactly the same as the normal start page for a session
+    (see the :py:class:`Profile` view), but uses a different template with more
+    detailed instructions for the user.
+    """
+    grok.context(ISurvey)
+    grok.require("euphorie.client.ViewSurvey")
+    grok.layer(ITnoClientSkinLayer)
+    grok.template(os.path.join(ORIG_TEMPLATE_PATH, "updated"))
+    grok.name("update")

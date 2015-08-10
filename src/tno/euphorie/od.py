@@ -108,6 +108,9 @@ class ODEntry(grok.View):
         self.request.response.redirect("%s/resume" % survey.absolute_url())
 
     def update(self):
+        if not getattr(aq_base(aq_inner(self.context)), 'regelhulp_id', None):
+            log.error('OD entry, but survey has no regelhulp id.')
+            raise NotFound()
         utils.setLanguage(self.request, self.context, self.context.language)
 
     def render(self):
@@ -295,7 +298,7 @@ def create_response_metadata(survey, od_link, client):
     metadata.Vestigingssleutel = od_link.vestigings_sleutel
     metadata.Foutcode = u'0'
     metadata.Datum = datetime.datetime.now().strftime('%Y-%m-%dT%H:%M:%S')
-    metadata.RegelhulpId = REGELHULP_UUID
+    metadata.RegelhulpId = survey.regelhulp_id
     return metadata
 #    bijlage = etree.SubElement(metadata, _tag('RegelhulpBijlage'))
 #    etree.SubElement(bijlage, _tag('Bestandsnaam')).text = 'plan-van-aanpak.rtf'

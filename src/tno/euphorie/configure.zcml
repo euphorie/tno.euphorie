@@ -11,6 +11,12 @@
 
   <include package=".upgrade" />
 
+  <interface
+    interface=".interfaces.ITnoContentSkinLayer"
+    type="zope.publisher.interfaces.browser.IBrowserSkinType"
+    name="tno.euphorie"
+    />
+
   <adapter
       factory=".client.ClientPublishTraverser"
       provides="zope.publisher.interfaces.IPublishTraverse"

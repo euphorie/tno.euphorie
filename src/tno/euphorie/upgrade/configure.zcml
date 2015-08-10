@@ -30,4 +30,19 @@
       />
 
   </genericsetup:upgradeSteps>
+
+  <genericsetup:upgradeSteps
+    source="200"
+    destination="201"
+    profile="tno.euphorie:default"
+    >
+
+    <genericsetup:upgradeDepends
+      title="Configure tno.euphorie skin"
+      description="Switch to a new skin to handle extra content fields."
+      import_steps="portal_skins"
+      run_deps="false"
+      />
+
+  </genericsetup:upgradeSteps>
 </configure>

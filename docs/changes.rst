@@ -18,7 +18,7 @@ Changelog
 
 
 - Include Top-5 risks in the online action plan report. This fixes
-  `TNO ticket 252 <https://code.simplon.biz/tracker/tno-euphorie/ticket/252`_.
+  `TNO ticket 252 <https://code.simplon.biz/tracker/tno-euphorie/ticket/252>`_.
 
 - Explicitly do not render widgets when we try to use widget instances in the
   report form. This fixes compatibility with current versions of Euphorie 7
@@ -67,8 +67,8 @@ Changelog
 - Improve survey matcher for old survey session importer:  never use survey
   previews, and it multiple surveys are found with the same RI&E id use the
   oldest published survey on the assumption that this is the original survey.
-   This fixes part of `TNO ticket 231
-   <https://code.simplon.biz/tracker/tno-euphorie/ticket/231>`_.
+  This fixes part of `TNO ticket 231
+  <https://code.simplon.biz/tracker/tno-euphorie/ticket/231>`_.
 
 - Update old survey session importer to detect surveys that can be found but
   where the contents differ so much no survey tree can be build. This fixes
@@ -142,8 +142,7 @@ Changelog
 
 - Remove warning-icon for risks with a problem description in the action plan
   report. Since this report only contains present risks the icon was not
-  useful. This fixes `TNO ticket 219
-  <https://code.simplon.biz/tracker/tno-euphorie/ticket/219>`_.
+  useful. This fixes `TNO ticket 219`_.
   [wichert]
 
 

@@ -307,13 +307,12 @@ def create_response_metadata(survey, od_link, client):
 #    etree.SubElement(bijlage, _tag('VestionMinor')).text = '1'
 
 
-# Thema is nu verplicht
-
-
 def create_response_kern(survey, od_link, client):
+    import pdb ; pdb.set_trace()
     kern = client.types.RegelhulpResponseKern(True)
     wo = client.types.WettelijkOnderwerp(True)
-    kern.LijstWettelijkeOnderwerpen = [wo]
+    kern.LijstWettelijkeOnderwerpen = client.types.ArrayOfWettelijkOnderwerp()
+    kern.LijstWettelijkeOnderwerpen.WettelijkOnderwerp = [wo]
 
     wo.WettelijkOnderwerpId = wid = client.types.Id(True)
     wid.Uuid = WO_UUID
@@ -331,7 +330,8 @@ def create_response_kern(survey, od_link, client):
     wo.Verwijzing = u'http://wetten.overheid.nl/BWBR0010346/geldigheidsdatum_10-08-2015#Hoofdstuk2_PAR624212'
 
     vs = client.types.Voorschrift(True)
-    wo.LijstVoorschriften = [vs]
+    wo.LijstVoorschriften = client.types.ArrayOfVoorschrift()
+    wo.LijstVoorschriften.Voorschrift = [vs]
 
     vs.VoorschriftId = vsid = client.types.Id(True)
     vsid.Uuid = PVA_UUID
@@ -350,7 +350,8 @@ def create_response_kern(survey, od_link, client):
     vs.Verwijzing = u'http://wetten.overheid.nl/BWBR0010346/geldigheidsdatum_10-08-2015#Hoofdstuk2_PAR624212'
 
     mr = client.types.Maatregel(True)
-    vs.LijstMaatregelen = [mr]
+    vs.LijstMaatregelen = client.types.ArrayOfMaatregel()
+    vs.LijstMaatregelen.Maatregel = [mr]
     mr.MaatregelId = mrid = client.types.Id(True)
     # This is a variant of standard version 5 UUIDs: we include two extras
     # in the SHA1 hash isntead of one.

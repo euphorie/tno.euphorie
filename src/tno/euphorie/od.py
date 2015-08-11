@@ -336,7 +336,7 @@ def create_response_kern(survey, od_link, client):
             u'Een plan van aanpak, waarin is aangegeven welke maatregelen '
             u'zullen worden genomen in verband met de bedoelde risico\'s en '
             u'de samenhang daartussen, een en ander overeenkomstig '
-            u'<a href="http://wetten.overheid.nl/BWBR0010346/geldigheidsdatum_10-08-2015#Hoofdstuk2_PAR623742_Artikel3">artikel 3</a>,'
+            u'<a href="http://wetten.overheid.nl/BWBR0010346/geldigheidsdatum_10-08-2015#Hoofdstuk2_PAR623742_Artikel3">artikel 3</a>, '
             u'maakt deel uit van de risico-inventarisatie en -evaluatie. '
             u'In het plan van aanpak wordt tevens aangegeven binnen welke '
             u'termijn deze maatregelen zullen worden genomen.')
@@ -359,12 +359,11 @@ def create_response_kern(survey, od_link, client):
     mrid.VersionMinor = od_link.version
     report_url = '%s/@@od-report?vestigingssleutel=%s' % \
             (survey.absolute_url(), od_link.vestigings_sleutel)
-    mr.Omschrijving = (
-            u'<p>Controleren voortgang plan van aanpak en actualiteit RI&E.</p>'
-            u'<p>U kunt het <a target="_blank" href="%s">plan van aanpak</a> direct downloaden.</p>'
+    mr.Omschrijving = u'Controleren voortgang plan van aanpak en actualiteit RI&E.'
+    mr.Toelichting = (
+            u'<p>Controleer of de maatregelen in het <a target="_blank" '
+            u'href="%s">plan van aanpak</a> op tijd worden uitgevoerd.</p>'
             ) % report_url
-
-    mr.Toelichting = u'Controleer of de maatregelen in het plan van aanpak op tijd worden uitgevoerd.'
     mr.Brontype = u'regelhulp branche'
 
     mr.Terugkeerpatroon = tkp = client.types.Terugkeerpatroon(True)

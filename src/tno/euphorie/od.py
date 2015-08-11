@@ -11,6 +11,7 @@ from AccessControl.SecurityManagement import getSecurityManager
 from AccessControl.SecurityManagement import newSecurityManager
 from Acquisition import aq_base
 from Acquisition import aq_inner
+from zExceptions import Forbidden
 from zExceptions import Unauthorized
 from zExceptions import NotFound
 from five import grok
@@ -26,6 +27,7 @@ from zope.schema.vocabulary import SimpleTerm
 from plone.directives import form
 from plonetheme.nuplone.tiles.analytics import trigger_extra_pageview
 from Products.CMFCore.utils import getToolByName
+from Products.statusmessages.interfaces import IStatusMessage
 from euphorie import MessageFactory as _
 from euphorie.client import model
 from euphorie.client import utils
@@ -386,25 +388,24 @@ class ODResponse(grok.View):
     grok.layer(ITnoClientSkinLayer)
     grok.name('od-response')
 
+    def update(self):
+        if self.request.method != 'POST':
+            raise Forbidden()
+
     def render(self):
+        flash = IStatusMessage(self.request).addStatusMessage
         session = SessionManager.session
         client = osa.Client(session.od_link.wsdl_url)
         session.od_link.version += 1
         response = create_response(aq_inner(self.context), session.od_link, client)
-        try:
-            r = client.service.SetRegelhulpResponse(response)
-            if r.Foutcode != 0:
-                log.error('SetRegelhulpResponse error %d: %s',
-                        r.Foutcode, r.Foutbericht)
-        except Exception as e:
-            print e
-
-        self.request.response.setHeader('content-type', 'text/xml')
-        import xml.etree.cElementTree as etree
-        from osa import xmlnamespace
-        body = etree.Element('{%s}Body' % xmlnamespace.NS_SOAP_ENV)
-        response.to_xml(etree.SubElement(body, 'b'), 'body')
-        return etree.tostring(body)
+        r = client.service.SetRegelhulpResponse(response)
+        if r.Foutcode != 0:
+            log.error('SetRegelhulpResponse error %d: %s',
+                    r.Foutcode, r.Foutbericht)
+            flash(u'Er is een fout opgetreden bij het bijwerken van uw ondernemingsdossier. U kunt het later nog een keer proberen.', 'error')
+        else:
+            flash(u'Het plan van aanpak is opgenomen in uw ondernemingsdossier.', 'success')
+        self.request.response.redirect("%s/report/view" % self.context.absolute_url())
 
 
 class OdProfile(Profile):

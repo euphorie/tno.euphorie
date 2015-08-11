@@ -20,17 +20,23 @@
         tal:define="survey_url python:webhelpers.survey_url(phase='actionplan');
                     company view/session/dutch_company;">
     <h1>${view/report_title}</h1>
-
+    
     <div class="buttonBar super">
       <a class="button-small" rel="download" href="${python:view.url(name='timeline')}" i18n:translate="button_timeline">Timeline</a>
       <a class="button-small" rel="download" href="${python:view.url(name='download')}" i18n:translate="button_download">Download</a>
       <a class="button-small printButton jsOnly" i18n:translate="button_print">Print</a>
     </div>
 
-    <tal:block condition="od/is_od_session">
-      <p>U kunt deze RI&amp;E nu opslaan in uw ondernemings dossier.</p>
-      <a class="button-medium" href="${webhelpers/survey_url}/@@od-response">Bewaar in dossier</a>
-    </tal:block>
+    <tal:block replace="tile:statusmessages"/>
+
+    <div class="message notice">
+      <form tal:condition="od/is_od_session" method="post" action="${webhelpers/survey_url}/@@od-response">
+        <p>U kunt deze RI&amp;E opslaan in uw ondernemings dossier.</p>
+        <div class="buttonBar">
+          <button type="submit" >Bewaar in dossier</button>
+        </div>
+      </form>
+    </div>
 
     <div class="notice introduction">
       <p i18n:translate="plan_report_intro_1">By filling in the list of questions, you have completed a risk assessment. This assessment is used to draw up an action plan. The progress of this action plan must be discussed annually and a small report must be written on the progress. Certain subjects might have been completed and perhaps new subjects need to be added.</p>

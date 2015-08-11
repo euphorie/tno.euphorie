@@ -296,7 +296,7 @@ def create_response_metadata(survey, od_link, client):
     metadata = client.types.RegelhulpResponseMetadata(True)
     metadata.Vestigingssleutel = od_link.vestigings_sleutel
     metadata.Foutcode = u'0'
-    metadata.Datum = datetime.datetime.now().strftime('%Y-%m-%dT%H:%M:%S')
+    metadata.Datum = datetime.datetime.now()
     metadata.RegelhulpId = survey.regelhulp_id
     return metadata
 

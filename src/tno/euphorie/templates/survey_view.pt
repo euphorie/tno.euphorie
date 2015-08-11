@@ -14,7 +14,7 @@
     <metal:content fill-slot="content" tal:define="can_edit python:tools.checkPermission('Modify portal content')">
       <h2 i18n:translate="header_information">Information</h2>
 
-      <dl class="grid span-9">
+      <dl class="grid span-11">
         <dt i18n:translate="label_evaluation_phase">Evaluation phase</dt>
         <dd tal:condition="context/evaluation_optional" i18n:translate="optional">Optional</dd>
         <dd tal:condition="not:context/evaluation_optional" i18n:translate="mandatory">Mandatory</dd>
@@ -24,6 +24,11 @@
         <dt i18n:translate="label_language">Language</dt>
         <dd tal:condition="context/language">${python:tools.languageName(context.language, context.language)}</dd>
         <dd tal:condition="not:context/language"><em i18n:translate="not_set">Not set</em></dd>
+        <dt>Regelhulp Id</dt>
+        <dd tal:condition="context/regelhulp_id">${context/regelhulp_id} <span class="discrete">(voor Ondernemings Dossier)</span></dd>
+        <dd tal:condition="not:context/regelhulp_id"><em i18n:translate="not_set">Not set</em> <span class="discrete">(voor Ondernemings Dossier)</span></dd>
+        <dt>RegelHulp ingang</dt>
+        <dd>${view/od_entry_url}</dd>
       </dl>
 
       <tal:intro condition="python:context.introduction">

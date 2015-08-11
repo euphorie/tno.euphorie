@@ -1,4 +1,7 @@
 from five import grok
+from zope.component import getUtility
+from z3c.appconfig.interfaces import IAppConfig
+from plonetheme.nuplone.utils import getPortal
 from euphorie.content.survey import Edit as EuphorieEdit
 from euphorie.content.survey import View as EuphorieView
 from euphorie.content.survey import ISurvey
@@ -36,6 +39,19 @@ class View(EuphorieView):
     grok.layer(ITnoContentSkinLayer)
     grok.template('survey_view')
     grok.name('nuplone-view')
+
+    def client_url(self):
+        config = getUtility(IAppConfig)
+        client_url = config.get("euphorie", {}).get("client")
+        if not client_url:
+            client_url = getPortal(self.context).client.absolute_url()
+        return client_url.rstrip('/')
+
+    def update(self):
+        super(View, self).update()
+        steps = self.request.steps
+        self.od_entry_url = '%s/%s/%s/%s/@@od-entry' % (
+                self.client_url(), steps[-5], steps[-4], steps[-3])
 
 
 class EditForm(EuphorieEdit):

@@ -404,7 +404,10 @@ class ODResponse(grok.View):
                     r.Foutcode, r.Foutbericht)
             flash(u'Er is een fout opgetreden bij het bijwerken van uw ondernemingsdossier. U kunt het later nog een keer proberen.', 'error')
         else:
-            flash(u'Het plan van aanpak is opgenomen in uw ondernemingsdossier.', 'success')
+            if session.od_link.version == 1:
+                flash(u'Het plan van aanpak is opgenomen in uw ondernemingsdossier.', 'success')
+            else:
+                flash(u'Het plan van aanpak in uw ondernemingsdossier is bijgewerkt.', 'success')
         self.request.response.redirect("%s/report/view" % self.context.absolute_url())
 
 

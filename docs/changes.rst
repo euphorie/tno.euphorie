@@ -1,6 +1,12 @@
 Changelog
 =========
 
+5.0b1 - August 11, 2015
+-----------------------
+
+- Complete support for Ondernemingsdossier
+
+
 5.0a1 - July 30, 2015
 ---------------------
 

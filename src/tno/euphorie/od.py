@@ -5,7 +5,6 @@ import os
 import urlparse
 import uuid
 from urllib import urlencode
-from lxml import etree
 import osa
 from sqlalchemy import orm
 from AccessControl.SecurityManagement import getSecurityManager
@@ -46,9 +45,9 @@ ORIG_TEMPLATE_PATH = os.path.join(client.__path__[0], 'templates')
 
 
 NAMESPACE_EUPHORIE = uuid.UUID('0002320c-e708-4837-bfc4-8a92ad6e0579')
+NAMESPACE_WO = uuid.UUID('32f0e6ea-b54f-45ef-b15e-b85f31d55655')
 
 REGELHULP_UUID = '9963734c-7003-4104-ac56-cc53744f9bae'
-WO_UUID = '32f0e6ea-b54f-45ef-b15e-b85f31d55655'  # Wettelijk onderwerp
 THEMA_UUID = '5f9a53a5-84f6-40f7-89ef-253e7d1fa842'  # Arbo thema
 PVA_UUID = '68487da9-18af-49e9-bece-fd4cb613c728'  # Plan van Aanpak voorschrift
 
@@ -300,32 +299,27 @@ def create_response_metadata(survey, od_link, client):
     metadata.Datum = datetime.datetime.now().strftime('%Y-%m-%dT%H:%M:%S')
     metadata.RegelhulpId = survey.regelhulp_id
     return metadata
-#    bijlage = etree.SubElement(metadata, _tag('RegelhulpBijlage'))
-#    etree.SubElement(bijlage, _tag('Bestandsnaam')).text = 'plan-van-aanpak.rtf'
-#    etree.SubElement(bijlage, _tag('DownloadUri')).text = '%s/@@od-report?vestigingssleutel=%s' % (survey.absolute_url(), od_link.vestigings_sleutel)
-#    etree.SubElement(bijlage, _tag('VestionMajor')).text = '1'
-#    etree.SubElement(bijlage, _tag('VestionMinor')).text = '1'
 
 
 def create_response_kern(survey, od_link, client):
-    import pdb ; pdb.set_trace()
     kern = client.types.RegelhulpResponseKern(True)
     wo = client.types.WettelijkOnderwerp(True)
     kern.LijstWettelijkeOnderwerpen = client.types.ArrayOfWettelijkOnderwerp()
     kern.LijstWettelijkeOnderwerpen.WettelijkOnderwerp = [wo]
 
     wo.WettelijkOnderwerpId = wid = client.types.Id(True)
-    wid.Uuid = WO_UUID
-    wid.VersionMajor = '1'
-    wid.VersionMinor = '1'
-    wo.Naam = u'Plan van aanpak RI&E'
+    # The UUID is specific to the survey so we can include the survey title
+    # in the naam.
+    wid.Uuid = uuid.uuid3(NAMESPACE_WO, str(od_link.session.zodb_path))
+    wid.VersionMajor = 1
+    wid.VersionMinor = 1
 
     wo.Thema = thema = client.types.Thema(True)
     thema.ThemaNaam = u'Arbeidsomstandighedenbeleid'
     thema.ThemaId = THEMA_UUID
 
     wo.Definitie = u'Formele definitie wettelijk onderwerp, zoals opgenomen in bron'  # XXX Te bepalen
-    wo.Naam = u'Risico Inventarisatie & Evaludatie'
+    wo.Naam = u'Risico Inventarisatie & Evaluatie: %s' % survey.Title()
     wo.Bron = u'Arbeidsomstandighedenwet 1998, Artikel 5 lid 3'
     wo.Verwijzing = u'http://wetten.overheid.nl/BWBR0010346/geldigheidsdatum_10-08-2015#Hoofdstuk2_PAR624212'
 
@@ -335,8 +329,8 @@ def create_response_kern(survey, od_link, client):
 
     vs.VoorschriftId = vsid = client.types.Id(True)
     vsid.Uuid = PVA_UUID
-    vsid.VersionMajor = '1'
-    vsid.VersionMinor = '1'
+    vsid.VersionMajor = 1
+    vsid.VersionMinor = 1
     vs.Aanduiding = u'Artikel 5 lid 4'
     vs.Citaat = (
             u'Een plan van aanpak, waarin is aangegeven welke maatregelen '
@@ -361,9 +355,15 @@ def create_response_kern(survey, od_link, client):
     hash.update(od_link.vestigings_sleutel)
     mrid.Uuid = str(uuid.UUID(bytes=hash.digest()[:16], version=5))
 
-    mrid.VersionMajor = u'1'
-    mrid.VersionMinor = u'1'
-    mr.Omschrijving = u'Controleren voortgang plan van aanpak en actualiteit RI&E'
+    mrid.VersionMajor = 1
+    mrid.VersionMinor = od_link.version
+    report_url = '%s/@@od-report?vestigingssleutel=%s' % \
+            (survey.absolute_url(), od_link.vestigings_sleutel)
+    mr.Omschrijving = (
+            u'<p>Controleren voortgang plan van aanpak en actualiteit RI&E.</p>'
+            u'<p>U kunt het <a target="_blank" href="%s">plan van aanpak</a> direct downloaden.</p>'
+            ) % report_url
+
     mr.Toelichting = u'Controleer of de maatregelen in het plan van aanpak op tijd worden uitgevoerd.'
     mr.Brontype = u'regelhulp branche'
 
@@ -390,6 +390,7 @@ class ODResponse(grok.View):
     def render(self):
         session = SessionManager.session
         client = osa.Client(session.od_link.wsdl_url)
+        session.od_link.version += 1
         response = create_response(aq_inner(self.context), session.od_link, client)
         try:
             r = client.service.SetRegelhulpResponse(response)
@@ -398,7 +399,6 @@ class ODResponse(grok.View):
                         r.Foutcode, r.Foutbericht)
         except Exception as e:
             print e
-            import pdb ; pdb.set_trace()
 
         self.request.response.setHeader('content-type', 'text/xml')
         import xml.etree.cElementTree as etree

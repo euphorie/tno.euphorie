@@ -26,7 +26,7 @@
     <genericsetup:upgradeStep
       title="Add Ondernemings Dossier tables"
       description="Add the od_link table needed for the ondernemingsdossier."
-      handler=".v2.addOdTables"
+      handler=".v2.add_od_table"
       />
 
   </genericsetup:upgradeSteps>
@@ -42,6 +42,12 @@
       description="Switch to a new skin to handle extra content fields."
       import_steps="portal_skins"
       run_deps="false"
+      />
+
+    <genericsetup:upgradeStep
+      title="Add version to Ondernemings Dossier table"
+      description="Add the od_link.version column."
+      handler=".v2.add_od_version_column"
       />
 
   </genericsetup:upgradeSteps>

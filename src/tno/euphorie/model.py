@@ -17,6 +17,7 @@ class OdLink(BaseObject):
     session = orm.relation("SurveySession", backref=orm.backref('od_link', uselist=False))
     vestigings_sleutel = schema.Column(types.String(), nullable=False, index=True)
     webservice = schema.Column(types.String(), nullable=False)
+    version = schema.Column(types.Integer(), default=0, nullable=False)
 
     @property
     def wsdl_url(self):

@@ -1,8 +1,12 @@
 from five import grok
 from euphorie.content.survey import Edit as EuphorieEdit
+from euphorie.content.survey import View as EuphorieView
 from euphorie.content.survey import ISurvey
 from .interfaces import ITnoContentSkinLayer
 from .schema import UUID
+
+
+grok.templatedir('templates')
 
 
 class ITnoSurvey(ISurvey):
@@ -24,6 +28,14 @@ def context_proxy(content):
     database so we keep a clean migration path.
     """
     return content
+
+
+class View(EuphorieView):
+    grok.context(ISurvey)
+    grok.require('zope2.View')
+    grok.layer(ITnoContentSkinLayer)
+    grok.template('survey_view')
+    grok.name('nuplone-view')
 
 
 class EditForm(EuphorieEdit):

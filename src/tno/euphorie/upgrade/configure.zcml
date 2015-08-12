@@ -40,7 +40,7 @@
     <genericsetup:upgradeDepends
       title="Configure tno.euphorie skin"
       description="Switch to a new skin to handle extra content fields."
-      import_steps="portal_skins"
+      import_steps="skins"
       run_deps="false"
       />
 

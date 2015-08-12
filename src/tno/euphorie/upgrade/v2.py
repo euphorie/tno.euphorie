@@ -36,7 +36,7 @@ def add_od_version_column(context):
     session = Session()
     if column_exists(session, 'od_link', 'version'):
         return
-    transaction.egt().commit()
+    transaction.get().commit()
     session.execute('ALTER TABLE od_link ADD COLUMN version INT DEFAULT 0 NOT NULL')
     datamanager.mark_changed(session)
     transaction.get().commit()

@@ -1,6 +1,12 @@
 Changelog
 =========
 
+5.0b3 - August 12, 2015
+-----------------------
+
+- Fix another upgrade error.
+
+
 5.0b2 - August 12, 2015
 -----------------------
 

@@ -117,8 +117,11 @@ class ODEntry(grok.View):
     def render(self):
         vestiging = self.request.form['vestigingssleutel']
         session = Session()
+        zodb_path = utils.RelativePath(self.request.client, self.context)
         link = session.query(OdLink)\
+                .join(model.SurveySession)\
                 .filter(OdLink.vestigings_sleutel == vestiging)\
+                .filter(model.SurveySession.zodb_path == zodb_path)\
                 .options(orm.joinedload_all('session.account', innerjoin=True))\
                 .first()
         if link is not None:
@@ -279,8 +282,11 @@ class ODReportDownload(grok.View):
     def render(self):
         vestiging = self.request.form['vestigingssleutel']
         session = Session()
+        zodb_path = utils.RelativePath(self.request.client, self.context)
         link = session.query(OdLink)\
+                .join(model.SurveySession)\
                 .filter(OdLink.vestigings_sleutel == vestiging)\
+                .filter(model.SurveySession.zodb_path == zodb_path)\
                 .options(orm.joinedload_all('session.account', innerjoin=True))\
                 .first()
         if link is None:
@@ -365,7 +371,7 @@ def create_response_kern(survey, od_link, client):
     mr.Toelichting = (
             u'<p>Controleer of de maatregelen in het <a target="_blank" '
             u'href="%s">plan van aanpak</a> op tijd worden uitgevoerd.</p>'
-            ) % report_url
+    ) % report_url
     mr.Brontype = u'regelhulp branche'
 
     mr.Terugkeerpatroon = tkp = client.types.Terugkeerpatroon(True)

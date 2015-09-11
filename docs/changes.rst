@@ -6,6 +6,9 @@ Changelog
 
 - Fix error in CMS survey view for surveys that do not have a regelhulp id set.
 
+- Include session ZODB path in OD link search. This allows for multiple
+  different surveys for a single OD user.
+
 
 5.0b3 - August 12, 2015
 -----------------------

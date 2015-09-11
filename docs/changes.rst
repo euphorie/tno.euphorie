@@ -9,6 +9,8 @@ Changelog
 - Include session ZODB path in OD link search. This allows for multiple
   different surveys for a single OD user.
 
+- Various Ondernemingsdossier-related text changes.
+
 
 5.0b3 - August 12, 2015
 -----------------------

@@ -18,9 +18,9 @@
     <h1>Regelhulp ${context/title}</h1>
 
     <p>
-      U heeft nog bestaande regelhulp in uw ondernemingsdossier. Als u al
-      eerder een RI&amp;E heeft gemaakt kunt u deze koppelen aan uw dossier. U
-      kunt er ook voor kiezen om een nieuwe RI&amp;E te beginnen.
+      Als u al eerder een RI&amp;E en Plan van Aanpak heeft gemaakt kunt u deze
+      koppelen aan uw Ondernemingsdossierdossier. U kunt hier ook een nieuwe
+      RI&amp;E te beginnen.
     </p>
 
     <form action="${request/getURL}" enctype="${view/enctype}" method="${view/method}" id="${view/id}">
@@ -30,9 +30,9 @@
       <fieldset class="comprehensive radioList" tal:define="widget nocall:view/widgets/existing; value widget/value">
         <legend>${widget/label}</legend>
         <label><input type="radio" name="${widget/name}" value="new" checked="${python:'checked' if 'new' in value else None}"/>
-          Nee<br/><span class="discrete">U kan een nieuwe RI&amp;E beginnen.</span></label>
+          Nee<br/><span class="discrete">U kunt direct een nieuwe RI&amp;E beginnen.</span></label>
         <label><input type="radio" name="${widget/name}" value="existing" checked="${python:'checked' if 'existing' in value else None}"/>
-          Ja<br/><span class="discrete">U kan ervoor kiezen om een bestaande RI&amp;E koppelen aan het ondernemingsdossier.</span></label>
+          Ja<br/><span class="discrete">U kunt ervoor kiezen om uw eerder ingevulde RI&amp;E en Plan van Aanpak te koppelen aan het Ondernemingsdossier.</span></label>
         <tal:error condition="widget/error" replace="structure widget/error/render|nothing"/>
       </fieldset>
 
@@ -94,4 +94,3 @@
     <tal:block replace="tile:client-analytics"/>
   </body>
 </html>
-

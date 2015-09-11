@@ -367,7 +367,7 @@ def create_response_kern(survey, od_link, client):
     mrid.VersionMinor = od_link.version
     report_url = '%s/@@od-report?vestigingssleutel=%s' % \
             (survey.absolute_url(), od_link.vestigings_sleutel)
-    mr.Omschrijving = u'Controleren voortgang plan van aanpak en actualiteit RI&E.'
+    mr.Omschrijving = u'Controleren voortgang en actualiteit RI&E.'
     mr.Toelichting = (
             u'<p>Controleer of de maatregelen in het <a target="_blank" '
             u'href="%s">plan van aanpak</a> op tijd worden uitgevoerd.</p>'
@@ -408,12 +408,12 @@ class ODResponse(grok.View):
         if r.Foutcode != 0:
             log.error('SetRegelhulpResponse error %d: %s',
                     r.Foutcode, r.Foutbericht)
-            flash(u'Er is een fout opgetreden bij het bijwerken van uw ondernemingsdossier. U kunt het later nog een keer proberen.', 'error')
+            flash(u'Er is een fout opgetreden bij het bijwerken van uw Ondernemingsdossier. U kunt het later nog een keer proberen.', 'error')
         else:
             if session.od_link.version == 1:
-                flash(u'Het plan van aanpak is opgenomen in uw ondernemingsdossier.', 'success')
+                flash(u'Het plan van aanpak is opgenomen in uw Ondernemingsdossier.', 'success')
             else:
-                flash(u'Het plan van aanpak in uw ondernemingsdossier is bijgewerkt.', 'success')
+                flash(u'Het plan van aanpak in uw Ondernemingsdossier is bijgewerkt.', 'success')
         self.request.response.redirect("%s/report/view" % self.context.absolute_url())
 
 

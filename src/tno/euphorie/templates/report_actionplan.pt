@@ -31,8 +31,11 @@
 
     <div class="message notice">
       <form tal:condition="od/is_od_session" method="post" action="${webhelpers/survey_url}/@@od-response">
-        <p>U kunt deze RI&amp;E opslaan in uw ondernemings dossier. De maatregelen van de RI&E verschijnen in uw Ondernemingsdossier.
-</p>
+
+        <p>U kunt deze RI&amp;E opslaan in uw ondernemings dossier. De maatregelen van de RI&E verschijnen in uw Ondernemingsdossier.</p>
+
+        <img src="${client/++resource++tno.euphorie}/od-logo.png" alt="" class="floatAfter" style="margin: 0"/>
+
         <div class="buttonBar">
           <button type="submit" >Bewaar in dossier</button>
         </div>

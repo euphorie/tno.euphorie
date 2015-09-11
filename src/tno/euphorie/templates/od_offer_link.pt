@@ -17,6 +17,8 @@
   <body>
     <h1>Regelhulp ${context/title}</h1>
 
+    <img src="${client/++resource++tno.euphorie}/od-logo.png" alt="" class="floatAfter"/>
+
     <p>
       Als u al eerder een RI&amp;E en Plan van Aanpak heeft gemaakt kunt u deze
       koppelen aan uw Ondernemingsdossierdossier. U kunt hier ook een nieuwe

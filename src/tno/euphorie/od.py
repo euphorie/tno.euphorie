@@ -145,12 +145,19 @@ class ODOfferLink(form.SchemaForm):
     schema = EntrySchema
 
     def _newLink(self, vestigings_sleutel, webservice):
-        # Create a new account
-        account = model.Account(
-                loginname=vestigings_sleutel,
-                password=None)
-        Session.add(account)
-        Session.flush()  # Make sure account.id is set
+        session = Session()
+        # Check if there is an account from another regelhulp for the same
+        # vestiging.
+        account = session.query(model.Account)\
+            .filter(model.Account.loginname == vestigings_sleutel)\
+            .first()
+        if account is None:
+            # Create a new account
+            account = model.Account(
+                    loginname=vestigings_sleutel,
+                    password=None)
+            session.add(account)
+            session.flush()  # Make sure account.id is set
         log.info('Created new OD account %s for %s', account.loginname, self.url())
 
         # Login with the account

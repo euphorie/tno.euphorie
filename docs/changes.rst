@@ -1,8 +1,8 @@
 Changelog
 =========
 
-5.0b4 - Unreleased
------------------------
+5.0rc1 - September 11, 2015
+---------------------------
 
 - Fix error in CMS survey view for surveys that do not have a regelhulp id set.
 

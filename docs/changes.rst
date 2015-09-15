@@ -1,8 +1,8 @@
 Changelog
 =========
 
-5.0rc2 - Unreleased
----------------------------
+5.0- September 15, 2015
+-----------------------
 
 - Several small textual changes for Ondernemingsdossier-related text.
 

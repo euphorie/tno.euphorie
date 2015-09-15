@@ -60,7 +60,7 @@ grok.templatedir("templates")
 
 class EntrySchema(form.Schema):
     existing = schema.Choice(
-            title=u'Heeft U al een RI&E buiten het Ondernemings Dossier?',
+            title=u'Heeft u al een RI&E buiten het Ondernemings Dossier?',
             vocabulary=SimpleVocabulary([
                 SimpleTerm('new', title='Tralala'),
                 SimpleTerm('existing', title='Tralala'),

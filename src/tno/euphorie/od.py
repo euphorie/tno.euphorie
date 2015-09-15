@@ -374,7 +374,7 @@ def create_response_kern(survey, od_link, client):
     mrid.VersionMinor = od_link.version
     report_url = '%s/@@od-report?vestigingssleutel=%s' % \
             (survey.absolute_url(), od_link.vestigings_sleutel)
-    mr.Omschrijving = u'Controleren voortgang en actualiteit RI&E.'
+    mr.Omschrijving = u'Controleer voortgang en plan van aanpak en actualiteit RI&E.'
     mr.Toelichting = (
             u'<p>Controleer of de maatregelen in het <a target="_blank" '
             u'href="%s">plan van aanpak</a> op tijd worden uitgevoerd.</p>'

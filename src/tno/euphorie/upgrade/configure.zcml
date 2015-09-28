@@ -24,7 +24,7 @@
     >
 
     <genericsetup:upgradeStep
-      title="Add Ondernemings Dossier tables"
+      title="Add Ondernemingsdossier tables"
       description="Add the od_link table needed for the ondernemingsdossier."
       handler=".v2.add_od_table"
       />
@@ -45,7 +45,7 @@
       />
 
     <genericsetup:upgradeStep
-      title="Add version to Ondernemings Dossier table"
+      title="Add version to Ondernemingsdossier table"
       description="Add the od_link.version column."
       handler=".v2.add_od_version_column"
       />

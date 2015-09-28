@@ -60,7 +60,7 @@ grok.templatedir("templates")
 
 class EntrySchema(form.Schema):
     existing = schema.Choice(
-            title=u'Heeft u al een RI&E buiten het Ondernemings Dossier?',
+            title=u'Heeft u al een RI&E buiten het Ondernemingsdossier?',
             vocabulary=SimpleVocabulary([
                 SimpleTerm('new', title='Tralala'),
                 SimpleTerm('existing', title='Tralala'),
@@ -90,7 +90,7 @@ class OdWebHelpers(grok.View):
 
 
 class ODEntry(grok.View):
-    """Entry point from OndernemingsDossier.
+    """Entry point from Ondernemingsdossier.
     """
     grok.context(ISurvey)
     grok.require("zope2.View")
@@ -132,7 +132,7 @@ class ODEntry(grok.View):
 
 
 class ODOfferLink(form.SchemaForm):
-    """Entry point from OndernemingsDossier.
+    """Entry point from Ondernemingsdossier.
     """
     grok.context(ISurvey)
     grok.require("zope2.View")
@@ -268,7 +268,7 @@ class ODSelectSession(grok.View):
 
 
 class ODReportDownload(grok.View):
-    """Entry point from OndernemingsDossier.
+    """Entry point from Ondernemingsdossier.
     """
     grok.context(ISurvey)
     grok.require("zope2.View")

@@ -1,8 +1,14 @@
 Changelog
 =========
 
-5.0- September 15, 2015
+5.0.1 - Unreleased
 -----------------------
+
+- Fix last bad spellings for Ondernemingsdossier.
+
+
+5.0 - September 15, 2015
+------------------------
 
 - Several small textual changes for Ondernemingsdossier-related text.
 

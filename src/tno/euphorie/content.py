@@ -13,7 +13,7 @@ grok.templatedir('templates')
 
 
 class ITnoSurvey(ISurvey):
-    """This schema adds all fields related to the Ondernemings Dossier."""
+    """This schema adds all fields related to the Ondernemingsdossier."""
 
     regelhulp_id = UUID(
             title=u'Regelhulp Id',

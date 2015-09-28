@@ -25,8 +25,8 @@
         <dd tal:condition="context/language">${python:tools.languageName(context.language, context.language)}</dd>
         <dd tal:condition="not:context/language"><em i18n:translate="not_set">Not set</em></dd>
         <dt>Regelhulp Id</dt>
-        <dd tal:condition="context/regelhulp_id|nothing">${context/regelhulp_id} <span class="discrete">(voor Ondernemings Dossier)</span></dd>
-        <dd tal:condition="not:context/regelhulp_id|nothing"><em i18n:translate="not_set">Not set</em> <span class="discrete">(voor Ondernemings Dossier)</span></dd>
+        <dd tal:condition="context/regelhulp_id|nothing">${context/regelhulp_id} <span class="discrete">(voor Ondernemingsdossier)</span></dd>
+        <dd tal:condition="not:context/regelhulp_id|nothing"><em i18n:translate="not_set">Not set</em> <span class="discrete">(voor Ondernemingsdossier)</span></dd>
         <dt>RegelHulp ingang</dt>
         <dd>${view/od_entry_url}</dd>
       </dl>

@@ -1,6 +1,12 @@
 Changelog
 =========
 
+5.0.2 - October 13, 2015
+------------------------
+
+- Fix creation and update of non-Ondernemingsdossier sessions.
+
+
 5.0.1 - September 28, 2015
 --------------------------
 

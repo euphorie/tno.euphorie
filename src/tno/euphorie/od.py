@@ -436,14 +436,15 @@ class OdProfile(Profile):
     def setupSession(self):
         od_link = self.session.od_link
         super(OdProfile, self).setupSession()
-        s = Session()
-        if od_link.session in s.deleted:
-            s.expunge(od_link)
-            new_link = OdLink(
-                    session=self.session,
-                    vestigings_sleutel=od_link.vestigings_sleutel,
-                    webservice=od_link.webservice)
-            s.add(new_link)
+        if od_link is not None:
+            s = Session()
+            if od_link.session in s.deleted:
+                s.expunge(od_link)
+                new_link = OdLink(
+                        session=self.session,
+                        vestigings_sleutel=od_link.vestigings_sleutel,
+                        webservice=od_link.webservice)
+                s.add(new_link)
 
 
 class OdProfileUpdate(OdProfile):

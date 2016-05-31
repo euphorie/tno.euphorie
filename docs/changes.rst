@@ -1,6 +1,19 @@
 Changelog
 =========
 
+5.0.5 - May 31, 2016
+--------------------
+- Do not escape characters of the password in the reminder email (Syslab #13579)
+- Don't choke in case an image scale can't be fetched. (Syslab #13623)
+- Allow Sectors, Surveys and Surveygroups to be renamed
+
+
+5.0.3 - March 4, 2016
+---------------------
+- Expose "obsolete" flag in survey edit form. #106
+- Better visibility for password policy and errors on sector settings
+form (Syslab #13310)
+
 5.0.2 - October 13, 2015
 ------------------------
 

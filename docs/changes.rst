@@ -1,6 +1,12 @@
 Changelog
 =========
 
+5.0.5 (unreleased)
+------------------
+
+- Nothing changed yet.
+
+
 5.0.4 (2016-05-31)
 ------------------
 - Do not escape characters of the password in the reminder email (Syslab #13579)

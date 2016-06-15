@@ -1,6 +1,7 @@
 from sqlalchemy import sql
 from five import grok
 from euphorie.client import model
+from euphorie.client.interfaces import ICustomizationPhaseSkinLayer
 from euphorie.client.survey import PathGhost
 from euphorie.client.survey import ActionPlan
 from euphorie.client.survey import SurveyPublishTraverser
@@ -9,13 +10,15 @@ from tno.euphorie.interfaces import ITnoEvaluationPhaseSkinLayer
 from tno.euphorie.interfaces import ITnoActionPlanPhaseSkinLayer
 from tno.euphorie.interfaces import ITnoReportPhaseSkinLayer
 
+
 class TnoSurveyPublishTraverser(SurveyPublishTraverser):
     phases = {
-            'identification': ITnoIdentificationPhaseSkinLayer,
-            'evaluation': ITnoEvaluationPhaseSkinLayer,
-            'actionplan': ITnoActionPlanPhaseSkinLayer,
-            'report': ITnoReportPhaseSkinLayer,
-            }
+        'identification': ITnoIdentificationPhaseSkinLayer,
+        'customization': ICustomizationPhaseSkinLayer,
+        'evaluation': ITnoEvaluationPhaseSkinLayer,
+        'actionplan': ITnoActionPlanPhaseSkinLayer,
+        'report': ITnoReportPhaseSkinLayer,
+    }
 
 
 grok.templatedir('templates')

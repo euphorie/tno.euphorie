@@ -5,20 +5,20 @@
       xmlns:metal="http://xml.zope.org/namespaces/metal"
       xmlns:i18n="http://xml.zope.org/namespaces/i18n"
       xmlns:tal="http://xml.zope.org/namespaces/tal"
-      meta:interpolation="true"
       i18n:domain="euphorie"
-      tal:define="client nocall:request/client; webhelpers nocall:context/@@webhelpers; tools nocall:context/@@tools; od nocall:context/@@od">
-  <head>
-    <title i18n:translate="title_tool">OiRA</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <metal:css use-macro="webhelpers/macros/css"/>
-    <style>
-      ol.toc:before { content: "<tal:span i18n:translate='toc_header'>Contents</tal:span>"; }
-    </style>
-  </head>
-  <body class="report ${webhelpers/extra_css}"
-        tal:define="survey_url python:webhelpers.survey_url(phase='actionplan');
-                    company view/session/dutch_company;">
+      id="report_landing"
+      meta:interpolation="true"
+      tal:define="webhelpers nocall:context/@@webhelpers;
+                  tools nocall:context/@@tools;
+                  od nocall:context/@@od;
+                  client nocall:request/client"
+      metal:use-macro="context/@@shell/macros/shell">
+
+<body>
+<metal:slot fill-slot="content"
+  tal:define="survey_url python:webhelpers.survey_url(phase='actionplan');
+              company view/session/dutch_company;">
+    <article class="pat-rich">
     <h1>${view/report_title}</h1>
 
     <div class="buttonBar super">
@@ -206,54 +206,14 @@
       De OR/medewerkersvertegenwoordiging heeft dit rapport niet goedgekeurd.</li>
     </ul>
 
-    <ol id="steps" tal:define="survey_url webhelpers/survey_url">
-      <li class="complete" id="step-1">
-        <a href="${survey_url}/start">
-          <tal:span condition="not:webhelpers/is_iphone" i18n:translate="label_preparation">Preparation</tal:span>
-          <tal:span condition="webhelpers/is_iphone" i18n:translate="iphone_label_preparation">Preparation</tal:span>
-        </a>
-      </li>
-      <li class="complete" id="step-2">
-        <a href="${survey_url}/identification">
-          <tal:span condition="not:webhelpers/is_iphone" i18n:translate="label_identification">Identification</tal:span>
-          <tal:span condition="webhelpers/is_iphone" i18n:translate="iphone_label_identification">Identification</tal:span>
-        </a>
-      </li>
-      <li class="complete" id="step-3">
-        <a href="${survey_url}/evaluation">
-          <tal:span condition="not:webhelpers/is_iphone" i18n:translate="label_evaluation">Evaluation</tal:span>
-          <tal:span condition="webhelpers/is_iphone" i18n:translate="iphone_label_evaluation">Evaluation</tal:span>
-        </a>
-      </li>
-      <li class="complete" id="step-4">
-        <a href="${survey_url}/actionplan">
-          <tal:span condition="not:webhelpers/is_iphone" i18n:translate="label_action_plan">Action Plan</tal:span>
-          <tal:span condition="webhelpers/is_iphone" i18n:translate="iphone_label_action_plan">Action Plan</tal:span>
-        </a>
-      </li>
-      <li class="active current" id="step-5">
-        <a href="${survey_url}/report">
-          <tal:span condition="not:webhelpers/is_iphone" i18n:translate="label_report">Report</tal:span>
-          <tal:span condition="webhelpers/is_iphone" i18n:translate="iphone_report">Report</tal:span>
-        </a>
-      </li>
-    </ol>
 
-    <ul id="navigation">
-      <metal:home use-macro="webhelpers/macros/homelink"/>
-      <li><a href="${webhelpers/country_url}/logout" i18n:translate="navigation_logout">Logout</a></li>
-      <li><a href="${webhelpers/session_overview_url}" i18n:translate="navigation_surveys">Surveys</a></li>
-      <li><a href="${webhelpers/help_url}#actionplan" i18n:translate="navigation_help">Help</a></li>
-      <li><a href="${webhelpers/survey_url}/status" i18n:translate="navigation_status">Status</a></li>
-      <li><a href="${webhelpers/country_url}/account-settings" i18n:translate="navigation_settings">Settings</a></li>
-    </ul>
-    <metal:css use-macro="webhelpers/macros/appendix"/>
-    <metal:css use-macro="webhelpers/macros/javascript"/>
     <tal:analytics replace="tile:client-analytics"/>
     <script type="text/javascript">
       $(document).ready(function() {
           $.localScroll();
       });
     </script>
+  </article>
+  </metal:slot>
   </body>
 </html>

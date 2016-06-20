@@ -6,32 +6,33 @@
       xmlns:i18n="http://xml.zope.org/namespaces/i18n"
       xmlns:tal="http://xml.zope.org/namespaces/tal"
       i18n:domain="euphorie"
+      id="report_landing"
       meta:interpolation="true"
-      tal:define="client nocall:request/client; webhelpers nocall:context/@@webhelpers">
-  <head>
-    <title i18n:translate="title_tool">OiRA</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <metal:css use-macro="webhelpers/macros/css"/>
-  </head>
-  <body class="report ${webhelpers/extra_css}"
-    tal:define="company view/session/dutch_company">
+      tal:define="webhelpers nocall:context/@@webhelpers;
+                  client nocall:request/client"
+      metal:use-macro="context/@@shell/macros/shell">
+
+<body>
+<metal:slot fill-slot="content"
+  tal:define="company view/session/dutch_company;">
+    <article class="pat-rich">
     <h1 i18n:translate="hader_company_details">Company details</h1>
 
     <p class="message error" tal:condition="view/status" i18n:translate="warn_fix_errors">Please fix the indicated errors.</p>
- 
+
     <p i18n:translate="company_details_intro">Please fill out your company details on this form. The data on this form will also appear in the report.</p>
 
     <form action="${request/getURL}" method="${view/method}" enctype="${view/enctype}" class="concise">
-      <fieldset>
+      <fieldset class="vertical">
         <tal:widget replace="structure view/widgets/title/render" />
-        
+
         <fieldset class="comprehensive inputList">
           <legend>Bezoekadres bedrijf</legend>
           <tal:block define="widget nocall:view/widgets/address_visit_address"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text" value="${widget/value}"/> <br/></tal:block>
           <tal:block define="widget nocall:view/widgets/address_visit_postal"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text" maxlength="7" value="${widget/value}"/> <br/></tal:block>
           <tal:block define="widget nocall:view/widgets/address_visit_city"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text" maxlength="64" value="${widget/value}"/> <br/></tal:block>
         </fieldset>
-        
+
         <fieldset class="comprehensive inputList">
           <legend>Postadres bedrijf</legend>
           <tal:block define="widget nocall:view/widgets/address_postal_address"><label class="superImpose" for="${widget/id}">${widget/title}</label><input class="span-5" id="${widget/id}" name="${widget/name}" type="text" value="${widget/value}"/> <br/></tal:block>
@@ -61,7 +62,7 @@
           <em tal:condition="widget/error" class="message warning">Geef een datum na 1 januari 2000 op.</em>
         </fieldset>
 
-        <fieldset class="comprehensive radioList" tal:define="widget nocall:view/widgets/employees; value widget/value">
+        <fieldset class="pat-checklist radio" tal:define="widget nocall:view/widgets/employees; value widget/value">
           <legend>${widget/label}</legend>
           <label><input type="radio" name="${widget/name}" value="40h" checked="${python:'checked' if '40h' in value else None}"/> Maximaal 40 uur betaalde arbeid per week <br/><span class="discrete">(alle werknemers samen)</span></label>
           <label><input type="radio" name="${widget/name}" value="max25" checked="${python:'checked' if 'max25' in value else None}"/> Maximaal 25 werknemers <br/><span class="discrete">(let op het gaat hier niet om FTE's, maar om daadwerkelijke personen)</span></label>
@@ -77,7 +78,7 @@
         <tal:widget replace="structure view/widgets/incapacitated_workers/render" />
 
         <label tal:define="widget nocall:view/widgets/arbo_expert">${widget/label}  <br/><span class="discrete">(naam, contactpersoon, adres, e-mail. Deze zal de rapportage <strong>niet</strong> automatisch ontvangen.)</span>
-        <input type="text" name="${widget/name}" maxlength="128" value="${widget/value}"/> <tal:error condition="widget/error" replace="structure widget/error/render|nothing"/></label> 
+        <input type="text" name="${widget/name}" maxlength="128" value="${widget/value}"/> <tal:error condition="widget/error" replace="structure widget/error/render|nothing"/></label>
         <hr/>
 
         <tal:block define="widget nocall:view/widgets/works_council_approval">
@@ -98,56 +99,17 @@
           </fieldset>
         </tal:block>
       </fieldset>
-      
+
       <p class="buttonBar">
-        <button type="submit" name="form.buttons.previous" i18n:translate="label_previous" class="previous floatBefore back">Previous</button>
-        <button type="submit" name="form.buttons.next" i18n:translate="label_next" class="next floatAfter">Next</button>
+        <button type="submit" name="form.buttons.previous" i18n:translate="label_previous" class="pat-button">Previous</button>
+        <button type="submit" name="form.buttons.next" i18n:translate="label_next" class="pat-button">Next</button>
       </p>
+
     </form>
 
-    <ol id="steps" tal:define="survey_url webhelpers/survey_url">
-      <li class="complete" id="step-1">
-        <a href="${survey_url}/start">
-          <tal:span condition="not:webhelpers/is_iphone" i18n:translate="label_preparation">Preparation</tal:span>
-          <tal:span condition="webhelpers/is_iphone" i18n:translate="iphone_label_preparation">Preparation</tal:span>
-        </a>
-      </li>
-      <li class="complete" id="step-2">
-        <a href="${survey_url}/identification">
-          <tal:span condition="not:webhelpers/is_iphone" i18n:translate="label_identification">Identification</tal:span>
-          <tal:span condition="webhelpers/is_iphone" i18n:translate="iphone_label_identification">Identification</tal:span>
-        </a>
-      </li>
-      <li class="complete" id="step-3">
-        <a href="${survey_url}/evaluation">
-          <tal:span condition="not:webhelpers/is_iphone" i18n:translate="label_evaluation">Evaluation</tal:span>
-          <tal:span condition="webhelpers/is_iphone" i18n:translate="iphone_label_evaluation">Evaluation</tal:span>
-        </a>
-      </li>
-      <li class="complete" id="step-4">
-        <a href="${survey_url}/actionplan">
-          <tal:span condition="not:webhelpers/is_iphone" i18n:translate="label_action_plan">Action Plan</tal:span>
-          <tal:span condition="webhelpers/is_iphone" i18n:translate="iphone_label_action_plan">Action Plan</tal:span>
-        </a>
-      </li>
-      <li class="active current" id="step-5">
-        <a href="${survey_url}/report">
-          <tal:span condition="not:webhelpers/is_iphone" i18n:translate="label_report">Report</tal:span>
-          <tal:span condition="webhelpers/is_iphone" i18n:translate="iphone_report">Report</tal:span>
-        </a>
-      </li>
-    </ol>
-
-    <ul id="navigation">
-      <metal:home use-macro="webhelpers/macros/homelink"/>
-      <li><a href="${webhelpers/country_url}/logout" i18n:translate="navigation_logout">Logout</a></li>
-      <li><a href="${webhelpers/session_overview_url}" i18n:translate="navigation_surveys">Surveys</a></li>
-      <li><a href="${webhelpers/help_url}#actionplan" i18n:translate="navigation_help">Help</a></li>
-      <li><a href="${webhelpers/survey_url}/status" i18n:translate="navigation_status">Status</a></li>
-      <li><a href="${webhelpers/country_url}/account-settings" i18n:translate="navigation_settings">Settings</a></li>
-    </ul>
-    <metal:css use-macro="webhelpers/macros/appendix"/>
-    <metal:css use-macro="webhelpers/macros/javascript"/>
     <tal:block replace="tile:client-analytics"/>
+
+  </article>
+  </metal:slot>
   </body>
 </html>

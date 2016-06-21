@@ -16,8 +16,9 @@ class CompanyBrowserTests(testing.TnoEuphorieFunctionalTestCase):
         # Register a new user
         testing.registerUserInClient(browser)
         # Create a new survey session
+        browser.getLink(id='button-new-session').click()
         browser.getControl(name="title:utf8:ustring").value="Test session"
-        browser.getControl(name="next", index=1).click()
+        browser.getControl(name="next").click()
         # Start the survey
         browser.getForm().submit()
         browser.handleErrors=False

@@ -52,8 +52,9 @@ class ActionPlanBrowserTests(testing.TnoEuphorieFunctionalTestCase):
         # Register a new user
         testing.registerUserInClient(browser)
         # Create a new survey session
+        browser.getLink(id='button-new-session').click()
         browser.getControl(name="title:utf8:ustring").value="Test session"
-        browser.getControl(name="next", index=1).click()
+        browser.getControl(name="next").click()
         # Start the survey
         browser.getForm().submit()
         browser.handleErrors=False
@@ -67,7 +68,7 @@ class ActionPlanBrowserTests(testing.TnoEuphorieFunctionalTestCase):
         browser = self.startSurveySession()
         # Jump to the risk and note that it is not present
         browser.getLink('Start risico inventarisatie').click()
-        browser.getControl(name='next', index=1).click()
+        browser.getControl(name='next').click()
         browser.getControl(name='answer').value = ['yes']
         browser.getControl('next').click()
         # Now go to action plan view of the survey make sure its next step is
@@ -83,7 +84,7 @@ class ActionPlanBrowserTests(testing.TnoEuphorieFunctionalTestCase):
         browser = self.startSurveySession()
         # Jump to the risk and note that it is not present
         browser.getLink('Start risico inventarisatie').click()
-        browser.getControl(name='next', index=1).click()
+        browser.getControl(name='next').click()
         browser.getControl(name='answer').value = ['no']
         browser.getControl('next').click()
         # Now go to action plan view of the survey make sure its next step is

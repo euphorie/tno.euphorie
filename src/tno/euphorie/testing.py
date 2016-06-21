@@ -46,4 +46,4 @@ def registerUserInClient(browser):
     browser.getControl(name='email').value = 'guest@example.com'
     browser.getControl(name='password1:utf8:ustring').value = 'guest'
     browser.getControl(name='password2:utf8:ustring').value = 'guest'
-    browser.getControl(name='next', index=1).click()
+    browser.getControl(name='next').click()

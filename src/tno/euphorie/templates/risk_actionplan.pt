@@ -42,6 +42,7 @@
     </tal:block>
     <tal:priority tal:define="show_statement python:True">
         <fieldset tal:define="value data/priority; readonly python:context.risk_type in ['top5', 'policy']">
+            <input type="hidden" name="priority" value="${python:value}" tal:condition="readonly" />
             <label i18n:translate="risk_priority">This is a <select name="${python:'_priority' if readonly else 'priority'}" i18n:name="priority_value" disabled="${python:'disabled' if readonly else None}">
             <option value="low" selected="${python:'selected' if value=='low' else None}" i18n:translate="risk_priority_low">low</option>
             <option value="medium" selected="${python:'selected' if value=='medium' else None}" i18n:translate="risk_priority_medium">medium</option>

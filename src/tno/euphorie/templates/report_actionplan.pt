@@ -24,7 +24,7 @@
     <div class="buttonBar super">
       <a class="button-small" rel="download" href="${python:view.url(name='timeline')}" i18n:translate="button_timeline">Timeline</a>
       <a class="button-small" rel="download" href="${python:view.url(name='download')}" i18n:translate="button_download">Download</a>
-      <a class="button-small printButton jsOnly" i18n:translate="button_print">Print</a>
+      <a class="button-small printButton jsOnly" i18n:translate="button_print" href="#">Print</a>
     </div>
 
     <tal:block replace="tile:statusmessages"/>
@@ -105,13 +105,13 @@
 
     <ol class="toc">
       <tal:node repeat="node view/nodes">
-        <li tal:condition="python:node.depth==1 and node.type!='risk'"><a href="#node-${node/id}">${node/title}</a></li>
+        <li tal:condition="python:node.depth==1 and node.type!='risk'"><a href="#node-${node/id}">${python:view.get_node_title(node)}</a></li>
       </tal:node>
     </ol>
 
     <tal:block repeat="node view/nodes">
       <tal:module condition="python:node.type!='risk'">
-        <tal:tag replace="structure python:'&lt;h%s id=\'node-%s\'&gt;' % (node.depth+1, node.id)"/><a href="${survey_url}/${python:'/'.join(node.short_path)}">${node/number} ${node/title}</a><tal:tag replace="structure python:'&lt;/h%s&gt;' % (node.depth+1)"/>
+        <tal:tag replace="structure python:'&lt;h%s id=\'node-%s\'&gt;' % (node.depth+1, node.id)"/><a href="${survey_url}/${python:'/'.join(node.short_path)}">${node/number} ${python:view.get_node_title(node)}</a><tal:tag replace="structure python:'&lt;/h%s&gt;' % (node.depth+1)"/>
       </tal:module>
 
       <tal:risk condition="python:node.type=='risk'">
@@ -130,7 +130,7 @@
           <p class="emphasis" tal:condition="python:status=='unanswered'" i18n:translate="risk_unanswered"> This risk still needs to be inventorised </p>
 
             <p tal:condition="node/priority" class="priority-${node/priority}" i18n:translate="risk_priority"
-            >This is a <strong i18n:name="priority"
+            >This is a <strong i18n:name="priority_value"
               ><tal:span tal:condition="python:node.priority=='low'" i18n:translate="risk_priority_low">low priority risk</tal:span
               ><tal:span tal:condition="python:node.priority=='medium'" i18n:translate="risk_priority_medium">medium priority risk</tal:span
               ><tal:span tal:condition="python:node.priority=='high'" i18n:translate="risk_priority_high">high priority risk</tal:span
@@ -210,7 +210,11 @@
     <tal:analytics replace="tile:client-analytics"/>
     <script type="text/javascript">
       $(document).ready(function() {
-          $.localScroll();
+          // $.localScroll();
+        $(".printButton").click(function() {
+            window.print();
+            return false;
+        });
       });
     </script>
   </article>

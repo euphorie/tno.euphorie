@@ -30,6 +30,7 @@ setup(name="tno.euphorie",
       zip_safe=False,
       install_requires=[
           "Euphorie >=6.0",
+          "oira.private", # Private egg with nonfree redactor JS/CSS
           "plone.browserlayer",
           "five.grok",
           "plone.directives.form",

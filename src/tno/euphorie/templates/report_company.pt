@@ -82,12 +82,11 @@
         <hr/>
 
         <tal:block define="widget nocall:view/widgets/works_council_approval">
-          <label>Akkoord OR/medewerkersvertegenwoordiging
-            <tal:comment omit-tag="">
-              NOTE: this checkbox has been manually styled with width:auto. A proper solution will
-              be made available in euphorie/oira.prototype#4
-            </tal:comment>
-            <input type="checkbox" style="width:auto;" name="works_council" value="yes" id="works_council" checked="${python:'checked' if widget.value[0] or widget.value[2] else None}" /></label>
+          <fieldset class="pat-checklist">
+            <label>Akkoord OR/medewerkersvertegenwoordiging
+              <input type="checkbox" name="works_council" value="yes" id="works_council" checked="${python:'checked' if widget.value[0] or widget.value[2] else None}" />
+            </label>
+          </fieldset>
           <fieldset class="comprehensive date-eu dependsOn-works_council">
             <legend>${widget/label} (<span class="discrete">${widget/field/description}</span>)</legend>
             <input type="hidden" value="1" tal:attributes="name string:${widget/name}-empty-marker" />

@@ -1,7 +1,8 @@
 <?xml version="1.0"?>
 <metadata>
-  <version>201</version>
+  <version>202</version>
   <dependencies>
     <dependency>profile-euphorie.deployment:default</dependency>
+    <dependency>oira.private</dependency>
   </dependencies>
 </metadata>

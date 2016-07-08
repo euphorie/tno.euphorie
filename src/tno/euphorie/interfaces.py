@@ -1,12 +1,12 @@
-from zope.interface import Interface
-from euphorie.content.interfaces import IEuphorieContentSkinLayer
-from euphorie.content.interfaces import IEuphorieFormLayer
-from euphorie.client.interfaces import IClientSkinLayer
-from euphorie.client.interfaces import IIdentificationPhaseSkinLayer
-from euphorie.client.interfaces import IEvaluationPhaseSkinLayer
-from euphorie.client.interfaces import IActionPlanPhaseSkinLayer
-from euphorie.client.interfaces import IReportPhaseSkinLayer
 from euphorie.client.api.interfaces import IClientAPISkinLayer
+from euphorie.client.interfaces import IActionPlanPhaseSkinLayer
+from euphorie.client.interfaces import IClientSkinLayer
+from euphorie.client.interfaces import IEvaluationPhaseSkinLayer
+from euphorie.client.interfaces import IIdentificationPhaseSkinLayer
+from euphorie.client.interfaces import IReportPhaseSkinLayer
+from plonetheme.nuplone.skin.interfaces import NuPloneSkin
+from plonetheme.nuplone.z3cform.interfaces import INuPloneFormLayer
+from zope.interface import Interface
 
 
 class IProductLayer(Interface):
@@ -15,11 +15,11 @@ class IProductLayer(Interface):
     """
 
 
-class ITnoFormLayer(IEuphorieFormLayer):
+class ITnoFormLayer(INuPloneFormLayer):
     """Browser layer to indicate we want TNO form components."""
 
 
-class ITnoContentSkinLayer(ITnoFormLayer, IEuphorieContentSkinLayer):
+class ITnoContentSkinLayer(ITnoFormLayer, NuPloneSkin):
     """Marker interface for the CMS/Content editing skin."""
 
 

@@ -90,13 +90,13 @@
           <fieldset class="comprehensive date-eu dependsOn-works_council">
             <legend>${widget/label} (<span class="discrete">${widget/field/description}</span>)</legend>
             <input type="hidden" value="1" tal:attributes="name string:${widget/name}-empty-marker" />
-            <label for="${widget/id}_day" i18n:translate="label_day">Day</label>
+            <label for="${widget/id}_day">Dag</label>
             <input class="day numeric" type="text" name="${widget/name}-day" id="${widget/id}_day" maxlength="2" value="${widget/day}"/>
-            <label class="month" tal:attributes="for string:${widget/id}_month" i18n:translate="label_month">Month</label>
+            <label class="month" tal:attributes="for string:${widget/id}_month">Maand</label>
             <select id="${widget/id}_month" name="${widget/name}-month">
               <option tal:repeat="month widget/months" value="${month/value}" selected="${python:'selected' if month['selected'] else None}">${month/name}</option>
             </select>
-            <label for="${widget/id}_year" i18n:translate="label_year">Year</label>
+            <label for="${widget/id}_year">Jaar</label>
             <input class="year numeric" type="text" name="${widget/name}-year" id="${widget/id}_year" maxlength="4" value="${widget/year}"/>
             <em tal:condition="widget/error" class="message warning">Geef een datum na 1 januari 2000 op.</em>
           </fieldset>

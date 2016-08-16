@@ -4,8 +4,7 @@ Changelog
 5.0.5 (unreleased)
 ------------------
 
-- Nothing changed yet.
-
+- Upgrade to Plone 4.3.10
 
 5.0.4 (2016-05-31)
 ------------------

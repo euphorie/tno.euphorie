@@ -1,21 +1,25 @@
-from rtfng.document.paragraph import Paragraph
-from rtfng.document.paragraph import Cell
-from rtfng.document.paragraph import Table
-from rtfng.PropertySets import TabPropertySet
-from sqlalchemy import sql
-from z3c.saconfig import Session
-from five import grok
-from zope.i18n import translate
-from plonetheme.nuplone.utils import formatDate
+# coding=utf-8
+from euphorie.client import MessageFactory as eu_
 from euphorie.client import model
 from euphorie.client.report import ActionPlanReportDownload
 from euphorie.client.report import createSection
-from euphorie.client import MessageFactory as eu_
+from euphorie.client.report import ReportLanding
+from five import grok
+from plonetheme.nuplone.utils import formatDate
+from rtfng.document.paragraph import Cell
+from rtfng.document.paragraph import Paragraph
+from rtfng.document.paragraph import Table
+from rtfng.PropertySets import TabPropertySet
+from sqlalchemy import sql
+from tno.euphorie.company import DutchCompanySchema
 from tno.euphorie.interfaces import ITnoReportPhaseSkinLayer
 from tno.euphorie.model import DutchCompany
-from tno.euphorie.company import DutchCompanySchema
+from z3c.saconfig import Session
+from zope.i18n import translate
+from euphorie.ghost import PathGhost
 
 grok.templatedir("templates")
+
 
 def formatAddress(address, postal, city):
     output=[]
@@ -27,6 +31,17 @@ def formatAddress(address, postal, city):
     if bits:
         output.append(u" ".join(bits))
     return u"".join(output) if output else None
+
+
+class TNOReportLanding(ReportLanding):
+    """Custom report landing page.
+
+    This replaces the standard online view of the report with a page
+    offering the RTF and XLSX download options.
+    """
+    grok.context(PathGhost)
+    grok.layer(ITnoReportPhaseSkinLayer)
+    grok.template("report_landing")
 
 
 class TnoActionPlanReportDownload(ActionPlanReportDownload):

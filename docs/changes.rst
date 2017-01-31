@@ -1,6 +1,11 @@
 Changelog
 =========
 
+6.0.0 - January 31, 2017
+------------------------
+
+- Major change: upgrade to "OiRA 2.0" user interface
+
 5.0.2 - October 13, 2015
 ------------------------
 
@@ -92,7 +97,7 @@ Changelog
 -----------------
 
 - Adjust code for navigation tree related fixed in Euphorie 6. This is part
-  of the fix for 
+  of the fix for
   `TNO ticket 236 <https://code.simplon.biz/tracker/tno-euphorie/ticket/236>`_.
 
 - Fix loading of ZCML in tests. This fixes problems running tests in current
@@ -247,7 +252,7 @@ Changelog
 1.9 - January 13, 2011
 ----------------------
 
-- Update error text for invalid absentee percentage. This fixes 
+- Update error text for invalid absentee percentage. This fixes
   `TNO ticket 167 <http://code.simplon.biz/tracker/tno-euphorie/ticket/167>`_.
   [wichert]
 
@@ -331,7 +336,7 @@ Bugfixes
   `TNO ticket 138 <http://code.simplon.biz/tracker/tno-euphorie/ticket/138>`_.
   [wichert]
 
-* Override action plan report download as well. This fixes 
+* Override action plan report download as well. This fixes
   `TNO ticket 143 <http://code.simplon.biz/tracker/tno-euphorie/ticket/143>`_.
   [wichert]
 

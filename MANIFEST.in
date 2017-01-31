@@ -2,8 +2,16 @@ include *.rst
 include *.zcml
 recursive-include src/tno/euphorie *.ini
 recursive-include src/tno/euphorie *.zcml
+include Makefile
+include buildout.cfg
+include devel.cfg
+include bootstrap.py
 graft docs
 prune docs/build
 graft src/tno/euphorie/profiles
 graft src/tno/euphorie/templates
 graft src/tno/euphorie/assets
+prune src/Euphorie
+prune src/NuPlone
+recursive-include etc *.ini
+recursive-include src *.pt

@@ -1,8 +1,8 @@
 Changelog
 =========
 
-6.0.0 - January 31, 2017
-------------------------
+6.0.0 (2017-01-31)
+------------------
 
 - Major change: upgrade to "OiRA 2.0" user interface
 

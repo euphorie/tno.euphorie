@@ -1,7 +1,7 @@
 Changelog
 =========
 
-6.0.1 (unreleased)
+6.0.1 (2017-02-02)
 ------------------
 
 - Nothing changed yet.

@@ -22,18 +22,15 @@
 
         <h2 i18n:translate="">Download and print your report</h2>
 
+        <p>Het volledig rapport inclusief alle vragen en de door u ingevulde antwoorden is te downloaden via deze link: “<a href="${python:webhelpers.survey_url(phase='report')}/download">lijst met alle risico’s printen</a>”.</p>
+
         <p i18n:translate="">Save the report on your computer and print it. You can also modify it or add more information. Please note that changes made on your pc will NOT be saved in the OiRA tool</p>
-        <p i18n:translate="">Use the report to:</p>
 
-        <ul>
-          <li i18n:translate="">Provide evidence for supervisory authorities.</li>
-          <li i18n:translate="">Pass information on to the people concerned (workers, safety representatives, employers, experts in occupational safety and health, etc.)</li>
-          <li i18n:translate="">Monitor and assess whether necessary measures have been introduced.</li>
-          <li i18n:translate="">Record any revision if circumstances change (new machines, new workers, as a result of findings of any accident investigations, etc.)</li>
-        </ul>
+        <p>Gebruik het rapport (samen met het plan van aanpak) als bewijs voor toezichthoudende instanties.</p>
 
+        <p>Wij raden u aan ervoor te zorgen dat er altijd een actuele geprinte versie van uw risicoanalyse beschikbaar is in uw bedrijf!</p>
 
-        <p i18n:translate="">We recommend that you always keep an updated printed version of your risk assessment (report) available in your company!</p>
+        <p>Hieronder vindt u een aantal andere overzichten van uw ingevulde RI&amp;E en plan van aanpak.</p>
 
     </article>
 
@@ -90,19 +87,23 @@
     <div class="download-block column">
       <article class="pat-well pat-rich">
         <p class="button-bar">
-          <a class="pat-button bar download rtf icon-download piwik_download" href="${python:view.url(name='download')}" i18n:translate="label_report">Report</a>
+          <a class="pat-button bar download rtf icon-download piwik_download" href="${python:view.url(name='download')}" i18n:translate="plan_report_plan_header">Report</a>
         </p>
         <p class="explanation" i18n:translate="">
           Download the full report
         </p>
         <ul>
           <li i18n:translate="">Format: Rich Text Format (.rtf)</li>
-          <li i18n:translate="">Contains: all the information and input provided by you throughout the risk assessment process.</li>
+          <li>alle in uw bedrijf aanwezige risico’s met de daarbij te nemen maatregelen</li>
+          <li>alle door de branche als prioritaire aangemerkte risico’s, ook als deze niet in uw bedrijf aanwezig zijn of nog niet beoordeeld zijn.
+          <li>toelichting bij bovenstaande risico’s</li>
+
         </ul>
 
         <h4><tal:span i18n:translate="">Use it to</tal:span>:</h4>
         <ul>
-          <li i18n:translate=""><strong i18n:name="provide-evidence" i18n:translate="">Provide evidence</strong> for supervisory authorities (labour inspectorate).</li>
+          <li>informatie door te geven aan de betrokken personen</li>
+          <li>een volledig overzicht te hebben van alle risico’s en maatregelen inclusief toelichting</li>
         </ul>
 
       </article>
@@ -111,14 +112,14 @@
     <div class="download-block column">
       <article class="pat-well pat-rich">
         <p class="button-bar">
-          <a class="pat-button bar download xlsx icon-download piwik_download" href="${python:view.url(name='timeline')}" i18n:translate="label_action_plan">Action Plan</a>
+          <a class="pat-button bar download xlsx icon-download piwik_download" href="${python:view.url(name='timeline')}">Actie plan</a>
         </p>
         <p class="explanation" i18n:translate="">
           Download the action plan
         </p>
         <ul>
           <li i18n:translate="">Format: Office Open XML Workbook (.xlsx)</li>
-          <li i18n:translate="">Contains: main elements to effectively manage the risks at your workplace.</li>
+          <li>Bevat: Uw plan van aanpakactieplan voor alle in de branche RI&amp;E opgenomen risico’s.</li>
         </ul>
 
         <h4><tal:span i18n:translate="">Use it to</tal:span>:</h4>

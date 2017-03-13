@@ -4,8 +4,7 @@ Changelog
 6.0.3 (unreleased)
 ------------------
 
-- Nothing changed yet.
-
+- Remove debug output from report landing page
 
 6.0.2 (2017-03-13)
 ------------------

@@ -122,7 +122,7 @@ class SessionBrowserTests(testing.TnoEuphorieFunctionalTestCase):
         browser = self.createClientBrowser()
         browser.open(self.portal.client.nl.absolute_url())
         self.assertTrue(
-                "Als u bestanden van de oude RI&amp;E omgeving heeft"
+                "Als u bestanden van de oude RI&amp;E omgeving van vóór 2010 heeft kunt U deze via"
                 in browser.contents)
         browser.getLink("dit formulier").click()
         self.assertEqual(

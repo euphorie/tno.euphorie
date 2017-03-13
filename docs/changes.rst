@@ -1,7 +1,7 @@
 Changelog
 =========
 
-6.0.3 (unreleased)
+6.0.3 (2017-03-13)
 ------------------
 
 - Remove debug output from report landing page

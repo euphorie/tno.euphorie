@@ -1,7 +1,7 @@
 Changelog
 =========
 
-6.0.4 (unreleased)
+6.0.4 (2017-03-17)
 ------------------
 
 - More text changes / typos

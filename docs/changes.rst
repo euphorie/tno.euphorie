@@ -4,8 +4,7 @@ Changelog
 6.0.4 (unreleased)
 ------------------
 
-- Nothing changed yet.
-
+- More text changes / typos
 
 6.0.3 (2017-03-13)
 ------------------

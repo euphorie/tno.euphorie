@@ -88,11 +88,13 @@
         <p class="button-bar">
           <a class="pat-button bar download rtf icon-download piwik_download" href="${python:view.url(name='download')}" i18n:translate="plan_report_plan_header">Report</a>
         </p>
-        <p class="explanation" i18n:translate="">
-          Download the full report
+        <p class="explanation">
+          Het volledige plan van aanpak downloaden</p>
+        <p style="margin-bottom: 0.5rem;">
+          <tal:span i18n:translate="">Format: Rich Text Format (.rtf)</tal:span><br/>
+          Bevat:
         </p>
         <ul>
-          <li i18n:translate="">Format: Rich Text Format (.rtf)</li>
           <li>alle in uw bedrijf aanwezige risico’s met de daarbij te nemen maatregelen</li>
           <li>alle door de branche als prioritaire aangemerkte risico’s, ook als deze niet in uw bedrijf aanwezig zijn of nog niet beoordeeld zijn.
           <li>toelichting bij bovenstaande risico’s</li>
@@ -116,9 +118,12 @@
         <p class="explanation" i18n:translate="">
           Download the action plan
         </p>
+        <p style="margin-bottom: 0.5rem;">
+          <tal:span i18n:translate="">Format: Office Open XML Workbook (.xlsx)</tal:span><br/>
+          Bevat:
+        </p>
         <ul>
-          <li i18n:translate="">Format: Office Open XML Workbook (.xlsx)</li>
-          <li>Bevat: Uw plan van aanpakactieplan voor alle in de branche RI&amp;E opgenomen risico’s.</li>
+          <li>Uw actieplan voor alle in de branche RI&amp;E opgenomen risico’s.</li>
         </ul>
 
         <h4><tal:span i18n:translate="">Use it to</tal:span>:</h4>

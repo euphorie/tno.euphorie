@@ -1,7 +1,7 @@
 Changelog
 =========
 
-6.0.5 (unreleased)
+6.0.5 (2017-03-30)
 ------------------
 
 - Fix link for downloading list of all risks on report landing

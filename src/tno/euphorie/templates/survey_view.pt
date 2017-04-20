@@ -8,7 +8,7 @@
       i18n:domain="euphorie"
       meta:interpolation="true"
       metal:use-macro="context/@@layout/macros/layout">
-  <body> 
+  <body>
     <metal:title fill-slot="title">${view/group/title}</metal:title>
     <metal:bar fill-slot="buttonbar"><tal:tile replace="tile:euphorie.addbar"/></metal:bar>
     <metal:content fill-slot="content" tal:define="can_edit python:tools.checkPermission('Modify portal content')">
@@ -29,6 +29,9 @@
         <dd tal:condition="not:context/regelhulp_id|nothing"><em i18n:translate="not_set">Not set</em> <span class="discrete">(voor Ondernemingsdossier)</span></dd>
         <dt>RegelHulp ingang</dt>
         <dd>${view/od_entry_url}</dd>
+        <dt>Zet een melding over deze tool aan?</dt>
+        <dd tal:condition="context/hasNotification" i18n:translate="Yes"></dd>
+        <dd tal:condition="not:context/hasNotification" i18n:translate="No"></dd>
       </dl>
 
       <tal:intro condition="python:context.introduction">

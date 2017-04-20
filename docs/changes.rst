@@ -4,7 +4,8 @@ Changelog
 6.0.6 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Bump Euphorie to 9.0.12 to get the notification for outdated tools.
+  #15240
 
 
 6.0.5 (2017-03-30)

@@ -1,7 +1,7 @@
 Changelog
 =========
 
-6.0.6 (unreleased)
+6.0.6 (2017-04-20)
 ------------------
 
 - Bump Euphorie to 9.0.12 to get the notification for outdated tools.

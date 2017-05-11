@@ -4,7 +4,7 @@ Changelog
 6.0.7 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Typo in Help text for 'Regelhulp Id'
 
 
 6.0.6 (2017-04-20)

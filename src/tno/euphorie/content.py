@@ -19,7 +19,7 @@ class ITnoSurvey(ISurvey):
             title=u'Regelhulp Id',
             description=
                 u'De regelhulp id wordt toegewezen door het ondernemingsdossier '
-                u'als de RI&E wordt opgenemen als regelhulp.',
+                u'als de RI&E wordt opgenomen als regelhulp.',
             required=False)
 
 

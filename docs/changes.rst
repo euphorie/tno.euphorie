@@ -4,8 +4,7 @@ Changelog
 6.0.8 (unreleased)
 ------------------
 
-- Nothing changed yet.
-
+- Bump Euphorie to 9.0.22
 
 6.0.7 (2017-05-11)
 ------------------

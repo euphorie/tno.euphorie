@@ -1,7 +1,7 @@
 Changelog
 =========
 
-6.0.8 (unreleased)
+6.0.8 (2017-08-23)
 ------------------
 
 - Bump Euphorie to 9.0.22

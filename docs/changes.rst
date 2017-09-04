@@ -4,8 +4,7 @@ Changelog
 6.0.9 (unreleased)
 ------------------
 
-- Nothing changed yet.
-
+- Fix translation issue on report landing ("Use it to")
 
 6.0.8 (2017-08-23)
 ------------------

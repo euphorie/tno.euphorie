@@ -69,7 +69,7 @@
           <li i18n:translate="">Contains: an overview of the risks identified</li>
         </ul>
 
-          <h4><tal:span i18n:translate="">Use it to</tal:span>:</h4>
+          <h4><tal:span i18n:translate="use_it_to_action_plan">Use it to</tal:span>:</h4>
         <ul>
           <li i18n:translate="">Pass information to the people concerned.</li>
           <li i18n:translate="">Monitor whether risks / measures are properly dealt with.</li>
@@ -92,7 +92,7 @@
           <li i18n:translate="">Contains: an overview of the measures to be implemented.</li>
         </ul>
 
-          <h4><tal:span i18n:translate="">Use it to</tal:span>:</h4>
+          <h4><tal:span i18n:translate="use_it_to_action_plan">Use it to</tal:span>:</h4>
         <ul>
           <li i18n:translate="">Pass information to the people concerned.</li>
           <li i18n:translate="">Monitor the measures to be implemented in the forthcoming 3 months.</li>
@@ -118,7 +118,7 @@
 
         </ul>
 
-        <h4><tal:span i18n:translate="">Use it to</tal:span>:</h4>
+        <h4><tal:span i18n:translate="use_it_to_action_plan">Use it to</tal:span>:</h4>
         <ul>
           <li>informatie door te geven aan de betrokken personen</li>
           <li>een volledig overzicht te hebben van alle risico’s en maatregelen inclusief toelichting</li>
@@ -143,7 +143,7 @@
           <li>Uw actieplan voor alle in de branche RI&amp;E opgenomen risico’s.</li>
         </ul>
 
-        <h4><tal:span i18n:translate="">Use it to</tal:span>:</h4>
+        <h4><tal:span i18n:translate="use_it_to_action_plan">Use it to</tal:span>:</h4>
         <ul>
           <li i18n:translate=""><strong i18n:name="manage" i18n:translate="">Manage</strong> the problems/risks in your workplace (specific tasks, expertise, responsibilities,
           deadlines).</li>

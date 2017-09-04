@@ -1,7 +1,7 @@
 Changelog
 =========
 
-6.0.9 (unreleased)
+6.0.9 (2017-09-04)
 ------------------
 
 - Fix translation issue on report landing ("Use it to")

@@ -5,6 +5,7 @@ Changelog
 ------------------
 
 - Fix translation issue on report landing ("Use it to")
+- Bump Euphorie to 9.0.23
 
 6.0.8 (2017-08-23)
 ------------------

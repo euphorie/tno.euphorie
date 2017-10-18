@@ -5,7 +5,7 @@ from euphorie.client.report import ActionPlanReportDownload
 from euphorie.client.report import createSection
 from euphorie.client.report import MeasuresOverview
 from euphorie.client.report import ReportLanding
-from euphorie.client.report import RisksOverview
+# from euphorie.client.report import RisksOverview
 from euphorie.ghost import PathGhost
 from five import grok
 from plonetheme.nuplone.utils import formatDate
@@ -143,12 +143,27 @@ class TnoActionPlanReportDownload(ActionPlanReportDownload):
         section.append(table)
 
 
-class TNORisksOverview(RisksOverview):
-    """ Implements the "Overview of Risks" report, see #10967
-    """
-    grok.layer(ITnoReportPhaseSkinLayer)
-    grok.template("risks_overview")
-    grok.name("risks_overview")
+# class TNORisksOverview(RisksOverview):
+#     """ Implements the "Overview of Risks" report, see #10967
+#     """
+#     grok.layer(ITnoReportPhaseSkinLayer)
+#     grok.template("risks_overview")
+#     grok.name("risks_overview")
+
+#     def update(self):
+#         self.session = SessionManager.session
+#         if (
+#             self.session is not None and self.session.title != (
+#                 callable(getattr(self.context, 'Title', None)) and
+#                 self.context.Title() or ''
+#             )
+#         ):
+#             self.session_title = self.session.title
+#         else:
+#             self.session_title = (
+#                 callable(getattr(self.context, 'Title', None)) and
+#                 self.context.Title() or '')
+#         self.getStatus()
 
 
 class TNOMeasuresOverview(MeasuresOverview):

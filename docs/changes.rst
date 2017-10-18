@@ -4,8 +4,12 @@ Changelog
 6.0.10 (unreleased)
 -------------------
 
-- Nothing changed yet.
+Changed:
 
+- The measures_overview report has been customised from Euphorie to
+  show not only the start of a measure, but their complete time span.
+  A general design fix of theis report has taken place.
+  NOTE: requires PrinceXML version 11!
 
 6.0.9 (2017-09-04)
 ------------------

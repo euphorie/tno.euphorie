@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html class="report"
+    i18n:domain="euphorie"
     tal:define="
         client nocall:request/client;
         base_url client/++resource++euphorie.resources;

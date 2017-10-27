@@ -190,6 +190,7 @@ class TNOMeasuresOverview(MeasuresOverview):
                 callable(getattr(self.context, 'Title', None)) and
                 self.context.Title() or '')
         today = date.today()
+        this_month = date(today.year, today.month, 1)
         next_month = date(today.year, (today.month + 1) % 12 or 12, 1)
         month_after_next = date(today.year, (today.month + 2) % 12 or 12, 1)
         self.months = []
@@ -231,8 +232,10 @@ class TNOMeasuresOverview(MeasuresOverview):
                     t[-1].planning_start.strftime('%b') in self.months) or
                 (t[-1].planning_end is not None and
                     t[-1].planning_end.strftime('%b') in self.months) or
-                (t[-1].planning_start is not None and t[-1].planning_end is None and
-                    t[-1].planning_start <= today)
+                (t[-1].planning_start is not None and (
+                    t[-1].planning_end is None or
+                    t[-1].planning_end >= month_after_next
+                ) and t[-1].planning_start <= this_month)
             ) and
             (
                 t[-1].responsible is not None or
@@ -251,26 +254,30 @@ class TNOMeasuresOverview(MeasuresOverview):
             else:
                 title = risk.title
             classes = []
-            for m in [today, next_month, month_after_next]:
+            start_month = action.planning_start and date(
+                action.planning_start.year, action.planning_start.month, 1)
+            end_month = action.planning_end and date(
+                action.planning_end.year, action.planning_end.month, 1)
+            for m in [this_month, next_month, month_after_next]:
                 cls = None
-                if action.planning_start:
-                    if action.planning_start.month == m.month:
+                if start_month:
+                    if start_month == m:
                         cls = "start"
-                    if action.planning_end:
-                        if action.planning_end.month == m.month:
+                    if end_month:
+                        if end_month == m:
                             if (
-                                action.planning_end.month ==
-                                (action.planning_start and action.planning_start.month)
+                                end_month ==
+                                    (start_month is not None and start_month)
                             ):
                                 cls = "start-end"
                             else:
                                 cls = "end"
                         elif (
-                            action.planning_start.month < m.month and
-                            action.planning_end.month > m.month
+                            start_month < m and
+                            end_month > m
                         ):
                             cls = "ongoing"
-                    elif action.planning_start.month < m.month:
+                    elif start_month < m:
                         cls = "ongoing"
 
                 classes.append(cls)

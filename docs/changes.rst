@@ -4,7 +4,8 @@ Changelog
 6.0.11 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Measures report: fix logic for calculating 1) which measures need to be shown,
+2) what class to assing (ongoing etc)
 
 
 6.0.10 (2017-10-18)

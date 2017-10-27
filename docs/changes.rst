@@ -1,7 +1,7 @@
 Changelog
 =========
 
-6.0.11 (unreleased)
+6.0.11 (2017-10-27)
 -------------------
 
 - Measures report: fix logic for calculating 1) which measures need to be shown,

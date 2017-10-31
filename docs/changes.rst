@@ -4,8 +4,7 @@ Changelog
 6.0.12 (unreleased)
 -------------------
 
-- Nothing changed yet.
-
+- Attempt another release, since 6.0.11 might not be working (?)
 
 6.0.11 (2017-10-27)
 -------------------

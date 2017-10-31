@@ -4,8 +4,7 @@ Changelog
 6.0.13 (unreleased)
 -------------------
 
-- Nothing changed yet.
-
+- Fix indentation in changelog, attempt another release
 
 6.0.12 (2017-10-31)
 -------------------
@@ -16,7 +15,7 @@ Changelog
 -------------------
 
 - Measures report: fix logic for calculating 1) which measures need to be shown,
-2) what class to assing (ongoing etc)
+  2) what class to assing (ongoing etc)
 
 
 6.0.10 (2017-10-18)

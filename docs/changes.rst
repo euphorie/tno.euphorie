@@ -1,7 +1,7 @@
 Changelog
 =========
 
-6.0.13 (unreleased)
+6.0.13 (2017-10-31)
 -------------------
 
 - Fix indentation in changelog, attempt another release

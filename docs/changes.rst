@@ -1,7 +1,7 @@
 Changelog
 =========
 
-6.0.14 (unreleased)
+6.0.14 (2017-11-01)
 -------------------
 
 - Another bugfix for the "measures" report. Correctly compute the

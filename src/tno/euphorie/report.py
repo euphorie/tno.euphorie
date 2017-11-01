@@ -244,7 +244,7 @@ class TNOMeasuresOverview(MeasuresOverview):
                     t[-1].planning_end is None or
                     t[-1].planning_end >= month_after_next
                 ) and t[-1].planning_start <= this_month)
-            ) and
+            ) and t[1].identification not in ('n/a', 'yes') and
             (
                 t[-1].responsible is not None or
                 t[-1].prevention_plan is not None or

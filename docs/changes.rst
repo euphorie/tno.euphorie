@@ -4,8 +4,8 @@ Changelog
 6.0.14 (unreleased)
 -------------------
 
-- Nothing changed yet.
-
+- Another bugfix for the "measures" report. Correctly compute the
+  future months
 
 6.0.13 (2017-10-31)
 -------------------

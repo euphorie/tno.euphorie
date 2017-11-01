@@ -191,8 +191,16 @@ class TNOMeasuresOverview(MeasuresOverview):
                 self.context.Title() or '')
         today = date.today()
         this_month = date(today.year, today.month, 1)
-        next_month = date(today.year, (today.month + 1) % 12 or 12, 1)
-        month_after_next = date(today.year, (today.month + 2) % 12 or 12, 1)
+
+        def get_next_month(this_month):
+            month = this_month.month + 1
+            year = this_month.year
+            if month == 13:
+                month = 1
+                year = year + 1
+            return date(year, month, 1)
+        next_month = get_next_month(this_month)
+        month_after_next = get_next_month(next_month)
         self.months = []
         self.months.append(today.strftime('%b'))
         self.months.append(next_month.strftime('%b'))
@@ -279,7 +287,11 @@ class TNOMeasuresOverview(MeasuresOverview):
                             cls = "ongoing"
                     elif start_month < m:
                         cls = "ongoing"
-
+                elif end_month:
+                    if end_month == m:
+                        cls = "end"
+                    elif end_month > m:
+                        cls = "ongoing"
                 classes.append(cls)
             modulesdict[module][risk.priority].append(
                 {'title': title,

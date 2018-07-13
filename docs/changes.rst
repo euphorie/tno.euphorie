@@ -4,8 +4,9 @@ Changelog
 6.0.15 (unreleased)
 -------------------
 
-- Nothing changed yet.
-
+- Bugfix for the "measures" report: Do not rely on the pre-computed
+  list of modules, since this can fail for a scenario with 
+  module->module->Optional module
 
 6.0.14 (2017-11-01)
 -------------------

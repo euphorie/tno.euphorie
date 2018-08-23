@@ -36,6 +36,7 @@ setup(name="tno.euphorie",
           # steps. The following package is therefore added for providing the
           # required interface.
           'collective.js.jqueryui',
+          "collective.indexing",
           "plone.browserlayer",
           "five.grok",
           "plone.directives.form",

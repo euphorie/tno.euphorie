@@ -29,8 +29,13 @@ setup(name="tno.euphorie",
       package_dir={"": "src"},
       zip_safe=False,
       install_requires=[
-          "Euphorie >=6.0",
-          "oira.private", # Private egg with nonfree redactor JS/CSS
+          'Euphorie >=9.0.0',
+          'NuPlone >=1.3.9',
+          'Pillow',
+          # We seem to have a persisten utility that prevents running upgrade
+          # steps. The following package is therefore added for providing the
+          # required interface.
+          'collective.js.jqueryui',
           "plone.browserlayer",
           "five.grok",
           "plone.directives.form",

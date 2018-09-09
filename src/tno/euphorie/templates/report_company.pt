@@ -50,15 +50,11 @@
 
         <fieldset class="comprehensive date-eu" tal:define="widget nocall:view/widgets/submit_date">
           <legend>${widget/label} (<span class="discrete">${widget/field/description}</span>)</legend>
-          <input type="hidden" value="1" tal:attributes="name string:${widget/name}-empty-marker" />
-          <label for="${widget/id}_day">Dag</label>
-          <input class="day numeric" type="text" name="${widget/name}-day" id="${widget/id}_day" maxlength="2" value="${widget/day}"/>
-          <label class="month" tal:attributes="for string:${widget/id}_month">Maand</label>
-          <select id="${widget/id}_month" name="${widget/name}-month">
-            <option tal:repeat="month widget/months" value="${month/value}" selected="${python:'selected' if month['selected'] else None}">${month/name}</option>
-          </select>
-          <label for="${widget/id}_year">Jaar</label>
-          <input class="year numeric" type="text" name="${widget/name}-year" id="${widget/id}_year" maxlength="4" value="${widget/year}"/>
+            <input
+                type="date" class="pat-date-picker"
+                name="form.widgets.submit_date"
+                data-pat-date-picker="behavior: styled; week-numbers: show; i18n: ${webhelpers/country_url}/@@date-picker-i18n.json"
+                value="${widget/value|nothing}"/>
           <em tal:condition="widget/error" class="message warning">Geef een datum na 1 januari 2000 op.</em>
         </fieldset>
 
@@ -84,20 +80,16 @@
         <tal:block define="widget nocall:view/widgets/works_council_approval">
           <fieldset class="pat-checklist">
             <label>Akkoord OR/medewerkersvertegenwoordiging
-              <input type="checkbox" name="works_council" value="yes" id="works_council" checked="${python:'checked' if widget.value[0] or widget.value[2] else None}" />
+              <input type="checkbox" name="works_council" value="yes" id="works_council" checked="${python:'checked' if widget.value else None}" />
             </label>
           </fieldset>
           <fieldset class="comprehensive date-eu dependsOn-works_council">
             <legend>${widget/label} (<span class="discrete">${widget/field/description}</span>)</legend>
-            <input type="hidden" value="1" tal:attributes="name string:${widget/name}-empty-marker" />
-            <label for="${widget/id}_day">Dag</label>
-            <input class="day numeric" type="text" name="${widget/name}-day" id="${widget/id}_day" maxlength="2" value="${widget/day}"/>
-            <label class="month" tal:attributes="for string:${widget/id}_month">Maand</label>
-            <select id="${widget/id}_month" name="${widget/name}-month">
-              <option tal:repeat="month widget/months" value="${month/value}" selected="${python:'selected' if month['selected'] else None}">${month/name}</option>
-            </select>
-            <label for="${widget/id}_year">Jaar</label>
-            <input class="year numeric" type="text" name="${widget/name}-year" id="${widget/id}_year" maxlength="4" value="${widget/year}"/>
+            <input
+                type="date" class="pat-date-picker"
+                name="form.widgets.works_council_approval"
+                data-pat-date-picker="behavior: styled; week-numbers: show; i18n: ${webhelpers/country_url}/@@date-picker-i18n.json"
+                value="${widget/value|nothing}"/>
             <em tal:condition="widget/error" class="message warning">Geef een datum na 1 januari 2000 op.</em>
           </fieldset>
         </tal:block>

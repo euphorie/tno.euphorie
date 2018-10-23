@@ -44,4 +44,18 @@
        provides="Products.GenericSetup.interfaces.EXTENSION"
        />
 
+  <!-- override some classes, but re-use the template from Euphorie -->
+  <configure package="euphorie.client.browser">
+
+    <browser:page
+        name="webhelpers"
+        for="*"
+        permission="zope.Public"
+        class="tno.euphorie.webhelpers.TNOWebHelpers"
+        template="templates/webhelpers.pt"
+        layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
+        />
+
+    </configure>
+
 </configure>

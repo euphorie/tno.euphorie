@@ -1,10 +1,10 @@
 Changelog
 =========
 
-6.0.16 (unreleased)
+7.0.0b1 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Switch to Plone5
 
 
 6.0.15 (2018-07-13)

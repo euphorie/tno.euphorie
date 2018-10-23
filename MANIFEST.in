@@ -15,3 +15,7 @@ prune src/Euphorie
 prune src/NuPlone
 recursive-include etc *.ini
 recursive-include src *.pt
+include *.txt
+include base.cfg
+include picked-versions.cfg
+recursive-include templates *.ini

@@ -120,6 +120,7 @@
 
         <h4><tal:span i18n:translate="use_it_to_action_plan">Use it to</tal:span>:</h4>
         <ul>
+          <li>te tonen aan de toezichthoudende instanties</li>
           <li>informatie door te geven aan de betrokken personen</li>
           <li>een volledig overzicht te hebben van alle risico’s en maatregelen inclusief toelichting</li>
         </ul>

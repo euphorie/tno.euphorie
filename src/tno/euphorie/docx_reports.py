@@ -1,9 +1,12 @@
 # coding=utf-8
+from datetime import date
+from euphorie.client import MessageFactory as _
 from euphorie.client.docx.compiler import DocxCompiler
-from docx.enum.text import WD_BREAK
 from euphorie.client.docx.views import ActionPlanDocxView
 from pkg_resources import resource_filename
-from euphorie.client import MessageFactory as _
+from plonetheme.nuplone.utils import formatDate
+from tno.euphorie.company import DutchCompanySchema
+from tno.euphorie.report import formatAddress
 
 
 class RIEDocxCompiler(DocxCompiler):
@@ -15,10 +18,12 @@ class RIEDocxCompiler(DocxCompiler):
     def set_session_title_row(self, data):
         ''' This fills the workspace activity run with some text
         '''
-        # request = self.request
+        request = self.request
+        doc = self.template
+        doc.paragraphs[0].text = data['heading']
+        doc.add_paragraph(formatDate(request, date.today()), style="Comment")
 
-
-        heading = self.t(_(
+        heading1 = self.t(_(
             "plan_report_intro_header", default=u"Introduction"))
         intro = self.t(_(
             "plan_report_intro_1",
@@ -30,42 +35,100 @@ class RIEDocxCompiler(DocxCompiler):
                     u"been completed and perhaps new subjects need to be "
                     u"added."))
 
-        doc = self.template
-        doc.paragraphs[0].text = heading
-        doc.paragraphs[0].style = "Heading 1"
-        p = doc.add_paragraph(intro)
-        p.add_run().add_break(WD_BREAK.PAGE)
+        doc.add_paragraph(heading1, style="Heading 1")
+        doc.add_paragraph(intro)
+        doc.add_paragraph()
+        survey = request.survey
+        footer_txt = self.t(
+            _("report_identification_revision",
+                default=u"This document was based on the OiRA Tool '${title}' "
+                        u"of revision date ${date}.",
+                mapping={"title": survey.published[1],
+                         "date": formatDate(request, survey.published[2])}))
+        doc.add_paragraph(footer_txt, 'Footer')
+        doc.add_page_break()
+        doc.add_paragraph(
+            self.t(_(
+                "plan_report_company_header", default=u"Company details")),
+            style="Heading 1")
+        missing = self.t(_("missing_data", default=u"Not provided"))
+        company = self.session.dutch_company
+        table = doc.add_table(rows=1, cols=2)
+        total_width = table.columns[0].width + table.columns[1].width
+        table.columns[0].width = int(total_width * 0.20)
+        table.columns[1].width = int(total_width * 0.80)
 
-        # self.template.paragraphs[0].text = data['heading']
-        # txt = self.t(_("toc_header", default=u"Contents"))
-        # par_contents = self.template.paragraphs[1]
-        # par_contents.text = txt
-        # par_toc = self.template.paragraphs[2]
-        # par_before_break = self.template.paragraphs[3]
-        # for nodes, heading in zip(data["nodes"], data["section_headings"]):
-        #     if not nodes:
-        #         continue
-        #     par_toc.insert_paragraph_before(heading, style="TOC Heading 1")
-        # survey = self.request.survey
+        field = DutchCompanySchema["title"]
+        row_cells = table.rows[0].cells
+        row_cells[0].text = str(field.title)
+        row_cells[1].text = company.title if company.title else missing
 
-        # footer_txt = self.t(
-        #     _("report_identification_revision",
-        #         default=u"This document was based on the OiRA Tool '${title}' "
-        #                 u"of revision date ${date}.",
-        #         mapping={"title": survey.published[1],
-        #                  "date": formatDate(request, survey.published[2])}))
+        row_cells = table.add_row().cells
+        address = formatAddress(
+            company.address_visit_address,
+            company.address_visit_postal, company.address_visit_city)
 
-        # par_contents.insert_paragraph_before(
-        #     formatDate(request, date.today()), style="Comment")
-        # par_before_break.insert_paragraph_before("")
-        # par_before_break.insert_paragraph_before(footer_txt, 'Footer')
+        row_cells[0].text = "Bezoekadres bedrijf"
+        row_cells[1].text = address if address else missing
+        row_cells = table.add_row().cells
 
+        address = formatAddress(
+            company.address_postal_address,
+            company.address_postal_postal, company.address_postal_city)
+        row_cells[0].text = "Postadres bedrijf"
+        row_cells[1].text = address if address else missing
+
+        for key in [
+            "email", "phone", "activity", "submitter_name",
+            "submitter_function", "department", "location"
+        ]:
+            field = DutchCompanySchema[key]
+            value = getattr(company, key, None)
+            row_cells = table.add_row().cells
+            row_cells[0].text = str(field.title)
+            row_cells[1].text = value if value else missing
+
+        formatDecimal = request.locale.numbers.getFormatter("decimal").format
+        field = DutchCompanySchema["absentee_percentage"]
+        row_cells = table.add_row().cells
+        row_cells[0].text = str(field.title)
+        row_cells[1].text = (
+            u"%s %%" % formatDecimal(company.absentee_percentage) if
+            company.absentee_percentage else missing)
+
+        for key in ["accidents", "incapacitated_workers"]:
+            field = DutchCompanySchema[key]
+            value = getattr(company, key, None)
+            row_cells = table.add_row().cells
+            row_cells[0].text = str(field.title)
+            row_cells[1].text = "%d" % value if value else missing
+
+        field = DutchCompanySchema["submit_date"]
+        row_cells = table.add_row().cells
+        row_cells[0].text = str(field.title)
+        row_cells[1].text = (
+            formatDate(request, company.submit_date) if company.submit_date
+            else missing)
+
+        field = DutchCompanySchema["employees"]
+        row_cells = table.add_row().cells
+        row_cells[0].text = str(field.title)
+        row_cells[1].text = (
+            field.vocabulary.getTerm(company.employees).title
+            if company.employees else missing)
+
+        field = DutchCompanySchema["arbo_expert"]
+        row_cells = table.add_row().cells
+        row_cells[0].text = str(field.title)
+        row_cells[1].text = (
+            company.arbo_expert if company.arbo_expert else missing)
+
+        doc.add_page_break()
 
 
 class RIEActionPlanDocxView(ActionPlanDocxView):
 
     _compiler = RIEDocxCompiler
-
 
     def compile(self, data):
         '''

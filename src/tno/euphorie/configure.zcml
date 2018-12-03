@@ -8,7 +8,16 @@
   <include package="z3c.appconfig" file="meta.zcml"/>
 
   <appconfig file="euphorie.ini" />
-  <grok:grok package="." />
+  <grok:grok package=".api" />
+  <grok:grok package=".client" />
+  <grok:grok package=".company" />
+  <grok:grok package=".content" />
+  <grok:grok package=".module" />
+  <grok:grok package=".od" />
+  <grok:grok package=".report" />
+  <grok:grok package=".risk" />
+  <grok:grok package=".session" />
+  <grok:grok package=".survey" />
 
   <include package=".upgrade" />
   <include package=".nuplone" />
@@ -57,5 +66,13 @@
         />
 
     </configure>
+
+
+  <browser:page
+      name="plan_van_aanpak.docx"
+      for="euphorie.ghost.PathGhost"
+      permission="zope2.View"
+      class=".docx_reports.RIEActionPlanDocxView"
+      />
 
 </configure>

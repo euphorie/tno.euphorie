@@ -103,7 +103,10 @@
     <div class="download-block column">
       <article class="pat-well pat-rich">
         <p class="button-bar">
-          <a class="pat-button bar download rtf icon-download piwik_download" href="${python:view.url(name='download')}" i18n:translate="plan_report_plan_header">Report</a>
+          <a class="pat-button bar download rtf icon-download piwik_download" href="${python:view.url(name='plan_van_aanpak.docx')}"><tal:trans i18n:translate="plan_report_plan_header">Report</tal:trans> (new, in DOCX)</a>
+        </p>
+        <p class="button-bar">
+          <a class="pat-button bar download rtf icon-download piwik_download" href="${python:view.url(name='download')}"><tal:trans i18n:translate="plan_report_plan_header">Report</tal:trans> (old, in RTF)</a>
         </p>
         <p class="explanation">
           Het volledige plan van aanpak downloaden</p>

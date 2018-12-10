@@ -40,7 +40,7 @@ class RIEDocxCompiler(DocxCompiler):
         doc.add_paragraph()
         survey = request.survey
         footer_txt = self.t(
-            _("report_identification_revision",
+            _("report_survey_revision",
                 default=u"This document was based on the OiRA Tool '${title}' "
                         u"of revision date ${date}.",
                 mapping={"title": survey.published[1],
@@ -125,13 +125,27 @@ class RIEDocxCompiler(DocxCompiler):
 
         doc.add_page_break()
 
+    def compile(self, data):
+        '''
+        '''
+        self.set_session_title_row(data)
+        self.set_body(
+            data, show_risk_state=True, always_print_description=True
+        )
+
 
 class RIEActionPlanDocxView(ActionPlanDocxView):
 
     _compiler = RIEDocxCompiler
 
-    def compile(self, data):
+    def get_data(self, for_download=False):
+        ''' Gets the data structure in a format suitable for `DocxCompiler`
         '''
-        '''
-        self.set_session_title_row(data)
-        self.set_body(data)
+
+        data = {
+            'title': self.session.title,
+            'heading': self.get_heading(self.session.title),
+            'section_headings': ['Plan van aanpak', ],
+            'nodes': [self.get_session_nodes(), ],
+        }
+        return data

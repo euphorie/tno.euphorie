@@ -43,11 +43,19 @@
     <tal:priority tal:define="show_statement python:True">
         <fieldset tal:define="value data/priority; readonly python:context.risk_type in ['top5', 'policy']">
             <input type="hidden" name="priority" value="${python:value}" tal:condition="readonly" />
-            <label i18n:translate="risk_priority">This is a <select name="${python:'_priority' if readonly else 'priority'}" i18n:name="priority_value" disabled="${python:'disabled' if readonly else None}">
-            <option value="low" selected="${python:'selected' if value=='low' else None}" i18n:translate="risk_priority_low">low</option>
-            <option value="medium" selected="${python:'selected' if value=='medium' else None}" i18n:translate="risk_priority_medium">medium</option>
-            <option value="high" selected="${python:'selected' if value=='high' else None}" i18n:translate="risk_priority_high">high</option>
-            </select> priority risk.</label>
+            <label i18n:translate="risk_priority" tal:condition="not:readonly">
+              This is a
+                <select name="priority" i18n:name="priority_value">
+                  <option value="low" selected="${python:'selected' if value=='low' else None}" i18n:translate="risk_priority_low">low</option>
+                 <option value="medium" selected="${python:'selected' if value=='medium' else None}" i18n:translate="risk_priority_medium">medium</option>
+                <option value="high" selected="${python:'selected' if value=='high' else None}" i18n:translate="risk_priority_high">high</option>
+                </select>
+              priority risk.
+            </label>
+            <label i18n:translate="risk_priority" tal:condition="readonly">
+              This is a <strong i18n:name="priority_value" i18n:translate="">risk_priority_${value}</strong>
+              priority risk.
+            </label>
         </fieldset>
         <metal:call use-macro="webhelpers/macros/risk_info_actionplan" />
     </tal:priority>

@@ -14,5 +14,6 @@ class TnoActionPlanView(ActionPlanView):
     grok.template('risk_actionplan')
     grok.require('euphorie.client.ViewSurvey')
 
-    question_filter = sql.or_(model.MODULE_WITH_RISK_FILTER,
-                              model.RISK_PRESENT_FILTER)
+    question_filter = sql.or_(model.MODULE_WITH_RISK_TOP5_TNO_FILTER,
+                              model.RISK_PRESENT_FILTER_TOP5_TNO_FILTER)
+    risk_filter = model.RISK_PRESENT_FILTER_TOP5_TNO_FILTER

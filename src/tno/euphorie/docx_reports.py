@@ -9,6 +9,12 @@ from tno.euphorie.company import DutchCompanySchema
 from tno.euphorie.report import formatAddress
 
 
+def delete_paragraph(paragraph):
+    p = paragraph._element
+    p.getparent().remove(p)
+    p._p = p._element = None
+
+
 class RIEDocxCompiler(DocxCompiler):
     _template_filename = resource_filename(
         'tno.euphorie',
@@ -20,8 +26,13 @@ class RIEDocxCompiler(DocxCompiler):
         '''
         request = self.request
         doc = self.template
+        header = doc.sections[0].header
+        header_table = header.tables[0]
+
+        header_table.cell(0, 0).paragraphs[0].text = u"{} - {}".format(
+            data["heading"], formatDate(request, date.today()))
+
         doc.paragraphs[0].text = data['heading']
-        doc.add_paragraph(formatDate(request, date.today()), style="Comment")
 
         heading1 = self.t(_(
             "plan_report_intro_header", default=u"Introduction"))
@@ -37,7 +48,7 @@ class RIEDocxCompiler(DocxCompiler):
 
         doc.add_paragraph(heading1, style="Heading 1")
         doc.add_paragraph(intro)
-        doc.add_paragraph()
+
         survey = request.survey
         footer_txt = self.t(
             _("report_survey_revision",
@@ -45,7 +56,23 @@ class RIEDocxCompiler(DocxCompiler):
                         u"of revision date ${date}.",
                 mapping={"title": survey.published[1],
                          "date": formatDate(request, survey.published[2])}))
-        doc.add_paragraph(footer_txt, 'Footer')
+        footer = doc.sections[0].footer
+        paragraph = footer.paragraphs[0]
+
+        # Example code for inserting image (into a newly created table)
+        # width = header_table.cell(0, 0).width + header_table.cell(0, 1).width
+        # table = footer.add_table(rows=1, cols=2, width=width)
+        # wh = self.context.restrictedTraverse('webhelpers')
+        # image = wh.get_sector_logo
+        # img = image.data._blob.open()
+        # from docx.shared import Cm
+        # paragraph = table.cell(0, 1).paragraphs[0]
+        # paragraph.add_run().add_picture(img, width=Cm(1))
+        # paragraph = table.cell(0, 0).paragraphs[0]
+
+        paragraph.style = "Footer"
+        paragraph.text = footer_txt
+
         doc.add_page_break()
         doc.add_paragraph(
             self.t(_(

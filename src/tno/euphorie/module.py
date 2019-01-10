@@ -1,17 +1,10 @@
 from sqlalchemy import sql
-from five import grok
 from euphorie.client import model
-from euphorie.client.module import ActionPlanView
-from tno.euphorie.interfaces import ITnoActionPlanPhaseSkinLayer
-
-grok.templatedir('templates')
+from euphorie.client.browser.module import ActionPlanView
 
 
 class TnoActionPlanView(ActionPlanView):
-    grok.context(model.Module)
-    grok.require('euphorie.client.ViewSurvey')
-    grok.layer(ITnoActionPlanPhaseSkinLayer)
-    grok.name('index_html')
-
-    question_filter = sql.or_(model.MODULE_WITH_RISK_TOP5_TNO_FILTER,
-                              model.RISK_PRESENT_FILTER_TOP5_TNO_FILTER)
+    question_filter = sql.or_(
+        model.MODULE_WITH_RISK_TOP5_TNO_FILTER,
+        model.RISK_PRESENT_FILTER_TOP5_TNO_FILTER
+    )

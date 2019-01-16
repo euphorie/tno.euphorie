@@ -65,6 +65,15 @@
         layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
         />
 
+    <browser:page
+        name="index_html"
+        for="euphorie.client.model.Module"
+        permission="euphorie.client.ViewSurvey"
+        class="tno.euphorie.module.TnoActionPlanView"
+        template="templates/module_actionplan.pt"
+        layer="tno.euphorie.interfaces.ITnoActionPlanPhaseSkinLayer"
+        />
+
     </configure>
 
 

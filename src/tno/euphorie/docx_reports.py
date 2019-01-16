@@ -27,10 +27,11 @@ class RIEDocxCompiler(DocxCompiler):
         request = self.request
         doc = self.template
         header = doc.sections[0].header
-        header_table = header.tables[0]
+        h_table = header.tables[0]
 
-        header_table.cell(0, 0).paragraphs[0].text = u"{} - {}".format(
-            data["heading"], formatDate(request, date.today()))
+        h_table.cell(0, 0).paragraphs[0].text = data["heading"]
+        h_table.cell(0, 1).paragraphs[0].text = u"Datum download: {}".format(
+            formatDate(request, date.today()))
 
         doc.paragraphs[0].text = data['heading']
 
@@ -57,7 +58,8 @@ class RIEDocxCompiler(DocxCompiler):
                 mapping={"title": survey.published[1],
                          "date": formatDate(request, survey.published[2])}))
         footer = doc.sections[0].footer
-        paragraph = footer.paragraphs[0]
+        f_table = footer.tables[0]
+        paragraph = f_table.cell(0, 0).paragraphs[0]
 
         # Example code for inserting image (into a newly created table)
         # width = header_table.cell(0, 0).width + header_table.cell(0, 1).width

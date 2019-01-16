@@ -54,7 +54,7 @@
                 ${view/date}
             </p>
             <h1>${session_title}</h1>
-            <p class="byline" i18n:translate="">Maatregelen geïmplementeerd in de komende maanden</p>
+            <p class="byline" i18n:translate="">Maatregelen geïmplementeerd in de komende 3 maanden</p>
 
             <section class="module" tal:repeat="module view/modules">
                 <h2 class="module-name">

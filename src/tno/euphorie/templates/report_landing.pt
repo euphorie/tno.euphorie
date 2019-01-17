@@ -103,15 +103,12 @@
     <div class="download-block column">
       <article class="pat-well pat-rich">
         <p class="button-bar">
-          <a class="pat-button bar download rtf icon-download piwik_download" href="${python:view.url(name='plan_van_aanpak.docx')}"><tal:trans i18n:translate="plan_report_plan_header">Report</tal:trans> (new, in DOCX)</a>
-        </p>
-        <p class="button-bar">
-          <a class="pat-button bar download rtf icon-download piwik_download" href="${python:view.url(name='download')}"><tal:trans i18n:translate="plan_report_plan_header">Report</tal:trans> (old, in RTF)</a>
+          <a class="pat-button bar download rtf icon-download piwik_download" href="${python:view.url(name='plan_van_aanpak.docx')}"><tal:trans i18n:translate="plan_report_plan_header">Report</tal:trans></a>
         </p>
         <p class="explanation">
           Het volledige plan van aanpak downloaden</p>
         <p style="margin-bottom: 0.5rem;">
-          <tal:span i18n:translate="">Format: Rich Text Format (.rtf)</tal:span><br/>
+          <tal:span i18n:translate="label_format">Format</tal:span>: Word (.docx)<br/>
           Bevat:
         </p>
         <ul>

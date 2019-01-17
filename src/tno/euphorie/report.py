@@ -1,11 +1,15 @@
 # coding=utf-8
+from collections import defaultdict
+from datetime import date
 from euphorie.client import MessageFactory as eu_
 from euphorie.client import model
 from euphorie.client.report import ActionPlanReportDownload
 from euphorie.client.report import createSection
 from euphorie.client.report import MeasuresOverview
 from euphorie.client.report import ReportLanding
-# from euphorie.client.report import RisksOverview
+from euphorie.client.session import SessionManager
+from euphorie.content.interfaces import ICustomRisksModule
+from euphorie.content.profilequestion import IProfileQuestion
 from euphorie.ghost import PathGhost
 from five import grok
 from plonetheme.nuplone.utils import formatDate
@@ -19,12 +23,7 @@ from tno.euphorie.interfaces import ITnoReportPhaseSkinLayer
 from tno.euphorie.model import DutchCompany
 from z3c.saconfig import Session
 from zope.i18n import translate
-from euphorie.client.session import SessionManager
-from datetime import date
 from zope.i18nmessageid import MessageFactory
-from collections import defaultdict
-from euphorie.content.interfaces import ICustomRisksModule
-from euphorie.content.profilequestion import IProfileQuestion
 
 PloneLocalesFactory = MessageFactory("plonelocales")
 
@@ -141,29 +140,6 @@ class TnoActionPlanReportDownload(ActionPlanReportDownload):
                 Cell(Paragraph(normal_style, company.arbo_expert if company.arbo_expert else missing)))
 
         section.append(table)
-
-
-# class TNORisksOverview(RisksOverview):
-#     """ Implements the "Overview of Risks" report, see #10967
-#     """
-#     grok.layer(ITnoReportPhaseSkinLayer)
-#     grok.template("risks_overview")
-#     grok.name("risks_overview")
-
-#     def update(self):
-#         self.session = SessionManager.session
-#         if (
-#             self.session is not None and self.session.title != (
-#                 callable(getattr(self.context, 'Title', None)) and
-#                 self.context.Title() or ''
-#             )
-#         ):
-#             self.session_title = self.session.title
-#         else:
-#             self.session_title = (
-#                 callable(getattr(self.context, 'Title', None)) and
-#                 self.context.Title() or '')
-#         self.getStatus()
 
 
 class TNOMeasuresOverview(MeasuresOverview):

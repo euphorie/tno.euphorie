@@ -1,18 +1,14 @@
 # coding=utf-8
 from datetime import date
 from euphorie.client import MessageFactory as _
+from euphorie.client.docx.compiler import delete_paragraph
 from euphorie.client.docx.compiler import DocxCompiler
 from euphorie.client.docx.views import ActionPlanDocxView
+from euphorie.client.docx.views import IdentificationReportDocxView
 from pkg_resources import resource_filename
 from plonetheme.nuplone.utils import formatDate
 from tno.euphorie.company import DutchCompanySchema
 from tno.euphorie.report import formatAddress
-
-
-def delete_paragraph(paragraph):
-    p = paragraph._element
-    p.getparent().remove(p)
-    p._p = p._element = None
 
 
 class RIEDocxCompiler(DocxCompiler):
@@ -176,5 +172,69 @@ class RIEActionPlanDocxView(ActionPlanDocxView):
             'heading': self.get_heading(self.session.title),
             'section_headings': ['Plan van aanpak', ],
             'nodes': [self.get_session_nodes(), ],
+        }
+        return data
+
+
+class RIEIdentificationReportCompiler(RIEDocxCompiler):
+
+    def set_session_title_row(self, data):
+
+        request = self.request
+        doc = self.template
+
+        # Remove existing paragraphs
+        for paragraph in doc.paragraphs:
+            delete_paragraph(paragraph)
+
+        header = doc.sections[0].header
+        h_table = header.tables[0]
+        h_table.cell(0, 0).paragraphs[0].text = data['heading']
+        h_table.cell(0, 1).paragraphs[0].text = u"Datum download: {}".format(
+            formatDate(request, date.today()))
+
+        # doc.paragraphs[0].text = data['heading']
+
+        survey = request.survey
+        footer_txt = self.t(
+            _("report_survey_revision",
+                default=u"This document was based on the OiRA Tool '${title}' "
+                        u"of revision date ${date}.",
+                mapping={"title": survey.published[1],
+                         "date": formatDate(request, survey.published[2])}))
+        footer = doc.sections[0].footer
+        f_table = footer.tables[0]
+        paragraph = f_table.cell(0, 0).paragraphs[0]
+        paragraph.style = "Footer"
+        paragraph.text = footer_txt
+
+    def compile(self, data):
+        '''
+        '''
+        self.set_session_title_row(data)
+        self.set_body(
+            data,
+            show_priority=False,
+            show_risk_state=True,
+            always_print_description=True,
+            skip_legal_references=False,
+            skip_existing_measures=True,
+            skip_planned_measures=True,
+        )
+
+
+class RIEIdentificationReportDocxView(IdentificationReportDocxView):
+
+    _compiler = RIEIdentificationReportCompiler
+
+    def get_data(self, for_download=False):
+        ''' Gets the data structure in a format suitable for `DocxCompiler`
+        '''
+
+        data = {
+            'title': self.session.title,
+            'heading': self.session.title,
+            'section_headings': [self.session.title],
+            'nodes': [self.get_session_nodes()],
         }
         return data

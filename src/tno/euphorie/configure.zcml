@@ -85,4 +85,12 @@
       class=".docx_reports.RIEActionPlanDocxView"
       />
 
+  <browser:page
+      name="identification-report.docx"
+      for="euphorie.ghost.PathGhost"
+      permission="zope2.View"
+      class=".docx_reports.RIEIdentificationReportDocxView"
+      layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
+      />
+
 </configure>

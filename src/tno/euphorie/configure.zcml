@@ -18,6 +18,7 @@
   <grok:grok package=".risk" />
   <grok:grok package=".session" />
   <grok:grok package=".survey" />
+  <grok:grok package=".nuplone" />
 
   <include package=".upgrade" />
   <include package=".nuplone" />

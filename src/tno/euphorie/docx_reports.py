@@ -86,12 +86,12 @@ class RIEDocxCompiler(DocxCompiler):
         field = DutchCompanySchema["title"]
         row_cells = table.rows[0].cells
         row_cells[0].text = str(field.title)
-        row_cells[1].text = company.title if company.title else missing
+        row_cells[1].text = company.title if company and company.title else missing
 
         row_cells = table.add_row().cells
         address = formatAddress(
             company.address_visit_address,
-            company.address_visit_postal, company.address_visit_city)
+            company.address_visit_postal, company.address_visit_city) if company else None
 
         row_cells[0].text = "Bezoekadres bedrijf"
         row_cells[1].text = address if address else missing
@@ -99,7 +99,7 @@ class RIEDocxCompiler(DocxCompiler):
 
         address = formatAddress(
             company.address_postal_address,
-            company.address_postal_postal, company.address_postal_city)
+            company.address_postal_postal, company.address_postal_city) if company else None
         row_cells[0].text = "Postadres bedrijf"
         row_cells[1].text = address if address else missing
 
@@ -119,7 +119,7 @@ class RIEDocxCompiler(DocxCompiler):
         row_cells[0].text = str(field.title)
         row_cells[1].text = (
             u"%s %%" % formatDecimal(company.absentee_percentage) if
-            company.absentee_percentage else missing)
+            company and company.absentee_percentage else missing)
 
         for key in ["accidents", "incapacitated_workers"]:
             field = DutchCompanySchema[key]
@@ -132,21 +132,21 @@ class RIEDocxCompiler(DocxCompiler):
         row_cells = table.add_row().cells
         row_cells[0].text = str(field.title)
         row_cells[1].text = (
-            formatDate(request, company.submit_date) if company.submit_date
-            else missing)
+            formatDate(request, company.submit_date) if company and
+            company.submit_date else missing)
 
         field = DutchCompanySchema["employees"]
         row_cells = table.add_row().cells
         row_cells[0].text = str(field.title)
         row_cells[1].text = (
             field.vocabulary.getTerm(company.employees).title
-            if company.employees else missing)
+            if company and company.employees else missing)
 
         field = DutchCompanySchema["arbo_expert"]
         row_cells = table.add_row().cells
         row_cells[0].text = str(field.title)
         row_cells[1].text = (
-            company.arbo_expert if company.arbo_expert else missing)
+            company.arbo_expert if company and company.arbo_expert else missing)
 
         doc.add_page_break()
 

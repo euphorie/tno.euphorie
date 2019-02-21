@@ -38,7 +38,7 @@
 
         <h2 i18n:translate="">Download and print your report</h2>
 
-        <p>Het volledig rapport inclusief alle vragen en de door u ingevulde antwoorden is te downloaden via deze link: “<a href="${python:webhelpers.survey_url(phase='identification')}/report/download">lijst met alle risico’s printen</a>”.</p>
+        <p>Het volledig rapport inclusief alle vragen en de door u ingevulde antwoorden is te downloaden via deze link: “<a href="${python:view.url(name='identification-report.docx')}">lijst met alle risico’s printen</a>”.</p>
 
         <p i18n:translate="">Save the report on your computer and print it. You can also modify it or add more information. Please note that changes made on your pc will NOT be saved in the OiRA tool</p>
 

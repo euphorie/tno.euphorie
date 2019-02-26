@@ -1,10 +1,11 @@
 Changelog
 =========
 
-7.0.0b4 (unreleased)
---------------------
+8.0.0 (unreleased)
+------------------
 
-- Nothing changed yet.
+- Upgrade to Plone5
+- Switch to outputting .docx natively
 
 
 7.0.0b3 (2018-10-25)

@@ -1,0 +1,15 @@
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:tal="http://xml.zope.org/namespaces/tal"
+      xmlns:i18n="http://xml.zope.org/namespaces/i18n"
+      i18n:domain="nuplone"
+      tal:omit-tag="">
+<fieldset class="richInput ${view/@@dependencies}">
+    <legend>${view/label}<sup tal:condition="view/required" class="required">*</sup></legend>
+    <textarea id="${view/id}" name="${view/name}" class="${view/klass}" disabled="${view/disabled}" readonly="${view/readonly}" cols="${view/cols}" rows="${view/rows}" tal:content="structure view/value"
+        style="width:100%" />
+
+    <tal:error condition="view/error" replace="structure view/error/render|nothing"/>
+    <dfn class="infoPanel" i18n:attributes="title" title="Information" tal:define="description view/field/description" tal:condition="description">${description}</dfn>
+</fieldset>
+</html>
+

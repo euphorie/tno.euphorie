@@ -1,7 +1,7 @@
 Changelog
 =========
 
-8.0.0 (unreleased)
+8.0.0 (2019-02-26)
 ------------------
 
 - Upgrade to Plone5

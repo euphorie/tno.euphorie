@@ -75,6 +75,16 @@
         layer="tno.euphorie.interfaces.ITnoActionPlanPhaseSkinLayer"
         />
 
+    <!-- Risk -->
+    <browser:page
+        name="index_html"
+        for="euphorie.client.model.Risk"
+        permission="euphorie.client.ViewSurvey"
+        class="tno.euphorie.risk.TnoActionPlanView"
+        template="templates/risk_actionplan.pt"
+        layer="tno.euphorie.interfaces.ITnoActionPlanPhaseSkinLayer"
+        />
+
     </configure>
 
 

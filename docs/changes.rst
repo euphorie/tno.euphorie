@@ -4,8 +4,7 @@ Changelog
 8.0.1 (unreleased)
 ------------------
 
-- Nothing changed yet.
-
+- Fix broken release 8.0.0
 
 8.0.0 (2019-02-26)
 ------------------

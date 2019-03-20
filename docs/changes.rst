@@ -4,8 +4,7 @@ Changelog
 8.0.2 (unreleased)
 ------------------
 
-- Nothing changed yet.
-
+- CMS: on error unauth page, fix link to reset PW form
 
 8.0.1 (2019-02-28)
 ------------------

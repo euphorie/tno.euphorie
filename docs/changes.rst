@@ -4,7 +4,10 @@ Changelog
 8.0.3 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Action plan: TNO's version has the specialty that top5 risks that have not
+  yet been answered are NOT shown in the action plan. Fixed a bug in the
+  navigtion that came from conflicting computation of affected risks and
+  modules.
 
 
 8.0.2 (2019-03-20)

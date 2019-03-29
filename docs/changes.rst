@@ -1,7 +1,7 @@
 Changelog
 =========
 
-8.0.3 (unreleased)
+8.0.3 (2019-03-29)
 ------------------
 
 - Action plan: TNO's version has the specialty that top5 risks that have not

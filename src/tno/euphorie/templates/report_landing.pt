@@ -15,6 +15,7 @@
 
 <body>
 <metal:slot fill-slot="content">
+  <div id="content-pane">
     <tal:block replace="tile:statusmessages"/>
 
     <div class="pat-well pat-message notice" tal:condition="webhelpers/allow_social_sharing">
@@ -113,7 +114,7 @@
         </p>
         <ul>
           <li>alle in uw bedrijf aanwezige risico’s met de daarbij te nemen maatregelen</li>
-          <li>alle door de branche als prioritaire aangemerkte risico’s, ook als deze niet in uw bedrijf aanwezig zijn of nog niet beoordeeld zijn.
+          <li>alle door de branche als prioritaire aangemerkte risico’s, ook als deze niet in uw bedrijf aanwezig zijn of nog niet beoordeeld zijn.</li>
           <li>toelichting bij bovenstaande risico’s</li>
 
         </ul>
@@ -155,6 +156,7 @@
   </div>
 
     <tal:block replace="tile:client-analytics"/>
+  </div>
   </metal:slot>
   </body>
 </html>

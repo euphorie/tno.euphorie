@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '8.0.4.dev0'
+version = '8.1.0.dev0'
 
 setup(name="tno.euphorie",
       version=version,
@@ -29,8 +29,8 @@ setup(name="tno.euphorie",
       package_dir={"": "src"},
       zip_safe=False,
       install_requires=[
-          'Euphorie >=9.0.0',
-          'NuPlone >=1.3.9',
+          'Euphorie >=11.0.0',
+          'NuPlone >=1.6.1',
           'Pillow',
           # We seem to have a persisten utility that prevents running upgrade
           # steps. The following package is therefore added for providing the

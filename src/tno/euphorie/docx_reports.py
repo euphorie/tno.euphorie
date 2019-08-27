@@ -1,4 +1,5 @@
 # coding=utf-8
+from Acquisition import aq_parent
 from datetime import date
 from euphorie.client import MessageFactory as _
 from euphorie.client.docx.compiler import delete_paragraph
@@ -46,7 +47,7 @@ class RIEDocxCompiler(DocxCompiler):
         doc.add_paragraph(heading1, style="Heading 1")
         doc.add_paragraph(intro)
 
-        survey = request.survey
+        survey = aq_parent(self.context)
         footer_txt = self.t(
             _("report_survey_revision",
                 default=u"This document was based on the OiRA Tool '${title}' "
@@ -166,10 +167,11 @@ class RIEActionPlanDocxView(ActionPlanDocxView):
     def get_data(self, for_download=False):
         ''' Gets the data structure in a format suitable for `DocxCompiler`
         '''
+        session = self.context.session
 
         data = {
-            'title': self.session.title,
-            'heading': self.get_heading(self.session.title),
+            'title': session.title,
+            'heading': self.get_heading(session.title),
             'section_headings': ['Plan van aanpak', ],
             'nodes': [self.get_session_nodes(), ],
         }
@@ -195,7 +197,7 @@ class RIEIdentificationReportCompiler(RIEDocxCompiler):
 
         # doc.paragraphs[0].text = data['heading']
 
-        survey = request.survey
+        survey = aq_parent(self.context)
         footer_txt = self.t(
             _("report_survey_revision",
                 default=u"This document was based on the OiRA Tool '${title}' "
@@ -230,11 +232,12 @@ class RIEIdentificationReportDocxView(IdentificationReportDocxView):
     def get_data(self, for_download=False):
         ''' Gets the data structure in a format suitable for `DocxCompiler`
         '''
+        session = self.context.session
 
         data = {
-            'title': self.session.title,
-            'heading': self.session.title,
-            'section_headings': [self.session.title],
+            'title': session.title,
+            'heading': session.title,
+            'section_headings': [session.title],
             'nodes': [self.get_session_nodes()],
         }
         return data

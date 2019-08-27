@@ -1,26 +1,14 @@
 # coding=utf-8
 from collections import defaultdict
 from datetime import date
-from euphorie.client import MessageFactory as eu_
 from euphorie.client import model
-from euphorie.client.report import ActionPlanReportDownload
-from euphorie.client.report import createSection
-from euphorie.client.report import MeasuresOverview
+from euphorie.client.browser import session
 from euphorie.client.report import ReportLanding
-from euphorie.client.session import SessionManager
 from euphorie.content.interfaces import ICustomRisksModule
 from euphorie.content.profilequestion import IProfileQuestion
-from euphorie.ghost import PathGhost
 from five import grok
-from plonetheme.nuplone.utils import formatDate
-from rtfng.document.paragraph import Cell
-from rtfng.document.paragraph import Paragraph
-from rtfng.document.paragraph import Table
-from rtfng.PropertySets import TabPropertySet
 from sqlalchemy import sql
-from tno.euphorie.company import DutchCompanySchema
-from tno.euphorie.interfaces import ITnoReportPhaseSkinLayer
-from tno.euphorie.model import DutchCompany
+from tno.euphorie.interfaces import ITnoClientSkinLayer
 from z3c.saconfig import Session
 from zope.i18n import translate
 from zope.i18nmessageid import MessageFactory
@@ -48,109 +36,16 @@ class TNOReportLanding(ReportLanding):
     This replaces the standard online view of the report with a page
     offering the RTF and XLSX download options.
     """
-    grok.context(PathGhost)
-    grok.layer(ITnoReportPhaseSkinLayer)
+    grok.layer(ITnoClientSkinLayer)
     grok.template("report_landing")
 
 
-class TnoActionPlanReportDownload(ActionPlanReportDownload):
-    grok.layer(ITnoReportPhaseSkinLayer)
-    grok.name("download")
-
-    def getNodes(self):
-        query = Session.query(model.SurveyTreeItem)\
-                .filter(model.SurveyTreeItem.session == self.session)\
-                .filter(sql.not_(model.SKIPPED_PARENTS))\
-                .filter(sql.or_(model.MODULE_WITH_RISK_OR_TOP5_FILTER,
-                                model.RISK_PRESENT_OR_TOP5_FILTER))\
-                .order_by(model.SurveyTreeItem.path)
-        return  query.all()
-
-    def update(self):
-        super(TnoActionPlanReportDownload, self).update()
-        if self.session.dutch_company is None:
-            self.session.dutch_company=DutchCompany()
-
-    def addCompanyInformation(self, document):
-        request=self.request
-        company=self.session.dutch_company
-        t=lambda txt: translate(txt, context=request)
-        section = createSection(document, self.context, self.session,
-                self.request)
-        normal_style=document.StyleSheet.ParagraphStyles.Normal
-        missing=t(eu_("missing_data", default=u"Not provided"))
-
-        section.append(Paragraph(
-            document.StyleSheet.ParagraphStyles.Heading1,
-            t(eu_("plan_report_company_header", default=u"Company details"))))
-
-        table=Table(TabPropertySet.DEFAULT_WIDTH*3, TabPropertySet.DEFAULT_WIDTH*8)
-
-        field=DutchCompanySchema["title"]
-        table.append(
-                Cell(Paragraph(normal_style, str(field.title))),
-                Cell(Paragraph(normal_style, company.title if company.title else missing)))
-
-        address=formatAddress(company.address_visit_address,
-                company.address_visit_postal, company.address_visit_city)
-        table.append(
-                Cell(Paragraph(normal_style, "Bezoekadres bedrijf")),
-                Cell(Paragraph(normal_style, address if address else missing)))
-
-        address=formatAddress(company.address_postal_address,
-                company.address_postal_postal, company.address_postal_city)
-        table.append(
-                Cell(Paragraph(normal_style, "Postadres bedrijf")),
-                Cell(Paragraph(normal_style, address if address else missing)))
-
-        for key in ["email", "phone", "activity", "submitter_name",
-                      "submitter_function", "department", "location"]:
-            field=DutchCompanySchema[key]
-            value=getattr(company, key, None)
-            table.append(
-                    Cell(Paragraph(normal_style, field.title)),
-                    Cell(Paragraph(normal_style, value if value else missing))),
-
-        formatDecimal=request.locale.numbers.getFormatter("decimal").format
-        field=DutchCompanySchema["absentee_percentage"]
-        table.append(
-                Cell(Paragraph(normal_style, field.title)),
-                Cell(Paragraph(normal_style, u"%s %%" % formatDecimal(company.absentee_percentage) if company.absentee_percentage else missing)))
-
-        for key in [ "accidents", "incapacitated_workers"]:
-            field=DutchCompanySchema[key]
-            value=getattr(company, key, None)
-            table.append(
-                    Cell(Paragraph(normal_style, field.title)),
-                    Cell(Paragraph(normal_style, "%d" % value if value is not None else missing)))
-
-        field=DutchCompanySchema["submit_date"]
-        table.append(
-                Cell(Paragraph(normal_style, field.title)),
-                Cell(Paragraph(normal_style, formatDate(request, company.submit_date) if company.submit_date else missing)))
-
-        field=DutchCompanySchema["employees"]
-        table.append(
-                Cell(Paragraph(normal_style, field.title)),
-                Cell(Paragraph(normal_style, field.vocabulary.getTerm(company.employees).title if company.employees else missing)))
-
-        field=DutchCompanySchema["arbo_expert"]
-        table.append(
-                Cell(Paragraph(normal_style, str(field.title))),
-                Cell(Paragraph(normal_style, company.arbo_expert if company.arbo_expert else missing)))
-
-        section.append(table)
-
-
-class TNOMeasuresOverview(MeasuresOverview):
+class MeasuresOverview(session.MeasuresOverview):
     """ Implements the "Overview of Measures" report, see #10967
     """
-    grok.layer(ITnoReportPhaseSkinLayer)
-    grok.template("measures_overview")
-    grok.name("measures_overview")
 
     def update(self):
-        self.session = SessionManager.session
+        super(MeasuresOverview, self).update()
         lang = getattr(self.request, 'LANGUAGE', 'en')
         if "-" in lang:
             lang = lang.split("-")[0]
@@ -233,7 +128,7 @@ class TNOMeasuresOverview(MeasuresOverview):
         modulesdict = defaultdict(lambda: defaultdict(list))
         for module, risk, action in measures:
             if 'custom-risks' not in risk.zodb_path:
-                risk_obj = self.request.survey.restrictedTraverse(risk.zodb_path.split('/'))
+                risk_obj = self.survey.restrictedTraverse(risk.zodb_path.split('/'))
                 title = risk_obj and risk_obj.problem_description or risk.title
             else:
                 title = risk.title
@@ -282,7 +177,7 @@ class TNOMeasuresOverview(MeasuresOverview):
 
         main_modules = {}
         for module, risks in sorted(modulesdict.items(), key=lambda m: m[0].zodb_path):
-            module_obj = self.request.survey.restrictedTraverse(module.zodb_path.split('/'))
+            module_obj = self.survey.restrictedTraverse(module.zodb_path.split('/'))
             if (
                 IProfileQuestion.providedBy(module_obj) or
                 ICustomRisksModule.providedBy(module_obj) or

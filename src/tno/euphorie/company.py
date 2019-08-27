@@ -9,8 +9,7 @@ from plone.directives import form
 from plonetheme.nuplone.z3cform.form import FieldWidgetFactory
 from euphorie.client.company import Company as GenericCompany
 from euphorie.client.session import SessionManager
-from euphorie.client.survey import PathGhost
-from tno.euphorie.interfaces import ITnoReportPhaseSkinLayer
+from tno.euphorie.interfaces import ITnoClientSkinLayer
 from tno.euphorie.model import DutchCompany
 
 
@@ -115,7 +114,6 @@ class DutchCompanySchema(form.Schema):
             required=False)
 
 
-
 class Company(GenericCompany):
     """Update the company details.
 
@@ -124,11 +122,8 @@ class Company(GenericCompany):
     :py:class:`SurveyPublishTraverser` generates a `PathGhost` object for
     the *inventory* component of the URL.
     """
-    grok.context(PathGhost)
-    grok.require("euphorie.client.ViewSurvey")
-    grok.layer(ITnoReportPhaseSkinLayer)
+    grok.layer(ITnoClientSkinLayer)
     grok.template("report_company")
-    grok.name("company")
 
     schema = DutchCompanySchema
     company = None
@@ -142,5 +137,3 @@ class Company(GenericCompany):
             session.dutch_company=DutchCompany(submit_date=datetime.date.today())
         directlyProvides(session.dutch_company, DutchCompanySchema)
         self.company=session.dutch_company
-
-

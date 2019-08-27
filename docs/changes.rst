@@ -1,10 +1,17 @@
 Changelog
 =========
 
-8.0.4 (unreleased)
+8.1.1 (unreleased)
 ------------------
 
 - Nothing changed yet.
+
+
+8.1.0 (2019-08-20)
+------------------
+
+- Switch to Euphorie 11, with improved UI: the tool navigation
+  is now part of the Phase navigation
 
 
 8.0.3 (2019-03-29)

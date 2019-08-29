@@ -8,7 +8,6 @@ from zope.schema.vocabulary import SimpleVocabulary
 from plone.directives import form
 from plonetheme.nuplone.z3cform.form import FieldWidgetFactory
 from euphorie.client.company import Company as GenericCompany
-from euphorie.client.session import SessionManager
 from tno.euphorie.interfaces import ITnoClientSkinLayer
 from tno.euphorie.model import DutchCompany
 
@@ -132,7 +131,7 @@ class Company(GenericCompany):
     def _assertCompany(self):
         if self.company is not None:
             return
-        session=SessionManager.session
+        session = self.session
         if session.dutch_company is None:
             session.dutch_company=DutchCompany(submit_date=datetime.date.today())
         directlyProvides(session.dutch_company, DutchCompanySchema)

@@ -66,6 +66,16 @@
         layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
         />
 
+    <!-- Start -->
+    <browser:page
+        name="start"
+        for="euphorie.client.adapters.session_traversal.ITraversedSurveySession"
+        permission="euphorie.client.ViewSurvey"
+        class="tno.euphorie.survey.Start"
+        template="templates/start.pt"
+        layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
+        />
+
     <!-- Risk -->
     <browser:page
         name="actionplan"

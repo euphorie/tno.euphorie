@@ -4,7 +4,7 @@ Changelog
 8.1.1 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Adapt to Euphorie 11.1 that uses deep-linking
 
 
 8.1.0 (2019-08-20)

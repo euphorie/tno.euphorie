@@ -35,6 +35,7 @@ setup(name="tno.euphorie",
           # We seem to have a persisten utility that prevents running upgrade
           # steps. The following package is therefore added for providing the
           # required interface.
+          'alembic',
           'collective.js.jqueryui',
           "collective.indexing",
           "plone.browserlayer",

@@ -132,7 +132,7 @@
               <p class="button-bar">
                 <a class="pat-button bar download rtf icon-download piwik_download"
                    href="${python:view.url(name='@@plan_van_aanpak.docx')}"
-                ><tal:trans i18n:translate="plan_report_plan_header">Report</tal:trans></a>
+                >Plan van aanpak</a>
               </p>
               <p class="explanation">
           Het volledige plan van aanpak downloaden

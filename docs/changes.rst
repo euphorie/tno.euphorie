@@ -5,6 +5,7 @@ Changelog
 ------------------
 
 - Start using alembic for keeping DB up to date
+- Fix translation issue
 
 8.1.1 (2019-09-03)
 ------------------

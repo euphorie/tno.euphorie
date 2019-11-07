@@ -1,7 +1,7 @@
 Changelog
 =========
 
-8.1.3 (unreleased)
+8.1.3 (2019-11-07)
 ------------------
 
 - Fix brown-bag release

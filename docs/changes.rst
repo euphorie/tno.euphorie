@@ -1,7 +1,7 @@
 Changelog
 =========
 
-8.1.2 (unreleased)
+8.1.2 (2019-11-07)
 ------------------
 
 - Start using alembic for keeping DB up to date

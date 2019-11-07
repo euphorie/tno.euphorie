@@ -4,8 +4,7 @@ Changelog
 8.1.3 (unreleased)
 ------------------
 
-- Nothing changed yet.
-
+- Fix brown-bag release
 
 8.1.2 (2019-11-07)
 ------------------

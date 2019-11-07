@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 import os
 
-version = '8.1.3'
+version = '8.1.4.dev0'
 
 setup(name="tno.euphorie",
       version=version,

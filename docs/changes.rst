@@ -4,7 +4,7 @@ Changelog
 8.1.4 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Customize template for Start (Preparation), to keep old functionality
 
 
 8.1.3 (2019-11-07)

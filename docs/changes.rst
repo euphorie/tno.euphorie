@@ -1,7 +1,7 @@
 Changelog
 =========
 
-8.1.4 (unreleased)
+8.1.4 (2020-02-25)
 ------------------
 
 - Customize template for Start (Preparation), to keep old functionality

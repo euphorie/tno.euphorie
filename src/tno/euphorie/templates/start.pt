@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:i18n="http://xml.zope.org/namespaces/i18n"
+      xmlns:metal="http://xml.zope.org/namespaces/metal"
+      xmlns:tal="http://xml.zope.org/namespaces/tal"
+      metal:define-macro="master"
+      metal:use-macro="context/@@shell/macros/shell"
+      tal:define="
+        webhelpers nocall:view/@@webhelpers;
+        default_introduction nocall:context/@@default_introduction;
+        session view/session;
+        can_edit webhelpers/can_edit_session;
+        has_profile view/has_profile;
+      "
+      i18n:domain="euphorie"
+>
+
+  <!-- The equivalent template in the Jekyll prototype is preparation.html -->
+
+  <body>
+    <metal:slot fill-slot="content">
+      <tal:block replace="tile:statusmessages" />
+      <form class="pat-form pat-inject pat-validation"
+        data-pat-validation="disable-selector: button[name='form.button.submit'];
+                           message-required: ${view/message_required};"
+            action="${request/URL}"
+            method="POST"
+            data-pat-inject="history: record; source: #content; target: #content &amp;&amp; source: #navigation; target: #navigation;"
+      >
+      <div id="content-pane">
+        <nav class="page-actions">
+          <metal:actions define-slot="page-actions">
+            <a class="icon-share iconified pat-tooltip"
+               href="${request/ACTUAL_URL}#sharing-menu"
+               title="Share this OiRA-Tool"
+               data-pat-tooltip="source: ajax; position-list: tr"
+               tal:condition="webhelpers/allow_social_sharing"
+               i18n:attributes="title"
+            >Share</a>
+            <a tal:replace="structure here/@@more_badge|nothing"></a>
+          </metal:actions>
+        </nav>
+        <p class="pat-message notice"
+           tal:condition="not:can_edit"
+           i18n:translate=""
+        >
+          You don't have edit rights for this risk assesment,
+          but you can download this risk assessment in various forms in the
+          <a href="${here/absolute_url}/@@report_view"
+             i18n:name="download_section"
+             i18n:translate=""
+          >download section</a>.
+        </p>
+        <article class="pat-rich">
+          <h1>${context/title}</h1>
+        <section tal:condition="context/description">
+          <p>${context/description}</p>
+        </section>
+        </article>
+        <fieldset class="vertical pat-inject pat-subform pat-autosubmit"
+                  data-pat-inject="url: ; source: #osc-header; target: #osc-header"
+                  tal:condition="can_edit"
+        >
+          <metal:widgets define-slot="widgets">
+            <tal:for repeat="widgetid view/widgets">
+              <label tal:define="
+                       widget nocall:view/widgets/?widgetid;
+                       name widget/name;
+                     "
+              >
+                ${widget/label}
+                <input tal:replace="structure widget/render" />
+                <tal:error condition="widget/error"
+                           replace="structure widget/error/render|nothing"
+                />
+              </label>
+            </tal:for>
+          </metal:widgets>
+        </fieldset>
+
+        <dl class="pat-grid-list"
+            tal:condition="not:can_edit"
+        >
+        <metal:widgets define-slot="widgets">
+          <tal:for repeat="widgetid view/widgets">
+            <dt tal:define="
+                  widget nocall:view/widgets/?widgetid;
+                "
+            >
+            ${widget/label}
+            </dt>
+            <dd>${session/?widgetid}</dd>
+          </tal:for>
+        </metal:widgets>
+        </dl>
+
+        <article class="pat-rich">
+          <figure class="postit external-reference"
+                  tal:condition="view/scaled_tool_image_url"
+          >
+            <a href="${context/external_site_url | nothing}"
+               target="_blank"
+               tal:omit-tag="not:context/external_site_url | nothing"
+            >
+                <img src="${view/scaled_tool_image_url}" />
+            </a>
+            <figcaption tal:condition="context/external_site_name | nothing"
+                        i18n:translate=""
+            >
+            This OiRA tool was offered to you by
+              <a href="context/external_site_url | nothing"
+                 target="_blank"
+                 tal:content="context/external_site_name"
+                 tal:omit-tag="not:context/external_site_url | nothing"
+                 i18n:name="external_site"
+              >Leather Tanning</a>
+            </figcaption>
+          </figure>
+
+          <section>
+            <tal:block condition="not:view/has_introduction">
+              <metal:introduction use-macro="default_introduction/macros/default_introduction" />
+            </tal:block>
+            <p tal:condition="view/has_introduction"
+               tal:replace="structure context/introduction"
+            >
+                Introduction text for this sector.
+            </p>
+          </section>
+
+        </article>
+
+      </div>
+        <div class="button-bar"
+             id="nav-bar"
+             tal:condition="can_edit"
+        >
+          <button class="pat-button pat-switch continue"
+                  name="form.button.submit"
+                  type="submit"
+                  data-pat-switch="selector: body; remove: sidebar-${python:has_profile and 'on' or 'off'}; add: sidebar-${python:has_profile and 'off' or 'on'}"
+                  i18n:translate="label_start_survey"
+          >Start</button>
+        </div>
+      </form>
+
+      <div id="sharing-menu"
+           hidden="hidden"
+           tal:condition="webhelpers/allow_social_sharing"
+      >
+
+        <p class="pat-message notice"
+           i18n:translate=""
+        >
+        This tool deserves to be known by the world! Share it!
+        </p>
+
+        <ul class="menu">
+          <li>
+            <a class="twitter icon-twitter"
+               href="http://twitter.com/share?url=${webhelpers/survey_url}"
+               onclick="javascript:_paq.push(['trackEvent', 'SocialSharing', 'Twitter', 'Start']);"
+               target="sharing"
+            >Twitter</a>
+          </li>
+          <li>
+            <a class="facebook icon-facebook"
+               href="http://www.facebook.com/sharer.php?u=${webhelpers/base_url}/@@tryout?${webhelpers/came_from_param}"
+               onclick="javascript:_paq.push(['trackEvent', 'SocialSharing', 'Facebook', 'Start']);"
+               target="sharing"
+            >Facebook</a>
+          </li>
+          <li>
+            <a class="email icon-mail"
+               href="mailto:?subject=OiRA &mdash; ${webhelpers/tool_name}&amp;body=${webhelpers/email_sharing_text}: ${webhelpers/survey_url}"
+               onclick="javascript:_paq.push(['trackEvent', 'SocialSharing', 'Email', 'Start']);"
+               i18n:translate=""
+            >E-mail</a>
+          </li>
+        </ul>
+      </div>
+
+    </metal:slot>
+
+    <metal:slot fill-slot="splash_message_slot">
+    <!-- SPLASH SLOT -->
+      <div class="splash-message" id="splash-message">
+      <tal:splash condition="python:tool_notification is not None">
+
+        <hr class="trigger pat-switch"
+            data-pat-switch="selector: body; remove: splash-on-tool*; add: splash-off-${tool_notification/id}; store: session"
+        />
+        <article class="pat-rich content">
+          <p>
+            <img src="${webhelpers/country_url}/++resource++euphorie.media/oira-logo-colour.svg"
+                 width="20%"
+            />
+          </p>
+          <h1 tal:content="structure tool_notification/title">Message of the day!</h1>
+          <tal:content content="structure tool_notification/text">
+            <p>Sit amet consectetuer.</p>
+            <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.</p>
+            <p>OiRA Team</p>
+          </tal:content>
+        </article>
+      </tal:splash>
+      </div>
+    </metal:slot>
+
+  </body>
+</html>

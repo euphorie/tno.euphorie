@@ -4,8 +4,7 @@ Changelog
 8.1.5 (unreleased)
 ------------------
 
-- Nothing changed yet.
-
+- Add missing alembic upgrade step
 
 8.1.4 (2020-02-25)
 ------------------

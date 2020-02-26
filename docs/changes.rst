@@ -1,7 +1,7 @@
 Changelog
 =========
 
-8.1.5 (unreleased)
+8.1.5 (2020-02-26)
 ------------------
 
 - Add missing alembic upgrade step

@@ -3,12 +3,10 @@ from z3c.form.interfaces import ITextAreaWidget
 
 
 class IDaimlerFormLayer(INuPloneFormLayer):
-    """ Browser layer to indicate we want OiRA form components.
-    """
+    """Browser layer to indicate we want OiRA form components."""
 
 
 class ILargeTextAreaWidget(ITextAreaWidget):
-    """ Interface for a custom widget for the Homepage's description,
-         which is used for manual (non-wysiwyg) editing of HTML.
+    """Interface for a custom widget for the Homepage's description,
+    which is used for manual (non-wysiwyg) editing of HTML.
     """
-

@@ -1,40 +1,52 @@
+from euphorie.client.enum import Enum
+from euphorie.client.model import BaseObject
 from sqlalchemy import orm
-from sqlalchemy.sql import functions
 from sqlalchemy import schema
 from sqlalchemy import types
-from euphorie.client.model import BaseObject
-from euphorie.client.enum import Enum
+from sqlalchemy.sql import functions
 
 
 class OdLink(BaseObject):
     """Link to OndernemingsDossier."""
-    __tablename__ = 'od_link'
+
+    __tablename__ = "od_link"
 
     id = schema.Column(types.Integer(), primary_key=True, autoincrement=True)
-    session_id = schema.Column(types.Integer(),
+    session_id = schema.Column(
+        types.Integer(),
         schema.ForeignKey("session.id", onupdate="CASCADE", ondelete="CASCADE"),
-        nullable=False)
-    session = orm.relation("SurveySession", backref=orm.backref('od_link', uselist=False))
+        nullable=False,
+    )
+    session = orm.relation(
+        "SurveySession", backref=orm.backref("od_link", uselist=False)
+    )
     vestigings_sleutel = schema.Column(types.String(), nullable=False, index=True)
     webservice = schema.Column(types.String(), nullable=False)
     version = schema.Column(types.Integer(), default=0, nullable=False)
 
     @property
     def wsdl_url(self):
-        return self.webservice + '&wsdl'
+        return self.webservice + "&wsdl"
 
 
 class DutchCompany(BaseObject):
     """Information about a Dutch company."""
+
     __tablename__ = "dutch_company"
 
     id = schema.Column(types.Integer(), primary_key=True, autoincrement=True)
-    session_id = schema.Column(types.Integer(),
+    session_id = schema.Column(
+        types.Integer(),
         schema.ForeignKey("session.id", onupdate="CASCADE", ondelete="CASCADE"),
-        nullable=False, index=True)
-    session = orm.relation("SurveySession",
-            cascade="all,delete-orphan", single_parent=True,
-            backref=orm.backref("dutch_company", uselist=False, cascade="all"))
+        nullable=False,
+        index=True,
+    )
+    session = orm.relation(
+        "SurveySession",
+        cascade="all,delete-orphan",
+        single_parent=True,
+        backref=orm.backref("dutch_company", uselist=False, cascade="all"),
+    )
 
     title = schema.Column(types.Unicode(128))
     address_visit_address = schema.Column(types.UnicodeText())
@@ -61,8 +73,13 @@ class DutchCompany(BaseObject):
 
 _instrumented = False
 if not _instrumented:
-    from sqlalchemy.ext import declarative
     from euphorie.client import model
-    declarative.instrument_declarative(DutchCompany, model.metadata._decl_registry, model.metadata)
-    declarative.instrument_declarative(OdLink, model.metadata._decl_registry, model.metadata)
+    from sqlalchemy.ext import declarative
+
+    declarative.instrument_declarative(
+        DutchCompany, model.metadata._decl_registry, model.metadata
+    )
+    declarative.instrument_declarative(
+        OdLink, model.metadata._decl_registry, model.metadata
+    )
     _instrumented = True

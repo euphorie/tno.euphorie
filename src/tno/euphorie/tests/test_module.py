@@ -1,7 +1,7 @@
 from tno.euphorie import testing
 
-NORMAL_SURVEY =  \
-        """<sector xmlns="http://xml.simplon.biz/euphorie/survey/1.0">
+
+NORMAL_SURVEY = """<sector xmlns="http://xml.simplon.biz/euphorie/survey/1.0">
              <title>ICT</title>
              <survey>
               <title>Software development</title>
@@ -16,10 +16,9 @@ NORMAL_SURVEY =  \
                  </risk>
               </module>
             </survey>
-          </sector>"""
+          </sector>"""  # noqa: E501
 
-TOP5_SURVEY =  \
-        """<sector xmlns="http://xml.simplon.biz/euphorie/survey/1.0">
+TOP5_SURVEY = """<sector xmlns="http://xml.simplon.biz/euphorie/survey/1.0">
              <title>ICT</title>
              <survey>
               <title>Software development</title>
@@ -34,7 +33,7 @@ TOP5_SURVEY =  \
                  </risk>
               </module>
             </survey>
-          </sector>"""
+          </sector>"""  # noqa: E501
 
 
 class ActionPlanBrowserTests(testing.TnoEuphorieFunctionalTestCase):
@@ -42,22 +41,24 @@ class ActionPlanBrowserTests(testing.TnoEuphorieFunctionalTestCase):
 
     def createSurvey(self, survey):
         from euphorie.client.tests.utils import addSurvey
+
         self.loginAsPortalOwner()
         addSurvey(self.portal, survey)
 
     def startSurveySession(self):
         from Products.Five.testbrowser import Browser
-        browser=Browser()
+
+        browser = Browser()
         browser.open(self.BASE_URL)
         # Register a new user
         testing.registerUserInClient(browser)
         # Create a new survey session
-        browser.getLink(id='button-new-session').click()
-        browser.getControl(name="title:utf8:ustring").value="Test session"
+        browser.getLink(id="button-new-session").click()
+        browser.getControl(name="title:utf8:ustring").value = "Test session"
         browser.getControl(name="next").click()
         # Start the survey
         browser.getForm().submit()
-        browser.handleErrors=False
+        browser.handleErrors = False
         return browser
 
     def test_skip_top5_risk_if_not_present(self):
@@ -66,16 +67,16 @@ class ActionPlanBrowserTests(testing.TnoEuphorieFunctionalTestCase):
         self.createSurvey(TOP5_SURVEY)
         browser = self.startSurveySession()
         # Jump to the risk and note that it is not present
-        browser.getLink('Start risico inventarisatie').click()
+        browser.getLink("Start risico inventarisatie").click()
         url = browser.url
-        browser.getControl(name='next').click()
-        browser.getControl(name='answer').value = ['yes']
-        browser.getControl('next').click()
+        browser.getControl(name="next").click()
+        browser.getControl(name="answer").value = ["yes"]
+        browser.getControl("next").click()
         # Now go to action plan view of the module make sure its next step is
         # the report landing page.
-        url = url.replace('identification', 'actionplan')
+        url = url.replace("identification", "actionplan")
         browser.open(url)
         self.assertEqual(
-                browser.getLink('Volgende').url,
-                'http://nohost/plone/client/nl/ict/software-development/report')
-
+            browser.getLink("Volgende").url,
+            "http://nohost/plone/client/nl/ict/software-development/report",
+        )

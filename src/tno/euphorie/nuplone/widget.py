@@ -18,13 +18,13 @@ from zope.schema.interfaces import IText
 @adapter(IChoice, ITnoFormLayer)
 @implementer(IFieldWidget)
 def ChoiceWidgetFactory(field, request):
-    """ #1537: OSHA wants Choice fields to all look alike and all be radio
-        buttons.
+    """#1537: OSHA wants Choice fields to all look alike and all be radio
+    buttons.
 
-        NuPlone on the other hand has radio buttons for items<5 and dropdown
-        otherwise.
+    NuPlone on the other hand has radio buttons for items<5 and dropdown
+    otherwise.
 
-        We increase min here
+    We increase min here
     """
     vocabulary = getVocabulary(field)
     if vocabulary is None or len(vocabulary) > 6:
@@ -36,10 +36,11 @@ def ChoiceWidgetFactory(field, request):
 
 class LargeTextAreaWidget(TextAreaWidget, Widget):
     """Textarea widget implementation."""
+
     implementsOnly(ILargeTextAreaWidget)
 
-    klass = u'textarea-widget'
-    value = u''
+    klass = u"textarea-widget"
+    value = u""
 
 
 @adapter(IText, ITnoContentSkinLayer)

@@ -1,11 +1,13 @@
-import unittest
 from lxml import objectify
 from tno.euphorie import testing
+
+import unittest
 
 
 class parse_dateTests(unittest.TestCase):
     def parse_date(self, value, default=None):
         from tno.euphorie.session import parse_date
+
         return parse_date(value, default)
 
     def testMissingValue(self):
@@ -18,17 +20,19 @@ class parse_dateTests(unittest.TestCase):
 
     def testDutchDateOrder(self):
         import datetime
-        self.assertEqual(self.parse_date("06/08/2010"),
-                datetime.date(2010, 8, 6))
+
+        self.assertEqual(self.parse_date("06/08/2010"), datetime.date(2010, 8, 6))
 
 
 class attr_dateTests(unittest.TestCase):
     def attr_date(self, node, tag, default=None):
         from tno.euphorie.session import attr_date
+
         return attr_date(node, tag, default)
 
     def testMissingValue(self):
         from lxml import etree
+
         node = etree.Element("node")
         self.assertEqual(self.attr_date(node, "date"), None)
         marker = []
@@ -36,6 +40,7 @@ class attr_dateTests(unittest.TestCase):
 
     def testEmptyValue(self):
         from lxml import etree
+
         node = etree.Element("node", date=u"")
         self.assertEqual(self.attr_date(node, "date"), None)
 
@@ -76,9 +81,10 @@ class UploadTests(testing.TnoEuphorieTestCase):
             </rieprogress>"""
 
     def testUpdateCompany_Empty(self):
-        from tno.euphorie.session import Upload
         from euphorie.client import model
         from tno.euphorie.model import DutchCompany
+        from tno.euphorie.session import Upload
+
         session = model.SurveySession()
         input = objectify.fromstring(self.BASE_SNIPPET)
         view = Upload(None, None)
@@ -86,8 +92,9 @@ class UploadTests(testing.TnoEuphorieTestCase):
         self.assertTrue(isinstance(session.dutch_company, DutchCompany))
 
     def testUpdateCompany_AantalInDienst(self):
-        from tno.euphorie.session import Upload
         from euphorie.client import model
+        from tno.euphorie.session import Upload
+
         session = model.SurveySession()
         input = objectify.fromstring(self.BASE_SNIPPET)
         view = Upload(None, None)
@@ -104,16 +111,20 @@ class UploadTests(testing.TnoEuphorieTestCase):
 
 class SessionBrowserTests(testing.TnoEuphorieFunctionalTestCase):
     def createSurvey(self):
-        from euphorie.content.tests.utils import BASIC_SURVEY
         from euphorie.client.tests.utils import addSurvey
+        from euphorie.content.tests.utils import BASIC_SURVEY
+
         self.loginAsPortalOwner()
         addSurvey(self.portal, BASIC_SURVEY)
 
     def createClientBrowser(self):
-        from Products.Five.testbrowser import Browser
         from euphorie.client.tests.utils import registerUserInClient
+        from Products.Five.testbrowser import Browser
+
         browser = Browser()
-        browser.open(self.portal.client.nl["ict"]["software-development"].absolute_url())
+        browser.open(
+            self.portal.client.nl["ict"]["software-development"].absolute_url()
+        )
         registerUserInClient(browser)
         return browser
 
@@ -122,9 +133,8 @@ class SessionBrowserTests(testing.TnoEuphorieFunctionalTestCase):
         browser = self.createClientBrowser()
         browser.open(self.portal.client.nl.absolute_url())
         self.assertTrue(
-                "Als u bestanden van de oude RI&amp;E omgeving van vóór 2010 heeft kunt U deze via"
-                in browser.contents)
+            "Als u bestanden van de oude RI&amp;E omgeving van vóór 2010 heeft kunt U deze via"  # noqa: E501
+            in browser.contents
+        )
         browser.getLink("dit formulier").click()
-        self.assertEqual(
-                browser.url,
-                "http://nohost/plone/client/nl/rie-session")
+        self.assertEqual(browser.url, "http://nohost/plone/client/nl/rie-session")

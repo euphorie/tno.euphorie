@@ -1,12 +1,13 @@
-import logging
-import transaction
+from euphorie.deployment.upgrade.utils import TableExists
 from sqlalchemy.exc import NoSuchTableError
 from sqlalchemy.schema import MetaData
 from sqlalchemy.schema import Table
+from tno.euphorie.model import OdLink
 from z3c.saconfig import Session
 from zope.sqlalchemy import datamanager
-from euphorie.deployment.upgrade.utils import TableExists
-from tno.euphorie.model import OdLink
+
+import logging
+import transaction
 
 
 log = logging.getLogger(__name__)
@@ -34,10 +35,10 @@ def add_od_table(context):
 
 def add_od_version_column(context):
     session = Session()
-    if column_exists(session, 'od_link', 'version'):
+    if column_exists(session, "od_link", "version"):
         return
     transaction.get().commit()
-    session.execute('ALTER TABLE od_link ADD COLUMN version INT DEFAULT 0 NOT NULL')
+    session.execute("ALTER TABLE od_link ADD COLUMN version INT DEFAULT 0 NOT NULL")
     datamanager.mark_changed(session)
     transaction.get().commit()
     log.info("Added new column 'version' to table 'od_link'")

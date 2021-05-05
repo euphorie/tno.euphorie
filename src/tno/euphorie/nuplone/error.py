@@ -1,6 +1,7 @@
+from ..interfaces import ITnoContentSkinLayer
 from five import grok
 from plonetheme.nuplone.skin import error
-from ..interfaces import ITnoContentSkinLayer
+
 
 grok.templatedir("templates")
 

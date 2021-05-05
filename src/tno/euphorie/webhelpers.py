@@ -3,11 +3,11 @@ from euphorie.client.browser.webhelpers import WebHelpers
 from logging import getLogger
 from plone.memoize.instance import memoize
 
+
 log = getLogger(__name__)
 
 
 class TNOWebHelpers(WebHelpers):
-
     @memoize
     def styles_override(self):
 

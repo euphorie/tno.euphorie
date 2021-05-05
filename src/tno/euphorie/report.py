@@ -148,10 +148,9 @@ class MeasuresOverview(session.MeasuresOverview):
                 and t[1].identification not in ("n/a", "yes")
                 and (
                     t[-1].responsible is not None
-                    or t[-1].prevention_plan is not None
                     or t[-1].requirements is not None
                     or t[-1].budget is not None
-                    or t[-1].action_plan is not None
+                    or t[-1].action is not None
                 )
             )
         ]
@@ -194,7 +193,7 @@ class MeasuresOverview(session.MeasuresOverview):
             modulesdict[module][risk.priority].append(
                 {
                     "title": title,
-                    "description": action.action_plan,
+                    "description": action.action,
                     "months": [
                         (
                             action.planning_start

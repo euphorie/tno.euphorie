@@ -41,8 +41,7 @@
             <fieldset class="vertical">
               <tal:widget replace="structure view/widgets/title/render" />
 
-              <fieldset class="comprehensive inputList">
-                <legend>Bezoekadres bedrijf</legend>
+              <label>Bezoekadres bedrijf
                 <tal:block define="
                              widget nocall:view/widgets/address_visit_address;
                            "><label class="superImpose"
@@ -78,10 +77,9 @@
                          value="${widget/value}"
                   />
                   <br /></tal:block>
-              </fieldset>
+              </label>
 
-              <fieldset class="comprehensive inputList">
-                <legend>Postadres bedrijf</legend>
+              <label>Postadres bedrijf
                 <tal:block define="
                              widget nocall:view/widgets/address_postal_address;
                            "><label class="superImpose"
@@ -117,7 +115,7 @@
                          value="${widget/value}"
                   />
                   <br /></tal:block>
-              </fieldset>
+              </label>
 
               <tal:widget replace="structure view/widgets/email/render" />
               <tal:widget replace="structure view/widgets/phone/render" />
@@ -127,22 +125,21 @@
               <tal:widget replace="structure view/widgets/department/render" />
               <tal:widget replace="structure view/widgets/location/render" />
 
-              <fieldset class="comprehensive date-eu"
-                        tal:define="
+              <tal:date tal:define="
                           widget nocall:view/widgets/submit_date;
-                        "
-              >
-                <legend>${widget/label} (<span class="discrete">${widget/field/description}</span>)</legend>
-                <input class="pat-date-picker"
-                       name="form.widgets.submit_date"
-                       type="date"
-                       value="${widget/value|nothing}"
-                       data-pat-date-picker="behavior: styled; week-numbers: show; i18n: ${webhelpers/country_url}/@@date-picker-i18n.json"
-                />
-                <em class="message warning"
-                    tal:condition="widget/error"
-                >Geef een datum na 1 januari 2000 op.</em>
-              </fieldset>
+                        ">
+                <label>${widget/label} (<span class="discrete">${widget/field/description}</span>)
+                  <input class="pat-date-picker"
+                         name="form.widgets.submit_date"
+                         type="date"
+                         value="${widget/value|nothing}"
+                         data-pat-date-picker="output-format: Do MMMM YYYY; locale: ${language}; week-numbers: show; i18n: ${webhelpers/country_url}/@@date-picker-i18n.json"
+                  />
+                  <em class="message warning"
+                      tal:condition="widget/error"
+                  >Geef een datum na 1 januari 2000 op.</em>
+                </label>
+              </tal:date>
 
               <fieldset class="pat-checklist radio"
                         tal:define="
@@ -224,18 +221,18 @@
                     />
                   </label>
                 </fieldset>
-                <fieldset class="comprehensive date-eu dependsOn-works_council">
-                  <legend>${widget/label} (<span class="discrete">${widget/field/description}</span>)</legend>
+
+                <label>${widget/label} (<span class="discrete">${widget/field/description}</span>)
                   <input class="pat-date-picker"
                          name="form.widgets.works_council_approval"
                          type="date"
                          value="${widget/value|nothing}"
-                         data-pat-date-picker="behavior: styled; week-numbers: show; i18n: ${webhelpers/country_url}/@@date-picker-i18n.json"
+                         data-pat-date-picker="output-format: Do MMMM YYYY; locale: ${language}; week-numbers: show; i18n: ${webhelpers/country_url}/@@date-picker-i18n.json"
                   />
                   <em class="message warning"
                       tal:condition="widget/error"
                   >Geef een datum na 1 januari 2000 op.</em>
-                </fieldset>
+                </label>
               </tal:block>
             </fieldset>
           </article>

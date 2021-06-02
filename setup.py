@@ -4,7 +4,7 @@ from setuptools import setup
 import os
 
 
-version = "8.1.6.dev0"
+version = "9.0.0.dev0"
 
 setup(
     name="tno.euphorie",
@@ -14,18 +14,20 @@ setup(
     + "\n"
     + open(os.path.join("docs", "changes.rst")).read(),
     classifiers=[
+        "Development Status :: 5 - Production/Stable",
+        "Environment :: Web Environment",
         "Framework :: Plone",
+        "Framework :: Plone :: 5.2",
         "License :: OSI Approved :: GNU General Public License (GPL)",
         "Natural Language :: Dutch",
         "Operating System :: OS Independent",
         "Programming Language :: Python :: 2 :: Only",
-        "Programming Language :: Python :: 2.6",
         "Programming Language :: Python :: 2.7",
         "Topic :: Internet :: WWW/HTTP",
     ],
     keywords="Euphorie OIRA RIE",
-    author="Wichert Akkerman",
-    author_email="wichert@simplon.biz",
+    author="Wichert Akkerman and Syslab.com",
+    author_email="info@syslab.com",
     url="http://readthedocs.org/docs/tnoeuphorie/en/latest/",
     license="GPL",
     packages=find_packages("src"),
@@ -34,24 +36,18 @@ setup(
     package_dir={"": "src"},
     zip_safe=False,
     install_requires=[
-        "Euphorie >=11.0.0",
-        "NuPlone >=1.6.1",
+        "Euphorie >=12.0.0",
+        "NuPlone >=2.0.0",
         "Pillow",
-        # We seem to have a persisten utility that prevents running upgrade
-        # steps. The following package is therefore added for providing the
-        # required interface.
         "alembic",
-        "collective.js.jqueryui",
-        "collective.indexing",
-        "plone.browserlayer",
-        "five.grok",
-        "plone.directives.form",
-        "plone.namedfile",
+        "Products.statusmessages",
+        "htmllaundry",
+        "plone.autoform",
+        "plone.tiles",
+        "requests",
         "setuptools",
-        "z3c.form",
-        "zope.i18nmessageid",
-        "z3c.appconfig",
-        "osa",
+        "zope.publisher",
+        "plone.api",
     ],
     tests_require=[
         "Euphorie [tests]",

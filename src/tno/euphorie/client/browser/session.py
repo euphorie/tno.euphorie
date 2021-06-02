@@ -1,14 +1,13 @@
 # coding=utf-8
+from Acquisition import aq_parent
 from collections import defaultdict
 from datetime import date
 from euphorie.client import model
 from euphorie.client.browser import session
-from euphorie.client.report import ReportLanding
 from euphorie.content.interfaces import ICustomRisksModule
 from euphorie.content.profilequestion import IProfileQuestion
-from five import grok
+from plone.memoize.view import memoize
 from sqlalchemy import sql
-from tno.euphorie.interfaces import ITnoClientSkinLayer
 from z3c.saconfig import Session
 from zope.i18n import translate
 from zope.i18nmessageid import MessageFactory
@@ -16,30 +15,35 @@ from zope.i18nmessageid import MessageFactory
 
 PloneLocalesFactory = MessageFactory("plonelocales")
 
-grok.templatedir("templates")
+
+class ActionPlanView(session.ActionPlanView):
+
+    question_filter = sql.or_(
+        model.MODULE_WITH_RISK_TOP5_TNO_FILTER,
+        model.RISK_PRESENT_FILTER_TOP5_TNO_FILTER,
+    )
+    risk_filter = model.RISK_PRESENT_FILTER_TOP5_TNO_FILTER
 
 
-def formatAddress(address, postal, city):
-    output = []
-    if address:
-        output.append(address)
-        if postal or city:
-            output.append(u"\n")
-    bits = filter(None, [postal, city])
-    if bits:
-        output.append(u" ".join(bits))
-    return u"".join(output) if output else None
+class Status(session.Status):
+
+    show_high_risks = False
 
 
-class TNOReportLanding(ReportLanding):
-    """Custom report landing page.
+class Start(session.Start):
+    @property
+    @memoize
+    def sector(self):
+        return aq_parent(self.survey)
 
-    This replaces the standard online view of the report with a page
-    offering the RTF and XLSX download options.
-    """
-
-    grok.layer(ITnoClientSkinLayer)
-    grok.template("report_landing")
+    @property
+    @memoize
+    def scaled_tool_image_url(self):
+        if not getattr(self.sector, "logo", None):
+            return ""
+        scales = self.sector.restrictedTraverse("@@images")
+        scale = scales.scale("logo", scale="large")
+        return scale.url if scale else ""
 
 
 class MeasuresOverview(session.MeasuresOverview):

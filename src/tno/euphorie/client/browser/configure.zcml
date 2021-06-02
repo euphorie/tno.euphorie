@@ -1,0 +1,111 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:browser="http://namespaces.zope.org/browser"
+    >
+
+  <!-- override some classes, but re-use the template from Euphorie -->
+  <configure package="euphorie.client.browser">
+    <!-- Webhelpers -->
+    <browser:page
+        name="webhelpers"
+        for="*"
+        permission="zope.Public"
+        class="tno.euphorie.webhelpers.TNOWebHelpers"
+        template="templates/webhelpers.pt"
+        layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
+        />
+
+    <!-- Module -->
+    <browser:page
+        name="actionplan"
+        for="euphorie.client.model.Module"
+        permission="euphorie.client.ViewSurvey"
+        class="tno.euphorie.module.TnoActionPlanView"
+        template="templates/module_actionplan.pt"
+        layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
+        />
+
+    <!-- Risk -->
+    <browser:page
+        name="actionplan"
+        for="euphorie.client.model.Risk"
+        permission="euphorie.client.ViewSurvey"
+        class="tno.euphorie.risk.TnoActionPlanView"
+        template="templates/risk_actionplan.pt"
+        layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
+        />
+
+      <!-- Action Plan landing -->
+      <browser:page
+          name="actionplan"
+          for="euphorie.client.adapters.session_traversal.ITraversedSurveySession"
+          permission="euphorie.client.ViewSurvey"
+          class="tno.euphorie.client.browser.session.ActionPlanView"
+          template="templates/actionplan.pt"
+          layer="tno.euphorie.interfaces.ITnoContentSkinLayer"
+          />
+
+      <!-- Status -->
+      <browser:page
+          name="status"
+          for="euphorie.client.adapters.session_traversal.ITraversedSurveySession"
+          permission="euphorie.client.ViewSurvey"
+          class="tno.euphorie.session.Status"
+          template="templates/status.pt"
+          layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
+          />
+
+  </configure>
+
+  <browser:page
+      name="report_company"
+      for="euphorie.client.adapters.session_traversal.ITraversedSurveySession"
+      permission="euphorie.client.ViewSurvey"
+      class=".company.Company"
+      layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
+      />
+
+  <browser:page
+      name="plan_van_aanpak.docx"
+      for="euphorie.client.adapters.session_traversal.ITraversedSurveySession"
+      permission="zope2.View"
+      class=".docx_reports.RIEActionPlanDocxView"
+      />
+
+  <browser:page
+      name="identification-report.docx"
+      for="euphorie.client.adapters.session_traversal.ITraversedSurveySession"
+      permission="zope2.View"
+      class=".docx_reports.RIEIdentificationReportDocxView"
+      layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
+      />
+
+  <browser:page
+      name="measures_overview"
+      for="euphorie.client.adapters.session_traversal.ITraversedSurveySession"
+      permission="euphorie.client.ViewSurvey"
+      class=".report.MeasuresOverview"
+      template="templates/measures_overview.pt"
+      layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
+      />
+
+  <!-- Report landing -->
+  <browser:page
+      name="report_view"
+      for="euphorie.client.adapters.session_traversal.ITraversedSurveySession"
+      permission="euphorie.client.ViewSurvey"
+      class=".report.ReportLanding"
+      template="templates/report_landing.pt"
+      layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
+      />
+
+  <browser:page
+      name="measures_overview"
+      for="euphorie.client.adapters.session_traversal.ITraversedSurveySession"
+      permission="euphorie.client.ViewSurvey"
+      class=".session.MeasuresOverview"
+      template="templates/measures_overview.pt"
+      layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
+      />
+
+</configure>

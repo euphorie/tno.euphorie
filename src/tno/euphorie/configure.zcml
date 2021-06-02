@@ -5,9 +5,8 @@
            i18n_domain="tno.euphorie">
 
   <include package="plone.browserlayer" />
-  <include package="z3c.appconfig" file="meta.zcml"/>
 
-  <appconfig file="euphorie.ini" />
+  <!--
   <grok:grok package=".client" />
   <grok:grok package=".company" />
   <grok:grok package=".content" />
@@ -16,9 +15,12 @@
   <grok:grok package=".risk" />
   <grok:grok package=".survey" />
   <grok:grok package=".nuplone" />
+  -->
+
+  <include package=".content" />
 
   <include package=".upgrade" />
-  <include package=".nuplone" />
+  <!--include package=".nuplone" /-->
 
   <browser:resourceDirectory
     name="tno.euphorie"
@@ -31,11 +33,6 @@
     name="tno.euphorie"
     />
 
-  <adapter
-      factory=".client.ClientPublishTraverser"
-      provides="zope.publisher.interfaces.IPublishTraverse"
-      />
-
   <genericsetup:registerProfile
        name="default"
        title="TNO/Euphorie website"
@@ -44,86 +41,5 @@
        for="Products.CMFPlone.interfaces.IPloneSiteRoot"
        provides="Products.GenericSetup.interfaces.EXTENSION"
        />
-
-  <!-- override some classes, but re-use the template from Euphorie -->
-  <configure package="euphorie.client.browser">
-
-    <browser:page
-        name="webhelpers"
-        for="*"
-        permission="zope.Public"
-        class="tno.euphorie.webhelpers.TNOWebHelpers"
-        template="templates/webhelpers.pt"
-        layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
-        />
-
-    <browser:page
-        name="actionplan"
-        for="euphorie.client.model.Module"
-        permission="euphorie.client.ViewSurvey"
-        class="tno.euphorie.module.TnoActionPlanView"
-        template="templates/module_actionplan.pt"
-        layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
-        />
-
-    <!-- Risk -->
-    <browser:page
-        name="actionplan"
-        for="euphorie.client.model.Risk"
-        permission="euphorie.client.ViewSurvey"
-        class="tno.euphorie.risk.TnoActionPlanView"
-        template="templates/risk_actionplan.pt"
-        layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
-        />
-
-      <!-- Action Plan landing -->
-      <browser:page
-          name="actionplan"
-          for="euphorie.client.adapters.session_traversal.ITraversedSurveySession"
-          permission="euphorie.client.ViewSurvey"
-          class="tno.euphorie.survey.ActionPlanView"
-          template="templates/actionplan.pt"
-          layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
-          />
-
-      <!-- Status -->
-      <browser:page
-          name="status"
-          for="euphorie.client.adapters.session_traversal.ITraversedSurveySession"
-          permission="euphorie.client.ViewSurvey"
-          class="tno.euphorie.survey.Status"
-          template="templates/status.pt"
-          layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
-          />
-
-    </configure>
-
-
-
-  <browser:page
-      name="plan_van_aanpak.docx"
-      for="euphorie.client.adapters.session_traversal.ITraversedSurveySession"
-      permission="zope2.View"
-      class=".docx_reports.RIEActionPlanDocxView"
-      />
-
-  <browser:page
-      name="identification-report.docx"
-      for="euphorie.client.adapters.session_traversal.ITraversedSurveySession"
-      permission="zope2.View"
-      class=".docx_reports.RIEIdentificationReportDocxView"
-      layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
-      />
-
-  <browser:page
-      name="measures_overview"
-      for="euphorie.client.adapters.session_traversal.ITraversedSurveySession"
-      permission="euphorie.client.ViewSurvey"
-      class=".report.MeasuresOverview"
-      template="templates/measures_overview.pt"
-      layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
-      />
-
-
 
 </configure>

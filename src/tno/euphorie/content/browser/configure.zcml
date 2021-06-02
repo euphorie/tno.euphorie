@@ -1,0 +1,16 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:browser="http://namespaces.zope.org/browser"
+    >
+
+  <!-- Survey -->
+  <browser:page
+      name="nuplone-view"
+      for="euphorie.content.survey.ISurvey"
+      layer="tno.euphorie.interfaces.ITnoContentSkinLayer"
+      class=".survey.SurveyView"
+      permission="zope2.View"
+      template="templates/survey_view.pt"
+      />
+
+</configure>

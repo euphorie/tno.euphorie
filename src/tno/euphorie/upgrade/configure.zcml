@@ -64,4 +64,16 @@
 
   </genericsetup:upgradeSteps>
 
+  <genericsetup:upgradeSteps
+    source="204"
+    destination="210"
+    profile="tno.euphorie:default"
+    >
+    <genericsetup:upgradeStep
+        title="Database upgrade"
+        description="Check the log files"
+        handler=".v10.alembic_upgrade" />
+
+  </genericsetup:upgradeSteps>
+
 </configure>

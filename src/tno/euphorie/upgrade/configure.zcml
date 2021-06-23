@@ -64,4 +64,24 @@
 
   </genericsetup:upgradeSteps>
 
+  <genericsetup:registerProfile
+      name="to_204"
+      title="Switch from Appconfig to registry"
+      description=""
+      provides="Products.GenericSetup.interfaces.EXTENSION"
+      for="Products.CMFPlone.interfaces.IMigratingPloneSiteRoot"
+      directory="to_204"
+      />
+
+  <genericsetup:upgradeSteps
+        destination="204"
+        profile="tno.euphorie:default"
+        source="202"
+        >
+    <genericsetup:upgradeDepends
+        title="Switch from Appconfig to registry"
+        import_profile="tno.euphorie.upgrade:to_204"
+        />
+  </genericsetup:upgradeSteps>
+
 </configure>

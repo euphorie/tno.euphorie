@@ -4,6 +4,9 @@ recursive-include src/tno/euphorie *.ini
 recursive-include src/tno/euphorie *.zcml
 recursive-include src/tno/euphorie *.py
 recursive-include src/tno/euphorie *.mako
+recursive-include src/tno/euphorie *.docx
+recursive-include src/tno/euphorie *.po
+recursive-include src/tno/euphorie *.xml
 include Makefile
 include buildout.cfg
 include devel.cfg

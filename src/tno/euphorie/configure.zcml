@@ -6,18 +6,8 @@
 
   <include package="plone.browserlayer" />
 
-  <!--
-  <grok:grok package=".client" />
-  <grok:grok package=".company" />
-  <grok:grok package=".content" />
-  <grok:grok package=".module" />
-  <grok:grok package=".report" />
-  <grok:grok package=".risk" />
-  <grok:grok package=".survey" />
-  <grok:grok package=".nuplone" />
-  -->
-
   <include package=".content" />
+  <include package=".client" />
 
   <include package=".upgrade" />
   <!--include package=".nuplone" /-->

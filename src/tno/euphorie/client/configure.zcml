@@ -3,7 +3,8 @@
   xmlns:plone="http://namespaces.plone.org/plone"
   xmlns:browser="http://namespaces.zope.org/browser">
 
-    <include package=".browser" />
+   <include package="euphorie.client" />
+   <include package=".browser" />
 
   <adapter
       factory=".client.ClientPublishTraverser"

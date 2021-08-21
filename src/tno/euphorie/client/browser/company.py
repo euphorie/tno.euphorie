@@ -1,6 +1,7 @@
 from euphorie.client.browser.company import Company as GenericCompany
-from plone.directives import form
+from plone.supermodel.model import Schema
 from plonetheme.nuplone.z3cform.form import FieldWidgetFactory
+from Products.Five.browser.pagetemplatefile import ViewPageTemplateFile
 from tno.euphorie.model import DutchCompany
 from zope import schema
 from zope.interface import directlyProvides
@@ -15,7 +16,7 @@ TextSpan1 = FieldWidgetFactory("z3c.form.browser.text.TextFieldWidget", klass="s
 TextSpan6 = FieldWidgetFactory("z3c.form.browser.text.TextFieldWidget", klass="span-6")
 
 
-class DutchCompanySchema(form.Schema):
+class DutchCompanySchema(Schema):
     title = schema.TextLine(title=u"Bedrijfsnaam", max_length=128, required=False)
 
     address_visit_address = schema.TextLine(title=u"Adres", required=False)
@@ -32,7 +33,7 @@ class DutchCompanySchema(form.Schema):
         title=u"Plaats", max_length=64, required=False
     )
     email = schema.ASCIILine(title=u"E-mailadres", max_length=128, required=False)
-    form.widget(email="tno.euphorie.company.TextSpan6")
+    # widget(email="tno.euphorie.company.TextSpan6")
     phone = schema.ASCIILine(title=u"Telefoonnummer", max_length=32, required=False)
     activity = schema.TextLine(
         title=u"Bedrijfsactiviteit", max_length=64, required=False
@@ -68,13 +69,13 @@ class DutchCompanySchema(form.Schema):
         max=decimal.Decimal(100),
         required=False,
     )
-    form.widget(absentee_percentage="tno.euphorie.company.TextSpan1")
+    # widget(absentee_percentage="tno.euphorie.company.TextSpan1")
     accidents = schema.Int(title=u"Aantal ongevallen vorig jaar", required=False)
-    form.widget(accidents="tno.euphorie.company.TextSpan1")
+    # widget(accidents="tno.euphorie.company.TextSpan1")
     incapacitated_workers = schema.Int(
         title=u"Aantal mensen in de WIA vorig jaar", required=False
     )
-    form.widget(incapacitated_workers="tno.euphorie.company.TextSpan1")
+    # widget(incapacitated_workers="tno.euphorie.company.TextSpan1")
     arbo_expert = schema.TextLine(
         title=u"Gegevens arbodienst/-deskundige", max_length=128, required=False
     )
@@ -97,6 +98,7 @@ class Company(GenericCompany):
     schema = DutchCompanySchema
     company = None
     errors = {}
+    template = ViewPageTemplateFile("templates/report_company.pt")
 
     def _assertCompany(self):
         if self.company is not None:

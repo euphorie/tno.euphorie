@@ -8,13 +8,13 @@ from euphorie.client.docx.views import ActionPlanDocxView
 from euphorie.client.docx.views import IdentificationReportDocxView
 from pkg_resources import resource_filename
 from plonetheme.nuplone.utils import formatDate
-from tno.euphorie.company import DutchCompanySchema
-from tno.euphorie.report import formatAddress
+from tno.euphorie.client.browser.company import DutchCompanySchema
+from tno.euphorie.client.browser.report import formatAddress
 
 
 class RIEDocxCompiler(DocxCompiler):
     _template_filename = resource_filename(
-        "tno.euphorie",
+        "tno.euphorie.client.browser",
         "templates/rie.docx",
     )
 

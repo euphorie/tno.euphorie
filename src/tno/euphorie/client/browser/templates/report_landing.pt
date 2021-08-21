@@ -53,7 +53,7 @@
 
           <h2 i18n:translate="">Download and print your report</h2>
 
-          <p>Het volledig rapport inclusief alle vragen en de door u ingevulde antwoorden is te downloaden via deze link: &ldquo;<a href="${python:view.url(name='@@identification-report.docx')}">lijst met alle risico&rsquo;s printen</a>&rdquo;.</p>
+          <p>Het volledig rapport inclusief alle vragen en de door u ingevulde antwoorden is te downloaden via deze link: &ldquo;<a href="${context/absolute_url}/@@identification-report.docx">lijst met alle risico&rsquo;s printen</a>&rdquo;.</p>
 
           <p i18n:translate="">Save the report on your computer and print it. You can also modify it or add more information. Please note that changes made on your pc will NOT be saved in the OiRA tool</p>
 
@@ -73,7 +73,7 @@
             <article class="pat-well pat-rich">
               <p class="button-bar">
                 <a class="pat-button bar download xlsx icon-download piwik_download"
-                   href="${python:view.url(name='@@pdf', obj=context, data={'view': 'risks_overview'})}"
+                   href="${context/absolute_url}/@@pdf?view=risks_overview"
                    target="_new"
                    i18n:translate=""
                 >
@@ -102,7 +102,7 @@
             <article class="pat-well pat-rich">
               <p class="button-bar">
                 <a class="pat-button bar download xlsx icon-download piwik_download"
-                   href="${python:view.url(name='@@pdf', obj=context, data={'view': 'measures_overview'})}"
+                   href="${context/absolute_url}/@@pdf?view=measures_overview"
                    target="_new"
                    i18n:translate=""
                 >
@@ -131,7 +131,7 @@
             <article class="pat-well pat-rich">
               <p class="button-bar">
                 <a class="pat-button bar download rtf icon-download piwik_download"
-                   href="${python:view.url(name='@@plan_van_aanpak.docx')}"
+                   href="${context/absolute_url}/@@plan_van_aanpak.docx"
                 >Plan van aanpak</a>
               </p>
               <p class="explanation">
@@ -162,7 +162,7 @@
             <article class="pat-well pat-rich">
               <p class="button-bar">
                 <a class="pat-button bar download xlsx icon-download piwik_download"
-                   href="${python:view.url(name='@@timeline')}"
+                   href="${context/absolute_url}/@@timeline"
                 >Actie plan</a>
               </p>
               <p class="explanation"

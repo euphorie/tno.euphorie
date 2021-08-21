@@ -5,22 +5,13 @@
 
   <!-- override some classes, but re-use the template from Euphorie -->
   <configure package="euphorie.client.browser">
-    <!-- Webhelpers -->
-    <browser:page
-        name="webhelpers"
-        for="*"
-        permission="zope.Public"
-        class="tno.euphorie.webhelpers.TNOWebHelpers"
-        template="templates/webhelpers.pt"
-        layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
-        />
 
     <!-- Module -->
     <browser:page
         name="actionplan"
         for="euphorie.client.model.Module"
         permission="euphorie.client.ViewSurvey"
-        class="tno.euphorie.module.TnoActionPlanView"
+        class="tno.euphorie.client.browser.module.TnoActionPlanView"
         template="templates/module_actionplan.pt"
         layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
         />
@@ -30,7 +21,7 @@
         name="actionplan"
         for="euphorie.client.model.Risk"
         permission="euphorie.client.ViewSurvey"
-        class="tno.euphorie.risk.TnoActionPlanView"
+        class="tno.euphorie.client.browser.risk.TnoActionPlanView"
         template="templates/risk_actionplan.pt"
         layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
         />
@@ -50,7 +41,7 @@
           name="status"
           for="euphorie.client.adapters.session_traversal.ITraversedSurveySession"
           permission="euphorie.client.ViewSurvey"
-          class="tno.euphorie.session.Status"
+          class="tno.euphorie.client.browser.session.Status"
           template="templates/status.pt"
           layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
           />
@@ -80,32 +71,24 @@
       layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
       />
 
-  <browser:page
-      name="measures_overview"
-      for="euphorie.client.adapters.session_traversal.ITraversedSurveySession"
-      permission="euphorie.client.ViewSurvey"
-      class=".report.MeasuresOverview"
-      template="templates/measures_overview.pt"
-      layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
-      />
-
   <!-- Report landing -->
   <browser:page
       name="report_view"
       for="euphorie.client.adapters.session_traversal.ITraversedSurveySession"
       permission="euphorie.client.ViewSurvey"
-      class=".report.ReportLanding"
+      class="euphorie.client.browser.report.ReportLanding"
       template="templates/report_landing.pt"
       layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
       />
 
-  <browser:page
+  <!-- Fancy measures overview not compatible -->
+  <!--browser:page
       name="measures_overview"
       for="euphorie.client.adapters.session_traversal.ITraversedSurveySession"
       permission="euphorie.client.ViewSurvey"
       class=".session.MeasuresOverview"
       template="templates/measures_overview.pt"
       layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
-      />
+      /-->
 
 </configure>

@@ -2,6 +2,7 @@
 from Acquisition import aq_parent
 from collections import defaultdict
 from datetime import date
+from euphorie import MessageFactory as _
 from euphorie.client import model
 from euphorie.client.browser import session
 from euphorie.content.interfaces import ICustomRisksModule
@@ -68,6 +69,12 @@ class MeasuresOverview(session.MeasuresOverview):
             )
         today = date.today()
         this_month = date(today.year, today.month, 1)
+        self.label_page = translate(
+            _(u"label_page", default=u"Page"), target_language=lang
+        )
+        self.label_page_of = translate(
+            _(u"label_page_of", default=u"of"), target_language=lang
+        )
 
         def get_next_month(this_month):
             month = this_month.month + 1
@@ -96,6 +103,7 @@ class MeasuresOverview(session.MeasuresOverview):
 
         query = (
             Session.query(model.Module, model.Risk, model.ActionPlan)
+            .select_from(model.Module)
             .filter(
                 sql.and_(
                     model.Module.session == self.session,
@@ -109,17 +117,8 @@ class MeasuresOverview(session.MeasuresOverview):
                     model.RISK_PRESENT_OR_TOP5_FILTER,
                 )
             )
-            .join(
-                (
-                    model.Risk,
-                    sql.and_(
-                        model.Risk.path.startswith(model.Module.path),
-                        model.Risk.depth == model.Module.depth + 1,
-                        model.Risk.session == self.session,
-                    ),
-                )
-            )
-            .join((model.ActionPlan, model.ActionPlan.risk_id == model.Risk.id))
+            .join(model.Risk, model.Risk.parent_id == model.Module.id)
+            .join(model.ActionPlan, model.ActionPlan.risk_id == model.Risk.id)
             .order_by(
                 sql.case(
                     value=model.Risk.priority, whens={"high": 0, "medium": 1}, else_=2

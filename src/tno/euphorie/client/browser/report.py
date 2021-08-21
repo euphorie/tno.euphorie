@@ -1,5 +1,4 @@
 # coding=utf-8
-from euphorie.client.browser import report
 
 
 def formatAddress(address, postal, city):
@@ -12,13 +11,3 @@ def formatAddress(address, postal, city):
     if bits:
         output.append(u" ".join(bits))
     return u"".join(output) if output else None
-
-
-class ReportLanding(report.ReportLanding):
-    """Custom report landing page.
-
-    This replaces the standard online view of the report with a page
-    offering the RTF and XLSX download options.
-    """
-
-    pass

@@ -1,0 +1,205 @@
+# Dutch translations for Euphorie.
+# Copyright (C) 2010 Wichert Akkerman, Simplon
+# This file is distributed under the same license as the Euphorie project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Euphorie 2.0\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2019-12-09 15:20+0000\n"
+"PO-Revision-Date: 2013-06-27 22:14+0200\n"
+"Last-Translator: Wichert Akkerman <wichert@wiggy.net>\n"
+"Language-Team: nl <LL@li.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"Domain: DOMAIN\n"
+"Generated-By: Babel 0.9.5\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: utf-8 latin1\n"
+
+msgid "header_select_session"
+msgstr "Kies een eerdere RI&E om af te maken of te wijzigen"
+
+msgid "missing_data"
+msgstr "Niet ingevuld"
+
+msgid "plan_report_company_header"
+msgstr "Bedrijfsgegevens"
+
+msgid "plan_report_intro_1"
+msgstr ""
+"Door het invullen van de vragenlijst heeft u een Risico-inventarisatie "
+"gemaakt. Op basis hiervan stelt u een Plan van aanpak op. Dit Plan van "
+"aanpak kan jaarlijks op voortgang worden besproken en dat kan worden "
+"opgeschreven. Er zijn onderwerpen afgehandeld en misschien komen er "
+"nieuwe onderwerpen bij. Betrek bij bespreking over de voortgang ook de "
+"eventuele oorzaken van ongevallen en de eventuele oorzaken van verzuim. "
+"Misschien wilt u deze oorzaken voorrang geven en zijn ze van invloed op "
+"de onderwerpen die u het komende jaar gaat aanpakken. Het is handig om de "
+"opstelling van een Plan van aanpak of de bespreking over voortgang samen "
+"te laten lopen met het opstellen van de jaarlijkse begroting. Door "
+"onderwerpen uit het Plan van aanpak met investeringen te laten samen "
+"vallen kunnen deze vaak zonder extra geld worden opgelost."
+
+msgid "plan_report_intro_header"
+msgstr "Inleiding"
+
+msgid "plan_report_plan_header"
+msgstr "Plan van aanpak"
+
+msgid "report_measure_actionplan"
+msgstr "Plan van aanpak"
+
+msgid "report_measure_budget"
+msgstr "Er is een budget van € ${amount} voor deze maatregel."
+
+msgid "report_measure_end_only"
+msgstr "Deze maatregel eindigt op ${end}."
+
+msgid "report_measure_full"
+msgstr ""
+"${responsible} is verantwoordelijk voor deze maatregel, beginnend op "
+"${start} en eindigend op ${end}."
+
+msgid "report_measure_preventionplan"
+msgstr "Preventieplan"
+
+msgid "report_measure_requirements"
+msgstr "Vereisten"
+
+msgid "report_measure_responsible"
+msgstr "${responsible} is verantwoordelijk voor deze maatregel."
+
+msgid "report_measure_responsible_and_end"
+msgstr ""
+"${responsible} is verantwoordeljk voor deze maatregel, eindigend op "
+"${end}."
+
+msgid "report_measure_responsible_and_start"
+msgstr ""
+"${responsible} is verantwoordelijk voor deze maatregel, beginnend op "
+"${start}."
+
+msgid "report_measure_start_and_stop"
+msgstr "Deze maatregel begint op ${start} en eindigt op ${end}."
+
+msgid "report_measure_start_only"
+msgstr "Deze maatregel begint op ${start}."
+
+msgid "report_priority"
+msgstr "Dit is een risico in de categorie:"
+
+msgid "report_priority_high"
+msgstr "hoog"
+
+msgid "report_priority_low"
+msgstr "laag"
+
+msgid "report_priority_medium"
+msgstr "gemiddeld"
+
+msgid "report_survey_footer_risk_present"
+msgstr "Met [*] gemarkeerde risico's zijn aanwezig."
+
+msgid "Description of the risk"
+msgstr "Beschrijving van het risico"
+
+msgid "button_remove_risk"
+msgstr "Risico verwijderen"
+
+msgid "label_add_risk"
+msgstr "Voeg nog een risico toe"
+
+msgid "A new added risk has been created."
+msgstr "Er is een nieuw bijkomend risico aangemaakt."
+
+msgid "Added risks have been removed."
+msgstr "Er zijn bijkomende risico's verwijderd."
+
+msgid "An added risk has been removed."
+msgstr "Er is een bijkomend risico verwijderd."
+
+msgid "An existing added risk has been updated."
+msgstr "Er is een bestaand bijkomend risico bijgewerkt."
+
+msgid "Existing added risks have been updated."
+msgstr "De bestaande bijkomende risico's zijn bijgewerkt."
+
+msgid "No changes were made to your added risks."
+msgstr "Er zijn geen wijzigingen doorgevoerd in uw bijkomende risico's."
+
+msgid "Your new added risks have been created."
+msgstr "Uw nieuwe bijkomende risico's zijn aangemaakt."
+
+msgid "label_add"
+msgstr "Voeg een andere maatregel toe"
+
+msgid "label_main_colour"
+msgstr "Hoofdkleur"
+
+msgid "label_support_colour"
+msgstr "Steunkleur"
+
+msgid "An email with a password reminder has been sent to your address."
+msgstr "Er is een e-mail met wachtwoord herinnering verstuurd."
+
+msgid "An error occured while sending the password reminder"
+msgstr ""
+"Er is een fout opgetreden bij het versturen van de wachtwoord herinnering."
+
+msgid "OiRA registration reminder"
+msgstr "RI&E registratie herinnering"
+
+msgid "Please enter your email address"
+msgstr "Vul uw e-mail adres in"
+
+msgid "Start a new session"
+msgstr "Start een nieuwe sessie"
+
+msgid "Unknown email address"
+msgstr "Onbekend e-mail adres"
+
+msgid "description_password_reminder"
+msgstr ""
+"Voer uw e-mailadres in. Uw logingegevens zullen naar u worden toegezonden."
+
+msgid "header_password_reminder"
+msgstr "Wachtwoord herinnering"
+
+msgid "label_rename"
+msgstr "Hernoem"
+
+msgid "lable_session_modified"
+msgstr "opgeslagen op ${date}"
+
+msgid "reminder_email_header"
+msgstr "Geachte gebruiker,"
+
+msgid "reminder_email_intro"
+msgstr ""
+"U heeft een herinnering opgevraagd voor uw wachtwoord van de digitale\n"
+"RI&E. Uw inloggegevens zijn:"
+
+msgid "reminder_email_login"
+msgstr "E-mail"
+
+msgid "reminder_email_password"
+msgstr "Wachtwoord"
+
+msgid "session_title_tooltip"
+msgstr ""
+"Als u begint met het invullen van de RI&E hoeft u deze niet in een keer "
+"af te maken. U kunt op elk moment stoppen en later weer verder gaan of "
+"wijzigen. Als u op 'Uitloggen' klikt, worden uw gegevens opgeslagen. Ook "
+"als u vergeet uit te loggen worden de gegevens opgeslagen als u stopt met "
+"de RI&E, maar wegens veiligheidsredenen is het beter om officieel uit te "
+"loggen. Onthou wel uw inloggegevens (e-mailadres en wachtwoord) en de "
+"titel van de RI&E. U kunt meerder RI&E's (met verschillende titels) "
+"opslaan en dan is het handig als u de titel weet van degene waarbij u "
+"verder wilt gaan met invullen/wijzigen."
+

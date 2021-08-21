@@ -1,7 +1,7 @@
 Changelog
 =========
 
-9.0.0 (unreleased)
+9.0.0 (2021-08-21)
 ------------------
 
 This branch will prepare for the migration to Plone5.2 and ultimately to python3.

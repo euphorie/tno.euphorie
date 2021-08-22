@@ -81,14 +81,14 @@
       layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
       />
 
-  <!-- Fancy measures overview not compatible -->
-  <!--browser:page
+  <browser:page
       name="measures_overview"
       for="euphorie.client.adapters.session_traversal.ITraversedSurveySession"
       permission="euphorie.client.ViewSurvey"
       class=".session.MeasuresOverview"
       template="templates/measures_overview.pt"
       layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
-      /-->
+      />
+
 
 </configure>

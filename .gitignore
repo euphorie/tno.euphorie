@@ -1,6 +1,7 @@
 *.pt.py
 *.pyc
 *.pyo
+*.mo
 *.sw[opq]
 /buildout.cfg
 /.installed.cfg

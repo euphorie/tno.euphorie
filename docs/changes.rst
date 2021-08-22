@@ -1,7 +1,7 @@
 Changelog
 =========
 
-9.0.1 (unreleased)
+9.0.1 (2021-08-22)
 ------------------
 
 - Fixed the custom measures_overview to work with wkhtml2pdf

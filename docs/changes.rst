@@ -1,7 +1,7 @@
 Changelog
 =========
 
-9.0.2 (unreleased)
+9.0.2 (2021-08-26)
 ------------------
 
 - Re-activate the nuplone customisations, but only those still needed.

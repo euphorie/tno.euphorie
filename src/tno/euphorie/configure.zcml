@@ -12,7 +12,7 @@
   <include package=".client" />
 
   <include package=".upgrade" />
-  <!--include package=".nuplone" /-->
+  <include package=".nuplone" />
 
   <browser:resourceDirectory
     name="tno.euphorie"

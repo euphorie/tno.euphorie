@@ -20,12 +20,14 @@
     template="templates/wysiwyg_input.pt"
     />
 
-  <z3c:widgetTemplate
-    mode="input"
-    widget="z3c.form.interfaces.ITextLinesWidget"
-    layer="..interfaces.ITnoFormLayer"
-    template="templates/textlines_input.pt"
-    />
+  <browser:page
+      name="index.html"
+      for="zExceptions.Unauthorized"
+      class="plonetheme.nuplone.skin.error.Unauthorized"
+      permission="zope2.Public"
+      layer="tno.euphorie.interfaces.ITnoContentSkinLayer"
+      template="templates/error_unauthorized.pt"
+      />
 
 </configure>
 

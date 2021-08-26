@@ -4,8 +4,8 @@ Changelog
 9.0.2 (unreleased)
 ------------------
 
-- Nothing changed yet.
-
+- Re-activate the nuplone customisations, but only those still needed.
+  Fixes the redactor (rich) fields in the CMS
 
 9.0.1 (2021-08-22)
 ------------------

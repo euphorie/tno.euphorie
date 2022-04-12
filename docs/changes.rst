@@ -4,7 +4,7 @@ Changelog
 9.0.3 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Python 3 compatibility [ale-rt]
 
 
 9.0.2 (2021-08-26)

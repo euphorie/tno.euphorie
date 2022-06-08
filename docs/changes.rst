@@ -1,7 +1,7 @@
 Changelog
 =========
 
-9.0.3 (unreleased)
+9.0.3 (2022-06-08)
 ------------------
 
 - Python 3 compatibility [ale-rt]

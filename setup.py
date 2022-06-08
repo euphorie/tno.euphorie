@@ -4,7 +4,7 @@ from setuptools import setup
 import os
 
 
-version = "9.0.3"
+version = "9.0.4.dev0"
 
 setup(
     name="tno.euphorie",

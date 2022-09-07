@@ -4,7 +4,8 @@ Changelog
 9.0.4 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Do not depend anymore on oira.private to be installed
+  [ale-rt]
 
 
 9.0.3 (2022-06-08)

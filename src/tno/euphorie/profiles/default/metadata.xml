@@ -3,6 +3,5 @@
   <version>204</version>
   <dependencies>
     <dependency>profile-euphorie.deployment:default</dependency>
-    <dependency>oira.private</dependency>
   </dependencies>
 </metadata>

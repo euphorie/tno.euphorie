@@ -12,6 +12,7 @@
         webhelpers nocall:context/@@webhelpers;
         portal_state context/plone_portal_state;
         language portal_state/language;
+        portal_url portal_state/portal_url;
         dummy_header python:request.RESPONSE.appendHeader('cache-control', 'no-cache');
       "
       i18n:domain="euphorie"
@@ -38,7 +39,7 @@
       <tal:translate i18n:translate="">Overview of measures</tal:translate></title>
     <style type="text/css">
  @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400italic,400,300,700&amp;subset=latin,cyrillic-ext,cyrillic,greek-ext,greek,latin-ext);
-@import url(fontello/css/fontello.css);
+@import url(${portal_url}/++resource++euphorie.resources/oira/style/fontello-010/css/fontello.css);
 #osc {
 	background: #333332
 }

@@ -25,14 +25,111 @@
         <div class="container">
           <div id="terms-conditions">
             <article class="pat-rich long-read">
-              <h1><span i18n:translate="header_data_protection_notice">DATA PROTECTION NOTICE</span><br /><span i18n:translate="header_data_protection_notice2">OIRA TOOL USERS</span></h1>
-
-              <metal:macro define-macro="terms-conditions-text">
-
-
-
-              </metal:macro>
-
+              <h1 class="sc-gYbzsP cikjbQ">Privacy&shy;verklaring</h1>
+              <h2>Inleiding</h2>
+              <p>Het Steunpunt RI&amp;E verwerkt jouw persoonsgegevens als je gebruik maakt van de app &lsquo;Route naar RI&amp;E&rsquo; via &lsquo;app.rie.nl&rsquo; of de website Route naar RI&amp;E via &lsquo;rie.nl&rsquo;. Via deze privacyverklaring informeren we jou over hoe we omgaan met jouw privacy.Steunpunt RI&amp;E is verantwoordelijk voor de verwerking van jouw gegevens. Vind hier
+                <a class="sc-bcXHqe"
+                   href="https://www.rie.nl/over-het-steunpunt"
+                >meer informatie over het steunpunt</a>.</p>
+              <h3>Wat is een persoonsgegeven?</h3>
+              <p>Een persoonsgegeven is informatie die terug te leiden is naar jou als persoon. Je naam, je huisadres of e-mailadres zijn bijvoorbeeld persoonsgegevens. Zakelijke gegevens en publieke gegevens, zoals berichten op sociale media, een bedrijfsnaam of zakelijke e-mailadressen, kunnen ook persoonsgegevens zijn. Of er kunnen persoonsgegevens in staan. Op de website van de
+                <a href="https://www.autoriteitpersoonsgegevens.nl/"
+                   rel="noopener"
+                   target="_blank"
+                >Autoriteit Persoonsgegevens</a>
+                (AP) vind je meer informatie over persoonsgegevens en de privacywet.</p>
+              <h2>Welke gegevens gebruikt Steunpunt RI&amp;E? En waarom?</h2>
+              <p>We gebruiken je persoonsgegevens alleen met jouw toestemming. Je kunt deze toestemming op elk moment intrekken door ons te mailen op info@rie.nl.</p>
+              <p><strong>1. Als je een account hebt in de app Route naar RI&amp;E:</strong></p>
+              <ul>
+                <li>Je naam. Deze gebruiken we om de app en mails die je krijgt persoonlijker te maken.</li>
+                <li>Je e-mailadres. Deze slaan we op voor je account, en gebruiken we om je een link te sturen waarmee je op elk moment kunt inloggen op de app waar jouw RI&amp;E staat. We gebruiken je e-mailadres ook om je te vertellen over belangrijke veranderingen in de app.</li>
+              </ul>
+              <p>Deze gegevens bewaren we zolang jouw account actief is. Wil je je account verwijderen? Lees bij
+                <a href="https://app.rie.nl/vraag-antwoord"
+                   rel="noopener"
+                   target="_blank"
+                >veelgestelde vragen</a>
+                hoe je dat doet.</p>
+              <p><strong>2. Als je je hebt aangemeld voor de nieuwsbrief van rie.nl:</strong></p>
+              <ul>
+                <li>Je voornaam, achternaam en e-mailadres. Om je de mail te kunnen sturen en je in die mail aan te spreken met je namen.</li>
+              </ul>
+              <p>Deze gegevens bewaren we zolang de nieuwsbrief wordt verstuurd of totdat je je afmeldt. Dit kan via de afmeldlink in de nieuwsbrief.</p>
+              <p><strong>3. Als je je hebt aangemeld voor helpen verbeteren van de app Route naar RI&amp;E (vragenlijst):</strong></p>
+              <ul>
+                <li>Je voornaam, achternaam en e-mailadres. Om je via de mail een vragenlijst te kunnen sturen en je in die mail aan te spreken met je namen. De vragenlijst is anoniem, tenzij je zelf jouw contactgegevens geeft. Als je dat doet, kunnen we contact met je opnemen om jouw feedback te bespreken. Dit is niet verplicht, maar helpt ons wel om de app te verbeteren.</li>
+              </ul>
+              <p>Deze gegevens bewaren we zolang de vragenlijsten worden verstuurd of totdat je je afmeldt. Dit kan via de afmeldlink in de mail.</p>
+              <p>Als je wil dat we de gegevens van punt 1, 2 en 3 verwijderen, hoef je alleen een mail te sturen naar
+                <a href="mailto:info@rie.nl">info@rie.nl</a>.</p>
+              <p><strong>4. Als je cookies accepteert:</strong></p>
+              <ul>
+                <li>We gebruiken cookies alleen om de website goed te laten werken. En om te kunnen meten hoe mensen de site en app gebruiken. Hierdoor kunnen we de site en app verbeteren. In onze cookieverklaring vind je meer informatie over wat we met de cookies doen.</li>
+              </ul>
+              <h2>Wat zegt de wet over het gebruik van jouw persoonsgegevens?</h2>
+              <ul>
+                <li><strong>We moeten toestemming aan je vragen.</strong><br />
+                    Met jouw toestemming mogen we je persoonsgegevens gebruiken om je de nieuwsbrief van rie.nl of de vragenlijst van app.rie.nl te sturen.Deze toestemming kun je op elk moment intrekken. Je hoeft alleen een mail te sturen naar
+                  <a href="mailto:info@rie.nl">info@rie.nl</a>. Als je dit doet, verwerken we jouw persoonsgegevens niet meer.</li>
+                <li><strong>Waarvoor is geen toestemming nodig?</strong><br />
+                  Wij meten jouw gedrag wanneer je de websites van het Steunpunt RI&amp;E bezoekt. Dit doen we via door (analytische) cookies te plaatsen. We gebruiken de meetgegevens om te weten of de website goed werkt en om deze te verbeteren. Deze gegevens over jouw gedrag zijn ook persoonsgegevens, maar voor deze (analytische) cookies hoeven we geen toestemming te vragen. De impact op jouw privacy is namelijk heel klein.Ook als als je contact met ons opneemt, slaan we je gegevens op zodat we met je kunnen communiceren. Ook hiervoor hoeven we volgens de wet geen toestemming te vragen.</li>
+              </ul>
+              <h2>Hoe beveiligt het Steunpunt RI&amp;E je persoonsgegevens?</h2>
+              <p>Wij vinden het erg belangrijk dat de persoonsgegevens die jij doorgeeft veilig zijn. Om je gegevens te beschermen tegen verlies, diefstal, toegang zonder toestemming of verkeerd gebruik, nemen we verschillende veiligheidsmaatregelen. Drie voorbeelden:</p>
+              <ul>
+                <li>Alleen de software-ontwikkelaars die aan de app werken, hebben toegang tot het gedeelte van Route naar RI&amp;E met persoonsgegevens.</li>
+                <li>Elke keer als een software-ontwikkelaar gegevens van meerdere gebruikers uit de app haalt, wordt in een rapport vastgelegd wie welke gegevens uit de app haalde.</li>
+                <li>We gebruiken geen gegevens van echte gebruikersaccounts tijdens het ontwikkelen en testen van de app.</li>
+              </ul>
+              <h2>Deelt het Steunpunt RI&amp;E persoonsgegevens met andere organisaties?</h2>
+              <p>We verkopen jouw gegevens nooit. En we delen je gegevens ook niet. Niet met bedrijven, niet met overheden, niet met ministeries, en niet met de arbeidsinspectie.</p>
+              <p>Er zijn twee partijen die jouw gegevens in onze opdracht verwerken. Dit zijn de hostingpartij, de ontwikkelpartij en het onderzoeksbureau. Met deze partijen hebben we afspraken om jouw privacy te waarborgen. Jouw gegevens worden opgeslagen in Nederland.</p>
+              <p>In hele bijzondere situaties kan het zijn dat we persoonsgegevens aan derden moeten verstrekken. Bijvoorbeeld wanneer er een rechtszaak is of het delen van gegevens een misdrijf kan voorkomen.</p>
+              <h2>Wat zijn je privacyrechten?</h2>
+              <p>Op basis van de privacywetgeving heb je verschillende rechten waarmee je controle houdt over de gegevens die een organisatie over jou verzamelt en gebruikt. Zo heb je bijvoorbeeld:</p>
+              <ul>
+                <li>Recht op inzage. Hiermee kun je bekijken welke gegevens we van jou hebben, of deze kloppen en of we deze volgens de wet verwerken;</li>
+                <li>Recht op verwijdering. In bepaalde situaties kun je verzoeken jouw persoonsgegevens te verwijderen;</li>
+                <li>Recht bezwaar te maken. In bepaalde situaties kun je bezwaar maken tegen dat we jouw gegevens verwerken;</li>
+                <li>Recht op beperking. In bepaalde situaties kun je regelen dat we minder gegevens verwerken;</li>
+                <li>Recht op overdracht van gegevens. In bepaalde situaties kun je regelen dat we jouw gegevens overdragen aan jou of een andere partij die jij zelf kiest;</li>
+                <li>Recht toestemming in te trekken.</li>
+              </ul>
+              <p>Als je gebruik wil maken van je privacyrechten kun je een mail sturen naar
+                <a href="mailto:info@rie.nl">info@rie.nl</a>. Je kunt ook een brief sturen naar:</p>
+              <p>Secretariaat Steunpunt RI&amp;E<br />
+                Postbus 3005<br />
+                2301 DA LEIDEN</p>
+              <p>Vermeld in de brief of mail de volgende gegevens, zodat we je sneller kunnen helpen:</p>
+              <ul>
+                <li>als onderwerp: &ldquo;persoonsgegevens&rdquo;;</li>
+                <li>je naam en adres;</li>
+                <li>dagtekening;</li>
+                <li>je vraag, waarin je ook uitlegt hoe je te maken hebt met het Steunpunt RI&amp;E.</li>
+              </ul>
+              <p>Als we twijfelen aan je identiteit kunnen we je vragen om aanvullende informatie.</p>
+              <p>We behandelen je vraag altijd. Het kan zijn dat we je vraag afwijzen. Volgens de privacywet kunnen we dat in bepaalde situaties doen. We nemen altijd contact met je op over wat we met je vraag doen. Je krijgt binnen een maand bericht. Als het niet lukt om je vraag binnen een maand te behandelen dan ontvang je daar ook een bericht over.</p>
+              <h2>Incidenten (datalekken)</h2>
+              <p>Ondanks de maatregelen die we nemen om jouw gegevens zo goed mogelijk te beschermen, kunnen er incidenten plaatsvinden. Als daarbij persoonsgegevens betrokken zijn, heet dat een datalek. Gebeurt er iets of zie je iets, waardoor je dat er bij het Steunpunt RI&amp;E een datalek is? Neem dan contact met ons op. Je kunt dit het beste per e-mail doen via
+                <a href="mailto:info@rie.nl">info@rie.nl</a>.</p>
+              <p>Als je een datalek meldt, willen we deze gegevens weten:</p>
+              <ul>
+                <li>Je naam en contactgegevens;</li>
+                <li>wat het incident is;</li>
+                <li>welke persoonsgegevens betrokken zijn;</li>
+                <li>welke systemen betrokken zijn bij het incident;</li>
+                <li>wanneer en hoe je het incident hebt ontdekt.</li>
+              </ul>
+              <h2>Vragen en klachten</h2>
+              <p>Heb je een vraag over jouw privacy? Of een klacht? Mail ons je vraag, opmerking of klacht via
+                <a href="mailto:info@rie.nl">info@rie.nl</a>. Je kunt ook een brief sturen naar:</p>
+              <p>Secretariaat Steunpunt RI&amp;E<br />
+                Postbus 3005<br />
+                2301 DA LEIDEN</p>
+              <p>Je kunt ook altijd een klacht sturen naar de Autoriteit Persoonsgegevens.</p>
+              <h2>Veranderingen</h2>
+              <p>Deze privacyverklaring kunnen wij op elk moment veranderen, zonder dat we die verandering aankondigen. Veranderingen gelden vanaf het moment dat ze online staan op deze website. Als het nodig is, informeren we je over de veranderingen. Het kan ook zijn dat we opnieuw toestemming aan je vragen voor het gebruiken van je persoonsgegevens.</p>
             </article>
           </div>
         </div>

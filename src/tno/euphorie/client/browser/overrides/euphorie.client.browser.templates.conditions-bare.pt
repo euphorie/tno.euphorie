@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:i18n="http://xml.zope.org/namespaces/i18n"
+      xmlns:meta="http://xml.zope.org/namespaces/meta"
+      xmlns:metal="http://xml.zope.org/namespaces/metal"
+      xmlns:tal="http://xml.zope.org/namespaces/tal"
+      meta:interpolation="true"
+      metal:use-macro="context/@@shell/macros/shell"
+      tal:define="
+        client nocall:request/client;
+        webhelpers nocall:context/@@webhelpers;
+        isAnonymous here/portal_membership/isAnonymousUser;
+      "
+      i18n:domain="euphorie"
+>
+  <metal:slot fill-slot="content">
+
+    <div class="pat-modal sheet"
+         id="document-content"
+    >
+      <h1 class="panel-class-"></h1>
+      <div class="panel-body"
+           id="modal-panel-body"
+      >
+        <div class="container">
+          <div id="terms-conditions">
+            <article class="pat-rich long-read">
+              <h1><span i18n:translate="header_data_protection_notice">DATA PROTECTION NOTICE</span><br /><span i18n:translate="header_data_protection_notice2">OIRA TOOL USERS</span></h1>
+
+              <metal:macro define-macro="terms-conditions-text">
+
+
+
+              </metal:macro>
+
+            </article>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </metal:slot>
+</html>

@@ -48,6 +48,7 @@ setup(
         "setuptools",
         "zope.publisher",
         "plone.api",
+        "z3c.jbot",
     ],
     tests_require=[
         "Euphorie [tests]",

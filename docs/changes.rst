@@ -4,6 +4,8 @@ Changelog
 9.0.4 (unreleased)
 ------------------
 
+- Hide the organisation tab (https://github.com/syslabcom/scrum/issues/519)
+  [ale-rt]
 - Do not depend anymore on oira.private to be installed
   [ale-rt]
 

@@ -31,6 +31,14 @@ msgstr "Niet ingevuld"
 msgid "plan_report_company_header"
 msgstr "Bedrijfsgegevens"
 
+msgid "hader_company_details"
+msgstr "Bedrijfsgegevens"
+
+msgid "company_details_intro"
+msgstr ""
+"Vul uw bedrijfsgegevens in op dit formulier. Deze gegevens worden "
+"gebruikt in het plan van aanpak."
+
 msgid "plan_report_intro_1"
 msgstr ""
 "Door het invullen van de vragenlijst heeft u een Risico-inventarisatie "
@@ -105,6 +113,18 @@ msgstr "gemiddeld"
 
 msgid "report_survey_footer_risk_present"
 msgstr "Met [*] gemarkeerde risico's zijn aanwezig."
+
+msgid "Download and print your report"
+msgstr "Uw rapport downloaden en printen"
+
+msgid "Download the action plan"
+msgstr "Het actieplan downloaden"
+
+msgid "Download the measures overview"
+msgstr "Download het overzicht van maatregelen"
+
+msgid "Download the risks overview"
+msgstr "Download het overzicht van risico's"
 
 msgid "Description of the risk"
 msgstr "Beschrijving van het risico"

@@ -31,6 +31,14 @@ msgstr "Niet ingevuld"
 msgid "plan_report_company_header"
 msgstr "Bedrijfsgegevens"
 
+msgid "hader_company_details"
+msgstr "Bedrijfsgegevens"
+
+msgid "company_details_intro"
+msgstr ""
+"Vul uw bedrijfsgegevens in op dit formulier. Deze gegevens worden "
+"gebruikt in het plan van aanpak."
+
 msgid "plan_report_intro_1"
 msgstr ""
 "Door het invullen van de vragenlijst heeft u een Risico-inventarisatie "
@@ -105,6 +113,18 @@ msgstr "gemiddeld"
 
 msgid "report_survey_footer_risk_present"
 msgstr "Met [*] gemarkeerde risico's zijn aanwezig."
+
+msgid "Download and print your report"
+msgstr "Uw rapport downloaden en printen"
+
+msgid "Download the action plan"
+msgstr "Het actieplan downloaden"
+
+msgid "Download the measures overview"
+msgstr "Download het overzicht van maatregelen"
+
+msgid "Download the risks overview"
+msgstr "Download het overzicht van risico's"
 
 msgid "Description of the risk"
 msgstr "Beschrijving van het risico"
@@ -203,3 +223,150 @@ msgstr ""
 "opslaan en dan is het handig als u de titel weet van degene waarbij u "
 "verder wilt gaan met invullen/wijzigen."
 
+msgid "report_survey_revision"
+msgstr "Dit rapport is gebaseerd op de RI&E '${title}' van revisie datum ${date}."
+
+msgid "label_learn_more"
+msgstr "Meer info"
+
+msgid "label_learn_more_about_oira"
+msgstr "Meer info over OiRA"
+
+msgid "text_test_session"
+msgstr "${link_test_session} als u OiRA wilt bekijken  zonder in te loggen."
+
+msgid "label_search_tools"
+msgstr "Zoek instrumenten"
+
+msgid "About this tool"
+msgstr "Over deze instrument"
+
+msgid "How to use this tool"
+msgstr "Hoe deze instrument te gebruiken"
+
+msgid "Learn more about this tool&hellip;"
+msgstr "Meer informatie over deze instrumenthellip;"
+
+msgid "OiRA Tool where \"Measures that are already in place\" can be defined."
+msgstr ""
+"RI&E waarmee “Maatregelen die reeds van kracht zijn“ kunnen worden "
+"vastgesteld."
+
+msgid "Risk assessments made with this tool"
+msgstr "Risicobeoordelingen die met deze instrument zijn gemaakt"
+
+msgid ""
+"Save the report on your computer and print it. You can also modify it or add "
+"more information. Please note that changes made on your pc will NOT be saved "
+"in the OiRA tool"
+msgstr ""
+"Bewaar het rapport op uw pc en print het. U kunt het vervolgens ook wijzigen "
+"of aanvullen. Wijzigingen die u aanbrengt in het bestand op uw pc worden "
+"echter NIET opgeslagen in de RI&E."
+
+msgid "This OiRA tool was offered to you by ${external_site}"
+msgstr "Dit RI&E werd u aangeboden door ${external_site}"
+
+msgid "Tool"
+msgstr "Instrument"
+
+msgid "description_automatic_evaluation"
+msgstr ""
+"De instrument heeft automatisch een risico-evaluatie uitgevoerd. U kunt de "
+"prioriteit van dit risico – als u dit nodig acht– nog aanpassen in het "
+"actieplan."
+
+msgid "description_other_risks"
+msgstr ""
+"Indien u risico's hebt vastgesteld die niet in de instrument zijn opgenomen, kunt "
+"u deze nu toevoegen:"
+
+msgid "description_tool_notification"
+msgstr ""
+"Deze tekst verschijnt als pop up bij het openen van deze instrument. Wij adviseren "
+"om dit alleen te gebruiken om gebruikers te attenderen op het bestaan van "
+"een nieuwe versie van een branche RI&E. Daarmee bedoelen we een update van "
+"een instrument van een versie 1.0 naar een versie 2.0. In dat geval is er "
+"immers sprake van een nieuw instrument. De melding is niet nodig als een "
+"instrument alleen een kleine aanpassing heeft gehad (een 1.1 versie t.o.v. "
+"een 1.0 versie)."
+
+msgid "description_tool_type"
+msgstr ""
+"Met deze keuze wordt bepaald welke variant van een RI&E zal worden "
+"aangemaakt. Bent u niet zeker, kies dan “standaard”."
+
+msgid "header_osh_tool_navigation"
+msgstr "Instrument navigatie"
+
+msgid "info_osh_session_menu"
+msgstr ""
+"Vanuit dit menu kunt u een nieuwe sessie van een RI&E starten of verder "
+"werken aan een eerdere sessie. Als u nog geen account hebt voor de OiRA-"
+"applicatie, kunt u een proefsessie starten om de applicatie onmiddellijk uit "
+"te proberen."
+
+msgid "info_osh_tool_navigation"
+msgstr ""
+"Met dit menu kunt u navigeren door alle stappen van uw risicobeoordeling. "
+"Wanneer u <em>Identificatie + Evaluatie</em> of <em>Actieplan</em> invoert, "
+"ziet u de modules en risico's van deze beoordeling als subnavigatie. Met "
+"behulp van de navigatie kunt u naar believen heen en weer springen tussen "
+"alle onderdelen van de instrument."
+
+msgid "label_enable_tool_notification"
+msgstr "Zet een melding over deze instrument aan."
+
+msgid "label_needs_met"
+msgstr "Voldeed deze instrument aan uw verwachtingen?"
+
+msgid "label_recommend_tool"
+msgstr "Zou u deze instrument aanbevelen aan een onderneming gelijkend op de uwe?"
+
+msgid "Did you like this tool? Share it with your colleagues and friends!"
+msgstr "Waardeert u deze instrument? Deel de instrument met uw collega's en vrienden!"
+
+msgid "label_assessments"
+msgstr "Ingevulde RI&E’s"
+
+msgid "about_paragraph_1"
+msgstr ""
+"De ervaring leert dat ${key}. Daarom heeft EU-OSHA een \n"
+"${easy} digitale RI&E ontwikkeld die MKB-bedrijven op weg kan helpen met de "
+"inventarisatie en evaluatie van werkgerelateerde risico's; beslissingen te "
+"nemen over ${preventive_actions}; actie te ondernemen; deze te monitoren en "
+"te ${reporting}."
+
+msgid "about_paragraph_1_easy"
+msgstr "een eenvoudig en gratis te gebruiken"
+
+msgid "about_paragraph_1_key"
+msgstr "een goede risico-inventarisatie de sleutel is tot een gezonde werkplek"
+
+msgid "about_paragraph_1_reporting"
+msgstr "rapporteren"
+
+msgid "about_paragraph_3"
+msgstr ""
+"${agency} staat voor de ontwikkeling van eenvoudige tools om de risico-"
+"inventarisatie te faciliteren. Sinds de Europese Kaderrichtlijn in 1989 is "
+"aangenomen, is risico-inventarisatie een algemeen begrip geworden voor "
+"preventie op de werkplek en meer dan honderdduizenden bedrijven in Europa "
+"beoordelen hun risico's regelmatig. Evengoed is er voldoende bewijs om te "
+"concluderen dat ${smb} hebben en soms tegen problemen aanlopen, als het gaat om "
+"risico-inventarisatie en de toepassing van een preventief beleid in het "
+"algemeen. Het OiRA-project is bedoelt om MKB bedrijven hierbij op weg te helpen."
+
+msgid "phase_launch"
+msgstr ""
+"De officiële lancering van dit hulpmiddel vond plaats in september 2011."
+
+msgid "about_partners_1"
+msgstr "Het OiRA-project en de verwante webapplicatie werden ontwikkeld door EU-OSHA die gebaseerd is op het Nederlandse beoordelinginstrument (RI&E genoemd), dat gefinancierd werd door de Nederlandse overheid en initieel werd ontwikkeld door TNO in samenwerking met de organisatie voor kleine en middelgrote ondernemingen MKB-Nederland en het Nederlandse Ministerie voor Sociale Zaken en Werkgelegenheid. De applicatie werd verder ontwikkeld met de inbreng en deelname van de vakbonden FNV, CNV en VCP."
+
+msgid "about_partners_3"
+msgstr ""
+"Het Agentschap kreeg strategisch advies en expertadvies van een stuurgroep voor de "
+"ontwikkeling en implementatie van het OiRA-project. Leden en "
+"plaatsvervangende leden van de stuurgroep werden aangesteld door de "
+"belangengroepen bij de Raad, de Commissie en door EU-OSHA."

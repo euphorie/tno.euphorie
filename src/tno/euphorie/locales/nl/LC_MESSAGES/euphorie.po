@@ -270,6 +270,9 @@ msgstr "Dit RI&E werd u aangeboden door ${external_site}"
 msgid "Tool"
 msgstr "Instrument"
 
+msgid "label_tools"
+msgstr "Instrumenten"
+
 msgid "description_automatic_evaluation"
 msgstr ""
 "De instrument heeft automatisch een risico-evaluatie uitgevoerd. U kunt de "

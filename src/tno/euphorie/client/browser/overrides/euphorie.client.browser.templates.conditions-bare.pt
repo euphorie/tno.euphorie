@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:i18n="http://xml.zope.org/namespaces/i18n"
+      xmlns:meta="http://xml.zope.org/namespaces/meta"
+      xmlns:metal="http://xml.zope.org/namespaces/metal"
+      xmlns:tal="http://xml.zope.org/namespaces/tal"
+      meta:interpolation="true"
+      metal:use-macro="context/@@shell/macros/shell"
+      tal:define="
+        client nocall:request/client;
+        webhelpers nocall:context/@@webhelpers;
+        isAnonymous here/portal_membership/isAnonymousUser;
+      "
+      i18n:domain="euphorie"
+>
+  <metal:slot fill-slot="content">
+
+    <div class="pat-modal sheet"
+         id="document-content"
+    >
+      <h1 class="panel-class-"></h1>
+      <div class="panel-body"
+           id="modal-panel-body"
+      >
+        <div class="container">
+          <div id="terms-conditions">
+            <article class="pat-rich long-read">
+              <h1 class="sc-gYbzsP cikjbQ">Privacy&shy;verklaring</h1>
+              <h2>Wat is een persoonsgegeven?</h2>
+              <p>Een persoonsgegeven is informatie die herleidbaar is tot u als persoon. Uw naam, uw huisadres of e-mailadres zijn bijvoorbeeld persoonsgegevens. Op de website van de <a href="https://www.autoriteitpersoonsgegevens.nl/" target="_blank">Autoriteit Persoonsgegevens</a> (AP) vindt u meer informatie over persoonsgegevens en de privacywetgeving.</p>
+
+              <h2>Waarvoor gebruikt het Steunpunt RI&amp;E uw persoonsgegevens?</h2>
+              <p>Als u inlogt op <a href="https://instrumenten.rie.nl/" target="_blank">https://instrumenten.rie.nl/</a> is het nodig dat u hierbij uw mailadres vermeldt.<br />Daarnaast worden de door u ingevulde gegevens opgeslagen onder uw account op https://instrumenten.rie.nl/.</p>
+
+              <h2>Hoe lang bewaart het Steunpunt RI&amp;E uw persoonsgegevens?</h2>
+              <p>Het Steunpunt RI&amp;E verwerkt uw persoonsgegevens niet langer dan noodzakelijk is voor het doel van de gegevensverwerking. Als u niet wilt dat uw persoonsgegevens langer bewaard blijven, dan kunt u het Steunpunt RI&amp;E verzoeken uw account <a href="https://instrumenten.rie.nl/" target="_blank">https://instrumenten.rie.nl/</a> te laten verwijderen.</p>
+
+              <h2>Hoe beveiligt het Steunpunt RI&amp;E uw persoonsgegevens?</h2>
+              <p>Het Steunpunt RI&amp;E acht het van groot belang dat de door u verstrekte persoonsgegevens met de grootst mogelijke zorgvuldigheid worden behandeld en beveiligd. Om uw persoonlijke gegevens optimaal te beschermen tegen verlies, diefstal, onbevoegde toegang of verkeerd gebruik, neemt het Steunpunt RI&amp;E de juiste technische en organisatorische maatregelen om uw persoonsgegevens te beveiligen, waaronder het gebruik van de nieuwste beveiligingstechnologie.</p>
+
+              <h2>Geeft het Steunpunt RI&amp;E persoonsgegevens aan andere organisaties?</h2>
+              <p>Het Steunpunt RI&amp;E deelt uw gegevens niet met anderen. In geen geval zullen uw gegevens worden verkocht. Er zijn echter ook uitzonderingen waarbij het Steunpunt RI&amp;E verplicht is om persoonsgegevens wel aan anderen te geven. Het gaat dan altijd om bijzondere omstandigheden zoals bijvoorbeeld bij een gerechtelijke procedure of ter voorkoming van misdrijven.</p>
+
+              <h2>Wat zijn uw privacyrechten?</h2>
+              <p>Op basis van de privacywetgeving heeft u verschillende rechten om controle te houden over de persoonsgegevens die een organisatie over u verzamelt en gebruikt. Zo heeft u ook het recht om inzage te hebben in de persoonsgegevens die het Steunpunt RI&amp;E van u heeft. Dit inzagerecht is ervoor bedoeld dat u kunt controleren of de gegevens juist zijn en om eventueel verbeteringen door te geven. Ook kunt u checken of het Steunpunt RI&amp;E de gegevens rechtmatig heeft gebruikt. Naast het inzagerecht heeft u ook het recht om bezwaar te maken tegen het gebruik van uw gegevens door het Steunpunt RI&amp;E.</p>
+              <p>
+              Indien u gebruik wilt maken van uw privacyrechten kunt u een <a href="mailto:Dienst-KvL-HelpdeskSteunpuntRIE@tno.nl">e-mail sturen naar het Steunpunt RI&amp;E</a>. U kunt ook een brief sturen naar:</p>
+              <p>
+              Secretariaat Steunpunt RI&amp;E<br />
+              Postbus 2215 <br />
+              2301 CE Leiden<br />
+              </p><p>
+              Opdat uw verzoek in behandeling kan worden genomen, moet u de volgende informatie in de e-mail of brief vermelden:
+              </p>
+              <ul>
+                <li>uw naam en adres;</li>
+                <li>dagtekening;</li>
+                <li>beschrijving van uw verzoek waarin onder andere uw relatie tot het Steunpunt RI&amp;E is vermeld.</li>
+              </ul>
+
+              <p>Het Steunpunt RI&amp;E kan bij twijfel over uw identiteit u vragen om aanvullende informatie te verstrekken.<br />
+Uw verzoek wordt altijd in behandeling genomen. Dit betekent echter niet dat uw verzoek zonder meer kan worden ingewilligd. De privacywetgeving kent namelijk ook uitzonderingssituaties waarbij uw privacyrechten niet gelden.<br />
+U krijgt binnen een maand bericht op uw verzoek. Indien het niet lukt om uw verzoek binnen een maand inhoudelijk te behandelen dan ontvangt u hierover bericht. Het Steunpunt RI&amp;E moet uw verzoek uiterlijk binnen drie maanden afhandelen.</p>
+
+              
+              <h2>Incidenten (datalekken)</h2>
+              <p>Ondanks onze voorzorgsmaatregelen om persoonsgegevens zo goed mogelijk te beschermen, blijft het mogelijk dat er incidenten plaatsvinden waarbij persoonsgegevens betrokken zijn. Dit soort incidenten worden datalekken genoemd. Denkt u dat er bij het Steunpunt RI&amp;E een datalek plaatsvindt? Neem dan altijd contact op met het Steunpunt RI&amp;E. U kunt dit per e-mail doen via <a href="mailto:Dienst-KvL-HelpdeskSteunpuntRIE@tno.nl">Dienst-KvL-HelpdeskSteunpuntRIE@tno.nl</a>.</p>
+              <p>De volgende gegevens dienen doorgegeven te worden bij melding van een datalek:</p>
+              <ul>
+                <li>uw naam en contactgegevens;</li>
+                <li>wat het incident is;</li>
+                <li>welke persoonsgegevens betrokken zijn;</li>
+                <li>welke systemen betrokken zijn bij het incident; en</li>
+                <li>wanneer en hoe u het incident heeft ontdekt.</li>
+              </ul>
+
+              <h2>Cookies</h2>
+              <p>De website van het Steunpunt RI&amp;E: <a href="https://instrumenten.rie.nl/" target="_blank">https://instrumenten.rie.nl</a> maakt gebruik van cookies. Een cookie is een bestand dat door de website wordt verzonden en informatie over uw bezoek aan RIE.NL registreert. De websites van het Steunpunt RI&amp;E maken gebruik van cookies om de websites goed te laten werken, bijvoorbeeld om uw voorkeuren te onthouden of om de door u ingevulde gegevens in een OiRa RI&amp;E instrument te onthouden. Daarnaast gebruikt het Steunpunt RI&amp;E cookies om statistieken over het gebruik van de website te verzamelen, zoals bezoekersaantallen, veelbekeken pagina’s en zoekopdrachten. Het Steunpunt RI&amp;E gebruikt deze informatie om de website te verbeteren. Het Steunpunt RI&amp;E maakt hiervoor gebruik van Google Analytics. Het Steunpunt RI&amp;E heeft de instellingen van Google Analytics op de website privacyvriendelijk ingesteld conform de Handleiding privacyvriendelijk instellen van Google Analytics van de Autoriteit Persoonsgegevens.</p>
+
+
+              <h2>Vragen en klachten</h2>
+              <p>Voor vragen over dit privacy statement, de uitoefening van uw rechten en de activiteiten van het Steunpunt RI&amp;E op het gebied van persoonsgegevens kunt u online contact met ons opnemen via <a href="mailto:Dienst-KvL-HelpdeskSteunpuntRIE@tno.nl">Dienst-KvL-HelpdeskSteunpuntRIE@tno.nl</a>. U kunt ook een brief sturen naar:</p>
+              <p>
+              Secretariaat Steunpunt RI&amp;E<br />
+              Postbus 2215 <br />
+              2301 CE Leiden<br />
+              </p>
+              <p>
+              Indien u een klacht heeft over hoe het Steunpunt RI&amp;E met persoonsgegevens omgaat dan horen wij dat graag via het bovengenoemde (mail)adres. Daarnaast heeft u altijd het recht om een klacht in te dienen bij de Autoriteit Persoonsgegevens.
+              </p>
+
+              <h2>Wijzigingen</h2>
+              <p>Dit privacy statement kan door het Steunpunt RI&amp;E te allen tijde gewijzigd worden, zonder voorafgaande aankondiging. Wijzigingen treden in werking vanaf het moment dat ze op deze website gepubliceerd zijn.</p>
+            </article>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </metal:slot>
+</html>

@@ -226,6 +226,12 @@ msgstr ""
 msgid "report_survey_revision"
 msgstr "Dit rapport is gebaseerd op de RI&E '${title}' van revisie datum ${date}."
 
+msgid "last_edited_when"
+msgstr "Laatst opgeslagen ${time}"
+
+msgid "by_who"
+msgstr "door ${who}"
+
 msgid "label_learn_more"
 msgstr "Meer info"
 

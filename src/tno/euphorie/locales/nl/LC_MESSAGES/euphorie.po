@@ -340,7 +340,7 @@ msgstr "Ingevulde RI&E’s"
 
 msgid "about_paragraph_1"
 msgstr ""
-"De ervaring leert dat ${key}. Daarom heeft EU-OSHA een \n"
+"De ervaring leert dat ${key}. Daarom heeft EU-OSHA \n"
 "${easy} digitale RI&E ontwikkeld die MKB-bedrijven op weg kan helpen met de "
 "inventarisatie en evaluatie van werkgerelateerde risico's; beslissingen te "
 "nemen over ${preventive_actions}; actie te ondernemen; deze te monitoren en "
@@ -366,6 +366,12 @@ msgstr ""
 "risico-inventarisatie en de toepassing van een preventief beleid in het "
 "algemeen. Het OiRA-project is bedoelt om MKB bedrijven hierbij op weg te helpen."
 
+msgid "about_partners_3_smb"
+msgstr "MKB bedrijven enige tekortkomingen"
+
+msgid "header_development_partners"
+msgstr "Ontwikkelingspartners"
+
 msgid "phase_launch"
 msgstr ""
 "De officiële lancering van dit hulpmiddel vond plaats in september 2011."
@@ -379,3 +385,6 @@ msgstr ""
 "ontwikkeling en implementatie van het OiRA-project. Leden en "
 "plaatsvervangende leden van de stuurgroep werden aangesteld door de "
 "belangengroepen bij de Raad, de Commissie en door EU-OSHA."
+
+msgid "label_select_oira_tool"
+msgstr "Selecteer een OiRA instrument"

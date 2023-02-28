@@ -1,7 +1,7 @@
 Changelog
 =========
 
-9.0.4 (unreleased)
+9.0.4 (2023-02-28)
 ------------------
 
 - Add custom terms of service and condition (https://github.com/syslabcom/scrum/issues/519)

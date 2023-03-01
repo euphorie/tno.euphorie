@@ -4,8 +4,8 @@ Changelog
 9.0.5 (unreleased)
 ------------------
 
-- Nothing changed yet.
-
+- Adapt the survey-view template to the latest Euphorie
+  [ale-rt]
 
 9.0.4 (2023-02-28)
 ------------------

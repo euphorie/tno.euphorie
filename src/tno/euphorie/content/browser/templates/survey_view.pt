@@ -48,13 +48,13 @@
       </tal:intro>
 
       <h2 i18n:translate="header_modules_and_profile_questions">Modules and Profile Questions</h2>
-      <p tal:condition="python:not view.children"
+      <p tal:condition="python:not view.modules_and_profile_questions"
          i18n:translate="no_profile_questions_or_modules"
       >This survey has no profile questions or modules.</p>
-      <tal:children condition="python:view.children">
-        <ol class="${python:'sortable' if can_edit and len(view.children)&gt;1 else None}">
+      <tal:children condition="python:view.modules_and_profile_questions">
+        <ol class="${python:'sortable' if can_edit and len(view.modules_and_profile_questions)&gt;1 else None}">
           <li id="child-${child/id}"
-              tal:repeat="child view/children"
+              tal:repeat="child view/modules_and_profile_questions"
           ><a href="${child/url}">${child/title}</a></li>
         </ol>
       </tal:children>

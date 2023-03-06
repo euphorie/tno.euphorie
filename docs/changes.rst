@@ -6,6 +6,9 @@ Changelog
 
 - Adapt the survey-view template to the latest Euphorie
   [ale-rt]
+- Fix for prioritiy risks being displayed though they were answered N/A.
+  https://github.com/syslabcom/scrum/issues/1020
+  [reinhardt]
 
 9.0.4 (2023-02-28)
 ------------------

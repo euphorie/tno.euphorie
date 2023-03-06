@@ -39,7 +39,7 @@
           permission="euphorie.client.ViewSurvey"
           class="tno.euphorie.client.browser.session.ActionPlanView"
           template="templates/actionplan.pt"
-          layer="tno.euphorie.interfaces.ITnoContentSkinLayer"
+          layer="tno.euphorie.interfaces.ITnoClientSkinLayer"
           />
 
       <!-- Status -->

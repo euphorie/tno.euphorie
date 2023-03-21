@@ -17,70 +17,68 @@ TextSpan6 = FieldWidgetFactory("z3c.form.browser.text.TextFieldWidget", klass="s
 
 
 class DutchCompanySchema(Schema):
-    title = schema.TextLine(title=u"Bedrijfsnaam", max_length=128, required=False)
+    title = schema.TextLine(title="Bedrijfsnaam", max_length=128, required=False)
 
-    address_visit_address = schema.TextLine(title=u"Adres", required=False)
+    address_visit_address = schema.TextLine(title="Adres", required=False)
     address_visit_postal = schema.TextLine(
-        title=u"Postcode", max_length=16, required=False
+        title="Postcode", max_length=16, required=False
     )
-    address_visit_city = schema.TextLine(title=u"Plaats", max_length=64, required=False)
+    address_visit_city = schema.TextLine(title="Plaats", max_length=64, required=False)
 
-    address_postal_address = schema.TextLine(title=u"Adres", required=False)
+    address_postal_address = schema.TextLine(title="Adres", required=False)
     address_postal_postal = schema.TextLine(
-        title=u"Postcode", max_length=16, required=False
+        title="Postcode", max_length=16, required=False
     )
-    address_postal_city = schema.TextLine(
-        title=u"Plaats", max_length=64, required=False
-    )
-    email = schema.ASCIILine(title=u"E-mailadres", max_length=128, required=False)
+    address_postal_city = schema.TextLine(title="Plaats", max_length=64, required=False)
+    email = schema.ASCIILine(title="E-mailadres", max_length=128, required=False)
     # widget(email="tno.euphorie.company.TextSpan6")
-    phone = schema.ASCIILine(title=u"Telefoonnummer", max_length=32, required=False)
+    phone = schema.ASCIILine(title="Telefoonnummer", max_length=32, required=False)
     activity = schema.TextLine(
-        title=u"Bedrijfsactiviteit", max_length=64, required=False
+        title="Bedrijfsactiviteit", max_length=64, required=False
     )
     submitter_name = schema.TextLine(
-        title=u"Naam invuller", max_length=64, required=False
+        title="Naam invuller", max_length=64, required=False
     )
     submitter_function = schema.TextLine(
-        title=u"Functie invuller", max_length=64, required=False
+        title="Functie invuller", max_length=64, required=False
     )
-    department = schema.TextLine(title=u"Afdeling", max_length=64, required=False)
-    location = schema.TextLine(title=u"Lokatie", max_length=64, required=False)
+    department = schema.TextLine(title="Afdeling", max_length=64, required=False)
+    location = schema.TextLine(title="Lokatie", max_length=64, required=False)
     submit_date = schema.Date(
-        title=u"Datum",
-        description=u"Datum waarop de gegevens verzameld zijn",
+        title="Datum",
+        description="Datum waarop de gegevens verzameld zijn",
         min=datetime.date(2000, 1, 1),
         required=False,
     )
     employees = schema.Choice(
-        title=u"Aantal werknemers",
+        title="Aantal werknemers",
         vocabulary=SimpleVocabulary(
             [
-                SimpleTerm(u"40h", title=u"Maximaal 40 uur betaalde arbeid per week"),
-                SimpleTerm(u"max25", title=u"Maximaal 25 werknemers"),
-                SimpleTerm(u"over25", title=u"Meer dan 25 werknemers"),
+                SimpleTerm("40h", title="Maximaal 40 uur betaalde arbeid per week"),
+                SimpleTerm("max25", title="Maximaal 25 werknemers"),
+                SimpleTerm("over25", title="Meer dan 25 werknemers"),
             ]
         ),
         required=False,
     )
     absentee_percentage = schema.Decimal(
-        title=u"Verzuimpercentage",
+        title="Verzuimpercentage",
         min=decimal.Decimal(0),
         max=decimal.Decimal(100),
         required=False,
     )
     # widget(absentee_percentage="tno.euphorie.company.TextSpan1")
-    accidents = schema.Int(title=u"Aantal ongevallen vorig jaar", required=False)
+    accidents = schema.Int(title="Aantal ongevallen vorig jaar", required=False)
     # widget(accidents="tno.euphorie.company.TextSpan1")
     incapacitated_workers = schema.Int(
-        title=u"Aantal mensen in de WIA vorig jaar", required=False
+        title="Aantal mensen in de WIA vorig jaar", required=False
     )
     # widget(incapacitated_workers="tno.euphorie.company.TextSpan1")
     arbo_expert = schema.TextLine(
-        title=u"Gegevens arbodienst/-deskundige", max_length=128, required=False
+        title="Gegevens arbodienst/-deskundige", max_length=128, required=False
     )
     works_council_approval = schema.Date(
-        title=u"Datum van akkoord OR/medewerkersvertegenwoordiging",
+        title="Datum van akkoord OR/medewerkersvertegenwoordiging",
         min=datetime.date(2000, 1, 1),
         required=False,
     )

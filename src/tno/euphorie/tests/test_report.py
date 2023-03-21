@@ -11,15 +11,15 @@ class FormatAddressTests(unittest.TestCase):
         self.assertEqual(self.formatAddress(None, None, None), None)
 
     def testAddressOnly(self):
-        self.assertEqual(self.formatAddress(u"Street", None, None), u"Street")
+        self.assertEqual(self.formatAddress("Street", None, None), "Street")
 
     def testPostalOnly(self):
-        self.assertEqual(self.formatAddress(None, u"Postal", None), u"Postal")
+        self.assertEqual(self.formatAddress(None, "Postal", None), "Postal")
 
     def testPostalAndCity(self):
-        self.assertEqual(self.formatAddress(None, u"Postal", u"City"), u"Postal City")
+        self.assertEqual(self.formatAddress(None, "Postal", "City"), "Postal City")
 
     def testFull(self):
         self.assertEqual(
-            self.formatAddress(u"Street", u"Postal", u"City"), u"Street\nPostal City"
+            self.formatAddress("Street", "Postal", "City"), "Street\nPostal City"
         )

@@ -26,8 +26,8 @@ def upgrade():
         "risk", sa.Column("image_data_scaled", sa.LargeBinary(), nullable=True)
     )
     op.add_column("risk", sa.Column("image_filename", sa.UnicodeText(), nullable=True))
-    op.drop_constraint(u"session_last_publisher_id_fkey", "session", type_="foreignkey")
-    op.drop_constraint(u"session_last_modifier_id_fkey", "session", type_="foreignkey")
+    op.drop_constraint("session_last_publisher_id_fkey", "session", type_="foreignkey")
+    op.drop_constraint("session_last_modifier_id_fkey", "session", type_="foreignkey")
     op.create_foreign_key(
         None,
         "session",

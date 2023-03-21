@@ -38,8 +38,8 @@ source_suffix = ".rst"
 master_doc = "index"
 
 # General information about the project.
-project = u"tno.euphorie"
-copyright = u"2012, Wichert Akkerman - Simplon B.V."
+project = "tno.euphorie"
+copyright = "2012, Wichert Akkerman - Simplon B.V."
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -182,8 +182,8 @@ latex_documents = [
     (
         "index",
         "tnoeuphorie.tex",
-        u"tno.euphorie Documentation",
-        u"Wichert Akkerman - Simplon B.V.",
+        "tno.euphorie Documentation",
+        "Wichert Akkerman - Simplon B.V.",
         "manual",
     ),
 ]
@@ -217,8 +217,8 @@ man_pages = [
     (
         "index",
         "tnoeuphorie",
-        u"tno.euphorie Documentation",
-        [u"Wichert Akkerman - Simplon B.V."],
+        "tno.euphorie Documentation",
+        ["Wichert Akkerman - Simplon B.V."],
         1,
     )
 ]
@@ -236,8 +236,8 @@ texinfo_documents = [
     (
         "index",
         "tnoeuphorie",
-        u"tno.euphorie Documentation",
-        u"Wichert Akkerman - Simplon B.V.",
+        "tno.euphorie Documentation",
+        "Wichert Akkerman - Simplon B.V.",
         "tnoeuphorie",
         "One line description of project.",
         "Miscellaneous",

@@ -41,7 +41,7 @@ class attr_dateTests(unittest.TestCase):
     def testEmptyValue(self):
         from lxml import etree
 
-        node = etree.Element("node", date=u"")
+        node = etree.Element("node", date="")
         self.assertEqual(self.attr_date(node, "date"), None)
 
 

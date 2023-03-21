@@ -26,23 +26,23 @@ class RIEDocxCompiler(DocxCompiler):
         h_table = header.tables[0]
 
         h_table.cell(0, 0).paragraphs[0].text = data["heading"]
-        h_table.cell(0, 1).paragraphs[0].text = u"Datum download: {}".format(
+        h_table.cell(0, 1).paragraphs[0].text = "Datum download: {}".format(
             formatDate(request, date.today())
         )
 
         doc.paragraphs[0].text = data["heading"]
 
-        heading1 = self.t(_("plan_report_intro_header", default=u"Introduction"))
+        heading1 = self.t(_("plan_report_intro_header", default="Introduction"))
         intro = self.t(
             _(
                 "plan_report_intro_1",
-                default=u"By filling in the list of questions, you have "
-                u"completed a risk assessment. This assessment is used to "
-                u"draw up an action plan. The progress of this action "
-                u"plan must be discussed annually and a small report must "
-                u"be written on the progress. Certain subjects might have "
-                u"been completed and perhaps new subjects need to be "
-                u"added.",
+                default="By filling in the list of questions, you have "
+                "completed a risk assessment. This assessment is used to "
+                "draw up an action plan. The progress of this action "
+                "plan must be discussed annually and a small report must "
+                "be written on the progress. Certain subjects might have "
+                "been completed and perhaps new subjects need to be "
+                "added.",
             )
         )
 
@@ -53,8 +53,8 @@ class RIEDocxCompiler(DocxCompiler):
         footer_txt = self.t(
             _(
                 "report_survey_revision",
-                default=u"This document was based on the OiRA Tool '${title}' "
-                u"of revision date ${date}.",
+                default="This document was based on the OiRA Tool '${title}' "
+                "of revision date ${date}.",
                 mapping={
                     "title": survey.published[1],
                     "date": formatDate(request, survey.published[2]),
@@ -81,10 +81,10 @@ class RIEDocxCompiler(DocxCompiler):
 
         doc.add_page_break()
         doc.add_paragraph(
-            self.t(_("plan_report_company_header", default=u"Company details")),
+            self.t(_("plan_report_company_header", default="Company details")),
             style="Heading 1",
         )
-        missing = self.t(_("missing_data", default=u"Not provided"))
+        missing = self.t(_("missing_data", default="Not provided"))
         company = self.session.dutch_company
         table = doc.add_table(rows=1, cols=2)
         total_width = table.columns[0].width + table.columns[1].width
@@ -143,7 +143,7 @@ class RIEDocxCompiler(DocxCompiler):
         row_cells = table.add_row().cells
         row_cells[0].text = str(field.title)
         row_cells[1].text = (
-            u"%s %%" % formatDecimal(company.absentee_percentage)
+            "%s %%" % formatDecimal(company.absentee_percentage)
             if company and company.absentee_percentage
             else missing
         )
@@ -189,7 +189,6 @@ class RIEDocxCompiler(DocxCompiler):
 
 
 class RIEActionPlanDocxView(ActionPlanDocxView):
-
     _compiler = RIEDocxCompiler
 
     def get_data(self, for_download=False):
@@ -211,7 +210,6 @@ class RIEActionPlanDocxView(ActionPlanDocxView):
 
 class RIEIdentificationReportCompiler(RIEDocxCompiler):
     def set_session_title_row(self, data):
-
         request = self.request
         doc = self.template
 
@@ -222,7 +220,7 @@ class RIEIdentificationReportCompiler(RIEDocxCompiler):
         header = doc.sections[0].header
         h_table = header.tables[0]
         h_table.cell(0, 0).paragraphs[0].text = data["heading"]
-        h_table.cell(0, 1).paragraphs[0].text = u"Datum download: {}".format(
+        h_table.cell(0, 1).paragraphs[0].text = "Datum download: {}".format(
             formatDate(request, date.today())
         )
 
@@ -232,8 +230,8 @@ class RIEIdentificationReportCompiler(RIEDocxCompiler):
         footer_txt = self.t(
             _(
                 "report_survey_revision",
-                default=u"This document was based on the OiRA Tool '${title}' "
-                u"of revision date ${date}.",
+                default="This document was based on the OiRA Tool '${title}' "
+                "of revision date ${date}.",
                 mapping={
                     "title": survey.published[1],
                     "date": formatDate(request, survey.published[2]),
@@ -261,7 +259,6 @@ class RIEIdentificationReportCompiler(RIEDocxCompiler):
 
 
 class RIEIdentificationReportDocxView(IdentificationReportDocxView):
-
     _compiler = RIEIdentificationReportCompiler
 
     def get_data(self, for_download=False):

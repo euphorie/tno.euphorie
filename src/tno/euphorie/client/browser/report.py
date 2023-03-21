@@ -6,8 +6,8 @@ def formatAddress(address, postal, city):
     if address:
         output.append(address)
         if postal or city:
-            output.append(u"\n")
+            output.append("\n")
     bits = filter(None, [postal, city])
     if bits:
-        output.append(u" ".join(bits))
-    return u"".join(output) if output else None
+        output.append(" ".join(bits))
+    return "".join(output) if output else None

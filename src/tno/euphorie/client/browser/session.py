@@ -18,7 +18,6 @@ PloneLocalesFactory = MessageFactory("plonelocales")
 
 
 class ActionPlanView(session.ActionPlanView):
-
     question_filter = sql.or_(
         model.MODULE_WITH_RISK_TOP5_TNO_FILTER,
         model.RISK_PRESENT_FILTER_TOP5_TNO_FILTER,
@@ -27,7 +26,6 @@ class ActionPlanView(session.ActionPlanView):
 
 
 class Status(session.Status):
-
     show_high_risks = False
 
 
@@ -70,10 +68,10 @@ class MeasuresOverview(session.MeasuresOverview):
         today = date.today()
         this_month = date(today.year, today.month, 1)
         self.label_page = translate(
-            _(u"label_page", default=u"Page"), target_language=lang
+            _("label_page", default="Page"), target_language=lang
         )
         self.label_page_of = translate(
-            _(u"label_page_of", default=u"of"), target_language=lang
+            _("label_page_of", default="of"), target_language=lang
         )
 
         def get_next_month(this_month):

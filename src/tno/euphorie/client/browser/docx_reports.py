@@ -144,7 +144,7 @@ class RIEDocxCompiler(DocxCompiler):
         row_cells[0].text = str(field.title)
         row_cells[1].text = (
             "%s %%" % formatDecimal(company.absentee_percentage)
-            if company and company.absentee_percentage
+            if company and company.absentee_percentage is not None
             else missing
         )
 
@@ -153,7 +153,7 @@ class RIEDocxCompiler(DocxCompiler):
             value = getattr(company, key, None)
             row_cells = table.add_row().cells
             row_cells[0].text = str(field.title)
-            row_cells[1].text = "%d" % value if value else missing
+            row_cells[1].text = "%d" % value if value is not None else missing
 
         field = DutchCompanySchema["submit_date"]
         row_cells = table.add_row().cells

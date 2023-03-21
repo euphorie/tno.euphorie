@@ -9,6 +9,11 @@ Changelog
 - Fix for prioritiy risks being displayed though they were answered N/A.
   https://github.com/syslabcom/scrum/issues/1020
   [reinhardt]
+- Fix the ``@@plan_van_aanpak.docx`` report to display some numerical number as zeros and not
+  as not provided values.
+  Fixes `#1054 <https://github.com/syslabcom/scrum/issues/1054>`_
+  [ale-rt]
+
 
 9.0.4 (2023-02-28)
 ------------------
@@ -133,7 +138,7 @@ A big milestone will be the removal of Grok.
 -------------------
 
 - Bugfix for the "measures" report: Do not rely on the pre-computed
-  list of modules, since this can fail for a scenario with 
+  list of modules, since this can fail for a scenario with
   module->module->Optional module
 
 6.0.14 (2017-11-01)

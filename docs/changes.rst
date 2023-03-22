@@ -1,7 +1,7 @@
 Changelog
 =========
 
-9.0.5 (unreleased)
+9.0.5 (2023-03-22)
 ------------------
 
 - Adapt the survey-view template to the latest Euphorie

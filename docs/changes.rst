@@ -1,10 +1,11 @@
 Changelog
 =========
 
-9.0.6 (unreleased)
-------------------
+10.0.0 (unreleased)
+-------------------
 
-- Nothing changed yet.
+- Remove the upgrade steps from the 9.x series
+  [ale-rt]
 
 
 9.0.5 (2023-03-22)

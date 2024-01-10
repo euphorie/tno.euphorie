@@ -8,6 +8,8 @@ Changelog
   [ale-rt]
 - Adapt the model to SQLAlchemy 1.4
   [ale-rt]
+- Fix the display of the @@report_company form
+  [ale-rt]
 
 
 9.0.5 (2023-03-22)

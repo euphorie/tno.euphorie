@@ -6,6 +6,8 @@ Changelog
 
 - Remove the upgrade steps from the 9.x series
   [ale-rt]
+- Adapt the model to SQLAlchemy 1.4
+  [ale-rt]
 
 
 9.0.5 (2023-03-22)

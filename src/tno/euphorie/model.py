@@ -1,5 +1,6 @@
 from euphorie.client.enum import Enum
 from euphorie.client.model import BaseObject
+from euphorie.client.model import SurveySession
 from sqlalchemy import orm
 from sqlalchemy import schema
 from sqlalchemy import types
@@ -42,12 +43,9 @@ class DutchCompany(BaseObject):
         index=True,
     )
     session = orm.relation(
-        "SurveySession",
-        cascade="all,delete-orphan",
-        single_parent=True,
-        backref=orm.backref("dutch_company", uselist=False, cascade="all"),
+        SurveySession,
+        back_populates="dutch_company",
     )
-
     title = schema.Column(types.Unicode(128))
     address_visit_address = schema.Column(types.UnicodeText())
     address_visit_postal = schema.Column(types.Unicode(16))
@@ -69,6 +67,15 @@ class DutchCompany(BaseObject):
     incapacitated_workers = schema.Column(types.Integer())
     arbo_expert = schema.Column(types.Unicode(128))
     works_council_approval = schema.Column(types.Date())
+
+
+SurveySession.dutch_company = orm.relation(
+    DutchCompany,
+    back_populates="session",
+    cascade="all,delete-orphan",
+    single_parent=True,
+    uselist=False,
+)
 
 
 _instrumented = False

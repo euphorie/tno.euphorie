@@ -1,7 +1,7 @@
 Changelog
 =========
 
-10.0.0 (unreleased)
+10.0.0 (2024-01-16)
 -------------------
 
 - Remove the upgrade steps from the 9.x series

@@ -43,8 +43,7 @@ class DutchCompany(BaseObject):
         index=True,
     )
     session = orm.relation(
-        SurveySession,
-        back_populates="dutch_company",
+        SurveySession, backref=orm.backref("dutch_company", uselist=False)
     )
     title = schema.Column(types.Unicode(128))
     address_visit_address = schema.Column(types.UnicodeText())
@@ -67,15 +66,6 @@ class DutchCompany(BaseObject):
     incapacitated_workers = schema.Column(types.Integer())
     arbo_expert = schema.Column(types.Unicode(128))
     works_council_approval = schema.Column(types.Date())
-
-
-SurveySession.dutch_company = orm.relation(
-    DutchCompany,
-    back_populates="session",
-    cascade="all,delete-orphan",
-    single_parent=True,
-    uselist=False,
-)
 
 
 _instrumented = False

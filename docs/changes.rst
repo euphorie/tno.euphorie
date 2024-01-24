@@ -4,7 +4,8 @@ Changelog
 10.0.1 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Rationalize the way we handle the custom company class for the TNO sessions.
+  [ale-rt]
 
 
 10.0.0 (2024-01-16)

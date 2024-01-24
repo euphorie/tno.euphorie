@@ -1,4 +1,6 @@
 from euphorie.client.browser.company import Company as GenericCompany
+from euphorie.client.model import Session
+from plone.memoize.view import memoize
 from plone.supermodel.model import Schema
 from plonetheme.nuplone.z3cform.form import FieldWidgetFactory
 from Products.Five.browser.pagetemplatefile import ViewPageTemplateFile
@@ -98,11 +100,36 @@ class Company(GenericCompany):
     errors = {}
     template = ViewPageTemplateFile("templates/report_company.pt")
 
+    company_class = DutchCompany
+
+    @property
+    def default_company_values(self):
+        """The values that are used when creating a new company.
+
+        XXX: With respect to Euphorie, this should adds
+        the submit_date to the default values.
+        Once this is moved back to Euphorie, the submit_date can be added to the
+        values obtained from super().default_company_values.
+        """
+        return {
+            "session": self.session,
+            "submit_date": datetime.date.today(),
+        }
+
+    @property
+    @memoize
+    def company(self):
+        # XXX: This should be backported to Euphorie
+        company = (
+            Session.query(self.company_class)
+            .filter(self.company_class.session == self.session)
+            .first()
+        )
+        if not company:
+            company = self.company_class(**self.default_company_values)
+        directlyProvides(company, self.schema)
+        return company
+
     def _assertCompany(self):
-        if self.company is not None:
-            return
-        session = self.session
-        if session.dutch_company is None:
-            session.dutch_company = DutchCompany(submit_date=datetime.date.today())
-        directlyProvides(session.dutch_company, DutchCompanySchema)
-        self.company = session.dutch_company
+        # XXX: This should be removed, also in Euphorie
+        return

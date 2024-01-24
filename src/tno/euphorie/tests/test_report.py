@@ -3,7 +3,7 @@ import unittest
 
 class FormatAddressTests(unittest.TestCase):
     def formatAddress(self, *a, **kw):
-        from tno.euphorie.report import formatAddress
+        from tno.euphorie.client.browser.report import formatAddress
 
         return formatAddress(*a, **kw)
 

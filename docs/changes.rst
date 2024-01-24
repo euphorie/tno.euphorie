@@ -1,7 +1,7 @@
 Changelog
 =========
 
-10.0.1 (unreleased)
+10.0.1 (2024-01-24)
 -------------------
 
 - Rationalize the way we handle the custom company class for the TNO sessions.

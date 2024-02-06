@@ -1,10 +1,11 @@
 Changelog
 =========
 
-10.0.2 (unreleased)
+11.0.0 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Improve the way we set the client skin layer
+  [ale-rt]
 
 
 10.0.1 (2024-01-24)

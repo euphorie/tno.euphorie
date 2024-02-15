@@ -1,7 +1,7 @@
 Changelog
 =========
 
-11.0.0 (unreleased)
+10.0.2 (2024-02-15)
 -------------------
 
 - Improve the way we set the client skin layer

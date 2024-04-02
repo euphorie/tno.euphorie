@@ -43,7 +43,12 @@ class DutchCompany(BaseObject):
         index=True,
     )
     session = orm.relation(
-        SurveySession, backref=orm.backref("dutch_company", uselist=False)
+        SurveySession,
+        backref=orm.backref(
+            "dutch_company",
+            uselist=False,
+            cascade="all, delete-orphan",
+        ),
     )
     title = schema.Column(types.Unicode(128))
     address_visit_address = schema.Column(types.UnicodeText())

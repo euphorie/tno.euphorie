@@ -1,7 +1,7 @@
 Changelog
 =========
 
-11.0.0 (unreleased)
+10.0.3 (2024-04-02)
 -------------------
 
 - When deleting a session, also remove the corresponding row in the

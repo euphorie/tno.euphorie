@@ -4,6 +4,11 @@ Changelog
 11.0.0 (unreleased)
 -------------------
 
+- When deleting a session, also remove the corresponding row in the
+  dutch_company table.
+  Refs. `#2113 <https://github.com/syslabcom/scrum/issues/2113>`_
+  [ale-rt]
+
 - Fix alembic env.py to use the proper model
   [ale-rt]
 

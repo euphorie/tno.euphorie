@@ -1,8 +1,8 @@
-# coding=utf-8
 from alembic import context
-from euphorie.client import model
+from euphorie.client.model import metadata
 from sqlalchemy import engine_from_config
 from sqlalchemy import pool
+from tno.euphorie import model  # noqa: F401
 
 
 # this is the Alembic Config object, which provides
@@ -14,7 +14,7 @@ config = context.config
 # for 'autogenerate' support
 # from myapp import mymodel
 # target_metadata = mymodel.Base.metadata
-target_metadata = model.metadata
+target_metadata = metadata
 
 # other values from the config, defined by the needs of env.py,
 # can be acquired:

@@ -4,7 +4,8 @@ Changelog
 11.0.0 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Fix alembic env.py to use the proper model
+  [ale-rt]
 
 
 10.0.2 (2024-02-15)

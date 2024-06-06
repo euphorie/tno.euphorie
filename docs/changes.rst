@@ -4,7 +4,9 @@ Changelog
 10.0.4 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Updated privacy statement.
+  Refs `#2208 <https://github.com/syslabcom/scrum/issues/2208>`_
+  [reinhardt]
 
 
 10.0.3 (2024-04-02)

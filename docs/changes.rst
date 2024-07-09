@@ -1,7 +1,7 @@
 Changelog
 =========
 
-10.0.4 (unreleased)
+10.0.4 (2024-07-09)
 -------------------
 
 - Updated privacy statement.

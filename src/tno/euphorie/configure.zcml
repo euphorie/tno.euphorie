@@ -8,6 +8,8 @@
   <i18n:registerTranslations directory="locales" />
   <include package="plone.browserlayer" />
 
+  <include package="euphorie.deployment" />
+
   <include package=".content" />
   <include package=".client" />
 

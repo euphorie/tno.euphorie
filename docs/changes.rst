@@ -10,6 +10,9 @@ Changelog
 - Use ``ftw.upgrade`` to run the upgrade steps
   [ale-rt]
 
+- Add various upgrade steps to prepare the site for the Plone 6 migration.
+  [ale-rt]
+
 
 10.0.4 (2024-07-09)
 -------------------

@@ -40,6 +40,7 @@ setup(
         "NuPlone >=2.0.0",
         "Pillow",
         "alembic",
+        "ftw.upgrade",
         "Products.statusmessages",
         "plone.autoform",
         "plone.tiles",

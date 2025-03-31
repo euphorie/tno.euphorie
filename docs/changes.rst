@@ -7,6 +7,9 @@ Changelog
 - Remove a not needed and obsolete dependency on ``htmllaundry``
   [ale-rt]
 
+- Use ``ftw.upgrade`` to run the upgrade steps
+  [ale-rt]
+
 
 10.0.4 (2024-07-09)
 -------------------

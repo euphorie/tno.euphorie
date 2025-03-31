@@ -1,6 +1,16 @@
 <configure
-  xmlns="http://namespaces.zope.org/zope"
-  xmlns:genericsetup="http://namespaces.zope.org/genericsetup"
-  i18n_domain="plone">
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:upgrade-step="http://namespaces.zope.org/ftw.upgrade"
+    i18n_domain="untranslated"
+    >
+  <include
+      package="ftw.upgrade"
+      file="meta.zcml"
+      />
+
+  <upgrade-step:directory
+      profile="tno.euphorie:default"
+      directory="v11"
+      />
 
 </configure>

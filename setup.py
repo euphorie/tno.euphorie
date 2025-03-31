@@ -4,7 +4,7 @@ from setuptools import setup
 import os
 
 
-version = "10.0.5.dev0"
+version = "11.0.0.dev0"
 
 setup(
     name="tno.euphorie",
@@ -41,7 +41,6 @@ setup(
         "Pillow",
         "alembic",
         "Products.statusmessages",
-        "htmllaundry",
         "plone.autoform",
         "plone.tiles",
         "requests",

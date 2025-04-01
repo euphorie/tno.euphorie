@@ -1,21 +1,32 @@
-from collective.testcaselayer import ptc
-from euphorie.deployment.tests.functional import EuphorieFunctionalTestCase
-from euphorie.deployment.tests.functional import EuphorieLayer
-from Products.PloneTestCase import PloneTestCase
+from euphorie.testing import EUPHORIE_FIXTURE
+from plone.app.testing import applyProfile
+from plone.app.testing import FunctionalTesting
+from plone.app.testing import IntegrationTesting
+from plone.app.testing import login
+from plone.app.testing import PloneSandboxLayer
+
+import tno.euphorie
+import unittest
 
 
-class TnoEuphorieTestLayer(ptc.BasePTCLayer):
-    def afterSetUp(self):
-        from Testing.ZopeTestCase import installPackage
+class TnoEuphorieTestLayer(PloneSandboxLayer):
+    def setUpZope(self, app, configurationContext):
+        """
+        Load and install the ZCML for tno.euphorie in the Zope environment.
+        """
+        self.loadZCML(package=tno.euphorie)
 
-        import tno.euphorie
+    def setUpPloneSite(self, portal):
+        """
+        Apply the package's GenericSetup profile and perform any post-install
+        tasks such as reindexing or metadata creation.
+        """
+        # Install the default profile.
+        applyProfile(portal, "tno.euphorie:default")
 
-        self.loadZCML("configure.zcml", package=tno.euphorie)
-        installPackage("tno.euphorie")
-        self.addProduct("tno.euphorie")
         # Reinstalling tno.euphorie zaps the membrane_tool contens, so manually
         # reindex the client.
-        self.portal.membrane_tool.indexObject(self.portal.client)
+        portal.membrane_tool.indexObject(portal.client)
 
         import tno.euphorie.model
 
@@ -25,19 +36,50 @@ class TnoEuphorieTestLayer(ptc.BasePTCLayer):
 
         model.metadata.create_all(Session.bind, checkfirst=True)
 
-    def beforeTearDown(self):
-        pass
+
+TNO_EUPHORIE_FIXTURE = TnoEuphorieTestLayer()
+
+TNO_EUPHORIE_INTEGRATION_TESTING = IntegrationTesting(
+    bases=(
+        EUPHORIE_FIXTURE,
+        TNO_EUPHORIE_FIXTURE,
+    ),
+    name="TnoEuphorieTestLayer:IntegrationTesting",
+)
 
 
-TnoEuphorieLayer = TnoEuphorieTestLayer([EuphorieLayer, ptc.ptc_layer])
+TNO_EUPHORIE_FUNCTIONAL_TESTING = FunctionalTesting(
+    bases=(
+        EUPHORIE_FIXTURE,
+        TNO_EUPHORIE_FIXTURE,
+    ),
+    name="TnoEuphorieTestLayer:FunctionalTesting",
+)
 
 
-class TnoEuphorieTestCase(PloneTestCase.PloneTestCase):
-    layer = TnoEuphorieLayer
+class TnoEuphorieTestCase(unittest.TestCase):
+    layer = TNO_EUPHORIE_INTEGRATION_TESTING
+
+    def setUp(self):
+        self.portal = self.layer["portal"]
+        self.request = self.layer["request"]
+        return super().setUp()
 
 
-class TnoEuphorieFunctionalTestCase(EuphorieFunctionalTestCase):
-    layer = TnoEuphorieLayer
+class TnoEuphorieFunctionalTestCase(unittest.TestCase):
+    layer = TNO_EUPHORIE_FUNCTIONAL_TESTING
+
+    def setUp(self):
+        self.app = self.layer["app"]
+        self.portal = self.layer["portal"]
+        self.request = self.layer["request"]
+        return super().setUp()
+
+    def loginAsPortalOwner(self):
+        return login(self.app, "admin")
+
+    def login(self, username):
+        return login(self.portal, username)
 
 
 def registerUserInClient(browser):

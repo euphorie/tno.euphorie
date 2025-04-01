@@ -8,10 +8,11 @@
   <i18n:registerTranslations directory="locales" />
   <include package="plone.browserlayer" />
 
+  <include package="euphorie.deployment" />
+
   <include package=".content" />
   <include package=".client" />
 
-  <include package=".upgrade" />
   <include package=".nuplone" />
 
   <browser:resourceDirectory
@@ -33,5 +34,7 @@
        for="Products.CMFPlone.interfaces.IPloneSiteRoot"
        provides="Products.GenericSetup.interfaces.EXTENSION"
        />
+
+  <include package=".upgrade" />
 
 </configure>

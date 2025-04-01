@@ -1,10 +1,17 @@
 Changelog
 =========
 
-10.0.5 (unreleased)
+11.0.0 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Remove a not needed and obsolete dependency on ``htmllaundry``
+  [ale-rt]
+
+- Use ``ftw.upgrade`` to run the upgrade steps
+  [ale-rt]
+
+- Add various upgrade steps to prepare the site for the Plone 6 migration.
+  [ale-rt]
 
 
 10.0.4 (2024-07-09)

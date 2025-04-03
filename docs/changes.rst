@@ -4,6 +4,9 @@ Changelog
 11.0.0 (unreleased)
 -------------------
 
+- Support Python 3.11 and Plone 6.0
+  [ale-rt]
+
 - Remove a not needed and obsolete dependency on ``htmllaundry``
   [ale-rt]
 

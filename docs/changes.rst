@@ -1,7 +1,7 @@
 Changelog
 =========
 
-11.0.0 (unreleased)
+11.0.0 (2025-04-03)
 -------------------
 
 - Support Python 3.11 and Plone 6.0

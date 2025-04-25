@@ -4,7 +4,8 @@ Changelog
 11.0.1 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Use the WysiwygWidget from NuPlone when available.
+  [thet]
 
 
 11.0.0 (2025-04-03)

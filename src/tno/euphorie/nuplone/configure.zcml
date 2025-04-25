@@ -14,10 +14,19 @@
     />
 
   <z3c:widgetTemplate
-    mode="input"
     widget="plone.app.z3cform.wysiwyg.widget.IWysiwygWidget"
-    layer="..interfaces.ITnoFormLayer"
     template="templates/wysiwyg_input.pt"
+    layer="..interfaces.ITnoFormLayer"
+    mode="input"
+    zcml:condition="not-installed plonetheme.nuplone.z3cform.wysiwyg"
+    />
+
+  <z3c:widgetTemplate
+    widget="plonetheme.nuplone.z3cform.wysiwyg.IWysiwygWidget"
+    template="templates/wysiwyg_input.pt"
+    layer="..interfaces.ITnoFormLayer"
+    mode="input"
+    zcml:condition="installed plonetheme.nuplone.z3cform.wysiwyg"
     />
 
   <browser:page

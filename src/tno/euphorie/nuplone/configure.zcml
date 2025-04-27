@@ -2,7 +2,7 @@
   xmlns="http://namespaces.zope.org/zope"
   xmlns:browser="http://namespaces.zope.org/browser"
   xmlns:z3c="http://namespaces.zope.org/z3c"
-  xmlns:zcml="http://namespaces.zope.org/zcml">
+  >
 
   <adapter factory=".widget.ChoiceWidgetFactory" />
 
@@ -14,10 +14,10 @@
     />
 
   <z3c:widgetTemplate
-    mode="input"
-    widget="plone.app.z3cform.wysiwyg.widget.IWysiwygWidget"
-    layer="..interfaces.ITnoFormLayer"
+    widget="plonetheme.nuplone.z3cform.widget.IWysiwygWidget"
     template="templates/wysiwyg_input.pt"
+    layer="..interfaces.ITnoFormLayer"
+    mode="input"
     />
 
   <browser:page

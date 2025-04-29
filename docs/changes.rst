@@ -4,7 +4,9 @@ Changelog
 11.0.1 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Directly use the WYSIWYG widget from plonetheme.nuplone 4.0.1.
+  Ref: scrum-3433.
+  [thet]
 
 
 11.0.0 (2025-04-03)

@@ -1,7 +1,7 @@
 Changelog
 =========
 
-11.0.1 (unreleased)
+12.0.0 (2025-04-30)
 -------------------
 
 - Directly use the WYSIWYG widget from plonetheme.nuplone 4.0.1.

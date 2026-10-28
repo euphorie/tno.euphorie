@@ -6,16 +6,15 @@ from euphorie.client.docx.compiler import delete_paragraph
 from euphorie.client.docx.compiler import DocxCompiler
 from euphorie.client.docx.views import ActionPlanDocxView
 from euphorie.client.docx.views import IdentificationReportDocxView
-from pkg_resources import resource_filename
+from importlib.resources import files
 from plonetheme.nuplone.utils import formatDate
 from tno.euphorie.client.browser.company import DutchCompanySchema
 from tno.euphorie.client.browser.report import formatAddress
 
 
 class RIEDocxCompiler(DocxCompiler):
-    _template_filename = resource_filename(
-        "tno.euphorie.client.browser",
-        "templates/rie.docx",
+    _template_filename = str(
+        files("tno.euphorie.client.browser").joinpath("templates/rie.docx")
     )
 
     def set_session_title_row(self, data):

@@ -1,10 +1,11 @@
 Changelog
 =========
 
-12.0.1 (unreleased)
+13.0.0 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Switch to PEP 420.
+  [ale-rt]
 
 
 12.0.0 (2025-04-30)

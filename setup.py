@@ -3,7 +3,7 @@ from setuptools import setup
 import os
 
 
-version = "13.0.0.dev0"
+version = "13.0.0"
 
 setup(
     name="tno.euphorie",

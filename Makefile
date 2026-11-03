@@ -1,6 +1,7 @@
 PYTHON		?= python2.7
+TWINE_REPOSITORY ?= pypi
 
-all: 
+all:
 
 clean:
 
@@ -18,3 +19,13 @@ jenkins: bin/test
 	bin/test --xml -s tno.euphorie
 
 .PHONY: all clean jenkins
+
+.PHONY: release
+release:
+	@echo "Releasing to repository: $(TWINE_REPOSITORY)"
+	@echo "To release to a different repository, run \`make release TWINE_REPOSITORY=<repository>\`"
+	TWINE_REPOSITORY="$(TWINE_REPOSITORY)" uvx \
+		--from zest-releaser \
+		--with zest-releaser\[recommended\] \
+		--with zestreleaser-towncrier \
+		fullrelease

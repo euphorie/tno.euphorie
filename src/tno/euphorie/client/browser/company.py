@@ -4,6 +4,7 @@ from plone.memoize.view import memoize
 from plone.supermodel.model import Schema
 from plonetheme.nuplone.z3cform.form import FieldWidgetFactory
 from Products.Five.browser.pagetemplatefile import ViewPageTemplateFile
+from sqlalchemy import select
 from tno.euphorie.model import DutchCompany
 from zope import schema
 from zope.interface import directlyProvides
@@ -12,7 +13,6 @@ from zope.schema.vocabulary import SimpleVocabulary
 
 import datetime
 import decimal
-
 
 TextSpan1 = FieldWidgetFactory("z3c.form.browser.text.TextFieldWidget", klass="span-1")
 TextSpan6 = FieldWidgetFactory("z3c.form.browser.text.TextFieldWidget", klass="span-6")
@@ -96,7 +96,6 @@ class Company(GenericCompany):
     """
 
     schema = DutchCompanySchema
-    company = None
     errors = {}
     template = ViewPageTemplateFile("templates/report_company.pt")
 
@@ -120,11 +119,12 @@ class Company(GenericCompany):
     @memoize
     def company(self):
         # XXX: This should be backported to Euphorie
-        company = (
-            Session.query(self.company_class)
-            .filter(self.company_class.session == self.session)
-            .first()
+        statement = (
+            select(self.company_class)
+            .where(self.company_class.session == self.session)
+            .limit(1)
         )
+        company = Session.scalars(statement).first()
         if not company:
             company = self.company_class(**self.default_company_values)
         directlyProvides(company, self.schema)

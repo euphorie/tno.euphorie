@@ -8,11 +8,11 @@ from euphorie.client.browser import session
 from euphorie.content.interfaces import ICustomRisksModule
 from euphorie.content.profilequestion import IProfileQuestion
 from plone.memoize.view import memoize
+from sqlalchemy import select
 from sqlalchemy import sql
 from z3c.saconfig import Session
 from zope.i18n import translate
 from zope.i18nmessageid import MessageFactory
-
 
 PloneLocalesFactory = MessageFactory("plonelocales")
 
@@ -99,17 +99,17 @@ class MeasuresOverview(session.MeasuresOverview):
             for month in self.months
         ]
 
-        query = (
-            Session.query(model.Module, model.Risk, model.ActionPlan)
+        statement = (
+            select(model.Module, model.Risk, model.ActionPlan)
             .select_from(model.Module)
-            .filter(
+            .where(
                 sql.and_(
                     model.Module.session == self.session,
                     model.Module.profile_index > -1,
                 )
             )
-            .filter(sql.not_(model.SKIPPED_PARENTS))
-            .filter(
+            .where(sql.not_(model.SKIPPED_PARENTS))
+            .where(
                 sql.or_(
                     model.MODULE_WITH_RISK_OR_TOP5_FILTER,
                     model.RISK_PRESENT_OR_TOP5_FILTER,
@@ -118,15 +118,13 @@ class MeasuresOverview(session.MeasuresOverview):
             .join(model.Risk, model.Risk.parent_id == model.Module.id)
             .join(model.ActionPlan, model.ActionPlan.risk_id == model.Risk.id)
             .order_by(
-                sql.case(
-                    value=model.Risk.priority, whens={"high": 0, "medium": 1}, else_=2
-                ),
+                sql.case({"high": 0, "medium": 1}, value=model.Risk.priority, else_=2),
                 model.Risk.path,
             )
         )
         measures = [
             t
-            for t in query.all()
+            for t in Session.execute(statement).all()
             if (
                 (
                     (

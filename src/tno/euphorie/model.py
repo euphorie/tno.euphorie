@@ -18,7 +18,7 @@ class OdLink(BaseObject):
         schema.ForeignKey("session.id", onupdate="CASCADE", ondelete="CASCADE"),
         nullable=False,
     )
-    session = orm.relation(
+    session = orm.relationship(
         "SurveySession", backref=orm.backref("od_link", uselist=False)
     )
     vestigings_sleutel = schema.Column(types.String(), nullable=False, index=True)
@@ -42,7 +42,7 @@ class DutchCompany(BaseObject):
         nullable=False,
         index=True,
     )
-    session = orm.relation(
+    session = orm.relationship(
         SurveySession,
         backref=orm.backref(
             "dutch_company",
@@ -76,12 +76,7 @@ class DutchCompany(BaseObject):
 _instrumented = False
 if not _instrumented:
     from euphorie.client import model
-    from sqlalchemy.ext import declarative
 
-    declarative.instrument_declarative(
-        DutchCompany, model.metadata._decl_registry, model.metadata
-    )
-    declarative.instrument_declarative(
-        OdLink, model.metadata._decl_registry, model.metadata
-    )
+    model.mapper_registry.map_declaratively(DutchCompany)
+    model.mapper_registry.map_declaratively(OdLink)
     _instrumented = True

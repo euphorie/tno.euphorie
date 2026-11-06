@@ -1,10 +1,11 @@
 Changelog
 =========
 
-13.0.1 (unreleased)
+14.0.0 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- Support SQLAlchemy 2.1.
+  [ale-rt]
 
 
 13.0.0 (2026-11-03)
